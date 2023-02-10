@@ -114,3 +114,108 @@ The following is the snapshot of our achievements in IP and CCA areas. 
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-va4t{background-color:#FFF;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-dgl5" rowspan="3">Coding</td>
+    <td class="tg-dgl5">CODE-X Challenge 2022<br><br>Runner-up:<br>- Ng Yong Teck (3R4),<br>- Tan Yu Xian (4R4)<br>- Eugene Poh Guan Lin (4R4)<br>- Advait Krishna (4R4)<br> - Justin Ng Jun Yi (4R4)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Amazon Web Services (AWS) Accelerator Programme<br><br>- Kalanke Ved, Sim Yi Sian (4R4)<br>- Trivedi Prakhar Nilesh (4R4)<br><br><span style="color:#000">Developed an APP titled “</span>Combustifier<span style="color:#000">”</span><br><span style="color:#000">which uses Machine Learning, Augmented Reality and Artificial Intelligence to determine if an object is combustible and whether the corridor of an HDB block has ample space for evacuation of the residents</span></td>
+  </tr>
+  <tr>
+    <td class="tg-va4t">Technopreneur Programme<br>2023 Sentinel SHIELD award recipients:<br><br>- Neo Jin Hwee Ashton (3R4)<br>- Ng Yong Teck (3R4)<br>- Ang Yi Heng Xaviour (2C2)<br><br><br>Sentinel Challenge - 2nd Runner-up<br><br>- Enzo Yap Qi Xuan (3R4)<br>- Lye Hong Ann (3R4)<br>- Chew Ji Yu Kyan (3R4)<br><br>Young Founder's Summit - Semi-finalist team<br><br>- Eleanor Kuek Xuan Yu (1C3)<br>- Declan Gabriel Tan Jiale (1C3)<br>- Kuppa Venkata Manish Gupta (1C3)</td>
+  </tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-dgl5">Humanities</td>
+    <td class="tg-dgl5">Selected for MOE Geography Talent Development Programme<br><br><span style="background-color:initial">- Dolot Shine Mikaela Maminta (4R5)</span></td>
+  </tr>
+</thead>
+</table>
+
+<h3>Achievements of Sports CCAs</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Badminton</th>
+    <th class="tg-dgl5">East Zone Inter-School Badminton Championships 2022<br><span style="background-color:initial">B Boys : 3rd</span><br><span style="background-color:initial">C Boys: 3rd</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5" rowspan="2">Wushu</td>
+    <td class="tg-dgl5">National Inter-School Wushu Championships 2022<br>B Boys 1st International Broadsword 新竞赛刀<br><br><span style="background-color:initial">- 3rd</span> <span style="background-color:initial">– Ryan Lee (3R1)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Sportsmanship Award in  Wushu Championship 2021<br><br><span style="background-color:initial">- Devni Chamodya Kaluarachchi (4R2)</span><br><span style="background-color:initial">- Rachel Lee Jia Hui (3C1)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" rowspan="4">Volleyball</td>
+    <td class="tg-dgl5">East Zone Inter-School Volleyball Championships 2022<br><span style="color:#000">B Girls : 4</span>th</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">National School Games Sportsmanship Award in Volleyball Championships 2022<br><span style="background-color:initial">- Dianah Hanis Binte Zulkarnain, (4C2)</span><br>- Achugbu Rosemary Callista, (4I1)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">East Zone Inter-School Volleyball Championships 2022<br><span style="color:#000">C Girls: 1st place</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">National Inter-School Volleyball Championships 2022<br><span style="color:#000">C Girls: Quarter-finalists</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Basketball</td>
+    <td class="tg-dgl5">East Zone Inter-School Basketball Championships 2022<br><span style="color:#000">B Girls : 4</span>th</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Swimming</td>
+    <td class="tg-dgl5">National Swimming Championships 2022<br><span style="color:#000">B Girls</span><br><br><span style="background-color:initial">- Twila Chan (4C3), 4th</span> <span style="background-color:initial">in 100m &amp; 200m</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Stand-Up Paddle-Boarding</td>
+    <td class="tg-dgl5">Stand-Up Paddling Sprint Race 2022<br>U14 Category<br><br><span style="background-color:initial">- Tristan Tan Yu Jun (1R1), 4th</span> <span style="background-color:initial">in 250m, 500m &amp; 1000m</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" rowspan="2">Outdoor Adventure</td>
+    <td class="tg-dgl5">National Orienteering Race by Northbrooks Sec Sch + Orienteering Federation Singapore<br>B Div Boys: 5th place<br><span style="background-color:initial">- Amad Zuhairie Bin Salehudin (3C2)</span><br><span style="background-color:initial">- Shahirah Binte Roseli (3I1)</span><br><span style="background-color:initial">- Foo Shi Han (3R2)</span><br><span style="background-color:initial">- Li Hao Zhen (3R3)</span><br>- Harikesh Vinod Dialani (3R4)<br><br>C Div Girls: 5th place<br><span style="background-color:initial">- Valerie Chew Yue Ying (1I1)</span><br><span style="background-color:initial">- Sevilleja Gabrielle Lexia Dumaraos (1R2)</span><br><span style="background-color:initial">- Sheryl Ong Jing Xin (2C1)</span><br>- Choo Zhi Yu, Renee (2R3)</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">The GARanG Race(A national level competition on outdoor education)<br>All-Mixed Category: 1st place</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Others<br> <br> <br> </td>
+    <td class="tg-dgl5">2022 Singapore Olympic Foundation – Peter Lim Scholarship Encouragement Awards<br><span style="background-color:initial">- Hana Syafinah Binte Mohamed Ali (4R1)</span><br><span style="background-color:initial">- Tan Xin Yi (4R3)</span><br>- Muhammad Siddiq Bin Samuwei (5C1)</td>
+  </tr>
+</tbody>
+</table>
