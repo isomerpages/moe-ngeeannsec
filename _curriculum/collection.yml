@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Educational Technology in NAS/Educational Technology in NAS.md
       - Educational Technology in NAS/.keep
       - Total Curriculum Framework (TCF).md
