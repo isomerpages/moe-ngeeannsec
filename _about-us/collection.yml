@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Financial Statements.md
       - School Safety/.keep
       - School Safety/Emergency Evacuation Procedures.md
       - School Safety/Road Safety.md
