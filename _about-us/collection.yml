@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Directory/Executive & Administrative Staff.md
-      - Staff Directory/Teachers by Form Class.md
-      - Staff Directory/Teachers by Department.md
-      - Staff Directory/Staff Directory.md
       - Staff Directory/.keep
+      - Staff Directory/Staff Directory.md
+      - Staff Directory/Teachers by Department.md
+      - Staff Directory/Teachers by Form Class.md
+      - Staff Directory/Executive & Administrative Staff.md
       - Organization Chart.md
       - Principal's Message.md
       - Mission and Vision.md
