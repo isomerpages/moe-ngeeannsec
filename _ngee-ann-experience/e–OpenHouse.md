@@ -24,3 +24,23 @@ Can’t visit us on this date? Fret not! We will bring NAS to you via our e-Open
 Explore NAS, our signature stretch programmes, our student development and leadership programmes, our facilities and what makes us NAS.
 
 Hop on the Virtual School Tour to experience the campus!
+
+<hr><hr>
+
+### Explore NAS
+
+<a href="https://www.w3schools.com">
+<img src="/images/button1.png" alt="curriculum" style="width:50%">
+</a>
+
+<a href="https://www.w3schools.com">
+<img src="/images/button2.png" alt="curriculum" style="width:50%">
+</a>
+
+<a href="https://www.w3schools.com">
+<img src="/images/button3.png" alt="curriculum" style="width:50%">
+</a>
+
+<a href="https://www.w3schools.com">
+<img src="/images/button4.png" alt="curriculum" style="width:50%">
+</a>
