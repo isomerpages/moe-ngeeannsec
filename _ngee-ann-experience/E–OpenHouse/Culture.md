@@ -24,3 +24,12 @@ Find out more about our  **[Parents' Support Group(PSG)](/links-for-parents/pa
 
   
 <hr><hr>
+
+### Say Hi to our NAS Staff
+
+**Meet the Family who _supports and challenges_ NASians to nurture them into Future-Ready Learners and Forward-Looking Leaders.**
+
+<img src="/images/Staff.png" 
+     style="width:70%">
+		 
+Find out more about staff achievement at [Achievements and Accolades](/about-us/achievements-and-accolades).
