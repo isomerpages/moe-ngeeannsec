@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Safety/Sports Safety.md
       - School Safety/Safety in Special Rooms.md
       - School Safety/Road Safety.md
       - School Safety/Emergency Evacuation Procedures.md
