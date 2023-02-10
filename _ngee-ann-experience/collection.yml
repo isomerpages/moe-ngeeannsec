@@ -2,6 +2,7 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - Young Academy @ NAS.md
       - Enhanced Art Programme.md
       - SPARKS.md
       - CHAMPS.md
