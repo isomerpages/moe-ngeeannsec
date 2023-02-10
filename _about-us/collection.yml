@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Safety/Sports Safety.md
-      - School Safety/Safety in Special Rooms.md
-      - School Safety/Road Safety.md
-      - School Safety/Emergency Evacuation Procedures.md
       - School Safety/.keep
+      - School Safety/Emergency Evacuation Procedures.md
+      - School Safety/Road Safety.md
+      - School Safety/Safety in Special Rooms.md
+      - School Safety/Sports Safety.md
       - Achievements and Accolades.md
       - Message from the 23rd Student Council President.md
       - Staff Directory/.keep
