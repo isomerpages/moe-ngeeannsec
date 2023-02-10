@@ -2,6 +2,7 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - E–OpenHouse/Culture.md
       - E–OpenHouse/Co–Curriculum.md
       - E–OpenHouse/Curriculum.md
       - E–OpenHouse/e–OpenHouse.md
