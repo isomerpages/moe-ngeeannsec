@@ -258,3 +258,143 @@ The following is the snapshot of our achievements in IP and CCA areas. 
   </tr>
 </tbody>
 </table>
+
+<h3>Achievements of Aesthetics & Clubs</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Concert Band</th>
+    <th class="tg-dgl5">Public Performance<br><span style="background-color:initial">- Esplanade Red Dot August: Theatres by the Bay</span><br>- Jewel at Changi Airport<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">International Dance</td>
+    <td class="tg-dgl5">Public Performance<br><br><span style="background-color:initial">- Super 24 Showcase at Our Tampines Hub</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" rowspan="2">Art Club</td>
+    <td class="tg-dgl5">Singapore Youth Festival 2022 Art Exhibition<br>Certificate of Recognition:<br><span style="background-color:initial">- Loh Ying Shan, Sharlene (3C2)</span><br><span style="background-color:initial">- Mohamed Akif Bin Mohamed Redzuan (3C2)</span><br><span style="background-color:initial">- Low Ying Thong, Yitro (3C2)</span><br><span style="background-color:initial">- Nayli Auni Binte Muhammad Khairul (3C2)</span><br>- Yeo Jun Wei, Keane (3C2)</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="color:#222">MTC Design For Good Youth Competition 2022</span><br><span style="color:#222">Commendation</span><br><br><span style="color:#222;background-color:initial">- Khoo Ying Ru Charisse</span> <span style="color:#222;background-color:initial">(3C2)</span><br><br><span style="color:#222"> </span><br><span style="color:#222">Our Tampines Hub (OTH) National Day On the Spot Art Competition 2022</span><br><span style="color:#222">Category B Winner:</span><br><br><span style="color:#222;background-color:initial">- Lim Si Qi Sophie</span> (2R1)<br><br><span style="color:#222"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" rowspan="5">International Chess<br> </td>
+    <td class="tg-dgl5">73rd National School Individual Chess Championship 2022<br>U14 (Boys)<br><span style="background-color:initial">- Esguerra Sean Nathan Albus Policarpio (2R2), East Zone 2nd, National 12th</span><br><span style="background-color:initial">- Sakhamuri Meheer Karthikeya Pavan (2R2), East Zone 7th</span> <span style="background-color:initial">(merit medal)</span><br>- Ryan Lee Kun Long (2R1), East Zone 9th (merit medal)<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">73rd National School Individual Chess Championship 2022<br>U14 (Girls), East Zone 3rd<br><br><span style="background-color:initial">- Katherine Sophie Sugiharto (1C2)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">73rd National School Individual Chess Championship 2022<br>U16 (Boys), East Zone 9th (merit medal)<br><br><span style="background-color:initial">- Aadvik Mohta (3R5)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">73rd National School Individual Chess Championship 2022<br>U16 (Girls) East Zone 4th (merit medal)<br><br><span style="background-color:initial">- Koh Keira (4R4)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">63rd National Inter-School Chess Championship 2022<br>U14 (Boys): East Zone 1st place<br><br><span style="background-color:initial">- GUO YUXUAN (2R1)</span><br><span style="background-color:initial">- LIM QI XUN (2R3)</span><br><span style="background-color:initial">- MUHAMMAD IRFAN BIN SUFIAN (1R2)</span><br><span style="background-color:initial">- TORRES WU LOK HUNG (2R1)</span><br><br><br><br>U16 (Boys): East Zone 3rd place<br><br><span style="background-color:initial">- AADVIK MOHTA (3R5)</span><br><span style="background-color:initial">- GUPTA DHAIRYA (3R5)</span><br><span style="background-color:initial">- NG YONG TEE (3R4)</span><br><span style="background-color:initial">- YAP DONG XU, BRYAN (3R5)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" rowspan="3">Robotics</td>
+    <td class="tg-dgl5">Code Builder Competition by NULL SPACE<br><br><span style="background-color:initial">- Bryan Yong Jing Heng (2R4) - 2nd</span> <span style="background-color:initial">Place</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">MINT Masters Competition by Annette-Gymnasium Münster MINT-EC School<br>1st Place<br><br><span style="background-color:initial">- Sopheap Chanoudam (3R4)</span><br><span style="background-color:initial">- Lye Hong Ann (3R4)</span><br><span style="background-color:initial">- Enzo Yap Qi Xuan (3R4)</span><br><br>NB: MINT-EC is the German National Excellence Network of Upper Secondary Schools with a distinctive profile in Mathematics, Computer Science (Informatik), Science (Naturwissenschaft) and Technology (STEM).</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">National StrITwise® Challenge by Ngee Ann Poly School of Infocomm Technology<br>2nd Place<br><br><span style="background-color:initial">- SOPHEAP CHANOUDAM (3R4)</span><br><span style="background-color:initial">- HARIKESH VINOD DIALANI (3R4)</span><br><span style="background-color:initial">- ENZO YAP QI XUAN (3R4)</span><br><span style="background-color:initial">- KOH JUN KAI, XANDE (3R4)</span></td>
+  </tr>
+</tbody>
+</table>
+
+<h3>School & Staff Accolades</h3>
+
+**Singapore Environment Council-StarHub School Green Awards 2021**  
+
+*   Yellow Flame Award
+
+  
+
+**MOE Innergy (Schools) Awards Teaching & Learning Category**  
+Project Title: Cyberwellness@NASS  
+
+*   Bronze Award
+
+  
+**2020 MOE Innergy Awards**  
+  
+Our heartiest congratulations to our NAS staff who have been affirmed for their innovation with the 2020 MOE Innergy Awards!
+
+<img src="/images/staff%20achievements%201.png" style="width:60%">
+<img src="/images/staff%20achievements%202.png" style="width:60%">
+<img src="/images/staff%20achievements%203.png" style="width:60%">
+<img src="/images/staff%20achievements%204.png" style="width:60%">
+
+**The Caring Teacher Awards 2022 given by National Institute of Education**
+
+*   Ms Bernice Thong Jia Man
+*   Ms Kimberly Ng Mun Puay
+*   Ms Nur Syifaa’ binti Hussin
+*   Ms Nur Azlyna bte Mohamed Tahir
+*   Ms Azean binte Khamis
+
+  
+
+**National Day Award** **Long Service Medal**
+
+*   Ms Lee Chin Li
+*   Ms Ming Fong Yee
+*   Ms Lynda Toh
+*   Mr Zainal Bin Buang
+
+  
+
+**National Day Award** **Commendation Medal**
+
+*   Mr Neo Guangxian
+
+  
+
+**Designer Badge, MOE Educational Technology Division**  
+
+*   Mr Muhamad Zahirrudin Mohamad Ayub
+*   Malay Language Unit, Mother Tongue Dept.
+
+  
+
+**MOE Service Excellence Award**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="color:inherit;background-color:transparent">Gold</span></th>
+    <th class="tg-1wig"><span style="color:inherit;background-color:transparent">Silver</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="color:inherit;background-color:transparent">- Mr Abu Bakar Bin Farid </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Ananurmelati Bte Abdul Rahman </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Ashikin Bte Abdul Ra'uuf </span><br><br><span style="color:inherit;background-color:transparent">- Ms Choo Hwee Nee </span><br><br><span style="color:inherit;background-color:transparent">- Ms Khairunnisa Mohamed Hussain </span><br><br><span style="color:inherit;background-color:transparent">- Ms. Li Jianmin </span><br><br><span style="color:inherit;background-color:transparent">- Mrs Lai-Ng Kee Yah Theresa </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Noor Azean Binte Khamis </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Nora Bte Osman </span><br><br><span style="color:inherit;background-color:transparent">- Ms Yeoh Geok Faye</span><br><br></td>
+    <td class="tg-0lax"><br>- Mr Chen Jingyuan Alvin<br><br>- Mdm Connie Chua Piak Eng<br><br>- Mdm Devi D/O Lokanathan<br><br>- Mdm Farhana Bte Mohamad Noor<br><br>- Mr Kang Guan Wei<br><br>- Mr Khaizar Khuzema Shakir<br><br>- Mr Khor Teng Chih<br><br>- Ms Liu Shimin Jasmine<br><br>- Mr Mohammed Hazmi Bin Hasni<br><br>- Mr Muhammad Nazmi Nasir<br><br>- Mdm Muneira Bte Daud<br><br>- Mr Neo Guang Xian<br><br>- Mdm Nur Syazana Shahul Hameed<br><br>- Mdm Ramni Binti Ismail<br><br>-Mdm Yee See Ling<br><br>- Mdm Yeo Lay Wah</td>
+  </tr>
+</tbody>
+</table>
