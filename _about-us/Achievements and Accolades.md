@@ -74,3 +74,43 @@ The following is the snapshot of our achievements in IP and CCA areas. 
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-dgl5">English Language &amp; Literature</td>
+    <td class="tg-dgl5">The Queen’s Commonwealth English Essay Competition 2022<br><br>- Nurul Sarafyna Binti Nordin (4R3), Gold<br>- Tan Ming Liang (3R4), Gold<br>- Nathaniel Manguera (3R4), Gold<br>- Srujan Gangisetti (3R5), Silver<br>- Shanika Perera (2R1), Silver<br>- Sean Nathan Albas Esguerra (2R2), Silver<br>- Austin Biasbias Doctor (2R2), Silver<br>- Lea Lim (2C3), Silver<br>- Brosnan Teo (4R4), Bronze<br>- Charlotte Poh (3C3), Bronze<br>- Ong Rui En (2R3), Bronze</td>
+  </tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-dgl5" rowspan="3">Enhanced Art Programme</td>
+    <td class="tg-dgl5">ViaRT 2021 Award (Recycle Art Competition) by VIANT Commodities and Y Art Project<br>The Most Artistic Award<br><br>- Karina Gabriela Bukit (4R2), First Prize<br><br>National Finalists (Top 10)<br>- Jodi Chew Yen Tong (3R4), National Finalists (Top 10)<br>- Julia Qistina Putri Joenis (3C2), National Finalists (Top 10)<br>- Khoo Ying Ru Charisse (3C2), National Finalists (Top 10)<br>- Yu Leting (3R5), National Finalists (Top 10)<br>- Keane Yeo Jun Wei (3c2), National Finalists (Top 10)<br><br>The Best Story Award<br><br>- Mohamed Akif Bin Mohd Redzuan (3C2), National Finalists<br>- Ambrea Tan (3R1), National Finalists<br><br>You Made a Difference Award<br><br>- Lee Ying En Verlynn (4R2), National Finalists<br>- Loh Ying Shan Sharlene (3C2), National Finalists<br>- Huang Yi Dan (3R1), National Finalists<br>- Nguyen Lam Melissa (4C2), National Finalists<br>- Yeo Wei Zhen (4C2), National Finalists<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Live On Festival 2022 Design Competition by Ministry of Health (MOH)<br><br>- Loh Ying Shan, Sharlene (3C2), Distinction<br>- Huang Yi Dan (3R1), Merit<br>- Yeo Jun Wei, Keane (3C2), Merit<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">'This Little Red Dot...' Illustration Competition by Singapore Art Museum (SAM)<br><br>- Loh Ying Shan, Sharlene (3C2), Open Category Winner</td>
+  </tr>
+</thead>
+</table>
