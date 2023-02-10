@@ -2,6 +2,7 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - E–OpenHouse/.keep
       - e–OpenHouse.md
       - Outdoor Education.md
       - Aesthetics Appreciation @ NAS.md
