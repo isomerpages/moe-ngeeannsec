@@ -219,3 +219,42 @@ The following is the snapshot of our achievements in IP and CCA areas. 
   </tr>
 </tbody>
 </table>
+
+<h3>Achievements of Uniformed Groups</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5" rowspan="2">National Police Cadet Corps (NPCC)</th>
+    <th class="tg-dgl5">Unit Overall Proficiency Award 2021<br><br><span style="background-color:initial">- Gold</span><br></th>
+  </tr>
+  <tr>
+    <th class="tg-dgl5">SPF-NPCC Badge Awardee (Highest individual award available)<br><span style="background-color:initial">- Mohamed Izz Danish Bin Mohamed Nasir (4C3)</span><br>- Sumitra Sunil Garse (4R1)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5" rowspan="2">NCC</td>
+    <td class="tg-dgl5">Unit Recognisation 2021<br><br><span style="background-color:initial">- Distinction</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Outstanding Cadet Award<br><br><span style="background-color:initial">- Jonathan Teng Jia Jun (4C1)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Scouts</td>
+    <td class="tg-dgl5">The Chief Commissioner’s Award<br><span style="background-color:initial">- Abdul Hakeem Bin Anwarul Haq (4R4)</span><br>- Ong Huai Xu (4R5)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Girl Guides</td>
+    <td class="tg-dgl5">Puan Noor Aishah Award Year 2021<br><br><span style="background-color:initial">- Bronze</span></td>
+  </tr>
+</tbody>
+</table>
