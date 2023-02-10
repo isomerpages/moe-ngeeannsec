@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - School Calendar.md
       - Financial Statements.md
       - School Safety/.keep
