@@ -2,6 +2,7 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - E–OpenHouse/Curriculum.md
       - E–OpenHouse/e–OpenHouse.md
       - E–OpenHouse/.keep
       - Outdoor Education.md
