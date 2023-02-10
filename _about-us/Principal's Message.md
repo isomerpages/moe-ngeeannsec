@@ -38,7 +38,7 @@ Wishing one and all a very blessed, exciting and fulfilling 2023!
 
 _Teo Kok Hong_
 
-Principal  
+Principal  <br>
 Ngee Ann Secondary School
 
 Click [here](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf) to find out more about NASS’ philosophy and brand of education.
