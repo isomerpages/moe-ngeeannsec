@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Teachers by Department.md
       - Staff Directory/Staff Directory.md
       - Staff Directory/.keep
       - Organization Chart.md
