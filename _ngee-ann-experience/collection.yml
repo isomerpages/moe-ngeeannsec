@@ -2,6 +2,7 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - Aesthetics Appreciation @ NAS.md
       - Interdisciplinary Project Work (IPW).md
       - Young Academy @ NAS.md
       - Enhanced Art Programme.md
