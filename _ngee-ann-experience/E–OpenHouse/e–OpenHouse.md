@@ -4,7 +4,6 @@ permalink: /ngee-ann-experience/e-openhouse/
 description: ""
 third_nav_title: E–OpenHouse
 ---
-
 ![](/images/OpenHouse2020_FINAL.png)
 
 ### School Leaders' Message
@@ -31,18 +30,18 @@ Hop on the Virtual School Tour to experience the campus!
 
 ### Explore NAS
 
-<a href="https://www.w3schools.com">
+<a href="/ngee-ann-experience/e-openhouse/curriculum">
 <img src="/images/button1.png" alt="curriculum" style="width:50%">
 </a>
-
-<a href="https://www.w3schools.com">
+<br>
+<a href="/ngee-ann-experience/e-openhouse/co-curriculum">
 <img src="/images/button2.png" alt="curriculum" style="width:50%">
 </a>
-
-<a href="https://www.w3schools.com">
+<br>
+<a href="/ngee-ann-experience/e-openhouse/culture">
 <img src="/images/button3.png" alt="curriculum" style="width:50%">
 </a>
-
-<a href="https://www.w3schools.com">
+<br>
+<a href="/ngee-ann-experience/e-openhouse/facilities">
 <img src="/images/button4.png" alt="curriculum" style="width:50%">
 </a>
