@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Executive & Administrative Staff.md
       - Staff Directory/Teachers by Form Class.md
       - Staff Directory/Teachers by Department.md
       - Staff Directory/Staff Directory.md
