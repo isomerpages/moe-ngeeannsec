@@ -4,26 +4,24 @@ permalink: /curriculum/educational-technology-in-nas/
 description: ""
 third_nav_title: Educational Technology in NAS
 ---
-_"We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."_ ~ David Warlick  
+_"We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."_&nbsp;~ David Warlick  
   
 
-Ngee Ann Secondary. Through teaching and learning in an ICT enriched environment, we aim to:   
+Ngee Ann Secondary. Through teaching and learning in an ICT&nbsp;enriched environment, we aim to:&nbsp;  
 
 
-1. Develop **Future Ready NASians** through providing to acquire 21st Century Competencies,  
-2. Develop **Computational Thinkers** with a disposition for creating technology to contribute actively to society, and  
-3. Educate digital citizens that are **Responsible Digital Learners** through inculcating Cyber Wellness.
+1. Develop&nbsp;**Future Ready NASians**&nbsp;through providing to acquire 21st Century Competencies,  
+2. Develop&nbsp;**Computational Thinkers**&nbsp;with a disposition for creating technology to contribute actively to society, and  
+3. Educate digital citizens that are&nbsp;**Responsible Digital Learners**&nbsp;through inculcating Cyber Wellness.
 
-<img src="/images/Ed%20Tech%20diagram.png" 
-     style="width:40%">
+<img style="width:40%" src="/images/Ed%20Tech%20diagram.png">
 
 
-This is aligned to the school’s mission of Expanding Minds, 
+This is aligned to the school’s mission of Expanding Minds,&nbsp;
 
 Building Character and Shaping Lives, as illustrated in Fig 1:
 
-<img src="/images/Ed%20Tech%20diagram%202.png" 
-     style="width:60%">
+<img style="width:60%" src="/images/Ed%20Tech%20diagram%202.png">
 		 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -62,3 +60,5 @@ Building Character and Shaping Lives, as illustrated in Fig 1:
 </table>
 
 Throughout your 4 years in Ngee Ann Secondary, you can expect to undergo challenges that stretch and prepare you with a variety of skills to cope with a Volatile, Uncertain, Complex and Ambigious future. Programmes are also planned to expose you to a variety of opportunities to acquire Computational Thinking so that you would be able to translate real life problems into problems solvable by a computer. Lastly, we aim to inculcate in you a moral compass to respect others over the internet, and empower you to advocate Cyber Wellness to fellow peers and set a positive example for all to follow.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRX59UqHkApg9R-ZIjB09QudQXfZgq-WnbH2c91dRO_n9y3dHsowpwPupBPLr9JTFYtTa9YZCkXuiFT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
