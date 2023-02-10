@@ -2,4 +2,5 @@ collections:
   ngee-ann-experience:
     output: true
     order:
+      - CHAMPS.md
       - Ngee Ann Experience.md
