@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organization Chart.md
       - Principal's Message.md
       - Mission and Vision.md
       - School Background & History.md
