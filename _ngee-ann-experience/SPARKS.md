@@ -46,3 +46,18 @@ It comprises Scientific Critical Thinking, Drones and Science Research. Training
 
 <center>*students who did not score at least an AL 2 in Sci  <br>
 ** students who did not score at least an AL 2 in MA</center>
+
+Generally, students who are among the top quartile of the Express cohort by the PSLE subject ranked lists for Mathematics and Science will be eligible for the SPARKS programme.  
+  
+SPARKS students may continue to be eligible for the Sec 2 SPARKS programme based on their math and science results, attendance and degree of participation during the Sec 1 SPARKS programmes. New students may also enrol at the end of Sec 1 for the Sec 2 SPARKS programme, in part or whole, based on their results and/or teachers’ recommendations of their aptitude and passion.  
+  
+
+### Teachers-in-charge
+
+Ms Alice Chua <br>
+Ms Patricia Goh <br>
+Mr Neo Guang Xian
+
+  
+
+If you would like to learn more about this programme, please email your enquiries to nass@moe.edu.sg. Alternatively, you may call the school at 67844583 to speak to the teachers-in-charge.
