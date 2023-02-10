@@ -2,12 +2,12 @@ collections:
   ngee-ann-experience:
     output: true
     order:
-      - E–OpenHouse/Facilities.md
-      - E–OpenHouse/Culture.md
-      - E–OpenHouse/Co–Curriculum.md
-      - E–OpenHouse/Curriculum.md
-      - E–OpenHouse/e–OpenHouse.md
       - E–OpenHouse/.keep
+      - E–OpenHouse/e–OpenHouse.md
+      - E–OpenHouse/Curriculum.md
+      - E–OpenHouse/Co–Curriculum.md
+      - E–OpenHouse/Culture.md
+      - E–OpenHouse/Facilities.md
       - Outdoor Education.md
       - Aesthetics Appreciation @ NAS.md
       - Interdisciplinary Project Work (IPW).md
