@@ -2,23 +2,23 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - School Calendar.md
-      - Financial Statements.md
-      - School Safety/.keep
-      - School Safety/Emergency Evacuation Procedures.md
-      - School Safety/Road Safety.md
-      - School Safety/Safety in Special Rooms.md
-      - School Safety/Sports Safety.md
-      - Achievements and Accolades.md
-      - Message from the 23rd Student Council President.md
+      - About Us.md
+      - School Background & History.md
+      - Mission and Vision.md
+      - Principal's Message.md
+      - Organization Chart.md
       - Staff Directory/.keep
       - Staff Directory/Staff Directory.md
       - Staff Directory/Teachers by Department.md
       - Staff Directory/Teachers by Form Class.md
       - Staff Directory/Executive & Administrative Staff.md
-      - Organization Chart.md
-      - Principal's Message.md
-      - Mission and Vision.md
-      - School Background & History.md
-      - About Us.md
+      - Message from the 23rd Student Council President.md
+      - Achievements and Accolades.md
+      - School Safety/.keep
+      - School Safety/Emergency Evacuation Procedures.md
+      - School Safety/Road Safety.md
+      - School Safety/Safety in Special Rooms.md
+      - School Safety/Sports Safety.md
+      - Financial Statements.md
+      - School Calendar.md
+      - Contact Us.md
