@@ -30,3 +30,12 @@ Thank you.
 * [Administrative Matters](/links-for-parents/sec-1-posting-for-2023/administrative-matters)
 * [School Matters](/links-for-parents/sec-1-posting-for-2023/school-matters)
 * [Parent Engagement](/links-for-parents/sec-1-posting-for-2023/parent-engagement)
+
+### Appeal for Transfer to Ngee Ann Sec
+
+Parents/Guardians of students who wish to appeal for a transfer to Ngee Ann Secondary School for the Secondary 1 (2023 Intake) should **[click here](https://form.gov.sg/#!/5fc879e38bdc81001188fe82)** to fill out an online form.
+
+Your appeal should be submitted via this online form by Wednesday 28 December 2022 (5pm).
+
+<img src="/images/AppealQR.png" 
+     style="width:60%">
