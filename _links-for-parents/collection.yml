@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - Family Matters @ School Programmes.md
       - Parents Gateway.md
       - Parents Support Group (PSG).md
       - Sec 1 Posting for 2023/.keep
