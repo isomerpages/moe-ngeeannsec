@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Parents Engagements/.keep
       - School Matters/.keep
       - School Matters/School Operations.md
       - School Matters/Sec 1 Orientation Programme.md
