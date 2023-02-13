@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - School Matters/.keep
       - Sec 1 Registration Briefing/.keep
       - "Sec 1 Registration Briefing/Step 1: Enable Push Notifications for
         Parents Gateway (PG).md"
