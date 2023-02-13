@@ -2,6 +2,13 @@ collections:
   links:
     output: true
     order:
+      - Sec 1 Registration Briefing/.keep
+      - "Sec 1 Registration Briefing/Step 1: Enable Push Notifications for
+        Parents Gateway (PG).md"
+      - "Sec 1 Registration Briefing/Step 2: Receive Sec 1 Registration
+        Documents via PG.md"
+      - "Sec 1 Registration Briefing/Step 3: Attend Sec 1 Registration Briefing
+        via Zoom.md"
       - Administrative Matters/.keep
       - Administrative Matters/Individual Student Details Report (ISDR).md
       - Administrative Matters/Purchase Sec 1 Textbooks & School Uniforms.md
@@ -10,10 +17,3 @@ collections:
         Precautions.md
       - Administrative Matters/School Health & Dental Visits.md
       - Administrative Matters/School Smart Card for Concession Travel (SSC).md
-      - Sec 1 Registration Briefing/.keep
-      - "Sec 1 Registration Briefing/Step 1: Enable Push Notifications for
-        Parents Gateway (PG).md"
-      - "Sec 1 Registration Briefing/Step 2: Receive Sec 1 Registration
-        Documents via PG.md"
-      - "Sec 1 Registration Briefing/Step 3: Attend Sec 1 Registration Briefing
-        via Zoom.md"
