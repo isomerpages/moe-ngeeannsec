@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - School Matters/Sec 1 Orientation Programme.md
-      - School Matters/School Operations.md
       - School Matters/.keep
+      - School Matters/School Operations.md
+      - School Matters/Sec 1 Orientation Programme.md
       - Sec 1 Registration Briefing/.keep
       - "Sec 1 Registration Briefing/Step 1: Enable Push Notifications for
         Parents Gateway (PG).md"
