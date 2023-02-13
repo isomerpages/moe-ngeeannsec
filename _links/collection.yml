@@ -2,6 +2,8 @@ collections:
   links:
     output: true
     order:
+      - Administrative Matters/Special Educational Needs (SEN) or Special
+        Precautions.md
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/Purchase Sec 1 Textbooks & School Uniforms.md
       - Administrative Matters/Individual Student Details Report (ISDR).md
