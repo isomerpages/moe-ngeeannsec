@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - Direct School Admission (DSA) Exercise 2022.md
       - Support for Home–based Learning.md
       - Family Matters @ School Programmes.md
       - Parents Gateway.md
