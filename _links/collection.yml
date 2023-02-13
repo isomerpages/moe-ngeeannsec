@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Administrative Matters/School Smart Card for Concession Travel (SSC).md
       - Administrative Matters/School Health & Dental Visits.md
       - Administrative Matters/Special Educational Needs (SEN) or Special
         Precautions.md
