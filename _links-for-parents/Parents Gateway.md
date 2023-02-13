@@ -36,3 +36,21 @@ d.      Enable ‘**Allow Notifications’** to receive push notification
 **Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or later**
 
 ##### Step 3 – One-Time On-boarding
+
+<img src="/images/step%203%20-%201.png" 
+     style="width:60%">
+		 
+<img src="/images/step%203%20-%202.png" 
+     style="width:60%">
+		 
+<img src="/images/step%203%20-%203.png" 
+     style="width:60%">
+		 
+<img src="/images/step%203%20-%204.png" 
+     style="width:60%">
+		 
+<img src="/images/step%203%20-%205.png" 
+     style="width:60%">
+		 
+<img src="/images/step%203%20-%206.jpg" 
+     style="width:60%">
