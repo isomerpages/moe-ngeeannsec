@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Parents Engagement/Sec 1 Total Curriculum Briefing.md
       - Parents Engagement/.keep
       - School Matters/.keep
       - School Matters/School Operations.md
