@@ -17,4 +17,4 @@ third_nav_title: Administrative Matters
 *   **Representative’s original NRIC/passport**&nbsp;(if someone else is collecting for you)
 
 *   When students’ Primary level SSCs expire in end April 2023, they cannot be refunded immediately. TransitLink will issue a receipt for any applicable refund, which can be collected at any TransitLink Ticket Office after five working days. The refund of the Primary level SSC is not allowed while the concession is still valid.
-*   For more detailed information on School Smart Cards (SSCs), please refer to this&nbsp;Transitlink webpage -&nbsp;[https://www.transitlink.com.sg/school-smartcard-non-moe-school-smartcard/](about:blank)
+*   For more detailed information on School Smart Cards (SSCs), please refer to this&nbsp;Transitlink webpage - [https://www.transitlink.com.sg/school-smartcard-non-moe-school-smartcard/](https://www.transitlink.com.sg/school-smartcard-non-moe-school-smartcard/)
