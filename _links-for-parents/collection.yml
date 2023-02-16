@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - Personal Learning Devices (PLD).md
       - AdminBreeze Portal.md
       - Release of 2022 GCE N–Level Examination Results.md
       - Release of 2022 GCE O–Level Examination Results.md
