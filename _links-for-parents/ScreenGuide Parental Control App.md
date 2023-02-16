@@ -30,8 +30,25 @@ Detailed instructions can be found in this [Video](https://www.youtube.com/watch
 </thead>
 </table>
 
+### ScreenGuide Tutorials
 
-		 
+Full Playlist:  https://www.youtube.com/playlist?list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N
+
+<h4><center>Hide Apps</center></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-IV_NdkI2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4><center>Web Filter</center></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kwK49124dts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4><center>Timeout</center></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9AY4eB_aWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4><center>Screentime</center></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fC1TnaMfI-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
