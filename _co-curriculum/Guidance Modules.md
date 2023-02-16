@@ -23,3 +23,16 @@ III. Inculcate an appreciation for the value of all occupations and how they con
   
 
 ### ECG@NAS
+
+<img style="width:60%" src="/images/download-1.png">
+
+### Education & Career Guidance  Counselling @ NAS
+
+Our ECG Counsellor, Mr Mohammed Syahril Bin Samsudin supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for smoother transition to further education or work. Students who would like to explore their subject choices, ask about post-secondary education options, or find out more about their career interests, strengths and passions can make an appointment to meet our ECG Counsellor.  
+  
+
+An appointment can be made with the ECG Counsellor [here](https://form.gov.sg/5ff7bb7a31e54700114dd739) as well as via his email at 
+
+mohammed_syahril_samsudin@schools.gov.sg.  
+  
+Please note that the ECG Counsellor is at NASS every Tuesday once a week from 9 am to 5 pm.
