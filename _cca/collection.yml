@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/English Drama.md
-      - Performing Arts/Pop and Jazz.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Concert Band.md
       - Performing Arts/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Pop and Jazz.md
+      - Performing Arts/English Drama.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps (Land).md
