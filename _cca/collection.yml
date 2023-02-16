@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/National Police Cadet Corps (NPCC).md
       - Performing Arts/National Cadet Corps (Land).md
       - Performing Arts/Girl Guides.md
       - Performing Arts/.keep
