@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Infocomm Technology.md
-      - Clubs & Societies/Photography Club.md
-      - Clubs & Societies/Robotics.md
-      - Clubs & Societies/International Chess.md
-      - Clubs & Societies/Outdoor Adventure.md
-      - Clubs & Societies/Art Club.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Outdoor Adventure.md
+      - Clubs & Societies/International Chess.md
+      - Clubs & Societies/Robotics.md
+      - Clubs & Societies/Photography Club.md
+      - Clubs & Societies/Infocomm Technology.md
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Chinese Orchestra.md
