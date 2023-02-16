@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Badminton.md
-      - Sports/Wushu.md
-      - Sports/Volleyball.md
-      - Sports/Basketball.md
       - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Volleyball.md
+      - Sports/Wushu.md
+      - Sports/Badminton.md
       - CCA@NAS/CCA@NAS.md
       - CCA@NAS/.keep
