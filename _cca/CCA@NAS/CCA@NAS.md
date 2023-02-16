@@ -9,4 +9,4 @@ Updated as of 24 May 2022
 <img style="width:70%" src="/images/CCA%20Diagram%201.jpg">
 		 
 <center><i>Diagram 1: Quote from Prime Minister, Mr. Lee Hsien Loong.
-Tai, J. (2016, Apr 10). Emphasis students’ holistic growth to give them skills and values they need for life: PM. The Straits Times. <a>https://www.straitstimes.com/singapore/education/emphasise-students-holistic-growth-to-give-them-skills-and-values-they-need-for</a></i></center>
+Tai, J. (2016, Apr 10). Emphasis students’ holistic growth to give them skills and values they need for life: PM. The Straits Times. https://www.straitstimes.com/singapore/education/emphasise-students-holistic-growth-to-give-them-skills-and-values-they-need-for</i></center>
