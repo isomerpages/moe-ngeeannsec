@@ -227,3 +227,87 @@ b. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e14l">UNIT</td>
+    <td class="tg-e14l">LESSONS / DURATION</td>
+    <td class="tg-e14l"><br>Lesson Overview &amp; Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-e14l">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Respectful Relationships &amp; Safety</td>
+    <td class="tg-ktyi"><br>This is Where I Draw the Line<br>(60 mins)</td>
+    <td class="tg-ktyi"><br>Overview:<br><span style="color:#000">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. </span><br><br><br>Objectives:<br><br><span style="background-color:initial">- understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</span><br><br></td>
+    <td class="tg-7yig">Term 4 Week 1</td>
+  </tr>
+</tbody>
+</table>
+
+**_eTeens_** **Programme**:
+
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At NGEE ANN Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l">Topics/Lessons</th>
+    <th class="tg-e14l">Programme Learning Objectives</th>
+    <th class="tg-e14l">Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-0lax">Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV</td>
+    <td class="tg-0lax">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Classroom-based Lesson</td>
+    <td class="tg-0lax">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-0lax">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
+
+### INFORMATION FOR PARENTS
+
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.
+
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This link to the form will be distributed to parents via Parents Gateway at the start of the year and is also accessible [here](https://form.gov.sg/63c60386f2bd6c0012742925). The completed form is to be submitted by 13/2/2023.
+
+12. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This link to the form will be distributed to parents via Parents Gateway at the start of the year and is also accessible [here](https://form.gov.sg/63c607fabef23b001159703c). The completed form is to be submitted by 13/02/2023.
+
+13. Parents can contact the school at nass@moe.edu.sg or 67844583 for discussion or to seek clarification about the school’s Sexuality Education programme.
