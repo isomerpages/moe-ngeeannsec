@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Sexuality Education.md
       - Guidance Modules.md
