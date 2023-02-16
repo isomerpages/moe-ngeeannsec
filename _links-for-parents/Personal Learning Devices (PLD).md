@@ -127,3 +127,36 @@ For more details [Click Here](/files/SOP%20for%20PDLP%20AP1%20webpage%20v1.pdf)
 </tbody>
 </table>
 
+### AsiaPac Contact Information
+
+<table>
+<thead>
+  <tr>
+    <td></td>
+    <td>Help Desk Number:<br><br>6270 8281/6272 0088</td>
+    <td></td>
+    <td>Help Desk Operating Hours:<br><br>Blk 219, Henderson Road, #05-01, Henderson Industrial Park Singapore 159556<br>Mon – Thu: 0830 – 1730<br><br>Fri: 0830 – 1700<br><br>Closed on Sat, Sun &amp; Public Holidays</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td>Help Desk Email:<br><br><a href="mailto:pdlpapple@asiapac.com.sg" target="_blank" rel="noopener noreferrer">pdlpapple@asiapac.com.sg</a></td>
+    <td></td>
+    <td>Website:<br><br><a href="https://www.asiapac.com.sg/pld-apple/" target="_blank" rel="noopener noreferrer">https://www.asiapac.com.sg/pld-apple/</a></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Frequently Asked Questions
+
+**How do I replace a missing accessory?** <br>
+Parents can buy replacement accessories from Apple, AsiaPac or other retail shops.
+
+**Can students still send their devices to their AsiaPac’s service centres for repairs after the end of the warranty period and how will the charges be imposed?** <br>
+After the expiry of the device warranty period, students can still send their device to the service centre for repair. The charges quotation will be provided by the service centre and students/parents will have to decide whether to take up the repair based on the quotation received. Alternatively, students can consider going to alternative service centres (e.g. shops) to perform the repairs after the warranty is over.
+
+**How long do I need to keep the device's original packaging before discarding it?** <br>
+Please keep the device's original packaging for at least 7 days in case of defects and proceed to 1-to-1 exchange at the AsiaPac Service Centre.
