@@ -32,3 +32,77 @@ As our students go through L.I.F.E@ NAS, they will be given the opportunity to b
      style="width:60%">
 		 
 In Ngee Ann, Design Thinking which is a systematic process of thinking which empowers students to develop new, innovative solutions to the problem at hand is infused into Values in Action (VIA). Our students apply the creative problem solving method of Design Thinking in their VIA Project as they serve their beneficiaries which have been intentionally selected.
+
+The school aims to provide real and authentic experiences for the students through the different CCE activities such as NE commemorative celebrations as well as work attachment / shadowing experiences.
+
+<img src="/images/CCE1.png" 
+     style="width:40%">
+		 
+<img src="/images/CCE2.png" 
+     style="width:60%">
+		 
+<img src="/images/CCE3.png" 
+     style="width:60%">
+		 
+<img src="/images/CCE4.png" 
+     style="width:60%">
+
+<img src="/images/CCE5.jpg" 
+     style="width:60%">
+		 
+### NAS CCE LEVEL OUTCOMES
+
+**Secondary 1:** <br>
+Getting to know myself, my school and my friends as I discovering my potential.
+
+**Secondary 2:** <br>
+Getting to know and relating well with others as I develop my strengths and work on my weaknesses.
+
+**Secondary 3:** <br>
+Contributing back to the community as I learn to manage myself.
+
+**Secondary 4/5:** <br>
+Living my aspirations and fulfilling my dreams.
+
+### Guiding Principles of CCE
+
+
+1) Every teacher a CCE teacher. <br>
+2) Values are both taught and caught. <br>
+3) Engaging students through varied modes of delivery. <br>
+4) Parents as key partners.
+
+### Learning Outcomes (LO) of CCE
+
+
+LO1: Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness.
+
+LO2: Act with integrity and make responsible decisions that uphold moral principles.
+
+LO3: Acquire social awareness and apply interpersonal skills to build and maintain positive relationships based on mutual respect.
+
+LO4: Be resilient and have the ability to turn challenges into opportunities.
+
+LO5: Take pride in our national identity, have a sense of belonging to Singapore and be committed to nation-building.
+
+LO6: Values Singapore’s socio-cultural diversity and promote social cohesion and harmony.
+
+LO7:Care for others and contribute actively to the progress of our community and nation.
+
+LO8: Reflect on and respond to community, national and global issues as an informed and responsible citizen.
+
+  
+
+### Teachers-in-charge
+
+Mdm Farhana Binte Mohamad Noor <br>
+Mdm Nur Azlyna Mohamed Tahir <br>
+Mdm Ananurmelati Abdul Rahman <br>
+Ms Grace Lee  <br>
+Ms Melissa Yeong   <br>
+Mr Muhamad Zahirrudin Mohamad Ayub <br>
+Mdm Nur Syazana Shahul Hameed <br>
+Ms Rina Tan   <br>
+Mdm Sarimah Binti Ahmad <br>
+Ms Nuurul Khairiyah Binti Salahuddin   <br>
+Ms Siti Ashirah Bte Othman
