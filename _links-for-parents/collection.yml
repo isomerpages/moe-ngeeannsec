@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - ScreenGuide Parental Control App.md
       - Sec 1 Posting for 2023/.keep
       - Sec 1 Posting for 2023/Sec 1 Registration Exercise (2023 Intake).md
       - Sec 1 Posting for 2023/PG Notifications & Sec 1 Registration Briefing.md
