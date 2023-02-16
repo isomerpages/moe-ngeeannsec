@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Character & Citizenship Education (CCE).md
       - Sexuality Education.md
       - Guidance Modules.md
