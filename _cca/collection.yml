@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/International Chess.md
       - Clubs & Societies/Outdoor Adventure.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/.keep
