@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Chinese Orchestra.md
