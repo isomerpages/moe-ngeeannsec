@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Total Curriculum Framework (TCF).md
+      - Academics/ICT.md
       - Academics/Humanities.md
       - Academics/English.md
       - Academics/.keep
