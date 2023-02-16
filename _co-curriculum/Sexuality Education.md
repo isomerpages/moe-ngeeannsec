@@ -47,3 +47,47 @@ b. Character and Citizenship Education (CCE)
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 <h3>At NGEE ANN Secondary School, the following Sexuality Education lessons will be taught in 2023:</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 1</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e14l">UNIT</td>
+    <td class="tg-e14l">LESSONS / DURATION</td>
+    <td class="tg-e14l">Lesson Overview &amp; Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-e14l">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
+    <td class="tg-f4yw">Steady or Not Lesson 1<br> (60 mins)</td>
+    <td class="tg-ktyi"><span style="color:#000">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</span><br><br><br>Objectives:<br>- recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>- recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>- understand what dating is, and recognise that the readiness and interest in dating vary among individuals <br><br></td>
+    <td class="tg-ktyi">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><br>Being Aware, Being Safe <br><span style="background-color:initial">Lesson 2</span><br><span style="background-color:initial">(60 mins)</span></td>
+    <td class="tg-ktyi"><br>Overview:<br><span style="color:#000">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. </span><br><br><span style="color:#000">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><br><br>Objectives:<br><br>- understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-ktyi">Term 4 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><br><span style="color:#000">More than Meets the Eye</span><br><span style="background-color:initial">Lesson 3</span><br><span style="background-color:initial">(60 mins)</span></td>
+    <td class="tg-ktyi"><br>Overview:<br><span style="color:#000">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. </span><br><br><span style="color:#000">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><br><br>Objectives:<br><br>- understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><span style="background-color:initial">- recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span><br></td>
+    <td class="tg-7yig">Term 4 Week 3</td>
+  </tr>
+</tbody>
+</table>
