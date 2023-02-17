@@ -8,10 +8,8 @@ third_nav_title: Clubs & Societies
 		 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOGEnj-iQUmvNwfaoi0p98zQe3hD2giJ4Asn2XPzMRaq19VbKfdn3B2DLjISpXWhOu0H5xuaO6Ssul/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-About Us
---------
+### About Us
 
-  
 
 **VISION**: What does the CCA want to achieve?&nbsp;
 
