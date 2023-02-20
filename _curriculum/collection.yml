@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Total Curriculum Framework (TCF).md
-      - Academics/Full Subject–Based Banding.md
-      - Academics/Science.md
-      - Academics/Physical Education.md
-      - Academics/Mother Tongue Languages.md
-      - Academics/Mathematics.md
-      - Academics/ICT.md
-      - Academics/Humanities.md
-      - Academics/English.md
       - Academics/.keep
       - Academics/Craft & Technology.md
+      - Academics/English.md
+      - Academics/Humanities.md
+      - Academics/ICT.md
+      - Academics/Mathematics.md
+      - Academics/Mother Tongue Languages.md
+      - Academics/Physical Education.md
+      - Academics/Science.md
+      - Academics/Full Subject–Based Banding.md
       - Educational Technology in NAS/.keep
       - Educational Technology in NAS/Educational Technology in NAS.md
       - Educational Technology in NAS/Code@NAS.md
