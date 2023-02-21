@@ -4,7 +4,7 @@ permalink: /curriculum/Academics/english/
 description: ""
 third_nav_title: Academics
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNwVTkhqfXJ2kKGSnKTbmvXYekEwveExEyMHADHKGN3rbKYhGxwpslbIOBWRuTyxBbmUqOxG_na4uK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNwVTkhqfXJ2kKGSnKTbmvXYekEwveExEyMHADHKGN3rbKYhGxwpslbIOBWRuTyxBbmUqOxG_na4uK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### English Language &amp; Literature
 
@@ -89,7 +89,7 @@ This one-day enrichment programme focused on the authentic use of the English La
 
 Students attended a talk by an industry practitioner – Ms Belinda Lee, a host, actress and inspirational speaker, on how to be a good and authentic public speaker. Following that, students were guided by facilitators to do live reporting in front of a camera crew, advocating different social causes.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_lq613iFn1P4CWQryU06nyf5EcL53JvzXCXpfb_Qg4od44SR4HEvLsWd8va-eQYHRgjDfcVu69RcC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_lq613iFn1P4CWQryU06nyf5EcL53JvzXCXpfb_Qg4od44SR4HEvLsWd8va-eQYHRgjDfcVu69RcC/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Teachers-in-charge  
 
@@ -106,7 +106,7 @@ The debaters are trained by a coach in research and information sourcing, debate
 
 Yearly, selected students represent the school in the Singapore Secondary Schools Debating Championships. They have also participated in the Singapore Polytechnic Debate Open and the St Margaret’s Ladies League.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWOSTqmuoXl0CDhKZtQfBQpX5NPrVf_gXTD3jZR9s3D7yWe3OidwSGSP9nXGWclQSl7Mrb6KsPzA2k/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWOSTqmuoXl0CDhKZtQfBQpX5NPrVf_gXTD3jZR9s3D7yWe3OidwSGSP9nXGWclQSl7Mrb6KsPzA2k/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Teachers-in-charge  
 
@@ -119,3 +119,5 @@ Teachers-in-charge
 ##### Book a Writer: Verena Tay @ Ngee Ann Secondary School
 
 Book A Writer is Sing Lit Station's workshop-for-schools programme, featuring a roster of Singapore's most important writers at work today. This programme features a talk by local playwright Verena Tay, author for the Secondary Two Literature text – The Car and Other Plays. This programme was organized for the Secondary Two Express students to give them an opportunity to interact with Verena Tay, and for them to gain a deeper understanding of their text as well as gain an insight into the process of creative writing.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVAWk0WYWRVYg1DPk3rjTvzPhIKeKwMTXz7ZApSd2-dDP_6pE2vXgD6I5UmpbFtGcI_623zdHKZBgk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
