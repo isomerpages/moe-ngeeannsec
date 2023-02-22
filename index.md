@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Ngee Ann Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/small-school-Logo-No-background-2.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -34,3 +34,4 @@ sections:
       button: Click here
       url: /links-for-parents/parents-gateway
 ---
+
