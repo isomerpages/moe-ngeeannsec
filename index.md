@@ -23,9 +23,15 @@ sections:
           description: ""
           url: /links-for-parents/direct-school-admission-dsa-exercise-2022
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: A School Of Possibilities; A Home To Grow In
+      description: Welcome to Ngee Ann Secondary School e-Open House!
+      button: Click HERE
+      url: /ngee-ann-experience/e-openhouse
+  - infobar:
+      title: Instructions for Parents Gateway
+      description: Parents Gateway is a mobile app,which allows parents to engage with
+        schools, receive information and perform a range of administrative
+        functions
+      button: Click here
+      url: /links-for-parents/parents-gateway
 ---
