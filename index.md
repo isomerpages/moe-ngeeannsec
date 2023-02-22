@@ -6,27 +6,26 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Hero title
+      subtitle: Hero subtitle
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Release of 2022 GCE O-Level Examination Results
+          description: ""
+          url: /links-for-parents/release-of-2022-gce-o-level-examination-results
+        - title: Release of 2022 GCE N-Level Examination Results
+          description: ""
+          url: /links-for-parents/release-of-2022-gce-n-level-examination-results
+        - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2022
+          description: ""
+          url: /links-for-parents/direct-school-admission-dsa-exercise-2022
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-
