@@ -37,7 +37,7 @@ Guided by this clear vision of what we want in the Ngee Ann graduate and recogni
 
 We believe in helping students learn, grow and thrive in a technologically rich and socially connected learning environment. Our students experience learning that combines key knowledge with core competencies.&nbsp; At the same time, when they participate in the curriculum we design, they are able to discover, grow and learn based on their strengths and interests. Learning is shaped through our distinctive culture of ‘High Care, High Expectations’, innovation and character building. We provide opportunities for all through the socio-emotional support and targeted care we cater to all our students in terms of their overall development and well-being. Our teachers leverage current and research-backed pedagogies to enable breadth, depth and interconnections in student learning. These distinct components intersect, integrate and converge to achieve the desired student outcomes, as depicted in our microchip-based TCF shown below.
 
-<img style="width:60%" src="/images/Microchip%20Total%20Curriculum%2015_01_2021%201.jpg">
+<img style="width:100%" src="/images/Microchip%20Total%20Curriculum%2015_01_2021%201.jpg">
 		 
 Our Total Curriculum Framework is inspired from the chip that changed the world. The microchip is an apt metaphor for the Ngee Ann Curriculum to aspire towards, as a Future School. The microchip gets ever leaner and agile. It packs ever greater power and promise. Like the microchip, we aspire for our curriculum to continue to be lean, agile, yet filled with power and promise for our students - the mark of Ngee Ann’s ethos in curriculum design and development.
 
