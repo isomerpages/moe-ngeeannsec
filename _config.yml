@@ -3,7 +3,7 @@ url: https://ngeeannsec.moe.edu.sg
 favicon: /images/small-school-Logo-No-background-2.png
 colors:
   primary-color: "#00416b"
-  secondary-color: "#5fc8d6"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
