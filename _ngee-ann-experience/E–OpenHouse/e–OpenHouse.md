@@ -26,7 +26,7 @@ Explore NAS, our signature stretch programmes, our student development and leade
 
 Hop on the Virtual School Tour to experience the campus!
 
-<hr><hr>
+<hr>
 
 ### Explore NAS
 
