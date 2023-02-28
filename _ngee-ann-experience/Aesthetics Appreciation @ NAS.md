@@ -44,7 +44,9 @@ Tapestry is a biennial tradition that occurs every non-SYF year to celebrate the
 
 ### Tapestry 9 Brochure
 
-[Tapestry 9 Brochure.pdf](https://ngeeannsec.moe.edu.sg/qql/slot/u510/Ngee%20Ann%20Experience/Aesthetics%20Appreciation%20@%20NAS/Tapestry%209%20Brochure.pdf)
+![](/images/Tapestry_9_Brochure_Page_1.png)<br>
+![](/images/Tapestry_9_Brochure_Page_2.png)<br>
+![](/images/Tapestry_9_Brochure_Page_3.png)
 
 
 ### Tapestry 9 Part 1
