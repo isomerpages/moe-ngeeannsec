@@ -47,7 +47,7 @@ Each class has up to 2 Parent Ambassadors (Main PA & Co PA) assisting the Exco t
 
 NAS PSG Video
 -------------
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXJXwg3MbLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 Please click [here](https://drive.google.com/file/d/1wb1cq5ZZISQ2LuE9jO4T8a7ZzUeCq7D4/view)  
   
@@ -57,7 +57,7 @@ Proposed NAS PSG Events/Activities 2023
 
 * Please note the proposed events/activities are pending confirmation from the school.&nbsp; The dates shall be updated as soon as they are available
 
-#### Term 1
+#### **Term 1**
 |Event/Activities|Date|
 |-|-|
 |Learning Journey (PSG Support)|4 Jan 2023|
@@ -65,13 +65,13 @@ Proposed NAS PSG Events/Activities 2023
 |Heritage Talk, Parents Forum & PSG Group Meeting|14 Feb 2023|
 |Career Awareness Day (Zoom)|End Mar 2023 (TBC)|
 |Father-child bonding activity (at OTH)|March Holiday 2023|
-#### Term 2
+#### **Term 2**
 |Event/Activities|Date|
 |-|-|
 |International Friendship Day @ School activities|3 & 4 April 2023|
 |PSG Family Day Outreach Project|28 May 2023|
 |Healthy Life style (Outdoor)|June 2023|
-#### Term 3
+#### **Term 3**
 |Event/Activities|Date|
 |-|-|
 |i-CARE Project|July 2023|
@@ -80,7 +80,7 @@ Proposed NAS PSG Events/Activities 2023
 |Focus Group Discussion|Sep 2023|
 |Mid – Autumn Festival @ School Activities|Sep 2023|
 |Father-child bonding activity|TBC|
-#### Term 4
+#### **Term 4**
 |Event/Activities|Date|
 |-|-|
 |PSG Year End Appreciation Session|17 Oct 2023|
