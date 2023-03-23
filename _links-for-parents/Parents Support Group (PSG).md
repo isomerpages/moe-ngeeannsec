@@ -11,6 +11,13 @@ Core Team Members
 | Chairperson | Lim Beng Choon |
 | Secretary | Karyn Yeo |
 
+<table>
+	<tr><th>Designation</th><th>Name of PSG</th></tr>
+	<tr><td>I-P Chair</td><td>Peggy Sett</td></tr>
+	<tr><td>Chairperson</td><td>Lim Beng Choon</td></tr>
+	<tr><td>Secretary</td><td>Karyn Yeo</td></tr>
+</table>
+
 
 
 Executive Committee Members (EXCO)
