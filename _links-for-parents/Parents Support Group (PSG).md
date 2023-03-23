@@ -16,7 +16,7 @@ Core Team Members
 Executive Committee Members (EXCO)
 ----------------------------------
 
-||||
+|asdf|asdf|asdf|
 |-|-|-|
 |Aisyah Bte Mohd Amir|Emily Lee|Jesse Chew|
 |Lydia Kan|Lynda Sze|Nichole Looi|
