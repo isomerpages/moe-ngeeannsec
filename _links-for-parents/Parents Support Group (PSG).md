@@ -16,15 +16,26 @@ Core Team Members
 
 Executive Committee Members (EXCO)
 ----------------------------------
-
-|asdf|asdf|asdf|
-|-|-|-|
-|Aisyah Bte Mohd Amir|Emily Lee|Jesse Chew|
-|Lydia Kan|Lynda Sze|Nichole Looi|
-|Paramjit Kaur|Serene Chiu|Sherene Tan
-|Wong Hong Ling|||
-
-  
+<table>
+	<tr>
+		<td>Aisyah Bte Mohd Amir</td>
+		<td>Emily Lee</td>
+		<td>Jesse Chew</td>
+	</tr>
+	<tr>
+		<td>Lydia Kan</td>
+		<td>Lynda Sze</td>
+		<td>Nichole Looi</td>
+	</tr>
+	<tr>
+		<td>Paramjit Kaur</td>
+		<td>Serene Chiu</td>
+		<td>Sherene Tan</td>
+	</tr>
+	<tr>
+		<td>Wong Hong Ling</td>
+	</tr>
+</table>
 
 Please click [here](https://drive.google.com/file/d/1ffPOqqLj18YNNLWvUZ3Us9eMMC7WaLXB/view) for the organisation chart  
   
