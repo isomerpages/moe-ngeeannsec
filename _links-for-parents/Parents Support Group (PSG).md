@@ -147,8 +147,7 @@ Proposed NAS PSG Events/Activities 2023
 
 ##### **HOW TO CONTACT NAS PSG:**
 
-All official communication will be via email through the Secretary.
-
+All official communication will be via email through the Secretary.<br>
 Please email to
 [**psg\_secretary@nass.moe.edu.sg**](mailto:psg_secretary@nass.moe.edu.sg)
 
