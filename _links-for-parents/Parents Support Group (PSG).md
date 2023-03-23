@@ -42,9 +42,6 @@ Each class has up to 2 Parent Ambassadors (Main PA & Co PA) assisting the Exco t
 NAS PSG Video
 -------------
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXJXwg3MbLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-Please click [here](https://drive.google.com/file/d/1wb1cq5ZZISQ2LuE9jO4T8a7ZzUeCq7D4/view)  
-  
 
 Proposed NAS PSG Events/Activities 2023
 -------------------------
