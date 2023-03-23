@@ -25,7 +25,7 @@ Executive Committee Members (EXCO)
 
   
 
-Please click [here](https://ngeeannsec-moe-edu-sg-admin.cwp.sg/qql/slot/u510/Parent/PSG/PSG%20organisation%20chart%202023%20with%20photo%2029Dec22.pdf) for the organisation chart  
+Please click [here](https://drive.google.com/file/d/1ffPOqqLj18YNNLWvUZ3Us9eMMC7WaLXB/view) for the organisation chart  
   
   
 
@@ -42,7 +42,7 @@ NAS PSG Video
 -------------
 
   
-Please click [here](https://ngeeannsec-moe-edu-sg-admin.cwp.sg/qql/slot/u510/Parent/PSG/PSG%20Video%2022Dec2022.mp4)  
+Please click [here](https://drive.google.com/file/d/1wb1cq5ZZISQ2LuE9jO4T8a7ZzUeCq7D4/view)  
   
 
 Proposed NAS PSG Events/Activities 2023
