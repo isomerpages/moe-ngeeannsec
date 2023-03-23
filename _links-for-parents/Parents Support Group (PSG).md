@@ -5,12 +5,6 @@ description: ""
 ---
 Core Team Members
 -----------------
-| Designation |Name of PSG |
-| -------- | -------- |
-| I-P Chair | Peggy Sett |
-| Chairperson | Lim Beng Choon |
-| Secretary | Karyn Yeo |
-
 <table>
 	<tr><th>Designation</th><th>Name of PSG</th></tr>
 	<tr><td>I-P Chair</td><td>Peggy Sett</td></tr>
@@ -58,38 +52,99 @@ Proposed NAS PSG Events/Activities 2023
 * Please note the proposed events/activities are pending confirmation from the school.&nbsp; The dates shall be updated as soon as they are available
 
 #### **Term 1**
-|Event/Activities|Date|
-|-|-|
-|Learning Journey (PSG Support)|4 Jan 2023|
-|PSG Celebrates LNY @ School activities|Early Feb 2023|
-|Heritage Talk, Parents Forum & PSG Group Meeting|14 Feb 2023|
-|Career Awareness Day (Zoom)|End Mar 2023 (TBC)|
-|Father-child bonding activity (at OTH)|March Holiday 2023|
+<table>
+	<tr>
+		<th>Event/Activity</th><th>Date</th>
+	</tr>
+	<tr>
+		<td>Learning Journey (PSG Support)</td>
+		<td>4 Jan 2023</td>
+	</tr>
+	<tr>
+		<td>PSG Celebrates LNY @ School activities</td>
+		<td>Early Feb 2023</td>
+	</tr>
+	<tr>
+		<td>Heritage Talk, Parents Forum & PSG Group Meeting</td>
+		<td>14 Feb 2023</td>
+	</tr>
+	<tr>
+		<td>Career Awareness Day (Zoom)</td>
+		<td>End Mar 2023 (TBC)</td>
+	</tr>
+	<tr>
+		<td>Father-child bonding activity (at OTH)</td>
+		<td>March Holiday 2023</td>
+	</tr>
+</table>
+
+
 #### **Term 2**
-|Event/Activities|Date|
-|-|-|
-|International Friendship Day @ School activities|3 & 4 April 2023|
-|PSG Family Day Outreach Project|28 May 2023|
-|Healthy Life style (Outdoor)|June 2023|
+<table>
+	<tr>
+		<th>Event/Activity</th><th>Date</th>
+	</tr>
+	<tr>
+		<td>International Friendship Day @ School activities</td>
+		<td>3 & 4 April 2023</td>
+	</tr>
+	<tr>
+		<td>PSG Family Day Outreach Project</td>
+		<td>28 May 2023</td>
+	</tr>
+	<tr>
+		<td>Healthy Life style (Outdoor)</td>
+		<td>June 2023</td>
+	</tr>
+</table>	
+
+
 #### **Term 3**
-|Event/Activities|Date|
-|-|-|
-|i-CARE Project|July 2023|
-|Racial Harmony Day @ School activities|21 July 2023|
-|PSG Hobbycraft bonding activity (Indoor)|Aug 2023|
-|Focus Group Discussion|Sep 2023|
-|Mid – Autumn Festival @ School Activities|Sep 2023|
-|Father-child bonding activity|TBC|
+<table>
+	<tr>
+		<th>Event/Activity</th><th>Date</th>
+	</tr>
+	<tr>
+		<td>i-CARE Project</td>
+		<td>July 2023</td>
+	</tr>
+	<tr>
+		<td>Racial Harmony Day @ School activities</td>
+		<td>21 July 2023</td>
+	</tr>
+	<tr>
+		<td>PSG Hobbycraft bonding activity (Indoor)</td>
+		<td>Aug 2023</td>
+	</tr>
+	<tr>
+		<td>Focus Group Discussion</td>
+		<td>Sep 2023</td>
+	</tr>
+	<tr>
+		<td>Mid – Autumn Festival @ School Activities</td>
+		<td>Sep 2023</td>
+	</tr>
+	<tr>
+		<td>Father-child bonding activity</td>
+		<td>TBC</td>
+	</tr>
+</table>
+
 #### **Term 4**
-|Event/Activities|Date|
-|-|-|
-|PSG Year End Appreciation Session|17 Oct 2023|
-|NAS Open House|Nov 2023|
+<table>
+	<tr>
+		<th>Event/Activity</th><th>Date</th>
+	</tr>
+	<tr>
+		<td>PSG Year End Appreciation Session</td>
+		<td>17 Oct 2023</td>
+	</tr>
+	<tr>
+		<td>NAS Open House</td>
+		<td>Nov 2023</td>
+	</tr>
+</table>
 
-
-
-  
-  
 
 **_NAS PSG will be most happy to have parents joining us at any juncture._**
 
