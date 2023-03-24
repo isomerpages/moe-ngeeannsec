@@ -16,7 +16,7 @@ The materials located on this Web Site including the information and software pr
 
 Privacy Policy
 --------------
-[Click here to review this Web Site’s Privacy Statement.](/Privacy)
+[Click here to review this Web Site’s Privacy Statement.](/Privacy/)
 
 Restrictions on Use of Materials
 --------------------------------
