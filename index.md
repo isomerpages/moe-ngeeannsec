@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/hero banner.gif
+      background: /images/hero-banner-no-words.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -21,6 +21,7 @@ sections:
         - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2022
           description: ""
           url: /links-for-parents/direct-school-admission-dsa-exercise-2022
+      subtitle: A School of Possibilities, A Home to Grow In
   - infobar:
       title: A School Of Possibilities; A Home To Grow In
       description: Welcome to Ngee Ann Secondary School e-Open House!
