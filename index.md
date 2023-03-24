@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/hero-banner-no-words.gif
+      background: /images/hero-banner-no-words-with-line.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
