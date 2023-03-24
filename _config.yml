@@ -2,8 +2,8 @@ title: Ngee Ann Secondary School
 url: https://ngeeannsec.moe.edu.sg
 favicon: /images/favicon.ico
 colors:
-  primary-color: "#00416b"
-  secondary-color: "#000000"
+  primary-color: "#67c2ff"
+  secondary-color: "#fff777"
   media-colors:
     - title: media-color-one
       color: "#49759a"
