@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Ngee Ann Secondary School
       background: /images/hero banner.gif
-      button: asdfghjklqwertyuiopzxcvnm1243567809asdfghjklqwertyuiopzxcvbnm12344567890asdfghjklqwertyuiopzxcvnbnm1234568790
+      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Release of 2022 GCE O-Level Examination Results
