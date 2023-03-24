@@ -2,11 +2,100 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+#### **Personal Data Protection Act (PDPA) Policy for Ngee Ann Secondary School**
 
-### **Government Agency Privacy Statement**
+**Our Commitment**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. Ngee Ann Secondary School (collectively “NAS”, “us, “we” or “our”) is committed to protecting your personal data.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+2. This is our PDPA Policy that sets out how we collect, use, disclose and protect any Personal Data (defined below) that you give to us, and it is designed to meet the requirements of personal data protection laws in Singapore.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+3. In general, prior to the collection of any personal data, we will notify wherever possible, the purpose for which Personal Data may be collected, used and disclosed.
+
+4. Please read this PDPA Policy before submitting any information requested by us, or participating in or signing up for any activities organised by us, so that you are aware of and understand the purposes for which we collect, use and disclose your Personal Data.
+
+5. From time to time, we may review and update this PDPA Policy to ensure that it is consistent with any changes in legal requirements. The most updated versions of this PDPA Policy will be posted on our School Website and date stamped so that you are aware of when the PDPA Policy was last updated.
+
+#### **What We Collect**
+
+6. The types of personal data that we collect depend on the circumstances of collection and on the nature of your involvement with us.
+
+7. The personal data that we may request includes but is not limited to (individually and collectively referred to as “Personal Data”):
+
+a.    personal identification information, including name, gender, date of birth, NRIC number, photographs, video recordings, closed circuit television (CCTV) footage, voice recordings;
+
+b.    contact information, including postal address, email address, fixed-line telephone phone number and mobile phone number;
+
+c.    personal records and demographic information, including academic history, academic qualifications, medical history, health and sickness reports, employment history and records.
+
+#### **What We Do with the Personal Data**
+
+8. The Personal Data you provide helps us to process transactions and fulfil our obligations for any activities that you undertake with us. In particular, we collect your Personal Data for the following purposes:
+
+a.    to process, use and disclose of the information for, among other activities, the following:
+
+i.    school related activities, training, events, competitions, scholarships/awards/nominations and exchange programmes;
+
+ii.    evaluation of any applications and notification of any awards and grants;
+
+iii.  evaluation and notification of student-related matters, such as candidature matters, exchange programmes, achievements, placements, programmes or courses;
+
+iv.  fulfilment of student related activities (e.g. festival celebrations, orientation, student camps, conferences) as may be provided by NAS to enhance student life, create networking opportunities, foster community spirit, and the holistic development of students;
+
+v.     publicising, updating and/or reporting on the activities of and developments in NAS to students, staff, stakeholders and members of the public in any media, including media interviews by the general media, our school’s website, our school’s social media accounts, newsletters, collaterals, posters and publications;
+
+vi.     to respond to feedback from you;
+
+vii.    to provide updates on school events;
+
+viii.   to develop content of the school website;
+
+ix.     for record keeping;
+
+#### **Consent**
+9. Your explicit consent will be sought when collecting your Personal Data, for the Purposes, uses and disclosures set out above.
+
+10. There will also be instances where your consent for the collection or use of your Personal Data will necessarily be implied (referred to as ‘deemed consent’) from the circumstances by nature of the task or involvement transaction. For example, photograph(s) or video image(s) may be captured during school activities and events such as classroom lessons, CCAs, school camps, school concerts. The school may use and publish such photographs and/or video recordings in school publications, the school website, school social media channels, and other communication channels
+
+11. Where you are supplying the Personal Data of another individual (e.g. information of your child, parent, spouse, and/or employees, etc.), you shall ensure that the individual whose Personal Data is supplied to us has consented to provide us with their Personal Data for the respective purposes, and is informed of and consents to the terms of this PDPA Policy.
+
+12. This PDPA Policy shall supplement any other policies that you may have previously provided consent to us in respect of your Personal Data.
+
+  
+
+#### **Correction**
+
+
+13. You should ensure that all Personal Data submitted to us is current, complete and accurate. Failure on your part to do so may result in our inability to provide you with our assistance in school-related matters.
+
+  
+
+
+#### **Security**
+
+
+14. We are committed to ensuring the security and protection of your Personal Data in our possession or our control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying modification, disposal or similar risks. However, we are not liable for any loss or damage resulting from your act or omission to safe-keep your username and password including but not limited to, using weak passwords, unsecured browsers and risks associated with disclosing any information or transacting over the Internet or online portals.
+
+  
+
+
+#### **Retention**
+
+
+15. Personal Data will be held for as long as it is necessary to fulfil the purpose for which it was collected. We will cease to retain the personal data or remove the means by which the Personal Data can be associated with individuals when it is no longer necessary for legal or school purposes.
+
+#### **Governing Law**
+
+16. This PDPA Policy and your use of this website shall be governed in all respects by the laws of the Republic of Singapore.
+
+#### **Contacting Us – Feedback, Access and Withdrawal of Consent of your Personal Data**
+
+17. If you:
+
+a.    have any questions or feedback relating to your Personal Data or our PDPA Policy; or
+
+b.    would like to obtain access to or withdraw consent for your Personal Data;
+
+please contact us by e-mailing to nass@moe.edu.sg with the subject title ‘PDPA Policy’ and address it to ‘PDPA Contact Person, Ngee Ann Secondary School’
+
+18. To protect your personal data and security, we will also require you to verify your identity before we can respond to your request.
