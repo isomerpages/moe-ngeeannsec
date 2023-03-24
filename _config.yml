@@ -3,7 +3,7 @@ url: https://ngeeannsec.moe.edu.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#67c2ff"
-  secondary-color: "#fff777"
+  secondary-color: "#47398d"
   media-colors:
     - title: media-color-one
       color: "#49759a"
