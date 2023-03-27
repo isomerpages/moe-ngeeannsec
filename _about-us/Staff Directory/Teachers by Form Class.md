@@ -18,11 +18,11 @@ third_nav_title: Staff Directory
   <tr>
     <td class="tg-i7rf" rowspan="2"><span style="color:white">Year Head</span></td>
     <td class="tg-i7rf"><span style="color:white">Lower Secondary</span></td>
-    <td class="tg-figz"><span style="color:white"> Mdm Nora Bte Osman</span></td>
+    <td> Mdm Nora Bte Osman</td>
   </tr>
   <tr>
     <td class="tg-i7rf"><span style="color:white">Upper Secondary</span></td>
-    <td class="tg-figz"><span style="color:white"> Mr Mohammed Hazmi Bin Hasni</span></td>
+    <td>Mr Mohammed Hazmi Bin Hasni</td>
   </tr>
 </thead>
 </table>
