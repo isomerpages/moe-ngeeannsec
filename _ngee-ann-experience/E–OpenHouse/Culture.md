@@ -23,7 +23,7 @@ NASians, staff, and our partners in education work together to bring learning op
 Find out more about our  **[Parents' Support Group(PSG)](/links-for-parents/parents-support-group-psg)**  and their activities in 2021
 
   
-<hr><hr>
+<hr>
 
 ### Say Hi to our NAS Staff
 
