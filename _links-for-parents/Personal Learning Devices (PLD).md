@@ -3,7 +3,7 @@ title: Personal Learning Devices (PLD)
 permalink: /links-for-parents/personal-learning-devices-pld/
 description: ""
 ---
-**_Only for Sec 1 & Sec 2 of 2022)_**
+**_Only for Sec 1, 2 & 3 of 2023)_**
 
 ### Personal Learning Device (PLD)
 
