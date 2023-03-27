@@ -41,39 +41,39 @@ Students will be:
 
 ● Empathetic and Global Thinkers. They will learn to
 
-\- empathise with other people’s experiences;
+- empathise with other people’s experiences;
 
-\- be open and appreciate multiple perspectives
+- be open and appreciate multiple perspectives
 
-\- develop global awareness through the study of texts from different part of the world; and
+- develop global awareness through the study of texts from different part of the world; and
 
-\- reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society
+- reflect on their own values, perspectives and identities as they consider the impact of their beliefs and actions on society
 
   
 
 ● Critical Readers. They will learn to
 
-\- appreciate the aesthetic value and enjoy the nuances of language, with perceptive and questioning minds;
+- appreciate the aesthetic value and enjoy the nuances of language, with perceptive and questioning minds;
 
-\- read widely and independently, from a variety of genre conventions; and
+- read widely and independently, from a variety of genre conventions; and
 
-\- appreciate the contexts in which literary texts are written, read and understood.
+- appreciate the contexts in which literary texts are written, read and understood.
 
   
 
 ● Creative Meaning Makers. They will learn to
 
-\- embrace ambiguity and uncertainty as necessary in the meaning-making process; and
+- embrace ambiguity and uncertainty as necessary in the meaning-making process; and
 
-\- actively and creatively construct their understanding and interpretations of texts.
+- actively and creatively construct their understanding and interpretations of texts.
 
   
 
 ● Convincing Communicators. They will learn to
 
-\- demonstrate critical thinking when discussing and writing about texts; and
+- demonstrate critical thinking when discussing and writing about texts; and
 
-\- convince others of their interpretations, based on sound reasoning with evidence.
+- convince others of their interpretations, based on sound reasoning with evidence.
 
   
 
