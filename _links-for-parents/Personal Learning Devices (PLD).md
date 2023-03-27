@@ -10,18 +10,15 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td rowspan="4"><img src="/images/Bundle%20ipad.png" 
+    <td rowspan="3"><img src="/images/Bundle%20ipad.png" 
      style="width:100%"></td>
-    <td>Chosen PLD &amp; Accessories</td>
+    <td>iPad 8th Generation</td>
   </tr>
   <tr>
-    <td>* iPad 8th Generation</td>
+    <td>Apple Pencil 1st Generation</td>
   </tr>
   <tr>
-    <td>* Apple Pencil 1st Generation</td>
-  </tr>
-  <tr>
-    <td>* Logitech Rugged Combo 3</td>
+    <td>Logitech Rugged Combo 3</td>
   </tr>
 </thead>
 </table>
@@ -106,21 +103,21 @@ For more details [Click Here](/files/SOP%20for%20PDLP%20AP1%20webpage%20v1.pdf)
   <tr>
     <td rowspan="8"><img src="/images/Picture1.png" 
      style="width:100%"></td>
-    <td rowspan="3">Operating Day(s):  Mondays to Fridays<br>Operating Hours: 2.30 pm to 4.30 pm<br>Location: Blk B Level 3 (Special Rooms)</td>
+		<td rowspan="3"><b>Operating Day(s):</b>  Mondays to Fridays<br><b>Operating Hours:</b> 2.30 pm to 4.30 pm<br><b>Location:</b> Blk B Level 3 (Special Rooms)</td>
   </tr>
   <tr>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="3">Services<br><br>- School account password reset<br>- Passcode unlock<br>- Unlock from sleep mode</td>
+		<td rowspan="3"><b>Services</b><br>- School account password reset<br>- Passcode unlock<br>- Unlock from sleep mode</td>
   </tr>
   <tr>
   </tr>
   <tr>
   </tr>
   <tr>
-    <td rowspan="2">Self-Help Resources:<br><br>NASS DMA Guide: <a href="https://docs.google.com/document/d/1UzGxLU5Y7t6FO-yk_TZbYatkG_FuXfZljUnkvlQDDXU/edit" target="_blank" rel="noopener noreferrer">go.gov.sg/nass-dmaguide</a><br></td>
+		<td rowspan="2"><b>Self-Help Resources:</b><br>NASS DMA Guide: <a href="https://docs.google.com/document/d/1UzGxLU5Y7t6FO-yk_TZbYatkG_FuXfZljUnkvlQDDXU/edit" target="_blank" rel="noopener noreferrer">go.gov.sg/nass-dmaguide</a><br></td>
   </tr>
   <tr>
   </tr>
@@ -133,17 +130,17 @@ For more details [Click Here](/files/SOP%20for%20PDLP%20AP1%20webpage%20v1.pdf)
 <thead>
   <tr>
     <td></td>
-    <td>Help Desk Number:<br><br>6270 8281/6272 0088</td>
+		<td><b>Help Desk Number:</b><br><br>6270 8281/6272 0088</td>
     <td></td>
-    <td>Help Desk Operating Hours:<br><br>Blk 219, Henderson Road, #05-01, Henderson Industrial Park Singapore 159556<br>Mon – Thu: 0830 – 1730<br><br>Fri: 0830 – 1700<br><br>Closed on Sat, Sun &amp; Public Holidays</td>
+		<td><b>Help Desk Operating Hours:</b><br><br>Blk 219, Henderson Road, #05-01, Henderson Industrial Park Singapore 159556<br>Mon – Thu: 0830 – 1730<br><br>Fri: 0830 – 1700<br><br>Closed on Sat, Sun &amp; Public Holidays</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td></td>
-    <td>Help Desk Email:<br><br><a href="mailto:pdlpapple@asiapac.com.sg" target="_blank" rel="noopener noreferrer">pdlpapple@asiapac.com.sg</a></td>
+		<td><b>Help Desk Email:</b><br><br><a href="mailto:pdlpapple@asiapac.com.sg" target="_blank" rel="noopener noreferrer">pdlpapple@asiapac.com.sg</a></td>
     <td></td>
-    <td>Website:<br><br><a href="https://www.asiapac.com.sg/pld-apple/" target="_blank" rel="noopener noreferrer">https://www.asiapac.com.sg/pld-apple/</a></td>
+		<td><b>Website:</b><br><br><a href="https://www.asiapac.com.sg/pld-apple/" target="_blank" rel="noopener noreferrer">https://www.asiapac.com.sg/pld-apple/</a></td>
   </tr>
 </tbody>
 </table>
