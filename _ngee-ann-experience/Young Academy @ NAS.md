@@ -24,13 +24,13 @@ Students will go through the 3E process :
 
   
 
-ENGAGE
+###### ENGAGE
 
 Students are engaged with hands-on experiential learning activities.
 
   
 
-ENABLE
+###### ENABLE
 
 Build students’ self-efficacy through LE2D2 experience which allows them to
 
@@ -46,7 +46,7 @@ Build students’ self-efficacy through LE2D2 experience which allows them to
 
   
 
-EMPOWER
+###### EMPOWER
 
 Students to chart their own learning through the OSE2AL experience, which allows them to participate in Overseas immersion programmes and selected modules in Sports, Education &amp; Career Guidance programme, Elective Modules, Aesthetics and Life Skills modules.
 
