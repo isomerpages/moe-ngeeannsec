@@ -6,7 +6,7 @@ description: ""
 ### e-NAS
 
 <img src="/images/e-NAS%201.png" 
-     style="width:25%">
+     style="width:50%">
 
 In the event of school closure, Ngee Ann Secondary School (NAS) will operate digitally as e-NAS. 
 
