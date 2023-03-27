@@ -156,11 +156,12 @@ Proposed NAS PSG Events/Activities 2023
 
 **_NAS PSG will be most happy to have parents joining us at any juncture._**
 
+**Click [here](https://go.gov.sg/naspsg) for the PSG application form.**
+
 ##### **HOW TO CONTACT NAS PSG:**
 
 All official communication will be via email through the Secretary.<br>
 Please email to
-[**psg\_secretary@nass.moe.edu.sg**](mailto:psg_secretary@nass.moe.edu.sg)<br>
-or [Sign-up here](https://go.gov.sg/naspsg)
+[**psg\_secretary@nass.moe.edu.sg**](mailto:psg_secretary@nass.moe.edu.sg)
 
 Thank you.
