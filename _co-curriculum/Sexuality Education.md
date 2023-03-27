@@ -10,21 +10,21 @@ description: ""
 
 2. The **Goals** of Sexuality Education are to:
 
-(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+	(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
-(b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+	(b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+	(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
 3. The **Key Messages** of Sexuality Education are:
 
-(a) Love and respect yourself as you love and respect others;
+	(a) Love and respect yourself as you love and respect others;
 
-(b) Build positive relationships based on love and respect (which are the foundation for strong     families);
+	(b) Build positive relationships based on love and respect (which are the foundation for strong     families);
 
-(c) Make responsible decisions for yourself, your family and society; and
+	(c) Make responsible decisions for yourself, your family and society; and
 
-(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+	(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
@@ -34,9 +34,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 5. The subjects that incorporate topics on sexuality include:
 
-a. Science
+	a. Science
 
-b. Character and Citizenship Education (CCE)
+	b. Character and Citizenship Education (CCE)
 
 **Sexuality Education Lessons:**
 
@@ -60,12 +60,8 @@ b. Character and Citizenship Education (CCE)
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
+##### Secondary 1
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 1</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-e14l">UNIT</td>
@@ -103,12 +99,8 @@ b. Character and Citizenship Education (CCE)
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
+ ##### Secondary 2
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 2</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-e14l">UNIT</td>
@@ -146,12 +138,8 @@ b. Character and Citizenship Education (CCE)
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
+##### Secondary 3
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 3</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-e14l">UNIT</td>
@@ -189,12 +177,8 @@ b. Character and Citizenship Education (CCE)
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
+##### Secondary 4
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 4</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-e14l">UNIT</td>
@@ -238,12 +222,8 @@ b. Character and Citizenship Education (CCE)
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
+##### Secondary 5
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 5</span></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-e14l">UNIT</td>
