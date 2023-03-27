@@ -4,11 +4,9 @@ permalink: /links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise
 description: ""
 third_nav_title: Sec 1 Posting for 2023
 ---
-
-
 ![](/images/Sec1RegA.jpg)
 
-### Complete your Registration with Ngee Ann Sec
+## Complete your Registration with Ngee Ann Sec
 
 **Dear Secondary 1 students (2023 Intake),**  
 
