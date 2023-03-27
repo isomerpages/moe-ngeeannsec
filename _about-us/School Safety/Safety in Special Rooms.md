@@ -174,8 +174,6 @@ third_nav_title: School Safety
 *   Nails should be kept short and clean.
 *   Females with long hair should have it tied up neatly.
 *   Report all breakages and accidents such as cuts, burns to teacher in charge for immediate first aid treatment.  
-      
-    
 
 11. General housekeeping and following procedures:  
   
