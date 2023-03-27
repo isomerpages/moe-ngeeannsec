@@ -29,7 +29,6 @@ Hop on the Virtual School Tour to experience the campus!
 <hr>
 
 ### Explore NAS
-
 <a href="/ngee-ann-experience/e-openhouse/curriculum">
 <img src="/images/button1.png" alt="curriculum" style="width:50%">
 </a>
