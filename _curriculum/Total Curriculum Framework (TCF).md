@@ -17,11 +17,11 @@ We aim to nurture students who are future-ready through our future-oriented curr
 
 To these ends, our student outcomes are embodied in our goal of developing ‘A Future-Ready Learner’ and ‘A Forward-Looking Leader’ in every student.
 
-<hr><hr>
+<hr>
 
 <h3><center>The Ngee Ann Graduate.  A Future-Ready Learner.  A Forward-Looking Leader.</center></h3>
 
-<hr><hr>
+<hr>
 
 Future-Ready Learners seek to grow and stretch their potential with the growth mindset. Forward-Looking Leaders contribute to society in their own chosen fields. Together, these outcomes will equip our graduates to live, work, thrive and also make a positive difference to the communities they belong to, according to their own strengths and interests.
 
