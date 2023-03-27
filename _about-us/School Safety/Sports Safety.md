@@ -17,11 +17,11 @@ third_nav_title: School Safety
 3. Teachers will also ask students to identify themselves if they are unwell or had been sick two days prior to activity.  
   
 
-- 3.1 Students who are unwell on the day of the physical activity will be exempted. To better assist teachers in managing the situations, students should produce medical certificates or parents’ letters.  
+- Students who are unwell on the day of the physical activity will be exempted. To better assist teachers in managing the situations, students should produce medical certificates or parents’ letters.  
 
-- 3.2 For impromptu cases, teachers will assess by taking into account students’ physical attributes, as well as their signs and symptoms.  
+- For impromptu cases, teachers will assess by taking into account students’ physical attributes, as well as their signs and symptoms.  
 
-- 3.3 For students who were sick or not feeling well two days prior to the physical activity, teachers will also grant them exemption from participation to aid in their recovery.
+- For students who were sick or not feeling well two days prior to the physical activity, teachers will also grant them exemption from participation to aid in their recovery.
 
   
 4. It is the students’ responsibility and obligation to update teachers of their medical status.  
