@@ -12,9 +12,9 @@ third_nav_title: School Safety
 
 **Prior to Conducting of Activity**  
 
-2. Before the commencement of any activity, teachers will brief the involved students on the safety precautions to take. Students can stop and rest if they feel tired, breathless or unwell.  
+2) Before the commencement of any activity, teachers will brief the involved students on the safety precautions to take. Students can stop and rest if they feel tired, breathless or unwell.  
   
-3. Teachers will also ask students to identify themselves if they are unwell or had been sick two days prior to activity.  
+3) Teachers will also ask students to identify themselves if they are unwell or had been sick two days prior to activity.  
   
 
 - Students who are unwell on the day of the physical activity will be exempted. To better assist teachers in managing the situations, students should produce medical certificates or parents’ letters.  
@@ -24,9 +24,9 @@ third_nav_title: School Safety
 - For students who were sick or not feeling well two days prior to the physical activity, teachers will also grant them exemption from participation to aid in their recovery.
 
   
-4. It is the students’ responsibility and obligation to update teachers of their medical status.  
+4) It is the students’ responsibility and obligation to update teachers of their medical status.  
   
-5. Students will be taught warm-up and cool-down exercises, and will be expected to conduct them before and after physical activities, taking note of safe stretching and exercising techniques.  
+5) Students will be taught warm-up and cool-down exercises, and will be expected to conduct them before and after physical activities, taking note of safe stretching and exercising techniques.  
   
 **Being Aware of Environmental Hazards**  
   
