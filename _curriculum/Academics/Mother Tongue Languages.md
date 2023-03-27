@@ -30,59 +30,59 @@ The Chinese Language syllabus aims to:
 
   
 
-\- improve students’ language communication skills through the respective (MTL) programmes
+* improve students’ language communication skills through the respective (MTL) programmes
 
   
 
-\- enhance students’ socio-cultural appreciation skills through
+* enhance students’ socio-cultural appreciation skills through
 
-*   the development of positive values and outlook in life;  
+	*   the development of positive values and outlook in life;  
     
-*   the learning and imparting of cultural heritage;  
+	*   the learning and imparting of cultural heritage;  
     
-*   the emphasis on caring for family, society, country and the world; and   
+	*   the emphasis on caring for family, society, country and the world; and   
     
-*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
+	*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
     
 
-\- elevate students’ general communication skills by
+* elevate students’ general communication skills by
 
-*   using their creative and critical thinking abilities to analyse and solve problems;  
+	*   using their creative and critical thinking abilities to analyse and solve problems;  
     
-*   engaging in self-directed learning and inquiry;  
+	*   engaging in self-directed learning and inquiry;  
     
-*   applying information technology effectively in learning and social interaction; and  
+	*   applying information technology effectively in learning and social interaction; and  
     
-*   using appropriate social and emotional skills when managing their interrelationships and collaborative work with others.
+	*   using appropriate social and emotional skills when managing their interrelationships and collaborative work with others.
 
 ### Malay Language
 
 The Malay Language syllabus aims to: 
 
-\- improve students’ language communication skills through the respective (MTL) programmes
+* improve students’ language communication skills through the respective (MTL) programmes
 
   
 
-\- enhance students’ socio-cultural appreciation skills through
+* enhance students’ socio-cultural appreciation skills through
 
-*   the development of positive values and outlook in life;  
+	*   the development of positive values and outlook in life;  
     
-*   the learning and imparting of cultural heritage;  
+	*   the learning and imparting of cultural heritage;  
     
-*   the emphasis on caring for family, society, country and the world; and   
+	*   the emphasis on caring for family, society, country and the world; and   
     
-*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
+	*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
     
 
-\- elevate students’ general communication skills by
+* elevate students’ general communication skills by
 
-*   using their creative and critical thinking abilities to analyse and solve problems;  
+	*   using their creative and critical thinking abilities to analyse and solve problems;  
     
-*   engaging in self-directed learning and inquiry;  
+	*   engaging in self-directed learning and inquiry;  
     
-*   applying information technology effectively in learning and social interaction; and  
+	*   applying information technology effectively in learning and social interaction; and  
     
-*   using appropriate social and emotional skills when managing their interrelationships and collaborative work with others.
+	*   using appropriate social and emotional skills when managing their interrelationships and collaborative work with others.
 
 #### Special Programmes
 
