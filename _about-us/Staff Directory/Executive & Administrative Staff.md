@@ -4,8 +4,7 @@ permalink: /about-us/staff-directory/executive-n-administrative-staff/
 description: ""
 third_nav_title: Staff Directory
 ---
-<h3>Executive & Administrative Staff
-</h3>
+<h3>Executive & Administrative Staff</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
