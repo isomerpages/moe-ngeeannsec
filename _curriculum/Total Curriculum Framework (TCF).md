@@ -29,11 +29,11 @@ Future-Ready Learners seek to grow and stretch their potential with the growth m
 
 Guided by this clear vision of what we want in the Ngee Ann graduate and recognising the reality of a world of change and disruption, our NASS Total Curriculum Framework (TCF) steers the holistic education we provide to develop, support and challenge our students - to stretch their potential, anchor them in values, empower them to learn for life, and position them for the future. NAS’ Total Curriculum Framework is undergirded by four principles.
 
-<hr><hr>
+<hr>
 
 <h3><center>Future-Oriented | Strengths-Based | High-Tech &amp; High-Touch | Opportunities for All</center></h3>
 
-<hr><hr>
+<hr>
 
 We believe in helping students learn, grow and thrive in a technologically rich and socially connected learning environment. Our students experience learning that combines key knowledge with core competencies.&nbsp; At the same time, when they participate in the curriculum we design, they are able to discover, grow and learn based on their strengths and interests. Learning is shaped through our distinctive culture of ‘High Care, High Expectations’, innovation and character building. We provide opportunities for all through the socio-emotional support and targeted care we cater to all our students in terms of their overall development and well-being. Our teachers leverage current and research-backed pedagogies to enable breadth, depth and interconnections in student learning. These distinct components intersect, integrate and converge to achieve the desired student outcomes, as depicted in our microchip-based TCF shown below.
 
