@@ -21,17 +21,17 @@ Aesthetics Appreciation @ NAS is actualised through the Aesthetics Development F
 
   
 
-Level 1 Exposure: <br>
+###### Level 1 Exposure: <br>
 Students are exposed to a wide range of art forms and aesthetic activities which enables them to better appreciate the Arts. 
 
   
 
-Level 2 Experience:  <br>
+###### Level 2 Experience:  <br>
 Students participate actively through hands-on arts activities which enable them to develop aesthetic sensitivity, creativity, critical thinking and reflection. 
 
   
 
-Level 3 Excellence:  <br>
+###### Level 3 Excellence:  <br>
 Students talented in the Arts excel in their pursuit of the Fine Arts (IP & CCA) and Performing Arts (CCA).
 
   
