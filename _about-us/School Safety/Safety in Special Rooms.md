@@ -31,8 +31,7 @@ third_nav_title: School Safety
       
     
 9.  The right equipment or tool should be used for the right job and should be returned to its proper place after use. Extreme care should be exercised when handling sharp-pointed or sharp-edged tools.  
-      
-    
+
 10.  Injuries, however minor, should be given first-aid treatment and the injured should be immediately sent for medical attention, if necessary.  
       
     
@@ -99,8 +98,6 @@ third_nav_title: School Safety
       
     
 19.  Further details on experiments and activities that involve specific procedures, equipment or materials (like chemicals or microorganisms) are elaborated in the School Science Laboratory Safety Regulations issued to schools.  
-      
-    
 
 **Safety in Design & Technology Workshop**
 
@@ -123,7 +120,6 @@ third_nav_title: School Safety
       
     
 7.  Workshop safety rules to be observed by students are to be prominently displayed. The following can be used as a guide to working out the set of rules:  
-    
 
 *   Always use the right tool for the right job and return it to its proper place after use
 *   Exercise extreme care when handling sharp-pointed or sharp-edged tools
@@ -141,43 +137,31 @@ third_nav_title: School Safety
 **Safety in Nutrition and Food Science Room**
 
 1.  The student-teacher ratio in each food lab/kitchen for practical lessons must not exceed 20:1 to ensure safety. In the event that the ratio exceeds 20:1, risk assessment would need to be carried out to ensure that safety is not compromised.  
-      
-    
-2.  Only trained nutrition and food science teachers are allowed to conduct the practical lessons.  
-      
-    
-3.  Safety briefings are conducted at least once a year and rules are highlighted at the beginning of each semester. These rules and signs are prominently displayed in the food laboratories / kitchens.  
-        
-    
-4.  All windows and doors in the NFS Rooms have to be open and free from obstructions during practical session to ensure proper ventilation and to allow for an evacuation in the event of an emergency at all times.  
-      
-    
-5.  All staff and students should be familiarised with the evacuation route. Evacuation route and passage ways must not be obstructed at all times, in case of emergency.  
-      
-    
-6.  All chairs should be kept away when practical session is on-going to prevent obstruction and tripping.  
-      
-    
-7.  NFS Rooms are equipped with first-aid boxes containing an adequate supply of updated basic first-aid items. All injuries should be well documented and reported to relevant authorities.  
-      
-    
-8.  Ensure that a fire extinguisher is placed at accessible location in every food laboratory / kitchen. They should be in good working order and ready for use. They must be in fully operational condition at all times.  
-      
-    
-9.  Safety rules should be highlighted at the beginning of each semester and are to be prominently displayed in the food laboratories / kitchens.  
-      
-    
-10.  The following are detailed guidelines for :
 
+2.  Only trained nutrition and food science teachers are allowed to conduct the practical lessons.  
+
+3.  Safety briefings are conducted at least once a year and rules are highlighted at the beginning of each semester. These rules and signs are prominently displayed in the food laboratories / kitchens.  
+
+4.  All windows and doors in the NFS Rooms have to be open and free from obstructions during practical session to ensure proper ventilation and to allow for an evacuation in the event of an emergency at all times.  
+
+5.  All staff and students should be familiarised with the evacuation route. Evacuation route and passage ways must not be obstructed at all times, in case of emergency.  
+
+6.  All chairs should be kept away when practical session is on-going to prevent obstruction and tripping.  
+
+7.  NFS Rooms are equipped with first-aid boxes containing an adequate supply of updated basic first-aid items. All injuries should be well documented and reported to relevant authorities.  
+
+8.  Ensure that a fire extinguisher is placed at accessible location in every food laboratory / kitchen. They should be in good working order and ready for use. They must be in fully operational condition at all times.  
+
+9.  Safety rules should be highlighted at the beginning of each semester and are to be prominently displayed in the food laboratories / kitchens.  
+
+10.  The following are detailed guidelines for :
 *   General appearance and behaviour:
 *   Every student and teacher should wear an apron and covered non-slip shoes during practical sessions.
 *   Nails should be kept short and clean.
 *   Females with long hair should have it tied up neatly.
-*   Report all breakages and accidents such as cuts, burns to teacher in charge for immediate first aid treatment.  
+*   Report all breakages and accidents such as cuts, burns to teacher in charge for immediate first aid treatment.
 
-11. General housekeeping and following procedures:  
-  
-
+11. General housekeeping and following procedures:
 *   All appliances and equipment (especially stoves, ovens and fire extinguishers) should be stored properly when not in use, well-maintained (usage, cleaning and storage) and serviced annually.
 *   Do not overload electrical systems. Electrical wiring should be in good condition to prevent short circuit and fire hazard. Students must not touch electrical appliances with wet hands.
 *   Teachers and students must be familiar with the operating instructions of cooking appliances (such as steamer, food processor, oven, etc.).
@@ -187,13 +171,9 @@ third_nav_title: School Safety
 *   Teachers are aware of the proper procedures to dispose of broken and sharp equipment.
 *   All stoves and ovens must be properly switched off when not in use.
 *   Access to the gas control valve at the gas meter should be kept clear from obstruction.
-*   All gas control valves and electrical mains should be turned off when not in use.  
-      
-    
+*   All gas control valves and electrical mains should be turned off when not in use. 
 
 12. Food preparation and cooking and using of tools and equipment:  
-  
-
 *   Always wash hands with water and soap.
 *   Clean surfaces and wash utensils before and after use.
 *   Clean up spills on the floor immediately to prevent slips or falls.
@@ -206,62 +186,44 @@ third_nav_title: School Safety
 *   Students should not have access to sharp-pointed / sharp-edged equipment. They should only be issued by the teacher during practical lessons when needed and kept in a cabinet under lock and key after use.
 *   Use separate chopping boards and crockery when preparing raw and cooked food to prevent cross contamination.
 *   Students should not taste raw / undercooked food, cooked food should be covered and thawed food must not be re-frozen for use to prevent possible food poisoning.  
-      
-    
 
 13. Food science experiments and using personal protective equipment:  
-  
-
 *   Toxic chemicals should not be used when conducting food science experiments.
 *   Potentially dangerous experiments must not be conducted, e.g. testing the smoking points of fats. Safety goggles should be worn when conducting potentially dangerous food science experiments (e.g. addition of mild acids to observe protein denaturation).
 
 **Safety in Art Rooms**
 
 1.  Teachers must ensure that safety precautions are factored in the planning of art lessons/activities in the art room. If the art lessons/activities are conducted by external instructors, teachers are to ensure that the instructors comply with safety measures.  
-      
-    
+
 2.  A briefing on possible risks and safety precautions in the art room must be conducted during the first lesson/activity of the year. Reminders on safety precautions are to be carried out in subsequent lessons/activities. Separate briefings are to be conducted for students who are absent for the initial briefing.  
-      
-    
+
 3.  Tools/equipment in the art room must only be used under close supervision of the teacher. Students must be briefed on the proper use of tools/equipment. At no point should a student be given access to sharp-pointed/sharp-edged tools/equipment unless issued and supervised by teacher during art lessons. All issued tools/equipment should be collected and accounted for after use. Students should not possess any personal sharp-pointed/sharp-edged tools (e.g. penknife).  
-      
-    
+
 4.  The following measures must be put in place when conducting lessons involving volatile, hazardous and/or flammable materials:  
-    
 
 *   Ensure good ventilation by keeping windows open, particularly when using materials such as cement/clay, varnish/thinners, heated lead and wax;
 *   Avoid accumulation of dust from materials such as clay, glaze, plaster, wood and fibre glass. Ensure that tables are wiped and working areas are wet mopped regularly;
 *   Ensure students use spray paints, glazes, adhesives, fixatives, etc., in a spray booth, where available. If a spray booth is unavailable, these materials should only be used in well-ventilated space or outdoor areas; and
 *   Ensure students use protective gear such as safety glasses, dust or respiratory masks, ear plugs, gloves and aprons when using materials and equipment that may cause toxic fumes, burns, flying chips or corrosion.  
-      
-    
 
-5. The following measures are to be taken to prevent tripping:  
-
+5. The following measures are to be taken to prevent tripping:
 *   Keep the floor dry and free of clutter at all times;
 *   Store tripping hazards such as loose wires, extension cords and strings when not in use;
 *   Place electrical equipment close to power outlets;
 *   Fasten or tape wires onto surfaces (e.g. table top or floor) with duct tape; and
 *   Minimise students’ movement in the art room.  
-      
-    
 
 6. The following measures are to be taken during lessons/activities involving hot wax (e.g. Batik painting/printing, candle-making):
-
 *   Ensure good ventilation during lessons/activities. Windows must be opened;
 *   Ensure students put on protective gear such as respiratory masks, safety glasses and aprons.
 *   The use of induction stoves are strongly recommended as they have safety features that reduce the risk of burns.
 *   The use of heavy-based stainless steel pots are strongly recommended as they are more stable. Do not use the following:
-
 * Saucepans with long single handles; and
-*  Lightweight pots (e.g. aluminium pots).
-*   Watch out for signs of overheating, such as fumes and bubbling of hot wax.
-*   Ensure that no more than 3 students are sharing an appliance for melting wax at any one time  
-      
-    
+* Lightweight pots (e.g. aluminium pots).
+* Watch out for signs of overheating, such as fumes and bubbling of hot wax.
+* Ensure that no more than 3 students are sharing an appliance for melting wax at any one time  
 
 7. To avoid accidents and burn-related injuries caused by tripping, the following regulations must be adhered to:
-
 *   No walking space between power outlets and appliances;
 *   Place appliances on stable worktops which are set against the walls where the appliances are plugged into. Where possible, induction stoves should be secured onto indented worktops to prevent them from getting dislodged;
 *   Do not fill pots to more than half their capacity to prevent spillage; and
