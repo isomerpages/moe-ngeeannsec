@@ -20,7 +20,7 @@ Can’t visit us on this date? Fret not! We will bring NAS to you via our e-Open
 
 
 
-<h3><center>NAS is a School of Possibilities and a Home to Grow In.</center></h3>
+<h4><center><b>NAS is a School of Possibilities and a Home to Grow In.</b></center></h4>
 
 Explore NAS, our signature stretch programmes, our student development and leadership programmes, our facilities and what makes us NAS.
 
