@@ -4,8 +4,9 @@ permalink: /curriculum/educational-technology-in-nas/
 description: ""
 third_nav_title: Educational Technology in NAS
 ---
-_"We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."_&nbsp;~ David Warlick  
-  
+_**"We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."**_&nbsp;~ David Warlick  
+ 
+<hr>
 
 Ngee Ann Secondary. Through teaching and learning in an ICT&nbsp;enriched environment, we aim to:&nbsp;  
 
@@ -14,14 +15,14 @@ Ngee Ann Secondary. Through teaching and learning in an ICT&nbsp;enriched enviro
 2. Develop&nbsp;**Computational Thinkers**&nbsp;with a disposition for creating technology to contribute actively to society, and  
 3. Educate digital citizens that are&nbsp;**Responsible Digital Learners**&nbsp;through inculcating Cyber Wellness.
 
-<img style="width:40%" src="/images/Ed%20Tech%20diagram.png">
+<img style="width:60%" src="/images/Ed%20Tech%20diagram.png">
 
 
 This is aligned to the school’s mission of Expanding Minds,&nbsp;
 
 Building Character and Shaping Lives, as illustrated in Fig 1:
 
-<img style="width:60%" src="/images/Ed%20Tech%20diagram%202.png">
+<img style="width:80%" src="/images/Ed%20Tech%20diagram%202.png">
 		 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
