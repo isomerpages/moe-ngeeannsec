@@ -3,9 +3,7 @@ title: Total Curriculum Framework (TCF)
 permalink: /curriculum/total-curriculum-framework-tcf/
 description: ""
 ---
-**Ngee Ann Secondary School**&nbsp;  
-
-**_Guiding Principles_**
+#### **Ngee Ann Secondary School Guiding Principles**
 
 In line with our strategic focus to be ‘A School of Possibilities and A Home to Grow In’ for every child, our Ngee Ann curriculum is designed with two considerations in mind – the student and the future.&nbsp;
 
