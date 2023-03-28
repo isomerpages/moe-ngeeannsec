@@ -1,0 +1,18 @@
+collections:
+  ngee-ann-experience:
+    output: true
+    order:
+      - Ngee Ann Experience.md
+      - CHAMPS.md
+      - SPARKS.md
+      - Enhanced Art Programme.md
+      - Young Academy @ NAS.md
+      - Interdisciplinary Project Work (IPW).md
+      - Aesthetics Appreciation @ NAS.md
+      - Outdoor Education.md
+      - E–OpenHouse/.keep
+      - E–OpenHouse/e–OpenHouse.md
+      - E–OpenHouse/Curriculum.md
+      - E–OpenHouse/Co–Curriculum.md
+      - E–OpenHouse/Culture.md
+      - E–OpenHouse/Facilities.md

@@ -1,0 +1,8 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Student Leadership.md
+      - Character & Citizenship Education (CCE).md
+      - Sexuality Education.md
+      - Guidance Modules.md

@@ -1,0 +1,44 @@
+---
+title: Principal's Message
+permalink: /about-us/principals-message/
+description: ""
+---
+<img src="/images/Mr%20Teo%20Kok%20Hong.jpg" style="width:40%">
+
+Welcome.  
+
+### **Celebrating 2022 with Thanksgiving!**
+
+We look back on 2022 counting our blessings, with much we can be grateful for! With COVID easing, our students engaged in a whole slew of rich learning experiences, both in and outside school. CCA came back in fuller force, along with other learning journeys, day-camps, competitions, Skills Discovery Electives, NASEdVentures, and concerts and talent time, such as Tapestry and “It’s Show Time”. There were also performances in the community, from Theatres by the Bay to Jewel at Changi Airport, not to forget the National School Games! Everything was held in-person! In short, holistic education powered back with opportunities galore, and NASians savoured all of them to benefit from a more rounded school life.  
+  
+Our students have continued to do well across the different areas of their passions and pursuits. Be it in their co-curricular activities, or the science, math, tech, art and humanities arenas, students have continued to celebrate their strengths and stretch their potential through various platforms beyond academic assessments. We are making good strides in International Chess as well. One can see not a few students using their iPads to play chess on campus for recreation. Chess Club students also enjoy sparring over the chessboard, finding their place among the East Zone Powerhouses. 2022 also saw us welcome our pioneer batch of students offering Full Subject-Based Banding (FSBB) and the launch of the Sentinel Programme with our partners, where students plug into the emerging tech field of cybersecurity, as part of their Technopreneur talent development programme.  
+  
+If there is a student theme that stood out for 2022, it must be that of students taking charge. The advent of Student Initiated Learning (SIL) had students traversing down diverse pathways of joyful learning, according to their interest and inquiry. Even as SIL saw students baking, rubik-cubing, or even mastering magic tricks, they learnt the competencies of self-directed learning when they go through the paces to plan, pursue, and monitor their learning progress to achieve their goals. The fortnightly Class Time, a for-students-by-students initiative, where class and peer leaders organised well-being and bonding activities for their classmates, has successfully promoted a positive class culture through ground-up peer action. Students also continued to exercise agency, and use their personal voice for good through championing causes, such as teaching digital literacy for seniors in partnership with IMDA and Kampong Chai Chee or promoting sustainability awareness through “bench art” with National Parks and the National Library Board. It’s powerful when students take charge!  
+  
+We also celebrate the Graduating Class of 2022! They had surpassed their seniors and outdone themselves to do well in the GCE examinations, despite navigating COVID over the past 3 years! Like earlier cohorts of NASians, they are well-positioned to pursue their desired post-secondary aspirations and work towards their dreams! Congratulations, Class of 2022! Go forth and shine! Remember to give back and pay it forward in your own way!  
+  
+In 2022, we also celebrate the selfless care and commitment of our Ngee Ann staff family! The NAS staff had continued to embody the spirit of continuous care, learning, innovation and service excellence. Mr Neo Guang Xian, the architect of NAS Computing, was conferred the 2022 National Day Commendation Medal with 4 staff receiving the Long Service Medal. 5 teachers were recognised with the Caring Teachers Award given by the National Institute of Education. A bumper crop of 26 staff were also affirmed with the MOE Service Excellence Awards in 2022! Mrs Theresa Lai, our School Staff Developer, and Mdm Ashikin Abdul Rahul, our Lead Teacher for Educational Support, were recognised as Associates of the Academy of Singapore Teachers (AST). For Mrs Lai, this would be her fourth AST award! Mr Muhamad Zahir was also affirmed with a Designer Badge by MOE’s Educational Technology Division, for sharing his lesson in using tech to enhance the teaching and learning of the Malay Language with the online Singapore Learning Designers Circle community. Through the Character and Citizenship Committee’s green drive, the school was also conferred the Singapore Kopsia Award under the School Green Awards. We are grateful for these affirmations and will continue to improve and innovate in our care and our craft, out of our love for our NASians.
+
+### **Charting 2023 with SteadfastNAS!**
+
+In 2023, we continue to forge ahead with extending our strengths-based curriculum to offer Full Subject-Based Banding to the entire lower secondary levels. Riding on our heritage and niche as a Future School, and powered by our established 1-1 Computing Programme, we will venture into pilot work on harnessing technology to further personalise learning for students by partnering MOE. We are also hatching a new partnership with the National Institute of Education to enhance STEM (Science, Tech, Engineering, Math) education for our Sec 3 learners in the Normal Technical course. Lastly, we will press on with our effort to gift students with the Growth Mindset, to lay a strong foundation for them as future-ready lifelong learners. We will continue to do all these in a culture of care, challenge and support for everyone.  
+  
+Indeed, we look forward to another exciting year of buzz and opportunities to grow for all, with our dynamic curriculum and vibrant campus life - the trademarks of an NAS education. Find out more about NAS’ philosophy and brand of education by clicking on the [link](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf) at the end of this page.  
+
+  
+In 2023, we have added additional learning spaces to further support students. 4 meeting rooms have been built in the school library that students may use for consultations or project discussions. Our brand-new Student Leadership Room for our student leaders is near completion. We have also added a Ngee Ann Kongsi and Teochew Culture Heritage wall on campus, a visual reminder to students to live out our Ngee Ann DNA of gratitude and service to community. These new facilities are the latest in our series of infrastructural enhancements since 2019, which include the SPARKS studio, our collaborative space for STEM education, the 2 COMPASS rooms, dedicated to supporting students with additional learning needs, PARIO - our creative Design and Technology Studio, our Classroom of the Future (sPACE) for pedagogical innovations, our NAS25 School Heritage Wall, the High-Volume Low-Speed Fans in the Indoor Sports Hall, and our all-weather sheltered walkway linking the Tampines East MRT to our school compound. With our firm belief that the learning environment is the important third teacher for our students - after their teachers and peers - we will continue to innovate and design learning spaces to kindle the learning juices of our students!
+
+### **Creating Your Next Story**
+
+As you look forward, what do you hope for and aspire towards? What story would you create for yourself? For us at Ngee Ann, it is our ever-stronger resolve to live out our mission to teach, touch and transform lives, undergirded by our hard work, teamwork and the growth mindset. We want to be defined by the positive difference we make to our students’ lives, and indeed to the lives of generations of youth who will pass through our gates. This resolve is embodied in our desired student outcome of the **Ngee Ann All Rounder** – to nurture each student into a **Future-Ready Learner** and **Forward-Looking Leader**. We do this by bringing out each student’s best through our culture of **High Care, High Expectations**, as we work tirelessly to be **A School of Possibilities, A Home to Grow In** for all our students.  
+  
+For our prospective students, have you ever thought about what you want in your secondary education? Are you looking to be an all-rounder? Or are you looking to discover your purpose and direction, making lifelong friends and cherished memories along the way? Perhaps you aspire to develop your unique strengths and interests, and use them to serve others? Or you simply desire to be ready for whatever the future may open up for you? If any of these is what you are looking for, I invite you to read on to find out more about who we are and what we offer, and whether we are the right fit for you.  
+  
+Wishing one and all a very blessed, exciting and fulfilling 2023!
+
+_Teo Kok Hong_
+
+Principal  <br>
+Ngee Ann Secondary School
+
+Click [here](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf) to find out more about NASS’ philosophy and brand of education.

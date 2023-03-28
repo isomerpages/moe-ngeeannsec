@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School logo with chinese characters.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Ngee Ann Experience
+    collection: ngee-ann-experience
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Links for Parents
+    collection: links-for-parents
+  - title: CCA
+    collection: cca
