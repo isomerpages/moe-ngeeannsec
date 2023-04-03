@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<img src="/images/Mr%20Teo%20Kok%20Hong.jpg" style="width:40%">
+![](/images/ps%20message%20image%202.jpeg)
 
 Welcome.  
 
@@ -23,14 +23,14 @@ In 2022, we also celebrate the selfless care and commitment of our Ngee Ann staf
 
 In 2023, we continue to forge ahead with extending our strengths-based curriculum to offer Full Subject-Based Banding to the entire lower secondary levels. Riding on our heritage and niche as a Future School, and powered by our established 1-1 Computing Programme, we will venture into pilot work on harnessing technology to further personalise learning for students by partnering MOE. We are also hatching a new partnership with the National Institute of Education to enhance STEM (Science, Tech, Engineering, Math) education for our Sec 3 learners in the Normal Technical course. Lastly, we will press on with our effort to gift students with the Growth Mindset, to lay a strong foundation for them as future-ready lifelong learners. We will continue to do all these in a culture of care, challenge and support for everyone.  
   
-Indeed, we look forward to another exciting year of buzz and opportunities to grow for all, with our dynamic curriculum and vibrant campus life - the trademarks of an NAS education. Find out more about NAS’ philosophy and brand of education by clicking on the [link](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf) at the end of this page.  
+Indeed, we look forward to another exciting year of buzz and opportunities to grow for all, with our dynamic curriculum and vibrant campus life - the trademarks of an NAS education. Find out more about NAS’ philosophy and brand of education by clicking on the&nbsp;[link](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf)&nbsp;at the end of this page.  
 
   
 In 2023, we have added additional learning spaces to further support students. 4 meeting rooms have been built in the school library that students may use for consultations or project discussions. Our brand-new Student Leadership Room for our student leaders is near completion. We have also added a Ngee Ann Kongsi and Teochew Culture Heritage wall on campus, a visual reminder to students to live out our Ngee Ann DNA of gratitude and service to community. These new facilities are the latest in our series of infrastructural enhancements since 2019, which include the SPARKS studio, our collaborative space for STEM education, the 2 COMPASS rooms, dedicated to supporting students with additional learning needs, PARIO - our creative Design and Technology Studio, our Classroom of the Future (sPACE) for pedagogical innovations, our NAS25 School Heritage Wall, the High-Volume Low-Speed Fans in the Indoor Sports Hall, and our all-weather sheltered walkway linking the Tampines East MRT to our school compound. With our firm belief that the learning environment is the important third teacher for our students - after their teachers and peers - we will continue to innovate and design learning spaces to kindle the learning juices of our students!
 
 ### **Creating Your Next Story**
 
-As you look forward, what do you hope for and aspire towards? What story would you create for yourself? For us at Ngee Ann, it is our ever-stronger resolve to live out our mission to teach, touch and transform lives, undergirded by our hard work, teamwork and the growth mindset. We want to be defined by the positive difference we make to our students’ lives, and indeed to the lives of generations of youth who will pass through our gates. This resolve is embodied in our desired student outcome of the **Ngee Ann All Rounder** – to nurture each student into a **Future-Ready Learner** and **Forward-Looking Leader**. We do this by bringing out each student’s best through our culture of **High Care, High Expectations**, as we work tirelessly to be **A School of Possibilities, A Home to Grow In** for all our students.  
+As you look forward, what do you hope for and aspire towards? What story would you create for yourself? For us at Ngee Ann, it is our ever-stronger resolve to live out our mission to teach, touch and transform lives, undergirded by our hard work, teamwork and the growth mindset. We want to be defined by the positive difference we make to our students’ lives, and indeed to the lives of generations of youth who will pass through our gates. This resolve is embodied in our desired student outcome of the&nbsp;**Ngee Ann All Rounder**&nbsp;– to nurture each student into a&nbsp;**Future-Ready Learner**&nbsp;and&nbsp;**Forward-Looking Leader**. We do this by bringing out each student’s best through our culture of&nbsp;**High Care, High Expectations**, as we work tirelessly to be&nbsp;**A School of Possibilities, A Home to Grow In**&nbsp;for all our students.  
   
 For our prospective students, have you ever thought about what you want in your secondary education? Are you looking to be an all-rounder? Or are you looking to discover your purpose and direction, making lifelong friends and cherished memories along the way? Perhaps you aspire to develop your unique strengths and interests, and use them to serve others? Or you simply desire to be ready for whatever the future may open up for you? If any of these is what you are looking for, I invite you to read on to find out more about who we are and what we offer, and whether we are the right fit for you.  
   
@@ -41,4 +41,4 @@ _Teo Kok Hong_
 Principal  <br>
 Ngee Ann Secondary School
 
-Click [here](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf) to find out more about NASS’ philosophy and brand of education.
+Click&nbsp;[here](/files/NASS%20Philosophy%20and%20Brand%20of%20Education%202022.pdf)&nbsp;to find out more about NASS’ philosophy and brand of education.
