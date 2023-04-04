@@ -4,7 +4,7 @@ permalink: /about-us/staff-directory/teachers-by-department/
 description: ""
 third_nav_title: Staff Directory
 ---
-<h3>CRAFT & TECHNOLOGY</h3>
+<h3>CRAFT &amp; TECHNOLOGY</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -79,7 +79,7 @@ third_nav_title: Staff Directory
 </tbody>
 </table>
 
-<h3>ENGLISH LANGUAGE & LITERATURE</h3>
+<h3>ENGLISH LANGUAGE &amp; LITERATURE</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -601,12 +601,13 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mrs Siau Lena</td>
     <td class="tg-ktyi">HOD / Special Educational Needs</td>
   </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Mdm Yee See Ling</span></td>
-    <td class="tg-tsok"><span style="color:#222">Senior Special Educational Needs Officer</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-tsok"><span style="color:#222">Mdm Jamilah Binte Hamzah</span></td>
+    <td class="tg-tsok"><span style="color:#222">Special Educational Needs Officer</span></td>
+  </tr>
+	<tr>
+    <td class="tg-tsok"><span style="color:#222">Mr Jolen Ang </span></td>
     <td class="tg-tsok"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
   <tr>
@@ -628,10 +629,6 @@ third_nav_title: Staff Directory
   <tr>
     <td class="tg-tsok"><span style="color:#222">Mr Ng Yong Hong</span></td>
     <td class="tg-tsok"><span style="color:#222">Youth Worker</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Mr Thng Chin Ann</span></td>
-    <td class="tg-tsok"><span style="color:#222">Special Educational Needs Officer (Trainee)</span></td>
   </tr>
 </tbody>
 </table>
