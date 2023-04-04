@@ -2,7 +2,7 @@
 title: Art Club
 permalink: /co-curriculum/cca/art-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-ov6VP8OpiI346cUvjYZoZ_KQ-ZmrOjT4GgmZUzTzEjFQJQGbe0PjxV0xVyQkP4UCgLwDtgzCOFRK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -81,12 +81,12 @@ To develop students’ aesthetics abilities and appreciation of the Arts so as t
 <tbody>
   <tr>
     <td class="tg-baqh">Tuesday</td>
-    <td class="tg-baqh">3.15 pm – 5.45 pm</td>
+    <td class="tg-baqh">3.00 pm – 6.00 pm</td>
     <td class="tg-baqh">Art Studio 1</td>
   </tr>
   <tr>
     <td class="tg-baqh">Friday (Seasonal. For preparation of events, if any.)</td>
-    <td class="tg-baqh">2.30 pm – 5.00 pm</td>
+    <td class="tg-baqh">1.30 pm – 4.30 pm</td>
     <td class="tg-baqh"><span style="background-color:initial">Art Studio 1</span></td>
   </tr>
 </tbody>
