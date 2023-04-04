@@ -85,7 +85,7 @@ To develop students’ aesthetics abilities and appreciation of the Arts so as t
     <td class="tg-baqh">Art Studio 1</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Friday (Seasonal. For preparation of events, if any.)</td>
+    <td class="tg-baqh">Friday (Seasonal. For preparation of events, if any)</td>
     <td class="tg-baqh">1.30 pm – 4.30 pm</td>
     <td class="tg-baqh"><span style="background-color:initial">Art Studio 1</span></td>
   </tr>
