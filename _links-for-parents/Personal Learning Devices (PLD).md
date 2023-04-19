@@ -19,11 +19,11 @@ Insurance Policy and Coverage \[[Link](https://www.ngeeannsec.moe.edu.sg/files/I
 
 ##### AsiaPac Service Centre Location and Contact
 <br>
-Address: 219 Henderson Road <br>#05-01/02/03/04 Henderson Industrial Park 
+219 Henderson Road <br>#05-01/02/03/04 Henderson Industrial Park 
 <br>Singapore 159556
 <br>
 AsiaPac Hotline: (65) 6272 0088
-<br>Email: pdlp.support@asiapac.com.sg  
+<br>pdlp.support@asiapac.com.sg  
   
 
 #### Apple Stores Location and Contact
@@ -109,22 +109,19 @@ NASS iPad troubleshooting Guide: [go.gov.sg/nass-troubleshoot-guide](go.gov.sg/n
 ##### Device issues
 
 
-1.  Proceed to ICTHelpdesk@sPace.
+1.  Proceed to **ICTHelpdesk@sPace**.
     
 2.  Inform ICT staff regarding the issues (e.g storage space, ipad disabled, apps)
     
 3.  ICT Staff will troubleshoot and give necessary advice.
     
 
-1.  If everything is working fine, device will returned.
+- If everything is working fine, device will returned.
     
-2.  Device may be wiped to restore functionality. (Device data may be lost, data backup is recommended)
+- Device may be wiped to restore functionality. (Device data may be lost, data backup is recommended)
     
-3.  Students to seek Service via the Service Centres or Asiapac Fortnightly Servicing\*
-    
-
-  
-\*while waiting for the device to be service a temporary ipad will be loan during this period
+-  Students to seek Service via the Service Centres or Asiapac Fortnightly Servicing\*
+<br>\**while waiting for the device to be service a temporary ipad will be loan during this period*
 
 ##### Lost Device
 
@@ -143,29 +140,27 @@ NASS iPad troubleshooting Guide: [go.gov.sg/nass-troubleshoot-guide](go.gov.sg/n
 1.  Report to police&nbsp;
     
 2.  Inform school regarding lost\*
-    
 
-  
-
-\* ICT Staff will lock the ipad, provided that the device is not off and is connected to the wifi.
+\* *ICT Staff will lock the ipad, provided that the device is on and connected to the wifi.*
 
 ##### After Replacement/change of Devices
 
 
-###### Apple Authorized Service Centre:
+###### Via Apple Authorized Service Centre:
 
-Bring the ipad back to sPace for the staff to note down the new serial number.\*
+1. Bring the ipad back to sPace for the staff to note down the new serial number.\*
 
-ICT staff to check if the iPad is in MDM and proceed with necessary steps to ease the login process into the school apps (gmail, google classroom, apple id)
+2. ICT staff to check if the iPad is in MDM and proceed with necessary steps to ease the login process into the school apps (gmail, google classroom, apple id)
 
 ##### AsiaPac Fortnightly Servicing:
 
-Staff will contact student through email/ whatsapp to collect the ipad from sPace.
+1. Staff will contact student through email/whatsapp to collect the ipad from sPace.
 
-\*Period of repair may vary excluding the time it takes for collection/drop-off  
+\* *Period of repair may vary excluding the time it takes for collection/drop-off*
   
 
 ### FAQ
+
 **How do I replace a missing accessory?**
 <br>
 Parents can buy replacement accessories from Apple, AsiaPac or other retail shops.
