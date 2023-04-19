@@ -17,14 +17,13 @@ Insurance Policy and Coverage \[[Link](https://www.ngeeannsec.moe.edu.sg/files/I
 ### Service Centre Locations
 
 
-#### AsiaPac Service Centre Location and Contact
-
-
-Address: 219 Henderson Road #05-01/02/03/04 Henderson Industrial Park Singapore 159556
-
+##### AsiaPac Service Centre Location and Contact
+<br>
+Address: 219 Henderson Road <br>#05-01/02/03/04 Henderson Industrial Park 
+<br>Singapore 159556
+<br>
 AsiaPac Hotline: (65) 6272 0088
-
-Email: pdlp.support@asiapac.com.sg  
+<br>Email: pdlp.support@asiapac.com.sg  
   
 
 #### Apple Stores Location and Contact
@@ -167,32 +166,32 @@ Staff will contact student through email/ whatsapp to collect the ipad from sPac
   
 
 ### FAQ
-How do I replace a missing accessory?&nbsp;
-
+**How do I replace a missing accessory?**
+<br>
 Parents can buy replacement accessories from Apple, AsiaPac or other retail shops.
 
   
 
-Can students still send their devices to their AsiaPac’s service centres for repairs after the end of the warranty period and how will the charges be imposed?&nbsp;
-
+**Can students still send their devices to their AsiaPac’s service centres for repairs after the end of the warranty period and how will the charges be imposed?**
+<br>
 After the expiry of the device warranty period, students can still send their device to the service centre for repair. The charges quotation will be provided by the service centre and students/parents will have to decide whether to take up the repair based on the quotation received. Alternatively, students can consider going to alternative service centres (e.g. shops) to perform the repairs after the warranty is over.
 
   
 
-How long do I need to keep the device’s original packaging before discarding it?&nbsp;
-
+**How long do I need to keep the device’s original packaging before discarding it?**
+<br>
 Please keep the device’s original packaging for at least 7 days in case of defects and proceed to 1-to-1 exchange at the AsiaPac Service Centre.
 
   
 
-What is considered as an Accidental damage?
-
+**What is considered as an Accidental damage?**
+<br>
 AppleCare defines accidental damages as damage from handling resulting from an unexpected and unintentional external event (such as, drops and damage caused by liquid contact). If it is found that the damages is caused by accidental damage, a service fee is required. This includes damages found during repair such as internal water damage.
 
   
 
-My Apple pencil isn’t working, how do I check if it is faulty?
-
+**My Apple pencil isn’t working, how do I check if it is faulty?**
+\
 Examine your iPad settings and the apple pencil condition:
 
 1.  If the Apple pencil is not able to write but can still be connected and charged. Change the nib of the pencil with the spare nib that is given in the apple box.
