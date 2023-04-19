@@ -30,7 +30,7 @@ Email: pdlp.support@asiapac.com.sg
 #### Apple Stores Location and Contact
 
 
-Apple Store Jewel
+**Apple Store Jewel**
 <br>78 Airport Boulevard
 <br>#02-234
 <br>Singapore, 819666
@@ -38,22 +38,22 @@ Apple Store Jewel
 
   
 
-Apple Store Orchard
+**Apple Store Orchard**
 <br>270 Orchard Road
 <br>Singapore, 238857
 <br>1800 699 2824  
   
 
-Apple Store Marina Bay Sands
+**Apple Store Marina Bay Sands**
 <br>2 Bayfront Avenue, B2-06
 <br>Singapore, 018972
 <br>1800 407 4949
 
-#### Apple Authorized Service Centre Location and Contact
+#### Apple Authorized Service Centre (ASC) Location and Contact
 
 ##### Nearest A.Lab ASC
 
-A.LAB @Changi City Point
+**A.LAB @Changi City Point**
 <br>5 Changi Business Park Central 1
 <br>#01-55 Changi City Point
 <br>Singapore 486038
@@ -63,7 +63,7 @@ A.LAB @Changi City Point
   
 
 ##### Nearest QCD ASC
-QCD@Westgate
+**QCD@Westgate**
 <br>3 Gateway Drive, #01-42
 <br>Singapore 608532
 <br>+65 6515 2010
