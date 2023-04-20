@@ -3,157 +3,205 @@ title: Personal Learning Devices (PLD)
 permalink: /links-for-parents/personal-learning-devices-pld/
 description: ""
 ---
-**_Only for Sec 1, 2 & 3 of 2023)_**
+*Only for Sec 1, 2 &amp; 3 of 2023)*
+### **Personal Learning Device (PLD)**
+<table><tbody><tr><td>
+	<img src="/images/Bundle%20ipad.png">
+	</td><td>
+- iPad 8th/9th Generation<br>
+- Apple Pencil 1st Generation<br>
+- Logitech Rugged Combo 3
+</td></tr></tbody></table>
 
-### Personal Learning Device (PLD)
+### **Device Warranty &amp; Insurance**
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="111"><col width="250"><col width="263"></colgroup><tbody><tr style="background-color:#5FC8D6;"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><b>Device/accessories</b></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><b>Warranty</b></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><b>Insurance</b></td></tr><tr><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">iPad</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
+AppleCare+ for iPad<br>
+3 Years Coverage
+</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">Sum insured Equivalent to unit price of device<br>
+(2 Repair/1 Replacement)<br>
+3 Years Coverage</td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">Keyboard Case</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">AsiaPac Warranty (unlimited)</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">Not covered</td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">Apple Pencil</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">AppleCare+ shared with iPad<br>
+3 Years Coverage</td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">Not covered</td></tr></tbody></table>
 
-<table>
-<thead>
-  <tr>
-    <td rowspan="3"><img src="/images/Bundle%20ipad.png" 
-     style="width:100%"></td>
-    <td>iPad 8th Generation</td>
-  </tr>
-  <tr>
-    <td>Apple Pencil 1st Generation</td>
-  </tr>
-  <tr>
-    <td>Logitech Rugged Combo 3</td>
-  </tr>
-</thead>
-</table>
+AppleCare+ Policy and Coverage \[[Link](https://www.apple.com/sg/legal/sales-support/applecare/applecareplus/apac-en/)\]<br>
+Insurance Policy and Coverage \[[Link](https://www.ngeeannsec.moe.edu.sg/files/Insurance%20and%20Warranty%20for%20PDLP%20AP1%20Webpage%20v1.pdf)\]
 
-### PLD Insurance and Warranty information
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Insurance＊</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Warranty</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222">The device insurance coverage includes:</span><br><span style="color:#222">Damage to or loss of device from the following which are non-manufacturer defects or internal mechanical faults:</span><br>- Fire<br>- Lightning<br>- Power Surges<br>- Accidental e.g water spillage, drop etc<br>- Theft due to forcible entry<br>- Robbery</td>
-    <td class="tg-muqq">AppleCare+ for Schools<br><span style="color:#222">AppleCare+ for Schools provides a 3-year coverage for iPad, Apple Pencil, and includes the following:</span><br>- iPad<br>- Battery that retains less than 80 percent of its original capacity<br>- Included USB cable and power adapter<br>- Apple Pencil<br>- Logitech Rugged Combo 3<br>- Up to two incidents of accidental damage per year</td>
-  </tr>
-</tbody>
-</table>
-
-_＊The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device._
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Enhanced Device Bundle</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-i38w">✓ <span style="color:#222;background-color:#F2F9FF">3-year insurance + 3-year AppleCare+</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">✓ <span style="color:#222;background-color:#F2F9FF">Allows for 2 repairs or 1 replacement</span></td>
-  </tr>
-</tbody>
-</table>
+### **Service Centre Locations**
 
 
-_**Note:** Once insurance is claimed for a replacement device, the insurance coverage will cease and the replacement device will not be covered by insurance._
+<h4> AsiaPac Service Centre Location and Contact</h4>
+219 Henderson Road <br>#05-01/02/03/04 Henderson Industrial Park 
+<br>Singapore 159556
+<br>
+AsiaPac Hotline: (65) 6272 0088
+<br>pdlp.support@asiapac.com.sg  
+  
 
-For more details [Click Here](/files/Insurance%20and%20Warranty%20for%20PDLP%20AP1%20Webpage%20v1.pdf).
-
-
-### Standard Operating Procedure (SOP)
-
-**Detailed steps on how to seek technical assistance can be viewed below.**  
-*   Reporting of Device Issues
-*   Reporting of Lost Devices
-*   Replacement/Change of Device
-
-For more details [Click Here](/files/SOP%20for%20PDLP%20AP1%20webpage%20v1.pdf).
-
-### In-School Helpdesk & Device Management Application(DMA) Support
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">ICT Helpdesk @sPACE</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="8"><img src="/images/Picture1.png" 
-     style="width:100%"></td>
-		<td rowspan="3"><b>Operating Day(s):</b>  Mondays to Fridays<br><b>Operating Hours:</b> 2.30 pm to 4.30 pm<br><b>Location:</b> Blk B Level 3 (Special Rooms)</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-		<td rowspan="3"><b>Services</b><br>- School account password reset<br>- Passcode unlock<br>- Unlock from sleep mode</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-		<td rowspan="2"><b>Self-Help Resources:</b><br>NASS DMA Guide: <a href="https://docs.google.com/document/d/1UzGxLU5Y7t6FO-yk_TZbYatkG_FuXfZljUnkvlQDDXU/edit" target="_blank" rel="noopener noreferrer">go.gov.sg/nass-dmaguide</a><br></td>
-  </tr>
-  <tr>
-  </tr>
-</tbody>
-</table>
-
-### AsiaPac Contact Information
-
-<table>
-<thead>
-  <tr>
-    <td></td>
-		<td><b>Help Desk Number:</b><br><br>6270 8281/6272 0088</td>
-    <td></td>
-		<td><b>Help Desk Operating Hours:</b><br><br>Blk 219, Henderson Road, #05-01, Henderson Industrial Park Singapore 159556<br>Mon – Thu: 0830 – 1730<br><br>Fri: 0830 – 1700<br><br>Closed on Sat, Sun &amp; Public Holidays</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td></td>
-		<td><b>Help Desk Email:</b><br><br><a href="mailto:pdlpapple@asiapac.com.sg" target="_blank" rel="noopener noreferrer">pdlpapple@asiapac.com.sg</a></td>
-    <td></td>
-		<td><b>Website:</b><br><br><a href="https://www.asiapac.com.sg/pld-apple/" target="_blank" rel="noopener noreferrer">https://www.asiapac.com.sg/pld-apple/</a></td>
-  </tr>
-</tbody>
-</table>
+#### Apple Stores Location and Contact
 
 
+**Apple Store Jewel**
+<br>78 Airport Boulevard
+<br>#02-234
+<br>Singapore, 819666
+<br>1800 407 4948
 
-### Frequently Asked Questions
+  
 
-**How do I replace a missing accessory?** <br>
+**Apple Store Orchard**
+<br>270 Orchard Road
+<br>Singapore, 238857
+<br>1800 699 2824  
+  
+
+**Apple Store Marina Bay Sands**
+<br>2 Bayfront Avenue, B2-06
+<br>Singapore, 018972
+<br>1800 407 4949
+
+#### Apple Authorized Service Centre (ASC) Location and Contact
+
+##### Nearest A.Lab ASC
+
+**A.LAB @Changi City Point**
+<br>5 Changi Business Park Central 1
+<br>#01-55 Changi City Point
+<br>Singapore 486038
+<br>+65 6784 1318
+<br>a.lab@alab.sg
+
+  
+
+##### Nearest QCD ASC
+**QCD@Westgate**
+<br>3 Gateway Drive, #01-42
+<br>Singapore 608532
+<br>+65 6515 2010
+<br>support_westgate@qcd-tech.com
+
+  
+
+### **In-School Helpdesk &amp; Device Management Application(DMA) Support**
+
+
+#### ICT Helpdesk @sPACE
+
+
+![](https://lh3.googleusercontent.com/Uy6oN9lNm2NZJLCGhWxCLKJSgGKJxBeOv_e6HlXgQwIe5pcsGA4ddXyOBMe7h_x9a6gp1jFwwTPUGzv_tzAGKMbCwHELnRC260LTl7gu_GHERdruMwclHOOfVE1BlgiUGrXSfVZnc8T_5p2QKMRg3HA)
+
+Operating Day(s): Mondays to Fridays&nbsp;
+<br>
+Operating Hours: 2.30 pm to 4.30 pm
+<br>
+Location: Blk B Level 3 (Special Rooms)
+
+
+Whatsapp: +65 6229 6762
+<br>
+Email: nass_helpme_ict@moe.edu.sg
+
+  
+
+<b>Services:</b><br>
+- School account password reset
+- Passcode unlock
+- Unlock from sleep mode
+- Troubleshooting&nbsp;
+- PLD fortnightly collection/dropoff
+
+##### Self-Help Resources:
+NASS DMA Guide: [go.gov.sg/nass-dmaguide](go.gov.sg/nass-dmaguide)
+<br>
+NASS iPad troubleshooting Guide: [go.gov.sg/nass-troubleshoot-guide](go.gov.sg/nass-troubleshoot-guide)
+
+  
+
+### **How to get help (SOP)**
+##### Device issues
+
+
+1.  Proceed to **ICTHelpdesk@sPace**.
+    
+2.  Inform ICT staff regarding the issues (e.g storage space, ipad disabled, apps)
+    
+3.  ICT Staff will troubleshoot and give necessary advice.
+    
+
+- If everything is working fine, device will returned.
+    
+- Device may be wiped to restore functionality. (Device data may be lost, data backup is recommended)
+    
+-  Students to seek Service via the Service Centres or Asiapac Fortnightly Servicing\*
+<br>\**while waiting for the device to be service a temporary ipad will be loan during this period*
+
+##### Lost Device
+
+
+###### Lost in school
+
+1.  Track back steps on last class/ visited venue.
+    
+2.  Check with the General Office(GO), if anyone has pass them the items.
+    
+
+  
+
+###### Lost outside school
+
+1.  Report to police&nbsp;
+    
+2.  Inform school regarding lost\*
+
+\* *ICT Staff will lock the ipad, provided that the device is on and connected to the wifi.*
+
+##### After Replacement/change of Devices
+
+
+###### Via Apple Authorized Service Centre:
+
+1. Bring the ipad back to sPace for the staff to note down the new serial number.\*
+
+2. ICT staff to check if the iPad is in MDM and proceed with necessary steps to ease the login process into the school apps (gmail, google classroom, apple id)
+
+##### AsiaPac Fortnightly Servicing:
+
+1. Staff will contact student through email/whatsapp to collect the ipad from sPace.
+
+\* *Period of repair may vary excluding the time it takes for collection/drop-off*
+  
+
+### **FAQ**
+
+**How do I replace a missing accessory?**
+<br>
 Parents can buy replacement accessories from Apple, AsiaPac or other retail shops.
 
-**Can students still send their devices to their AsiaPac’s service centres for repairs after the end of the warranty period and how will the charges be imposed?** <br>
+  
+
+**Can students still send their devices to their AsiaPac’s service centres for repairs after the end of the warranty period and how will the charges be imposed?**
+<br>
 After the expiry of the device warranty period, students can still send their device to the service centre for repair. The charges quotation will be provided by the service centre and students/parents will have to decide whether to take up the repair based on the quotation received. Alternatively, students can consider going to alternative service centres (e.g. shops) to perform the repairs after the warranty is over.
 
-**How long do I need to keep the device's original packaging before discarding it?** <br>
-Please keep the device's original packaging for at least 7 days in case of defects and proceed to 1-to-1 exchange at the AsiaPac Service Centre.
+  
+
+**How long do I need to keep the device’s original packaging before discarding it?**
+<br>
+Please keep the device’s original packaging for at least 7 days in case of defects and proceed to 1-to-1 exchange at the AsiaPac Service Centre.
+
+  
+
+**What is considered as an Accidental damage?**
+<br>
+AppleCare defines accidental damages as damage from handling resulting from an unexpected and unintentional external event (such as, drops and damage caused by liquid contact). If it is found that the damages is caused by accidental damage, a service fee is required. This includes damages found during repair such as internal water damage.
+
+  
+
+**My Apple pencil isn’t working, how do I check if it is faulty?**
+\
+Examine your iPad settings and the apple pencil condition:
+
+1.  If the Apple pencil is not able to write but can still be connected and charged. Change the nib of the pencil with the spare nib that is given in the apple box.
+    
+2.  If the Apple pencil is not able to charge or detected on ipad the ipad, use the the adapter given in the apple box and connect it to the pencil and the ipad charger for 1-2mins. If it retains the charge, proceed to use as usual. However if it remains undetectable, the device is considered faulty.
+    
+
+\*Note: Even though this is an internal issue. Any physical damages found on the pencil may be considered by the technicians as being caused by an accidental damage.
