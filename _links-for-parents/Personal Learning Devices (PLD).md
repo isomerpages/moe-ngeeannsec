@@ -5,7 +5,7 @@ description: ""
 ---
 *Only for Sec 1, 2 &amp; 3 of 2023)*
 ### **Personal Learning Device (PLD)**
-<table><tbody><tr><td><img style="margin-left:0px;margin-top:0px;" height="151" width="278" src="https://lh5.googleusercontent.com/LR3KR3gS9V4MS9M-m3pgZ3W32Tkmwgaxgm3-zc8bg35jVyWwrfvbPLEqODRAGzo8ZFa5CWZQG6YmZ2achFTcFoPJhUXWj__2shxMituJ6Re8zOhq09ADNXiQt2pKZSkwzk0EYZSyRk1lrw9sKmEK9Tc"></td><td>
+<table><tbody><tr><td><img src="/images/Bundle%20ipad.jpg" style="width:70%"></td><td>
 - iPad 8th/9th Generation<br>
 - Apple Pencil 1st Generation<br>
 - Logitech Rugged Combo 3
