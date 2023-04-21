@@ -18,7 +18,7 @@ sections:
         - title: Release of 2022 GCE N-Level Examination Results
           description: ""
           url: /links-for-parents/release-of-2022-gce-n-level-examination-results
-        - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2022
+        - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2023
           description: ""
           url: /links-for-parents/direct-school-admission-dsa-exercise-2023
       subtitle: A School of Possibilities, A Home to Grow In
