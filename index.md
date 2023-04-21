@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Ngee Ann Secondary School
       background: /images/hero-banner-no-words-with-line.gif
-      button: Contact Us
-      url: /contact-us/
+      button: DSA2023
+      url: /links-for-parents/direct-school-admission-dsa-exercise-2023
       key_highlights:
         - title: Release of 2022 GCE O-Level Examination Results
           description: ""
@@ -20,7 +20,7 @@ sections:
           url: /links-for-parents/release-of-2022-gce-n-level-examination-results
         - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2022
           description: ""
-          url: /links-for-parents/direct-school-admission-dsa-exercise-2022
+          url: /links-for-parents/direct-school-admission-dsa-exercise-2023
       subtitle: A School of Possibilities, A Home to Grow In
   - infobar:
       title: A School Of Possibilities; A Home To Grow In
