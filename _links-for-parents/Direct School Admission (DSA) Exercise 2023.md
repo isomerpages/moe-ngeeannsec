@@ -8,7 +8,7 @@ description: ""
 Do you have a strength, interest or talent area we are looking for? 
 Do you think that Ngee Ann Secondary School will be a good fit for you? 
 
-The Ngee Ann Secondary School Direct School Admission (DSA-Sec) to Secondary One in 2024 is open to interested applicants. 
+The Ngee Ann Secondary School Direct School Admission (DSA-Sec) to Secondary One in 2023 is open to interested applicants. 
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023, 11am - 31 May 2023, 3pm**. For more details, please refer to MOE website –
 [MOE website](http://www.moe.gov.sg/dsa-sec.)
@@ -159,4 +159,4 @@ In addition, each talent areas will have their own shortlisting criteria:
 ### Enquiries
 
 For more information about our programmes and CCAs, please visit our school website.
-<br>For other enquiries, please direct your email to, with subject heading as “DSA matters: General” or “DSA matters: *Specific talent area*” to nass@moe.edu.sg.
+<br>For other enquiries, please direct your email to, with subject heading as **“DSA matters: General”** or **“DSA matters: *Specific talent area*”** to nass@moe.edu.sg.
