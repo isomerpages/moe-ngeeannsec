@@ -109,9 +109,9 @@ Email: nass_helpme_ict@moe.edu.sg
 - PLD fortnightly collection/dropoff
 
 ##### Self-Help Resources:
-NASS DMA Guide: [go.gov.sg/nass-dmaguide](go.gov.sg/nass-dmaguide)
+NASS DMA Guide: [go.gov.sg/nass-dmaguide](https://go.gov.sg/nass-dmaguide)
 <br>
-NASS iPad troubleshooting Guide: [go.gov.sg/nass-troubleshoot-guide](go.gov.sg/nass-troubleshoot-guide)
+NASS iPad troubleshooting Guide: [go.gov.sg/nass-troubleshoot-guide](https://go.gov.sg/nass-troubleshoot-guide)
 
   
 
