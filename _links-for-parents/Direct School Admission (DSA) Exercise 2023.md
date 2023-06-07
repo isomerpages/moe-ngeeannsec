@@ -267,4 +267,5 @@ Dates: Last week of July till entire of August (Estimated, to be confirmed)
 ### Enquiries
 
 For more information about our programmes and CCAs, please visit our school website.
-<br>For other enquiries, please direct your email to, with subject heading as **“DSA matters: General”** or **“DSA matters: *Specific talent area*”** to nass@moe.edu.sg.
+
+For other enquiries, please direct your email to, with subject heading as **“DSA matters: General”** or **“DSA matters: Specific talent area”** to nass@moe.edu.sg.
