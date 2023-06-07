@@ -155,7 +155,8 @@ In addition, each talent areas will have their own shortlisting criteria:
 </tbody>
 </table>
 
- ### DSA-Sec Talent Shortlisting Criteria
+### DSA-Sec Talent Shortlisting Criteria
+
 #### Part One: Selection Process
 All shortlisted students will be invited to the school for a selection test, an audition or
 trials. Students will be assessed on their ability to play the game or instrument, as well
