@@ -216,7 +216,7 @@ The details for the selection tests, auditions and or trials are as follow:
 
 ##### What to expect during auditions, trials and selection tests?
 
-###### Coding
+###### **Coding**
 
 (i) Applicants are expected to do a Multiple-Choice Question test which assesses
 aptitude in computational thinking skills. Programming language will not be
@@ -232,7 +232,7 @@ familiar with it.&nbsp;
 bass/cello, they can borrow it from our school. Contact the teacher-in-charge to
 make the necessary arrangements ahead of time.
 
-###### Badminton, Basketball, Volleyball:
+###### **Badminton, Basketball, Volleyball:**
 (i) Applicants are to turn up in sporting attire (appropriate t-shirt, sporting shorts and
 comfortable sports shoes) as well as bring along their water bottles.
 
@@ -243,7 +243,7 @@ comfortable sports shoes) as well as bring along their water bottles.
 (iv) Assessors will be looking at applicant’s ability to play the game and the potential
 for coaching.
 &nbsp;&nbsp;
-###### Wushu
+###### **Wushu**
 (i) Applicants are to turn up in wushu training attire (any t-shirt, wushu pants and
 wushu shoes).
 
@@ -256,7 +256,7 @@ asked to showcase half of the&nbsp;routines.&nbsp;
 they do not have their own weapons, they should inform teacher in-charge
 beforehand so that he or she can have them prepared.
 
-#### Part Two: Interview
+#### **Part Two: Interview**
 Successful applicants from the selection process will be required (they will be notified)
 to attend an interview session.
 
