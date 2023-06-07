@@ -155,6 +155,8 @@ In addition, each talent areas will have their own shortlisting criteria:
 </tbody>
 </table>
 
+<br>
+
 ### DSA-Sec Talent Shortlisting Criteria
 
 #### Part One: Selection Process
