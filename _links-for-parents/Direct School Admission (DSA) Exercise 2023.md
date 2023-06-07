@@ -3,7 +3,7 @@ title: Direct School Admission (DSA) Exercise 2023
 permalink: /links-for-parents/direct-school-admission-dsa-exercise-2023/
 description: ""
 ---
-*(This document is correct as of 03 May 2023)*
+*(This document is correct as of 26 Jun 2023)*
 
 Do you have a strength, interest or talent area we are looking for? 
 Do you think that Ngee Ann Secondary School will be a good fit for you? 
