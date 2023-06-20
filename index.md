@@ -22,6 +22,13 @@ sections:
           description: ""
           url: /links-for-parents/release-of-2022-gce-n-level-examination-results
       subtitle: A School of Possibilities, A Home to Grow In
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/nass
+      alt: Image alt text
+      image: /images/nass-askgov1.png
   - infobar:
       title: A School Of Possibilities; A Home To Grow In
       description: Welcome to Ngee Ann Secondary School e-Open House!
@@ -34,10 +41,4 @@ sections:
         functions
       button: Click here
       url: /links-for-parents/parents-gateway
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/nass
-      alt: Image alt text
 ---
