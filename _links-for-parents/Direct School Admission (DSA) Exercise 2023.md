@@ -208,7 +208,7 @@ The details for the selection tests, auditions and or trials are as follow:
 		</tr>
 		<tr>
 			<td>Wushu<br>(Boys and Girls)</td>
-			<td>04 Jul (Tue)<br>07 Jul (Fri)</td>
+			<td>07 Jul (Fri)<br> 11 Jul (Tue)</td>
 			<td>2.30 to 5pm<br>4 to 5.30pm</td>
 			<td>Indoor Sports Hall (ISH)<br>Multi-Purpose Hall (MPH)</td>
 		</tr>
