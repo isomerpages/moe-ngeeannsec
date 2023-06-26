@@ -3,7 +3,7 @@ title: Direct School Admission (DSA) Exercise 2023
 permalink: /links-for-parents/direct-school-admission-dsa-exercise-2023/
 description: ""
 ---
-*(This document is correct as of 03 May 2023)*
+*(This document is correct as of 26 Jun 2023)*
 
 Do you have a strength, interest or talent area we are looking for? 
 Do you think that Ngee Ann Secondary School will be a good fit for you? 
@@ -155,8 +155,118 @@ In addition, each talent areas will have their own shortlisting criteria:
 </tbody>
 </table>
 
+### DSA-Sec Talent Shortlisting Criteria
+
+#### Part One: Selection Process
+All shortlisted students will be invited to the school for a selection test, an audition or
+trials. Students will be assessed on their ability to play the game or instrument, as well
+as their potential. Do note that you only need to attend **ONE** of these selection tests.
+
+Students should come prepared with their instrument, equipment and/or sports attire or
+school uniform. They should report to the school’s general office and will be directed to
+the respective venues.
+
+The details for the selection tests, auditions and or trials are as follow:
+
+<table class="tg">
+	<thead><tr>
+    <th class="tg-dgl5">Talent Area</th>
+    <th class="tg-dgl5">Date (Day)</th>
+    <th class="tg-dgl5">Time</th>
+    <th class="tg-dgl5">Venue</th>
+  </tr></thead>
+	<tbody>
+		<tr>
+			<td>Coding</td>
+			<td>27 Jun (Tue)<br>06 Jul (Thu)</td>
+			<td>3.30 to 4.30pm<br>3.30 to 4.30pm</td>
+			<td>Computer Labs<br>Computer Labs</td>
+		</tr>
+		<tr>
+			<td>Chinese Orchestra</td>
+			<td>20 Jul (Thu)<br>25 Jul (Tue)</td>
+			<td>3.30 to 6.30pm</td>
+			<td>Auditorium</td>
+		</tr>
+		<tr>
+			<td>Badminton<br>(Boys and Girls)</td>
+			<td>27 Jun (Tue)<br>05 Jul (Wed)</td>
+			<td>4 to 5pm</td>
+			<td>Multi-Purpose Hall (MPH)</td>
+		</tr>
+		<tr>
+			<td>Basketball<br>(Boys only)</td>
+			<td>30 Jun (Fri)<br>05 Jul (Wed)</td>
+			<td>4 to 5pm</td>
+			<td>Indoor Sports Hall (ISH)</td>
+		</tr>
+		<tr>
+			<td>Volleyball<br>(Girls only)</td>
+			<td>30 Jun (Fri)<br>06 Jul (Thu)</td>
+			<td>2 to 3pm<br>4 to 5pm</td>
+			<td>Indoor Sports Hall (ISH)</td>
+		</tr>
+		<tr>
+			<td>Wushu<br>(Boys and Girls)</td>
+			<td>07 Jul (Fri)<br> 11 Jul (Tue)</td>
+			<td>2.30 to 5pm<br>4 to 5.30pm</td>
+			<td>Indoor Sports Hall (ISH)<br>Multi-Purpose Hall (MPH)</td>
+		</tr>
+	</tbody>
+	</table>
+
+##### What to expect during auditions, trials and selection tests?
+
+###### **Coding**
+
+(i) Applicants are expected to do a Multiple-Choice Question test which assesses
+aptitude in computational thinking skills. Programming language will not be
+assessed.
+Chinese Orchestra
+
+(i) Applicants are required to prepare a 1-3min piece of their choice for the audition.
+
+(ii) Applicants are advised to bring their own instruments (if any) as they are more
+familiar with it.&nbsp;
+
+(iii) However, if they do not have an instrument, especially bulky ones like the
+bass/cello, they can borrow it from our school. Contact the teacher-in-charge to
+make the necessary arrangements ahead of time.
+
+###### **Badminton, Basketball, Volleyball:**
+(i) Applicants are to turn up in sporting attire (appropriate t-shirt, sporting shorts and
+comfortable sports shoes) as well as bring along their water bottles.
+
+(ii) Badminton players are to bring their own rackets.
+
+(iii) Be prepared to play the game.&nbsp;
+
+(iv) Assessors will be looking at applicant’s ability to play the game and the potential
+for coaching.
+&nbsp;&nbsp;
+###### **Wushu**
+(i) Applicants are to turn up in wushu training attire (any t-shirt, wushu pants and
+wushu shoes).
+
+(ii) Be prepared to showcase basic moves, splits, jumps etc.
+
+(iii) Prepare up to two routines that they are most confident in. Applicants will be
+asked to showcase half of the&nbsp;routines.&nbsp;
+
+(iv) Applicants can bring their own weapons if they are showcasing that routine. If
+they do not have their own weapons, they should inform teacher in-charge
+beforehand so that he or she can have them prepared.
+
+#### **Part Two: Interview**
+Successful applicants from the selection process will be required (they will be notified)
+to attend an interview session.
+
+Dates: Last week of July till entire of August (Estimated, to be confirmed)
+<br>Venue: Ngee Ann Secondary School Conference Room
+<br>Time: From 3 pm onwards
  
 ### Enquiries
 
 For more information about our programmes and CCAs, please visit our school website.
-<br>For other enquiries, please direct your email to, with subject heading as **“DSA matters: General”** or **“DSA matters: *Specific talent area*”** to nass@moe.edu.sg.
+
+For other enquiries, please direct your email to, with subject heading as **“DSA matters: General”** or **“DSA matters: Specific talent area”** to nass@moe.edu.sg.

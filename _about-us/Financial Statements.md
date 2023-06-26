@@ -3,6 +3,8 @@ title: Financial Statements
 permalink: /about-us/financial-statements/
 description: ""
 ---
+*   [Financial Statement 2022.pdf](/files/financial%20statement%202022.pdf)/ pdf 143kB
+
 *   [Financial Statement 2021.pdf](/files/Financial%20Statement%202021.pdf)/ pdf 139kB
     
 *   [Financial Statement 2020.pdf](/files/Financial%20Statement%202020.pdf)/ pdf 406kB
