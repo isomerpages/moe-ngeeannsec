@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 ---
 <img style="width:60%" src="/images/logo_r1.jpg">
 		 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOGEnj-iQUmvNwfaoi0p98zQe3hD2giJ4Asn2XPzMRaq19VbKfdn3B2DLjISpXWhOu0H5xuaO6Ssul/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1fevVvebPppgv0KzGbwuTJF3gP7fkvFnb3s3iJXQmxTs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 
