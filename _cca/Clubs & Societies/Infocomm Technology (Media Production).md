@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/infocomm-technology/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSq5crh6fsGE5w_brw8DCc0IxDiD7sx42c0wheti9yXy3uGZ5QQffS0dAJx2mt82qD8xgMGb3kz9bDy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1YOzuvRbKSmaRVl--NqZFqu0bYOhA-WwJY-9h1dV8Aw8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 
