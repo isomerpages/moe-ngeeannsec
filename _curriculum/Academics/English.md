@@ -136,7 +136,7 @@ Teachers-in-charge&nbsp;
 
 In Term 2 of 2021, Secondary 3 students were part of the level-wide programme to expose them to authentic speaking tasks. This activity was also aligned with their learning on expositions. In teams, students prepared for the motion by conducting collaborative discussions to create various compelling arguments, culminating in an actual class debate which was hosted and adjudicated by their own peers. Students learnt the value of acquiring good communication skills and exercised their ability to think critically when addressing an issue.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTy96UD5RSjoHxgu3RMfhedT9haYvTSYETOXxDc0gggmTgtOjYKAd06YQFylMcOMt2g47XVVN6PgpEl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1zzdCnWP2O9czoAJ6MOGoyPaLg7FPg7raJP10SYwU-Qc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Teachers-in-charge  
 
@@ -148,7 +148,7 @@ Teachers-in-charge
 
 WiREAD+ is a web-based, computer-supported collaborative reading and learning diagnostics environment. WiREAD+ was conceptualised with the objectives of developing critical reading skills, promoting self-directed learning and deepening student engagement with multi-modal texts. WiREAD+ was designed to provide students with the opportunity to engage with texts in a social environment, which would allow greater participation, critical thinking and engagement within a class.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRYSmodJaXUQLy447LgjuR_N0JDbW3STXZs5ciUIjbdPQlH7G9FBi9GB4q4FhUmX0Z88MLUa9KEaH1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1JMmI1nHbZpmRCY7sypaoJkxiK5ldeh-eouGDPFWStGo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Structure of the Programme**
 
