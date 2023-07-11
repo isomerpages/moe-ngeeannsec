@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/robotics/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4ICMvfK4R4a0WBByriUxStr8GL8V-O5Q_c4HldjIwoXB70aN2iekoEavUzEDsJuWdwL5tzmK-DmM7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/17yoFxXZxmkgpBhyGmkKNccInx1elDh94vpB2mdlSaMA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 
