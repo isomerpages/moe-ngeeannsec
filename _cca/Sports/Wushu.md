@@ -4,10 +4,9 @@ permalink: /co-curriculum/cca/wushu/
 description: ""
 third_nav_title: Sports
 ---
-
 <img style="width:70%" src="/images/Wushu-Banner02%20copy.jpg">
 		 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7oDagUVk6zyP4UFTKKsB7Ajhh6HhM-k7IYuCN6YwsMuTHRe3Bi_EVUFtdMmpthJ56EwhDR1azqm4Z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1PTHdnXUIf_pDQ3sKrK7Y-g3mJ1QyHHXWEq6Qz926uao/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 
