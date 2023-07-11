@@ -62,4 +62,4 @@ Building Character and Shaping Lives, as illustrated in Fig 1:
 
 Throughout your 4 years in Ngee Ann Secondary, you can expect to undergo challenges that stretch and prepare you with a variety of skills to cope with a Volatile, Uncertain, Complex and Ambigious future. Programmes are also planned to expose you to a variety of opportunities to acquire Computational Thinking so that you would be able to translate real life problems into problems solvable by a computer. Lastly, we aim to inculcate in you a moral compass to respect others over the internet, and empower you to advocate Cyber Wellness to fellow peers and set a positive example for all to follow.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRX59UqHkApg9R-ZIjB09QudQXfZgq-WnbH2c91dRO_n9y3dHsowpwPupBPLr9JTFYtTa9YZCkXuiFT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1AhUFayoTUDtWQK9zj4W1qym_3H432yy1eSzgYNzf7-k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
