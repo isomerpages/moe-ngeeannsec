@@ -39,4 +39,4 @@ We believe in helping students learn, grow and thrive in a technologically rich 
 		 
 Our Total Curriculum Framework is inspired from the chip that changed the world. The microchip is an apt metaphor for the Ngee Ann Curriculum to aspire towards, as a Future School. The microchip gets ever leaner and agile. It packs ever greater power and promise. Like the microchip, we aspire for our curriculum to continue to be lean, agile, yet filled with power and promise for our students - the mark of Ngee Ann’s ethos in curriculum design and development.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRwlAM_PG1fi6dTje_LkqFaePKuA_s-hU6O-rH4zxE6DXc7Bxixpgla9sIk-oc86S5lD0bqmxL4KJV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/10UAFPttlFnkM1JtaZ-DFGovo6LUzKF_xh7jpDiJvH2I/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
