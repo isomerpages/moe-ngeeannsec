@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/international-chess/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlw6hY-RskuZfbem-2qgx4U0im22fzrI5DLgmoJy3VQofB9Isxgx2xSmEx6ZG50zWt2iosJpVXED9O/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1OG45zDy_h1XZgxzToAXuKrM7zQEUQFZqEfhTwdvxH4Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 
