@@ -4,7 +4,7 @@ permalink: /curriculum/Academics/mathematics/
 description: ""
 third_nav_title: Academics
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0zXobgmVnRFx6Q2lrD6S5P5M-tE8yhewWeQ2RycRUbUz0cbrWggDEjMmDWrcZaCcr8XNDihUeY1eE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1UX4TIogdI8R01r4wY320mQltrVsIr5xavb67ZQyHDjI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Syllabus Objectives
 
