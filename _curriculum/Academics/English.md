@@ -120,7 +120,7 @@ Teachers-in-charge
 
 Book A Writer is Sing Lit Station's workshop-for-schools programme, featuring a roster of Singapore's most important writers at work today. This programme features a talk by local playwright Verena Tay, author for the Secondary Two Literature text – The Car and Other Plays. This programme was organized for the Secondary Two Express students to give them an opportunity to interact with Verena Tay, and for them to gain a deeper understanding of their text as well as gain an insight into the process of creative writing.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVAWk0WYWRVYg1DPk3rjTvzPhIKeKwMTXz7ZApSd2-dDP_6pE2vXgD6I5UmpbFtGcI_623zdHKZBgk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/19xrRjk_96k7vdIaQH7A3TXC7olDrMio_T94k9IjixJE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Structure of the Programme**  
 
