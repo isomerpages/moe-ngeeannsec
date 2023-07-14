@@ -4,7 +4,7 @@ permalink: /curriculum/Academics/science/
 description: ""
 third_nav_title: Academics
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR44CYqeXOJRgD-LqPw40URu2m4mEw_2j6xjTyETWZNJJm6lc1yXGEreFeaDUX4IuCnkeXxDOMxyOJ4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1kzk7oASGsOJLrd6ilnKZ_GZ96wCK0qUC8L7sdc2wZqU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Syllabus Objectives
 
@@ -31,7 +31,7 @@ The curriculum design seeks to enable students to view the pursuit of science as
 
 ##### Physics @ iFLY
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRds7VwcNhwodcJ4yWxIYX6llAqJawDrMQMj-CsgIm1BdJW1cJp2Y-rd-Ecr9svVP1_WFur0bKonYnd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1MSzuy05WQTJpu4i-b_8kLlwqYHMeuscBLIsEvOUf-lE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### Science Learning Journeys
 

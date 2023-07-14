@@ -4,7 +4,7 @@ permalink: /curriculum/Academics/ICT/
 description: ""
 third_nav_title: Academics
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIgclVEaXk1iYikqDZDr5Msp8vjwjydTdsND1E32yoK3mXLYTprAinDkziV6MCR4-72mMcfdXpNWNe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1yYuT0TkOaARh20WJouk_axdF1V34_TWJHX-5ONE7yBE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Syllabus Objectives
 

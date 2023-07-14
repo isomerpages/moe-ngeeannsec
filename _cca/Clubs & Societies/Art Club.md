@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-ov6VP8OpiI346cUvjYZoZ_KQ-ZmrOjT4GgmZUzTzEjFQJQGbe0PjxV0xVyQkP4UCgLwDtgzCOFRK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1uui4MQcbNJdEcVHRO5ex65zQwdmNWyoq-aJqizyJF24/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us&nbsp;&nbsp;
 

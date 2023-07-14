@@ -4,7 +4,7 @@ permalink: /curriculum/academics/craft-and-technology/
 description: ""
 third_nav_title: Academics
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIKqCrUGatRhwFbBq3ZCt_HjwV7k7FQcgW8EehqkPt7ULOr_D1-n-8miQsgjFd5XlZAdjNvJcrqY34/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/19jeeYVlmHAhYd9PDoyG-aqCkXSAdCsARsICeAqJ1UPo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Syllabus Objectives
 
@@ -72,7 +72,7 @@ The syllabus aims to enable students to:
 2.  3D printing technologies  
 3.  Maker Faire
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwLW5vn3IrioMXrxJPMgQ_1H7KsmDZ0mm-6hOWLWTD3Rkm7wDil62Zq7zzuRZvD0kLbHNCFk2MUc6Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1p00vyfVyMWWm5axjJ-DILft8fGRKObswv5DCnkKFnYs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Achievements
 

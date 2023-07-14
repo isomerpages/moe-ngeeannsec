@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXitsQ-l5-4ht2K5A_PXg7e7ruyQ6Oft1dgaCkEZKRe86lCTl793G6DdLzxMaAGyhIOoA5OLj8eLuH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/17jzuETZNcCFkhqO_FASercU5u1UlO6YpolYOhkxMYtI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About Us
 

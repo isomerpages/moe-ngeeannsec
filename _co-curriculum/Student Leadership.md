@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /co-curriculum/student-leadership/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXEY6V8S_3Y2OO_21nho6jQPfl83BR4G64eu1-wj4De1cJI1ggqg0Z7H53rBSUgk10wNepCVE-szG5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1m6mkH4bsYcgY1ZuMwYt4w-yWWYm4zZjVw29CS0sk5F0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Every NASian, a SUPER youth.
 
@@ -120,4 +120,4 @@ Sports Leaders: Mr Lai Hon Kit Chris, Mr Ong Zixiang
 
 CCA Leaders: Ms Evelyn Koh Ruiyin
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFmbhuwhX-_-mEyFgmjSJnWNmKim0lCT_4mHfV5p7QXtUdeQwjSyVb5Tvu5Eoj1GMi2VWys_UGKt6C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1CetbJiWXhmMVTiqcv6cAEPIHbF3_4xG5lkxsSlFI4wA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

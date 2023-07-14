@@ -3,7 +3,7 @@ title: Young Academy @ NAS
 permalink: /ngee-ann-experience/young-academy-at-nas/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4sTrqzwzTVD2h3yqLb_0FLl0DP-N5BYNWra8LcWngWZTuo_sveYj0it2xpVkYerUp1V4wc77U6i1m/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1jS5uvzw2EZnBcee85Pe6SqagWXDYfSK-PPAc2ezQbfA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 YouNG Academy @ NAS aims to cultivate the joy of learning in our Normal Course students and develop FUTURE-READY LEARNERS who seek to stretch and grow their potential. It strives to provide students with opportunities to discover and develop their strengths and interest with a growth mindset, and a key to open as many doors of opportunities as possible.  
 
@@ -63,4 +63,4 @@ If you would like to learn more about this programme, please email us at nass@mo
 
 ### Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6_7cI4OQtzADJF16KJszBwNhQGRHJK5meI3pWvsoQ0B1QQVY30qOImgXWzfaDzVi2rIxTKSN7nK74/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1RWs0UB6JX7SLamZb8qw1LDT5vAwOnx_gsjAYPtGPZJ0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

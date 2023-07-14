@@ -3,7 +3,7 @@ title: Guidance Modules
 permalink: /co-curriculum/guidance-modules/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQga8U72xd6vPghy3Td84K4dC8UGaDlGURbT1uDIpEKUFcX7zPV5JBZR713YuOE2u6u0cYY64lRgeSl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1ZlVWB2xWWZ2zMfOH7PCrltSGRphiuMSoRt3yygvKNbQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### About
 
@@ -26,12 +26,12 @@ III. Inculcate an appreciation for the value of all occupations and how they con
 
 <img style="width:60%" src="/images/download-1.png">
 
-### Education & Career Guidance  Counselling @ NAS
+### Education &amp; Career Guidance &nbsp;Counselling @ NAS
 
 Our ECG Counsellor, Mr Mohammed Syahril Bin Samsudin supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for smoother transition to further education or work. Students who would like to explore their subject choices, ask about post-secondary education options, or find out more about their career interests, strengths and passions can make an appointment to meet our ECG Counsellor.  
   
 
-An appointment can be made with the ECG Counsellor [here](https://form.gov.sg/5ff7bb7a31e54700114dd739) as well as via his email at 
+An appointment can be made with the ECG Counsellor&nbsp;[here](https://form.gov.sg/5ff7bb7a31e54700114dd739)&nbsp;as well as via his email at&nbsp;
 
 mohammed_syahril_samsudin@schools.gov.sg.  
   
