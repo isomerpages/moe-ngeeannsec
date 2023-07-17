@@ -115,5 +115,3 @@ _Nyugen Lam Melissa_,&nbsp;_Ng Jia Yu, Ayra Fatini_<br>_Ellisya Binte Yuslani_&n
 **Design &amp; Technology Awards 2023**  <br>
 _Ng Shin Rei Variel_&nbsp;\-&nbsp;&nbsp;Creative Adaptation Award<br>
 _Durrah Hazirah Binte Mohammad Yusri_&nbsp;\-&nbsp;Creative Aesthetics Award
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1h9S83ggv62FzNjFFT5u8a7pvDoChcdofxphm4U4XfuQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
