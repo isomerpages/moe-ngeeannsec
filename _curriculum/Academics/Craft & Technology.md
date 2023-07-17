@@ -79,17 +79,11 @@ The syllabus aims to enable students to:
 **Design &amp; Technology Awards 2015** <br>
 _Isabel Lim Ai Shan_&nbsp;– Creative Aesthetics Award
 
-  
-
 **Design &amp; Technology Awards 2017** <br>
 _Loo Yan Fu_&nbsp;– Creative Aesthetics Award
 
-  
-
 **Design &amp; Technology Awards 2019**  <br>
 _Irene Lee Ai Lin_&nbsp;– Creative Adaptation Award
-
-  
 
 **Live On Design Award Competition 2019**  <br>
 _Hannah Law Jing Yi_&nbsp;– 1st Prize (Secondary Category)
@@ -100,32 +94,26 @@ _Alisya Binte Mohamed_&nbsp;– 3rd Place, (Open Category)
 **13th Singapore National Junior Watercolor Competition 2019**  <br>
 _Hana Carlesater_&nbsp;– High Commended Prize (Secondary Category)
 
-  
-
 **SAM Project 2020 Short Film Competition**  <br>
-_Sarah Atiqah Binti Kamarudin, Cheah Yu Xi Trixie, Yalenchka Alya Putri_&nbsp;and&nbsp;_Ambrea Tan_&nbsp;– National Open Top 20 National Day Celebrations Showcase (Open Category)
-
-  
+_Sarah Atiqah Binti Kamarudin, Cheah Yu Xi Trixie, Yalenchka Alya Putri_&nbsp;&nbsp;and&nbsp;_Ambrea Tan_&nbsp;– National Open Top 20 National Day Celebrations Showcase (Open Category)
 
 **SRSM Road Safety Art Competition 2020**  <br>
 _Chong Hui Yi_&nbsp;– 3rd Prize (Secondary Category)
 
-  
-
 **Draw my Stamp Story Art Competition 2020**  <br>
 _Ma Yujia_&nbsp;– Silver (Secondary Category)
-
-  
 
 **Live On Design Award Competition 2020**  <br>
 _Tay En Tong_&nbsp;– Special Mention (Secondary Category)
 
-  
-
 **Tampines Town Council Drawing Competition “ Tampines Together # Tampines United”**  <br>
 _Chong Hui Yi_&nbsp;– Consolation Prize (Secondary Category)
 
-  
-
 **Asian Scientist Magazine "Celebrating our Healthcare Heroes" Art Competition 2021**  <br>
-_Nyugen Lam Melissa_,&nbsp;_Ng Jia Yu, Ayra Fatini_&nbsp;and&nbsp;_Ellisya Binte Yuslani_&nbsp;– Merit Prize (Secondary Category)
+_Nyugen Lam Melissa_,&nbsp;_Ng Jia Yu, Ayra Fatini_<br>_Ellisya Binte Yuslani_&nbsp;– Merit Prize (Secondary Category)
+
+**Design &amp; Technology Awards 2023**  <br>
+_Ng Shin Rei Variel_&nbsp;\-&nbsp;&nbsp;Creative Adaptation Award<br>
+_Durrah Hazirah Binte Mohammad Yusri_&nbsp;\-&nbsp;Creative Aesthetics Award
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1h9S83ggv62FzNjFFT5u8a7pvDoChcdofxphm4U4XfuQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
