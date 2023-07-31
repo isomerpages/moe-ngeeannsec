@@ -3,11 +3,13 @@ title: Message from the 24rd Student Council President
 permalink: /about-us/message-from-the-24rd-student-council-president/
 description: ""
 ---
+<img src="/images/24th%20SC%20President/hus_9231_scaled.jpg" style="width:80%">
+
 Hello, everyone.
 
 I am Caedmon Tan from 3R5 and I am the 24th President of the Student’s Council. I am very privileged and honoured to be appointed with the responsibility to serve as President. As I take on this role, I am reminded about the countless possibilities – both opportunities and challenges – that lie ahead of all Ngee Ann Students, for us to be the best that we can be. We must believe that we can overcome the challenges and reap the opportunities to achieve better things together for everyone. 
 
-‘I Can & I Care’ is our theme for Student Leaders’ Investiture 2023. In my opinion, it speaks powerfully to the heart of what it means to be a leader. It reaffirms that each of us has the potential to make a positive difference in the world. 
+‘I Can &amp; I Care’ is our theme for Student Leaders’ Investiture 2023. In my opinion, it speaks powerfully to the heart of what it means to be a leader. It reaffirms that each of us has the potential to make a positive difference in the world. 
 
 To me, leadership begins with ourselves. Believing in ourselves first, and then caring for others. To begin, we should first seek to be the best version of ourselves. When we strive to be our best, we are in a better position to positively impact those around us. We can definitely make a difference to the community around us, whether through academic excellence, community service, or leadership. We all have the ability to make a difference.  In tandem with believing in our abilities, we must also develop a genuine care for the success and well-being of those around us. As a community, we must always strive to support and encourage one another, to push each other to be the very best versions of ourselves. Let’s exercise High Care and High Expectations for one another!
 
