@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Message from the 24rd Student Council President.md
       - About Us.md
       - School Background & History.md
       - Mission and Vision.md
@@ -12,6 +11,7 @@ collections:
       - Staff Directory/Teachers by Department.md
       - Staff Directory/Teachers by Form Class.md
       - Staff Directory/Executive & Administrative Staff.md
+      - Message from the 24rd Student Council President.md
       - Message from the 23rd Student Council President.md
       - Achievements and Accolades.md
       - School Safety/.keep
