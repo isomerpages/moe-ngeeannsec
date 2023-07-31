@@ -35,8 +35,7 @@ I would like to thank everyone for putting their faith in my team and I. NASians
 
 Let us strive to be the best version of ourselves and serve with pride together.
 
-High Care, High Expectations,
-
+<b>High Care, High Expectations,</b><br>
 Caedmon Tan<br>
 24th President of the Student’s Council<br>
 Ngee Ann Secondary School
