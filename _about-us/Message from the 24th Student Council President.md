@@ -1,6 +1,6 @@
 ---
-title: Message from the 24rd Student Council President
-permalink: /about-us/message-from-the-24rd-student-council-president/
+title: Message from the 24th Student Council President
+permalink: /about-us/message-from-the-24th-student-council-president/
 description: ""
 ---
 <img src="/images/24th%20SC%20President/hus_9231_scaled.jpg" style="width:50%;max-width:300px;">
