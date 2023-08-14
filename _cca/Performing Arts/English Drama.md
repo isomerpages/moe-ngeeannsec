@@ -95,5 +95,5 @@ To develop a lifelong appreciation for theatre and performance arts.
 
 ### CCA Teachers-in-charge
 
-Ms Ng Mun Puay Kimberly  <br>
-Mr&nbsp;Muhamad Zahirrudin Bin Mohamad Ayub
+Mr Muhamad Zahirrudin Bin Mohamad Ayub <br>
+Ms Tengku Nur Athifah bte Tengku Azahar
