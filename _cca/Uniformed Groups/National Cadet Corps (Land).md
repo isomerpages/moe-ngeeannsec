@@ -101,5 +101,4 @@ through fun and challenging military-related activities.
 
 Mr Lio Ann Chyi Leon <br>
 Mr Khaizar Khuzema Shakir<br>
-Mr Wee Jun Wen<br>
 Ms Tan Xuewen Shavonne
