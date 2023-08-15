@@ -90,5 +90,4 @@ To promote and cultivate interests in Chinese Orchestral music.
 
 Ms Teo Siew Lian Rachel   <br>
 Mr Zhuang Junming Edwin     <br>
-Mdm Lee Chai Noi     <br>
-Ms Gale Tan
+Mdm Lee Chai Noi

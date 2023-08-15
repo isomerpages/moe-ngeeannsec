@@ -56,14 +56,14 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mr Zhuang Junming Edwin</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Gale Tan</td>
+    <td class="tg-ktyi">Ms Mariana Binte Yunus</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Commitment</td>
-    <td class="tg-ktyi">Miss Astrini Athirah Binti Alias</td>
+    <td class="tg-ktyi">Ms Tengku Nur Athifah bte Tengku Azahar</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Tengku Nur Athifah bte Tengku Azahar</td>
+    <td class="tg-ktyi">Mr Quek Meng Kiang</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Courtesy</td>
@@ -94,12 +94,10 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Izyan Rozana Bte Mohd Nejib</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2">1 Responsibility</td>
+    <td class="tg-ktyi" rowspan="1">1 Responsibility</td>
     <td class="tg-ktyi">Mrs Lock-Lian Wee Lee</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Wee Jun Wen</td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -149,12 +147,10 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Ms Cheng Pei Boon Stephanie</td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="2"> 2 Integrity</td>
+    <td class="tg-ktyi" rowspan="1"> 2 Integrity</td>
     <td class="tg-ktyi">Mr Tang Chee Wai Vincent</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Tan Foong Heng</td>
-  </tr>
+
   <tr>
     <td class="tg-ktyi" rowspan="2">2 Resilience</td>
     <td class="tg-ktyi">Ms Nashrah Binte Alwi</td>
@@ -243,7 +239,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mdm Koh Meng Geok</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mr Quek Meng Kiang</td>
+    <td class="tg-ktyi">Mdm Sarimah Binti Ahmad</td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">3R3</td>
@@ -260,13 +256,16 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mr Issac Koo Kok Kee</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">3R5</td>
+    <td class="tg-ktyi" rowspan="2">3R5</td>
     <td class="tg-ktyi">Ms Teo Siew Lian Rachel</td>
+  </tr>
+ <tr>
+    <td class="tg-ktyi">Mr Imran Khan Bin Mohd Arshad Khan</td>
   </tr>
 </tbody>
 </table>
 
-<h3>Secondary Four & Five</h3>
+<h3>Secondary Four &amp; Five</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

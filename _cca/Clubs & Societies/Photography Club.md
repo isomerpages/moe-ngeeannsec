@@ -76,5 +76,5 @@ First prize Winner: Ng Kai Ting, Tricia (Sec 4)
 
 ### CCA Teachers-in-charge
 
-Ms Astrini Athirah Bte Alias  <br>
-Mdm Nashita Binte Allaudin
+Mdm Nashita Binte Allaudin <br>
+Ms Mariana Binte Yunus

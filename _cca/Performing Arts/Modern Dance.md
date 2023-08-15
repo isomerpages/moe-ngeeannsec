@@ -93,4 +93,4 @@ Commitment ~ Inspiration ~ Dedication ~ Values
 ### CCA Teachers-in-charge
 
 Ms Hazimah Aslam Khan  <br>
-Ms Tengku Nur Athifah bte Tengku Azahar
+Mdm Sarimah Binti Ahmad

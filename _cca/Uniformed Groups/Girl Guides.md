@@ -85,5 +85,4 @@ To enable girls and young women to develop their fullest potential as responsibl
 
 Ms Shalini d/o Sukumaran&nbsp;  <br>
 Ms Juan Ying Li Pearlyn    <br>
-Ms Rina Tan Yi Qian    <br>
-Ms Izyan Rozana Bte Mohd Nejib
+Ms Rina Tan Yi Qian

@@ -57,14 +57,6 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Teacher / D&amp;T</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Astrini Athirah Bti Alias</td>
-    <td class="tg-ktyi">Teacher / Art</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Gale Tan</td>
-    <td class="tg-ktyi">Teacher / Music</td>
-  </tr>
-  <tr>
     <td class="tg-ktyi">Mr Tan Wei Zhong</td>
     <td class="tg-ktyi">Teacher / Art &amp; CPA</td>
   </tr>
@@ -75,6 +67,14 @@ third_nav_title: Staff Directory
   <tr>
     <td class="tg-ktyi">Ms Yip Wei San Dawn</td>
     <td class="tg-ktyi">Teacher / FCE (FAJT)</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi">Mr Ishak Bin Buang</td>
+    <td class="tg-ktyi">Teacher / Music (FAJT)</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi">Ms Karen Yeh</td>
+    <td class="tg-ktyi">Teacher / Art (FAJT)</td>
   </tr>
 </tbody>
 </table>
@@ -151,10 +151,6 @@ third_nav_title: Staff Directory
     <td class="tg-tsok"><span style="color:#222">Mdm Azlina Binte Abdul Samat</span></td>
     <td class="tg-tsok"><span style="color:#222">Teacher / EL (FAJT)</span></td>
   </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Mr Jonathan Chua Yi</span></td>
-    <td class="tg-tsok"><span style="color:#222">Teacher / EL (FAJT)</span></td>
-  </tr>
 </tbody>
 </table>
 
@@ -213,18 +209,6 @@ third_nav_title: Staff Directory
   <tr>
     <td class="tg-tsok"><span style="color:#222">Mr Tan Rou Ming</span></td>
     <td class="tg-tsok"><span style="color:#222">Teacher / Geography &amp; Social Studies</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Mr Wee Jun Wen</span></td>
-    <td class="tg-tsok"><span style="color:#222">Teacher / Social Studies &amp; EL</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Ms Fadillah Bte Mohamed Yuso</span></td>
-    <td class="tg-tsok"><span style="color:#222">Teacher / Geography (FAJT)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tsok"><span style="color:#222">Ms Nur Fadlun Bte Mohamed Khan</span></td>
-    <td class="tg-tsok"><span style="color:#222">Teacher / History (FAJT)</span></td>
   </tr>
   <tr>
     <td class="tg-tsok"><span style="color:#222">Mr Imran Khan Bin Mohd Arshad Khan</span></td>
@@ -297,10 +281,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Ms Liong Yen Lee</td>
     <td class="tg-ktyi">Teacher / Maths</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Ng Mun Puay Kimberly</td>
-    <td class="tg-ktyi">Teacher / Maths</td>
-  </tr>
+
   <tr>
     <td class="tg-ktyi">Ms Sayuri Limarsono</td>
     <td class="tg-ktyi">Teacher / Maths</td>
@@ -313,10 +294,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Ms Siti Ashirah Bte Othman</td>
     <td class="tg-ktyi">Teacher / Maths</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Tan Foong Heng</td>
-    <td class="tg-ktyi">Teacher / Maths</td>
-  </tr>
+
   <tr>
     <td class="tg-tsok"><span style="color:#222">Ms Toh Mei Lin Lynda Marie</span></td>
     <td class="tg-ktyi">Teacher / CPA</td>
@@ -329,10 +307,15 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Ms Yeo Theng Hong</td>
     <td class="tg-ktyi">Teacher / Maths</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Samuel Leow Yan Tai</td>
-    <td class="tg-ktyi">Intern</td>
+	  <tr>
+    <td class="tg-ktyi">Mdm Sharimah Bte Mohd Shariff</td>
+    <td class="tg-ktyi">Teacher / Math (FAJT)</td>
   </tr>
+	  <tr>
+    <td class="tg-ktyi">Mrs Pong Biau Choon</td>
+    <td class="tg-ktyi">Teacher / Math (FAJT)</td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -397,7 +380,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Teacher / ML</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Sun XiuLi</td>
+    <td class="tg-ktyi">Mdm Sun Xiuli</td>
     <td class="tg-ktyi">Teacher / CL</td>
   </tr>
   <tr>
@@ -416,10 +399,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mdm Hoo Liew Wah</td>
     <td class="tg-ktyi">Teacher / CL (FAJT)</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Ng Lay Kheng</td>
-    <td class="tg-ktyi">Teacher / CL (FAJT)</td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -571,8 +551,8 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Teacher / Science (FAJT)</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ang Kai Li Cally</td>
-    <td class="tg-ktyi">Intern</td>
+    <td class="tg-ktyi">Ms Guok Hui Ping Magdalene</td>
+    <td class="tg-ktyi">Teacher / Science (FAJT)</td>
   </tr>
 </tbody>
 </table>

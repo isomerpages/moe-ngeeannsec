@@ -91,5 +91,5 @@ Fostering Unity, Instilling Passion, Building Character.
 ### CCA Teachers-in-charge
 
 Mrs Lock-Lian Wee Lee <br>
-Ms Teo Yao Lu  <br>
-Ms Tan Foong Heng
+Ms Teo Yao Lu <br>
+Ms Izyan Rozana Bte Mohd Nejib
