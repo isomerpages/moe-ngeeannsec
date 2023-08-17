@@ -5,8 +5,7 @@ description: ""
 ---
 ### L.I.F.E @NAS
 
-<img src="/images/CCE%202021.png" 
-     style="width:60%">
+<img src="/images/CCE%202021.png" style="width:60%">
 		 
 Character and Citizenship Education (CCE) has always been at the heart of education in Singapore. Various key programmes such as Civics and Moral Education (CME,1992), National Education (NE,1997), the Community Involvement Programme (CIP,1997), and Social and Emotional Learning (SEL,2005) have been put in place to inculcate values and build competencies in our pupils to develop them into good individuals and useful citizens. CCE enables the students to understand (head), care about (heart) and act on (hands) core ethical values such as respect, resilience, integrity, care, commitment and responsibility for self and others. CCE also equips them with the knowledge, skills and values needed for the VUCA world. Since students spend much of their time in schools, we need to seize opportunity so that the students will Learn while the teachers, Inculcate and Foster Ethics Education. \[L.I.F.E\]  
 
@@ -28,27 +27,21 @@ As our students go through L.I.F.E@ NAS, they will be given the opportunity to b
 
 ### Some Features of L.I.F.E @NAS
 
-<img src="/images/CCE%20Programme%202021.png" 
-     style="width:60%">
+<img src="/images/CCE%20Programme%202021.png" style="width:60%">
 		 
 In Ngee Ann, Design Thinking which is a systematic process of thinking which empowers students to develop new, innovative solutions to the problem at hand is infused into Values in Action (VIA). Our students apply the creative problem solving method of Design Thinking in their VIA Project as they serve their beneficiaries which have been intentionally selected.
 
 The school aims to provide real and authentic experiences for the students through the different CCE activities such as NE commemorative celebrations as well as work attachment / shadowing experiences.
 
-<img src="/images/CCE1.png" 
-     style="width:40%">
+<img src="/images/CCE1.png" style="width:40%">
 		 
-<img src="/images/CCE2.png" 
-     style="width:60%">
+<img src="/images/CCE2.png" style="width:60%">
 		 
-<img src="/images/CCE3.png" 
-     style="width:60%">
+<img src="/images/CCE3.png" style="width:60%">
 		 
-<img src="/images/CCE4.png" 
-     style="width:60%">
+<img src="/images/CCE4.png" style="width:60%">
 
-<img src="/images/CCE5.jpg" 
-     style="width:60%">
+<img src="/images/CCE5.jpg" style="width:60%">
 		 
 ### NAS CCE LEVEL OUTCOMES
 
@@ -61,7 +54,7 @@ Getting to know and relating well with others as I develop my strengths and work
 **Secondary 3:** <br>
 Contributing back to the community as I learn to manage myself.
 
-**Secondary 4/5:** <br>
+**Secondary 4/5:**&nbsp;<br>
 Living my aspirations and fulfilling my dreams.
 
 ### Guiding Principles of CCE
@@ -97,12 +90,12 @@ LO8: Reflect on and respond to community, national and global issues as an infor
 
 Mdm Farhana Binte Mohamad Noor <br>
 Mdm Nur Azlyna Mohamed Tahir <br>
-Mdm Ananurmelati Abdul Rahman <br>
-Ms Grace Lee  <br>
+Ms Ananurmelati Abdul Rahman <br>
+Ms Grace Lee&nbsp; <br>
 Ms Melissa Yeong   <br>
 Mr Muhamad Zahirrudin Mohamad Ayub <br>
 Mdm Nur Syazana Shahul Hameed <br>
 Ms Rina Tan   <br>
 Mdm Sarimah Binti Ahmad <br>
 Ms Nuurul Khairiyah Binti Salahuddin   <br>
-Ms Siti Ashirah Bte Othman
+Ms&nbsp;Siti Ashirah Bte Othman

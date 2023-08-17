@@ -3,13 +3,13 @@ title: Achievements and Accolades
 permalink: /about-us/achievements-and-accolades/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_pIK7ghGw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M_pIK7ghGw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <h3>Snapshot of Achievements and Accolades</h3>
 
 Our school has attained numerous accolades and achievements over the years, including Singapore Quality Class, People Developer Singapore, School Distinction Award, Best Practice in Teaching and Learning, Best Practice in Character and Citizenship Education, Best Practice in Student All-Round Development, Best Practice in Staff Well-Being and Development, Best Practice in Partnership, National Arts Education Award, and Lotus Sustained Achievement Award.
 
-The following is the snapshot of our achievements in IP and CCA areas. 
+The following is the snapshot of our achievements in IP and CCA areas.&nbsp;
 
 <h3>Academic Achievements</h3>
 
@@ -202,7 +202,7 @@ The following is the snapshot of our achievements in IP and CCA areas. 
 </tbody>
 </table>
 
-<h3>Achievements of Aesthetics & Clubs</h3>
+<h3>Achievements of Aesthetics &amp; Clubs</h3>
 
 
 <table class="tg">
@@ -253,7 +253,7 @@ The following is the snapshot of our achievements in IP and CCA areas. 
 </tbody>
 </table>
 
-<h3>School & Staff Accolades</h3>
+<h3>School &amp; Staff Accolades</h3>
 
 **Singapore Environment Council-StarHub School Green Awards 2021**  
 
@@ -261,7 +261,7 @@ The following is the snapshot of our achievements in IP and CCA areas. 
 
   
 
-**MOE Innergy (Schools) Awards Teaching & Learning Category**  
+**MOE Innergy (Schools) Awards Teaching &amp; Learning Category**  
 Project Title: Cyberwellness@NASS  
 
 *   Bronze Award
@@ -286,7 +286,7 @@ Our heartiest congratulations to our NAS staff who have been affirmed for their 
 
   
 
-**National Day Award** **Long Service Medal**
+**National Day Award**&nbsp;**Long Service Medal**
 
 *   Ms Lee Chin Li
 *   Ms Ming Fong Yee
@@ -295,7 +295,7 @@ Our heartiest congratulations to our NAS staff who have been affirmed for their 
 
   
 
-**National Day Award** **Commendation Medal**
+**National Day Award**&nbsp;**Commendation Medal**
 
 *   Mr Neo Guangxian
 
@@ -320,7 +320,7 @@ Our heartiest congratulations to our NAS staff who have been affirmed for their 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="color:inherit;background-color:transparent">- Mr Abu Bakar Bin Farid </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Ananurmelati Bte Abdul Rahman </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Ashikin Bte Abdul Ra'uuf </span><br><br><span style="color:inherit;background-color:transparent">- Ms Choo Hwee Nee </span><br><br><span style="color:inherit;background-color:transparent">- Ms Khairunnisa Mohamed Hussain </span><br><br><span style="color:inherit;background-color:transparent">- Ms. Li Jianmin </span><br><br><span style="color:inherit;background-color:transparent">- Mrs Lai-Ng Kee Yah Theresa </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Noor Azean Binte Khamis </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Nora Bte Osman </span><br><br><span style="color:inherit;background-color:transparent">- Ms Yeoh Geok Faye</span><br><br></td>
+    <td class="tg-0lax"><span style="color:inherit;background-color:transparent">- Mr Abu Bakar Bin Farid </span><br><br><span style="color:inherit;background-color:transparent">- Ms Ananurmelati Bte Abdul Rahman </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Ashikin Bte Abdul Ra'uuf </span><br><br><span style="color:inherit;background-color:transparent">- Ms Choo Hwee Nee </span><br><br><span style="color:inherit;background-color:transparent">- Ms Khairunnisa Mohamed Hussain </span><br><br><span style="color:inherit;background-color:transparent">- Ms. Li Jianmin </span><br><br><span style="color:inherit;background-color:transparent">- Mrs Lai-Ng Kee Yah Theresa </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Noor Azean Binte Khamis </span><br><br><span style="color:inherit;background-color:transparent">- Mdm Nora Bte Osman </span><br><br><span style="color:inherit;background-color:transparent">- Ms Yeoh Geok Faye</span><br><br></td>
     <td class="tg-0lax"><br>- Mr Chen Jingyuan Alvin<br><br>- Mdm Connie Chua Piak Eng<br><br>- Mdm Devi D/O Lokanathan<br><br>- Mdm Farhana Bte Mohamad Noor<br><br>- Mr Kang Guan Wei<br><br>- Mr Khaizar Khuzema Shakir<br><br>- Mr Khor Teng Chih<br><br>- Ms Liu Shimin Jasmine<br><br>- Mr Mohammed Hazmi Bin Hasni<br><br>- Mr Muhammad Nazmi Nasir<br><br>- Mdm Muneira Bte Daud<br><br>- Mr Neo Guang Xian<br><br>- Mdm Nur Syazana Shahul Hameed<br><br>- Mdm Ramni Binti Ismail<br><br>-Mdm Yee See Ling<br><br>- Mdm Yeo Lay Wah</td>
   </tr>
 </tbody>
