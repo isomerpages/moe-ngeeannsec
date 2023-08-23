@@ -1,5 +1,5 @@
 collections:
-  hidden-pages:
+  hidden:
     output: true
     order:
       - Family Matters @ School Programmes.md
