@@ -1,6 +1,6 @@
 ---
 title: Family Matters @ School Programmes
-permalink: /links-for-parents/family-matters-at-school-programmes/
+permalink: /hidden/family-matters-at-school-programmes/
 description: ""
 ---
 Download
@@ -17,5 +17,4 @@ Download
 
 *   [FAMILY MATTERS@SCHOOL PROGRAMME (Term 1 2018)](/files/NAS%20Letter%20to%20parents%20for%202018%20Term%201%20dated%202nd%20Jan%202018(final).pdf)/ pdf 301kB
 
-<img src="/images/photo.jpg" 
-     style="width:60%">
+<img src="/images/photo.jpg" style="width:60%">
