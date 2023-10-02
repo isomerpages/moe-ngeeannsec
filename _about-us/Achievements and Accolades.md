@@ -258,7 +258,7 @@ The following is the snapshot of our achievements in IP and CCA areas.&nbsp;
 **Listening Educator for Advancement and Progress (LEAP) Award 2023 awarded by Singapore Hokkien Huay Kuan** 
 * Mdm Koh Meng Geok
 ![](/images/leap_definition.jpeg)
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" style="max-height: 350px;" height="315" width="560"></iframe>
 
 **President’s Award for Teachers 2023** 
 * Mdm Ashikin Bte Abdul Ra'uuf
