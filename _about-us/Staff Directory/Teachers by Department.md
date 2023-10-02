@@ -504,7 +504,7 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-ktyi">Mdm Ashikin Abdul Ra'uuf</td>
-    <td class="tg-ktyi">Lead Teacher / Education Support<br>Teacher / Science</td>
+    <td class="tg-ktyi">Lead Teacher (Learning Needs)<br>Teacher / Science</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Tan Choon Hou Alvin</td>
