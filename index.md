@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Ngee Ann Secondary School
       background: /images/hero-banner-no-words-with-line.gif
-      button: DSA2023
-      url: /links-for-parents/direct-school-admission-dsa-exercise-2023
       key_highlights:
         - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2023
           description: ""
