@@ -21,7 +21,7 @@ sections:
           url: /links-for-parents/release-of-2022-gce-n-level-examination-results
       subtitle: A School of Possibilities, A Home to Grow In
   - infobar:
-      title: Open House 2023
+      title: Open House 2023 😎🎨🚀🎪🏐🎈🍭
       subtitle: Save The Date
       id: infobar
       description: On 18th November (AM)
