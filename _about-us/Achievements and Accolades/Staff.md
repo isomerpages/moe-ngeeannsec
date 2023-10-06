@@ -22,7 +22,7 @@ The LEAP Award was launched by the late President S R Nathan and awarded by Sing
 
 **Award Recipient: Mdm Koh Meng Geok**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" style="max-height: 350px;" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" height="315" width="560"></iframe>
 
 
 ##### **2023 MOE Innergy Award – Schools (T&amp;L)**
@@ -162,18 +162,21 @@ Award received: Yellow Flame
 
 The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
 
-
-![](/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%201.png)
+<table><tbody><tr><td>
+<img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%201.png">
+	</td><td>
 Mr Alvin Chen has been conferred the MOE Outstanding Innovator Award for his instrumental work in lifting the school’s culture and quality of innovation in the use of tech to enhance Teaching and Learning and school operations and administration.
-
-![](/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%202.png)
+	</td></tr><tr><td>
+<img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%202.png">
+	</td><td>
 The English Department, facilitated by Mdm Muneira and Mdm Yanti, have been recognised with MOE Innergy Bronze Award for deploying learning analytics to support students’ development of critical reading skills while promoting their self-directed learning and collaborative learning. This project was done in collaboration with the National Institute of Education.
-
-![](/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%203.png) 
+</td></tr><tr><td>
+<img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%203.png">
+	</td><td>
 
 Our Physics Teacher Leaders, Mr Alvin Tan and Mr Bakar, have been affirmed with MOE Innergy Commendation Award for promoting the joy of learning and a maker’s mindset, where students collaborated to build a Rube Goldberg Machine and creatively used it to explain physics concepts through video-making!
-
-
+	</td></tr>
+</tbody></table>
 
 
 Project Title: Cyberwellness@NASS
