@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Achievements and Accolades/Students.md
       - Achievements and Accolades/.keep
       - Temp/Staff.md
       - Temp/Students.md
