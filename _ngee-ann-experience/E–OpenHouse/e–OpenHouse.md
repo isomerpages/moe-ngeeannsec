@@ -14,7 +14,7 @@ third_nav_title: E–OpenHouse
 
 Welcome to Ngee Ann Secondary (NAS) School’s e-Open House. We know that the PSLE is a major milestone for you and that the next step of choosing the right secondary school is one of the biggest decisions you have to make.
 
-With the easing of safe management measures, we look forward to meeting you at our physical Open House on Saturday, 19 November 2022 from 8am – 1pm.
+With the easing of safe management measures, we look forward to meeting you at our physical Open House on Saturday, 18 November 2023 from 8am – 1pm.
 
 Can’t visit us on this date? Fret not! We will bring NAS to you via our e-Open House!
 
