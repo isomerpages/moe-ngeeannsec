@@ -162,17 +162,17 @@ Award received: Yellow Flame
 
 The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
 
-<table><tbody><tr><td>
+<table><tbody><tr><td style="width:50%;">
 <img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%201.png">
-	</td><td>
+	</td><td style="width:50%;">
 Mr Alvin Chen has been conferred the MOE Outstanding Innovator Award for his instrumental work in lifting the school’s culture and quality of innovation in the use of tech to enhance Teaching and Learning and school operations and administration.
-	</td></tr><tr><td>
+	</td></tr><tr><td style="width:50%;">
 <img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%202.png">
-	</td><td>
+	</td><td style="width:50%;">
 The English Department, facilitated by Mdm Muneira and Mdm Yanti, have been recognised with MOE Innergy Bronze Award for deploying learning analytics to support students’ development of critical reading skills while promoting their self-directed learning and collaborative learning. This project was done in collaboration with the National Institute of Education.
-</td></tr><tr><td>
+</td></tr><tr><td style="width:50%;">
 <img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%203.png">
-	</td><td>
+	</td><td style="width:50%;">
 Our Physics Teacher Leaders, Mr Alvin Tan and Mr Bakar, have been affirmed with MOE Innergy Commendation Award for promoting the joy of learning and a maker’s mindset, where students collaborated to build a Rube Goldberg Machine and creatively used it to explain physics concepts through video-making!
 	</td></tr>
 </tbody></table>
