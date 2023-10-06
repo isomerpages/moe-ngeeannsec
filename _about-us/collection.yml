@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements and Accolades/Staff.md
-      - Achievements and Accolades/Students.md
-      - Achievements and Accolades/.keep
       - About Us.md
       - School Background & History.md
       - Mission and Vision.md
@@ -15,6 +12,9 @@ collections:
       - Staff Directory/Teachers by Form Class.md
       - Staff Directory/Executive & Administrative Staff.md
       - Message from the 24th Student Council President.md
+      - Achievements and Accolades/.keep
+      - Achievements and Accolades/Staff.md
+      - Achievements and Accolades/Students.md
       - School Safety/.keep
       - School Safety/Emergency Evacuation Procedures.md
       - School Safety/Road Safety.md
