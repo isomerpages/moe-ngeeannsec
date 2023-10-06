@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Temp/Achievements and Accolades.md
       - Temp/.keep
       - About Us.md
       - School Background & History.md
