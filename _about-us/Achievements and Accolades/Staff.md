@@ -173,7 +173,6 @@ The English Department, facilitated by Mdm Muneira and Mdm Yanti, have been reco
 </td></tr><tr><td>
 <img src="/images/Achievements%20and%20Accolades/moe%20innergy%20award%202020%203.png">
 	</td><td>
-
 Our Physics Teacher Leaders, Mr Alvin Tan and Mr Bakar, have been affirmed with MOE Innergy Commendation Award for promoting the joy of learning and a maker’s mindset, where students collaborated to build a Rube Goldberg Machine and creatively used it to explain physics concepts through video-making!
 	</td></tr>
 </tbody></table>
