@@ -4,7 +4,7 @@ permalink: /about-us/achievements-and-accolades/staff/
 description: ""
 third_nav_title: Achievements and Accolades
 ---
-##### **President’s Award for Teachers 2023** 
+#### **President’s Award for Teachers 2023** 
 
 Established in 1998, the President's Award for Teachers recognises outstanding educators for their dedication and hard work in nurturing our young.
 
@@ -16,7 +16,7 @@ Established in 1998, the President's Award for Teachers recognises outstanding e
 
 Read more about Mdm Ashikin's mission, beliefs and her journey thus far! [Link](/files/ashikin_schoolbag%20feature_pat%202023.pdf)
 
-##### **Listening Educator for Advancement and Progress (LEAP) Award 2023 by Singapore Hokkien Huay Kuan** 
+#### **Listening Educator for Advancement and Progress (LEAP) Award 2023 by Singapore Hokkien Huay Kuan** 
 
 The LEAP Award was launched by the late President S R Nathan and awarded by Singapore Hokkien Huay Kuan. It recognises exceptional teachers who nurture students from the heart and use innovative strategies to motivate students.
 
@@ -25,7 +25,7 @@ The LEAP Award was launched by the late President S R Nathan and awarded by Sing
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" height="315" width="560"></iframe>
 
 
-##### **2023 MOE Innergy Award – Schools (T&amp;L)**
+#### **2023 MOE Innergy Award – Schools (T&amp;L)**
 
 
 The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
@@ -39,13 +39,13 @@ Award Type: Gold
 *   **Mr Chua Teoh Guan**
 *   **Ms Teo Yao Lu**
 
-##### **Outstanding Computing Teacher Award 2023**
+#### **Outstanding Computing Teacher Award 2023**
 
 Established in 2015, the Outstanding Computing Teacher Award (OCTA) recognises Computing / Computer Applications teachers who have made contributions to Computing Education by inspiring others through their teaching and professional development of the fraternity.
 
 **Award Recipient: Mr Neo Guang Xian**
 
-##### **The Caring Teacher Award 2022 by National Institute of Education**
+#### **The Caring Teacher Award 2022 by National Institute of Education**
 
 
 The Caring Teacher Awards is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners.
@@ -62,7 +62,7 @@ The Caring Teacher Awards is a biennial event that pays tribute to teachers who 
     
 *   **Ms Nur Azlyna Binte Mohamed Tahir**
     
-##### **National Day Long Service Award 2022**
+#### **National Day Long Service Award 2022**
 
 **Award Recipients:**
 
@@ -74,18 +74,18 @@ The Caring Teacher Awards is a biennial event that pays tribute to teachers who 
     
 *   **Mr Zainal Bin Buang**
     
-##### **National Day Award Commendation Medal 2022**
+#### **National Day Award Commendation Medal 2022**
 
 **Award Recipient:**
 
 *   **Mr Neo Guang Xian**
 
-##### **Designer Badge, MOE Educational Technology Division**  
+#### **Designer Badge, MOE Educational Technology Division**  
 **Award Recipients:**
 *   **Mr Muhamad Zahirrudin Mohamad Ayub**
 *   **Malay Language Unit, Mother Tongue Dept.**
 
-##### **MOE Service Excellence Award 2022**
+#### **MOE Service Excellence Award 2022**
 
 The MSEA is an MOE-wide award that recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E (Collaborate, Anticipate, Reach out, Empathise) and inspire their colleagues to do likewise.
 
@@ -151,14 +151,14 @@ The MSEA is an MOE-wide award that recognises MOE staff who are passionate in th
     
 
 
-##### **Singapore Environment Council-StarHub School Green Awards 2021**
+#### **Singapore Environment Council-StarHub School Green Awards 2021**
 
 The School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through ustomized activities which will help them gain better understanding of the environment.
 
 Award received: Yellow Flame
 
   
-##### **2020 MOE Innergy Awards**  
+#### **2020 MOE Innergy Awards**  
 
 The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
 
@@ -182,7 +182,7 @@ Project Title: Cyberwellness@NASS
 
 Award Type: Bronze
 
-##### **Listening Educator for Advancement and Progress (LEAP) Award 2020 by Singapore Hokkien Huay Kuan**
+#### **Listening Educator for Advancement and Progress (LEAP) Award 2020 by Singapore Hokkien Huay Kuan**
 
 The LEAP Award was launched by the late President S R Nathan and awarded by Singapore Hokkien Huay Kuan. It recognises exceptional teachers who nurture students from the heart and use innovative strategies to motivate students.
 
