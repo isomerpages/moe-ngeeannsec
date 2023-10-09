@@ -15,19 +15,19 @@ third_nav_title: Achievements and Accolades
 <tr>
 <td>English Language &amp; Literature</td>
 <td>The Queen’s Commonwealth English Essay Competition 2022</td>
-<td>Gold<br>
+<td><b>Gold</b><br>
 • Nathaniel Manguera (3R4)<br>
 • Nurul Sarafyna Binti Nordin (4R3)<br>
 • Tan Ming Liang (3R4)<br>
 <br>
-Silver<br>
+<b>Silver</b><br>
 • Austin Biasbias Doctor (2R2)<br>
 • Lea Lim (2C3)<br>
 • Sean Nathan Albas Esguerra (2R2)<br>
 • Shanika Perera (2R1)<br>
 • Srujan Gangisetti (3R5)<br>
 <br>
-Bronze<br>
+<b>Bronze</b><br>
 • Brosnan Teo (4R4), Bronze<br>
 • Charlotte Poh (3C3), Bronze<br>
 • Ong Rui En (2R3), Bronze</td>
@@ -40,21 +40,21 @@ Bronze<br>
 <tr>
 <td rowspan="2">Mathematics</td>
 <td>2022 Singapore Mathematical Olympiad</td>
-<td>Junior Category<br>
+<td><b>Junior Category</b><br>
 • 4 Bronzes<br>
 • 7 Honourable Mention<br>
 <br>
-Senior Category<br>
+<b>Senior Category</b><br>
 • 5 Bronzes<br>
 • 1 Honourable Mention<br>
 <br>
-Open Category<br>
+<b>Open Category</b><br>
 • 1 Honourable Mention</td>
 </tr>
 <tr>
 
 <td>StrITwise Competition 2022 by Ngee Ann Polytechnic</td>
-<td>2nd Position<br>
+<td><b>2nd Position</b><br>
 • Enzo Yap Qi Xuan (3R4)<br>
 • Sopheap Chanoudam (3R4)<br>
 • Harikesh Vinod Dialani (3R4)<br>
@@ -64,16 +64,16 @@ Open Category<br>
 <tr>
 <td rowspan="6">Science</td>
 <td>43rd CB Paul Memorial Quiz 2022</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Axel Wong Yin Hoy (Huang Yankai) (2R2)<br>
 • Sakhamuri Meheer Karthikeya Pavan (2R2)<br>
 <br>
-Bronze<br>
+<b>Bronze</b><br>
 • Chaw Pyae Aung (2R2)<br>
 • Seah Kiat Jiun (Xie Jiejun) (2R2)<br>
 • Sunthoncharu Kantarit (2R4)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Fan Jia Jun, Jayden (2R4)<br>
 • Kota Neil Aryan (2R3)<br>
 • Tristan Chu Zhen Yu (Zhu Zhenyu) (2R2)<br>
@@ -82,15 +82,15 @@ Merit<br>
 <tr>
 
 <td>ACJC Biomedical Quiz 2022</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Muhammad Adiputra Bin Abdul Halim (4R5)<br>
 • Ong Huai Xu (4R5)<br>
 <br>
-Bronze<br>
+<b>Bronze</b><br>
 • Miranda Lee Xin Yi (4R5)<br>
 • Taseefa Shasmeen Bye Mainuddin Ahmed (4R5)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Kelis Ting Shi Xuan (4R3<br>
 • Lim Egan (4R5)<br>
 • Nurul Sarafyna Binti Nordin (4R3)<br>
@@ -99,45 +99,44 @@ Merit<br>
 <tr>
 
 <td>Singapore Junior Biology Olympiad 2022</td>
-<td>Gold<br>
+<td><b>Gold</b><br>
 • Ong Huai Xu (4R5)<br>
 <br>
-Silver<br>
+<b>Silver</b><br>
 • Magbitang Callista Ysabelle Acuna (4R5)<br>
-<br>
 • Miranda Lee Xin Yi (4R5)<br>
 • Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)<br>
 <br>
-Bronze<br>
+<b>Bronze</b><br>
 • Muhammad Adiputra Bin Abdul Halim (4R5)<br>
 <br>
-Honourable Mention<br>
+<b>Honourable Mention</b><br>
 • Maithili Vikram Soman (3R5)</td>
 </tr>
 <tr>
 
 <td>Singapore Junior Chemistry Olympiad 2022</td>
-<td>Bronze<br>
+<td><b>Bronze</b><br>
 • Ho Ke Ying (4R4)<br>
 <br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Chia Wan Ting (4R4)<br>
 • Khairul Izzat (4R4)</td>
 </tr>
 <tr>
 
 <td>Singapore Junior Physics Olympiad 2022</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Poh Yan Rui (4R5)<br>
 <br>
-Bronze<br>
+<b>Bronze</b><br>
 • Adrian Liaw De Yang (3R5)<br>
 • Ong Huai Xu (4R5)<br>
 • Sopheap Chanoudam (3R4)<br>
 • Thanadol Kaewwichien (4R5)<br>
 <br>
-Honourable Mention<br>
+<b>Honourable Mention</b><br>
 • Aadvik Mohta (3R5)<br>
 • Ashton Neo Jin Hwee (3R4)<br>
 • Koh Jun Kai Xande (3R4)<br>
@@ -157,13 +156,13 @@ Honourable Mention<br>
 <tr>
 
 <td>Temasek Engineering Olympiad 2022</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Sim Wee En (4R5)</td>
 </tr>
 <tr>
 <td>CHAMPS</td>
 <td>Live On Festival 2023 (Essay (Junior) Competition)</td>
-<td>High Distinction<br>
+<td><b>High Distinction</b><br>
 • Sevilleja Gabrielle Lexia Dumaraos (2R2)</td>
 </tr>
 <tr>
@@ -175,7 +174,7 @@ Honourable Mention<br>
 <tr>
 
 <td>CODE-X Challenge 2022</td>
-<td>Runner-up<br>
+<td><b>Runner-up</b><br>
 • Ng Yong Teck (3R4),<br>
 • Tan Yu Xian (4R4)<br>
 • Eugene Poh Guan Lin (4R4)<br>
@@ -185,7 +184,7 @@ Honourable Mention<br>
 <tr>
 
 <td>Young Founder's Summit 2022</td>
-<td>Semi-finalist<br>
+<td><b>Semi-finalist</b><br>
 • Eleanor Kuek Xuan Yu (1C3)<br>
 • Declan Gabriel Tan Jiale (1C3)<br>
 • Kuppa Venkata Manish Gupta (1C3)</td>
@@ -200,7 +199,7 @@ Honourable Mention<br>
 <tr>
 
 <td>2023 Sentinel Challenge</td>
-<td>2nd Runner-Up<br>
+<td><b>2nd Runner-Up</b><br>
 • Enzo Yap Qi Xuan (3R4)<br>
 • Lye Hong Ann (3R4)<br>
 • Chew Ji Yu Kyan (3R4)</td>
@@ -208,33 +207,33 @@ Honourable Mention<br>
 <tr>
 <td rowspan="3">Enhanced Art Programme</td>
 <td>Live On Festival 2022 (Design Competition)</td>
-<td>Distinction<br>
+<td><b>Distinction</b><br>
 • Loh Ying Shan, Sharlene (3C2)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Huang Yi Dan (3R1)<br>
 • Yeo Jun Wei, Keane (3C2)</td>
 </tr>
 <tr>
 
 <td>'This Little Red Dot...' Illustration Competition 2022</td>
-<td>Open Category Winner<br>
+<td><b>Open Category Winner</b><br>
 • Loh Ying Shan, Sharlene (3C2)</td>
 </tr>
 <tr>
 
 <td>Live On Festival 2023 (Design Competition)</td>
-<td>1st Place<br>
+<td><b>1st Place</b><br>
 • Lim Si Qi Sophie (3R1)</td>
 </tr>
 <tr>
 <td rowspan="3">SPARKS</td>
 <td>A*STAR-VJC Science Fair 2022</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Chua Ling Ying (3R5)<br>
 • Tan Lok Suan (3R3)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Kwok Zheng Xian Matthew (3R3<br>
 • Ruiz Shaina Nero (3R5)<br>
 • Tepase Alden Marcus Deguangco (3R4)</td>
@@ -242,11 +241,11 @@ Merit<br>
 <tr>
 
 <td>Sembcorp Marine’s Green Wave Environmental Competition 2022</td>
-<td>3rd Prize<br>
+<td><b>3rd Prize</b><br>
 • Chua Ling Ying (3R5), Good Presenter Award<br>
 • Tan Lok Suan (3R3)<br>
 <br>
-Merit&nbsp;<br>
+<b>Merit</b><br>
 • Kwok Zheng Xian Matthew (3R3)<br>
 • Ruiz Shaina Nero (3R5)<br>
 • Tepase Alden Marcus Deguangco (3R4)</td>
@@ -254,11 +253,11 @@ Merit&nbsp;<br>
 <tr>
 
 <td>Singapore Science and Engineering Fair 2022 (Junior Scientist Video Award)</td>
-<td>Silver<br>
+<td><b>Silver</b><br>
 • Chua Ling Ying (3R5)<br>
 • Tan Lok Suan (3R3)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Kwok Zheng Xian Matthew (3R3)<br>
 • Ruiz Shaina Nero (3R5)<br>
 • Tepase Alden Marcus Deguangco (3R4)</td>
@@ -279,13 +278,13 @@ Merit<br>
 <tr>
 <td rowspan="5">Art Club</td>
 <td>MTC Design For Good Youth Competition 2022</td>
-<td>Commendation<br>
+<td><b>Commendation</b><br>
 • Khoo Ying Ru Charisse&nbsp;(3C2)</td>
 </tr>
 <tr>
 
 <td>Singapore Youth Festival 2022 Art Exhibition</td>
-<td>Certificate of Recognition<br>
+<td><b>Certificate of Recognition</b><br>
 • Loh Ying Shan, Sharlene (3C2)<br>
 • Low Ying Thong, Yitro (3C2)<br>
 • Mohamed Akif Bin Mohamed Redzuan (3C2)<br>
@@ -295,26 +294,26 @@ Merit<br>
 <tr>
 
 <td>Our Tampines Hub (OTH) National Day On the Spot Art Competition 2022</td>
-<td>Category B Winner<br>
+<td><b>Category B Winner</b><br>
 • Lim Si Qi Sophie&nbsp;(2R1)</td>
 </tr>
 <tr>
 
 <td>Live On Festival 2023 by Ministry of Health</td>
-<td>1st Place<br>
+<td><b>1st Place</b><br>
 • Lim Si Qi Sophie (3R1)</td>
 </tr>
 <tr>
 
 <td>Racial Harmony Day Drawing Competition by Omni Colour Singapore</td>
-<td>1st Place<br>
+<td><b>1st Place</b><br>
 • Lim Si Qi Sophie (3R1)</td>
 </tr>
 <tr>
 <td rowspan="10">International Chess</td>
 <td>63rd National Inter-School Chess Championship 2022<br>
 U14 (Boys)</td>
-<td>East Zone 1st  <br>
+<td><b>East Zone 1st </b><br>
 • Guo Yuxuan (2R1)<br>
 • Lim Qi Xun (2R3)<br>
 • Muhammad Irfan Bin Sufian (1R2)<br>
@@ -324,40 +323,40 @@ U14 (Boys)</td>
 
 <td>73rd National School Individual Chess Championship 2022<br>
 U14 (Boys)</td>
-<td>East Zone 2nd, National 12th<br>
+<td><b>East Zone 2nd, National 12th</b><br>
 •	Esguerra Sean Nathan Albus Policarpio (2R2)<br>
 <br>
-East Zone 7th (Merit)<br>
+<b>East Zone 7th (Merit)</b><br>
 •	Sakhamuri Meheer Karthikeya Pavan (2R2)<br>
 <br>
-East Zone 9th (Merit)<br>
+<b>East Zone 9th (Merit)</b><br>
 •	Ryan Lee Kun Long (2R1)</td>
 </tr>
 <tr>
 
 <td>73rd National School Individual Chess Championship 2022<br>
 U14 (Girls)</td>
-<td>East Zone 3rd <br>
+<td><b>East Zone 3rd</b><br>
 • Katherine Sophie Sugiharto (1C2)</td>
 </tr>
 <tr>
 
 <td>73rd National School Individual Chess Championship 2022<br>
 U16 (Boys)</td>
-<td>East Zone 9th (Merit)<br>
+<td><b>East Zone 9th (Merit)</b><br>
 • Aadvik Mohta (3R5)</td>
 </tr>
 <tr>
 
 <td>73rd National School Individual Chess Championship 2022<br>
 U16 (Girls)</td>
-<td>East Zone 4th (Merit)<br>
+<td><b>East Zone 4th (Merit)</b><br>
 • Koh Keira (4R4)</td>
 </tr>
 <tr>
 
 <td>U16 (Boys)</td>
-<td>East Zone 3rd <br>
+<td><b>East Zone 3rd</b><br>
 • Aadvik Mohta (3R5)<br>
 • Gupta Dhairya (3R5)<br>
 • Ng Yong Tee (3R4)<br>
@@ -366,7 +365,7 @@ U16 (Girls)</td>
 <tr>
 
 <td>Jurong-Pioneer Junior College Chess Competition 2023</td>
-<td>Team 2nd Place<br>
+<td><b>Team 2nd Place</b><br>
 • Chen Hock Yu (2R1)<br>
 • Esguerra Sean Nathan Albus Policarpio (3R5)<br>
 • Goh Sze Le Timothy (3R4)<br>
@@ -374,7 +373,7 @@ U16 (Girls)</td>
 • Lim Qixun (3R3)<br>
 • Muhammad Irfan Bin Sufian (2R2)<br>
 <br>
-Team 3rd Place<br>
+<b>Team 3rd Place</b><br>
 • Andrew Tan (3R1)<br>
 • Lucas Phoa (2R3)<br>
 • Nicholas Tan (2R3)<br>
@@ -382,20 +381,20 @@ Team 3rd Place<br>
 • Ryan Ho (3R3)<br>
 • Sakhamuri Meheer Karthikeya Pavan (3R5)<br>
 <br>
-Individual 2nd Place<br>
+<b>Individual 2nd Place</b><br>
 • Nicholas Tan (2R3)<br>
 <br>
-Individual 3rd Place<br>
+<b>Individual 3rd Place</b><br>
 • Esguerra Sean Nathan Albus Policarpio (3R5)<br>
 <br>
-Individual 4th Place<br>
+<b>Individual 4th Place</b><br>
 • Chen Hock Yu (2R1)</td>
 </tr>
 <tr>
 
 <td>National Inter-School Team Chess Championship 2023<br>
 U14 (Boys)</td>
-<td>East Zone 3rd<br>
+<td><b>East Zone 3rd</b><br>
 • Chen Hock Yu (2R1)<br>
 • Lucas Loo Jun He (1C2)<br>
 • Muhammad Irfan Bin Sufian (2R2)<br>
@@ -405,7 +404,7 @@ U14 (Boys)</td>
 
 <td>National Inter-School Team Chess Championship 2023<br>
 U16 (Boys)</td>
-<td>East Zone 3rd<br>
+<td><b>East Zone 3rd</b><br>
 • Esguerra Sean Nathan Albus Policarpio (3R5)<br>
 • Lim Qi Xun (3R3)<br>
 • Sakhamuri Meheer Karthikeya Pavan (3R5)<br>
@@ -414,13 +413,13 @@ U16 (Boys)</td>
 <tr>
 
 <td>Victoria Cup Chess Competition 2023</td>
-<td>Team 2nd Place<br>
+<td><b>Team 2nd Place</b><br>
 • Esguerra Sean Nathan Albus Policarpio (3R5)<br>
 • Gupta Dhairya (4R5)<br>
 • Muhammad Irfan Bin Sufian (2R2)<br>
 • Ng Yong Tee (4R4)<br>
 <br>
-Team 3rd Place<br>
+<b>Team 3rd Place</b><br>
 • Kowithsaengthong Tathata (4R5)<br>
 • Lim Qixun (3R3)<br>
 • Luke Yang Chi-En (4R1)<br>
@@ -429,13 +428,13 @@ Team 3rd Place<br>
 <tr>
 <td rowspan="5">Robotics</td>
 <td>Code Builder Competition 2022</td>
-<td>2nd Place<br>
+<td><b>2nd Place</b><br>
 • Bryan Yong Jing Heng (2R4)</td>
 </tr>
 <tr>
 
 <td>MINT Masters Competition 2022</td>
-<td>1st Place<br>
+<td><b>1st Place</b><br>
 • Enzo Yap Qi Xuan (3R4)<br>
 • Lye Hong Ann (3R4)<br>
 • Sopheap Chanoudam (3R4)</td>
@@ -443,7 +442,7 @@ Team 3rd Place<br>
 <tr>
 
 <td>APAC Code Quest Competition 2023</td>
-<td>3rd Place<br>
+<td><b>3rd Place</b><br>
 • Ang Yi Heng Xaviour (3C3)<br>
 • Bryan Yong Jing Heng (3R4)<br>
 • Ryan Shaw (3R4)</td>
@@ -451,15 +450,15 @@ Team 3rd Place<br>
 <tr>
 
 <td>National Robotics Competition 2023</td>
-<td>1st Place<br>
+<td><b>1st Place</b><br>
 • Tristan Luke Thevathasan (2R1)<br>
 • Tristan Tan Yu Jun (2R1)<br>
 <br>
-2nd Place<br>
+<b>2nd Place</b><br>
 • Jain Arnav (1C1)<br>
 • William Teh Kai-Shen (1C1)<br>
 <br>
-Merit<br>
+<b>Merit</b><br>
 • Cheah Di Ysen (2I1)<br>
 • Heng Song Yu Shawn (2C2)<br>
 • Lee Bojun Jay (2R1)<br>
@@ -468,7 +467,7 @@ Merit<br>
 <tr>
 
 <td>Singapore National Olympiad in Infomatics 2023</td>
-<td>Bronze<br>
+<td><b>Bronze</b><br>
 • Ng Yong Teck (4R4)<br>
 • Tith Bunnath (4R4)<br>
 • William Edward Sugiharto (4R4)</td>
@@ -548,18 +547,18 @@ Merit<br>
 <tr>
 
 <td>NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Edison Yong Kai Sheng (5C1)<br>
 • Ong Ze Lin, Isaac (3R1)<br>
 <br>
-C Division Boys<br>
+<b>C Division Boys</b><br>
 • Zeth Kuik Cheng Kai (2C2)<br>
 <br>
-B Division Girls<br>
+<b>B Division Girls</b><br>
 • Toh Hsin Yin (4R5)<br>
 • Wardatus Syifa' Binte Muhammad Rashidi (4C3)<br>
 <br>
-C Division Girls<br>
+<b>C Division Girls</b><br>
 • Hew Yi Xin (2R3)</td>
 </tr>
 <tr>
@@ -570,16 +569,16 @@ C Division Girls<br>
 <tr>
 
 <td>NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Tristan Chu Zhen Yu (3R3)<br>
 <br>
-B Division Girls<br>
+<b>B Division Girls</b><br>
 • Advika Ramesh (4R1)</td>
 </tr>
 <tr>
 <td rowspan="4">Outdoor Adventure</td>
 <td>National Orienteering Race 2022 (B Division Boys)</td>
-<td>5th Place<br>
+<td><b>5th Place</b><br>
 • Amad Zuhairie Bin Salehudin (3C2)<br>
 • Foo Shi Han (3R2)<br>
 • Harikesh Vinod Dialani (3R4)<br>
@@ -589,7 +588,7 @@ B Division Girls<br>
 <tr>
 
 <td>National Orienteering Race 2022 (C Division Girls)</td>
-<td>5th Place<br>
+<td><b>5th Place</b><br>
 • Choo Zhi Yu, Renee (2R3)<br>
 • Sevilleja Gabrielle Lexia Dumaraos (1R2)<br>
 • Sheryl Ong Jing Xin (2C1)<br>
@@ -603,7 +602,7 @@ B Division Girls<br>
 <tr>
 
 <td>National Orienteering Race 2023 (C Division Boys)</td>
-<td>3rd Place<br>
+<td><b>3rd Place</b><br>
 • Chew Yip Heng (2R2)<br>
 • Chia Rui Heng Bryan (2R1)</td>
 </tr>
@@ -620,7 +619,7 @@ B Division Girls<br>
 <tr>
 
 <td>NSG Sportsmanship Award 2022</td>
-<td>B Division Girls<br>
+<td><b>B Division Girls</b><br>
 • Achugbu Rosemary Callista (4I1)<br>
 • Dianah Hanis Binte Zulkarnain, (4C2)</td>
 </tr>
@@ -637,100 +636,100 @@ B Division Girls<br>
 <tr>
 
 <td>NSG Sportsmanship Award 2023</td>
-<td>B Division Girls<br>
+<td><b>B Division Girls</b><br>
 • Nichole Tan (4I1)</td>
 </tr>
 <tr>
 <td rowspan="9">Wushu</td>
 <td>NSG 2022 (B Division Boys)</td>
-<td>1st International Broadsword: 3rd Place<br>
+<td><b>1st International Broadsword: 3rd Place</b><br>
 Ryan Lee Xing Zuo (4R1)</td>
 </tr>
 <tr>
 
 <td>NSG 2022 (C Division Boys)</td>
-<td>1st International Nan Quan: 5th Place<br>
+<td><b>1st International Nan Quan: 5th Place</b><br>
 • Loh Hao Cheng (1R2)</td>
 </tr>
 <tr>
 
 <td>NSG 2022 (B Division Girls)</td>
-<td>1st International Cudgel: 8th Place<br>
+<td><b>1st International Cudgel: 8th Place</b><br>
 • Loh Pui Ting, Phoebe (3R2)<br>
 <br>
-2nd International Chang Quan: 5th Place<br>
+<b>2nd International Chang Quan: 5th Place</b><br>
 • Rachel Lee Jia Hui (4C1)<br>
 <br>
-2nd International Chang Quan: 6th Place<br>
+<b>2nd International Chang Quan: 6th Place</b><br>
 • Chai Yu Xuan (4R4)<br>
 <br>
-1st International Nan Dao: 6th Place<br>
+<b>1st International Nan Dao: 6th Place</b><br>
 • Shannon Lee Yu En (4C1)</td>
 </tr>
 <tr>
 
 <td>NSG 2022 (C Division Girls)</td>
-<td>1st International Broadsword: 8th Place<br>
+<td><b>1st International Broadsword: 8th Place</b><br>
 • Ong Ling Xin (2R4)<br>
 <br>
-1st International Cudgel: 5th Place<br>
+<b>1st International Cudgel: 5th Place</b><br>
 • Ong Ling Xin (2R4)<br>
 <br>
-1st International Nan Gun: 6th Place<br>
+<b>1st International Nan Gun: 6th Place</b><br>
 • Lee Pei Ying, Jenna (2C2)</td>
 </tr>
 <tr>
 
 <td>NSG 2023 (B Division Boys)</td>
-<td>1st International Broadsword: 4th Place<br>
+<td><b>1st International Broadsword: 4th Place</b><br>
 • Ryan Lee Xing Zuo (4R1)</td>
 </tr>
 <tr>
 
 <td>NSG 2023 (C Division Boys)</td>
-<td>1st International Nan Dao: 4th Place<br>
+<td><b>1st International Nan Dao: 4th Place</b><br>
 • Tan Jing Xiang Lucas (1R1)<br>
 <br>
-1st International Nan Quan: 4th Place<br>
+<b>1st International Nan Quan: 4th Place</b><br>
 • Tan Jing Xiang Lucas (1R1)<br>
 <br>
-5 Duan Broadsword: 4th Place<br>
+<b>5 Duan Broadsword: 4th Place</b><br>
 • Choo Chen En Jacob (1C2)</td>
 </tr>
 <tr>
 
 <td>NSG 2023 (B Division Girls)</td>
-<td>1st International Sword: 6th Place<br>
+<td><b>1st International Sword: 6th Place</b><br>
 • Xiao Wenlin (4R3)</td>
 </tr>
 <tr>
 
 <td>NSG 2023 (C Division Girls)</td>
-<td>1st International Broadsword: 7th Place<br>
+<td><b>1st International Broadsword: 7th Place</b><br>
 • Huang Haoya (1R3)<br>
 <br>
-32 Style Taijijian: 5th Place<br>
+<b>32 Style Taijijian: 5th Place</b><br>
 • Heidi Lim Rui Han (2R2)<br>
 <br>
-42 Style Taijijian: 5th Place<br>
+<b>42 Style Taijijian: 5th Place</b><br>
 • Ng Yu Han Celeste (1C2)<br>
 <br>
-5 Duan Spear: 5th Place<br>
+<b>5 Duan Spear: 5th Place</b><br>
 • Yue En Xi, Reanne (1R2)</td>
 </tr>
 <tr>
 
 <td>NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Ryan Lee Xing Zuo (4R1)<br>
 <br>
-C Division Boys<br>
+<b>C Division Boys</b><br>
 • Tan Jing Xiang Lucas (1R1)<br>
 <br>
-B Division Girls<br>
+<b>B Division Girls</b><br>
 • Xiao Wenlin (4R3)<br>
 <br>
-C Division Girls<br>
+<b>C Division Girls</b><br>
 • Yue En XI, Reanne (1R2)</td>
 </tr>
 <tr>
@@ -743,85 +742,85 @@ C Division Girls<br>
 <tr>
 
 <td>Golf NSG 2022 (C Division Girls)</td>
-<td>6th Place<br>
+<td><b>6th Place</b><br>
 Lim See Xuan (1R1)</td>
 </tr>
 <tr>
 
 <td>National Swimming Championships 2022 (B Division Girls)</td>
-<td>100M: 4th Place<br>
+<td><b>100M: 4th Place</b><br>
 • Twila Chan Sze Hwi(4C3)<br>
 <br>
-200M: 4th Place<br>
+<b>200M: 4th Place</b><br>
 • Twila Chan Sze Hwi(4C3)</td>
 </tr>
 <tr>
 
 <td>Stand-Up Paddling Sprint Race 2022 (U14) </td>
-<td>250M: 4th Place<br>
+<td><b>250M: 4th Place</b><br>
 • Tristan Tan Yu Jun (1R1)<br>
 <br>
-500M: 4th Place<br>
+<b>500M: 4th Place</b><br>
 • Tristan Tan Yu Jun (1R1)<br>
 <br>
-1000M: 4th Place<br>
+<b>1000M: 4th Place</b><br>
 • Tristan Tan Yu Jun (1R1)</td>
 </tr>
 <tr>
 
 <td>Track &amp; Field NSG 2022 (C Division Boys)</td>
-<td>100M: Semi-finalist<br>
+<td><b>100M: Semi-finalist</b><br>
 • Tan Yi Xi Caedmon (2R2)</td>
 </tr>
 <tr>
 
 <td>Track &amp; Field NSG Sportsmanship Award 2022</td>
-<td>C Division Boys<br>
+<td><b>C Division Boys</b><br>
 • Tan Yi Xi Caedmon (2R2)</td>
 </tr>
 <tr>
 
 <td>Cross Country NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Dario Cao Hartono (3R2)<br>
 • Gawle Shaan Yogesh (4R4)<br>
 <br>
-C Division Boys<br>
+<b>C Division Boys</b><br>
 • Tristan Tan Yu Jun (2R1)<br>
 <br>
-B Division Girls<br>
+<b>B Division Girls</b><br>
 • Jodell Lee Jing Wen (4R5)<br>
 • Jodi Chew Yen Tong (4R4)<br>
 • Toh Kit Min, Joelle (4R4)<br>
 <br>
-C Division Girls<br>
+<b>C Division Girls</b><br>
 • Zahra Binte Norman (1C2)</td>
 </tr>
 <tr>
 
 <td>Swimming NSG 2023 (B Division Girls)</td>
-<td>200M Backstroke: 8th Place<br>
+<td><b>200M Backstroke: 8th Place</b><br>
 • Twila Chan Sze Hwi (5C1)</td>
 </tr>
 <tr>
 
 <td>Taekwondo (Poomsae) NSG 2023 (C Division Boys)</td>
-<td>Black Poom 2: 2nd Place<br>
+<td><b>Black Poom 2: 2nd Place</b><br>
 • Koo Jia Jun Cayden (1C2)</td>
 </tr>
 <tr>
 
 <td>Taekwondo NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Tan Yi Xi Caedmon (3R5)<br>
 <br>
-C Division Boys<br>
+<b>C Division Boys</b><br>
 • Koo Jia Jun Cayden (1C2)</td>
 </tr>
 <tr>
 
 <td>Track &amp; Field NSG Sportsmanship Award 2023</td>
-<td>B Division Boys<br>
+<td><b>B Division Boys</b><br>
 • Tan Yi Xi Caedmon (3R5)</td>
 </tr>
 </tbody></table>
