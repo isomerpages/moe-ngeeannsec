@@ -4,7 +4,7 @@ permalink: /about-us/achievements-and-accolades/students/
 description: ""
 third_nav_title: Achievements and Accolades
 ---
-##### **Achievements of Curriculum and Distinctive Programmes**
+#### **Achievements of Curriculum and Distinctive Programmes**
 <table>
 <tbody><tr>
 	<td rowspan="2"><b>English Language &amp; Literature</b></td>
@@ -322,7 +322,7 @@ Merit<br>
 </tbody></table>
 
 
-##### **Achievements of Clubs &amp; Societies CCA**
+#### **Achievements of Clubs &amp; Societies CCA**
 
 <table>
 <tbody><tr>
@@ -585,7 +585,7 @@ Merit<br>
 </tbody></table>
 
 
-##### **Achievements of Performing Arts CCA**
+#### **Achievements of Performing Arts CCA**
 
 <table>
 
@@ -632,7 +632,7 @@ Merit<br>
 </tbody></table>
 
 
-##### **Achievements of Physical Sports CCA**
+#### **Achievements of Physical Sports CCA**
 
 <table>
 <tbody><tr>
@@ -1052,7 +1052,7 @@ C Division Boys<br>
 </tbody></table>
 
 
-##### **Achievements of Uniformed Groups CCA**
+#### **Achievements of Uniformed Groups CCA**
 
 <table>
 <tbody><tr>
