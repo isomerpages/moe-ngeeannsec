@@ -30,9 +30,10 @@ Bronze<br>
 • Ong Rui En (2R3), Bronze</td>
 </tr>
 <tr>
-<td><b>Humanities</b></td>
+<td rowspan="2"><b>Humanities</b></td>
 <td><b>MOE Geography Talent Development Programme 2022</b></td>
 </tr>
+	<tr><td>• Dolot Shine Mikaela Maminta (4R5)</td></tr>
 <tr>
 <td rowspan="4"><b>Mathematics</b></td>
 <td><b>2022 Singapore Mathematical Olympiad</b></td>
@@ -52,7 +53,7 @@ Open Category<br>
 </tr>
 <tr>
 
-<td>StrITwise Competition 2022 by Ngee Ann Polytechnic</td>
+<td><b>StrITwise Competition 2022 by Ngee Ann Polytechnic</b></td>
 </tr>
 <tr>
 
@@ -115,7 +116,6 @@ Merit<br>
 <br>
 Silver<br>
 • Magbitang Callista Ysabelle Acuna (4R5)<br>
-<br>
 • Miranda Lee Xin Yi (4R5)<br>
 • Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)<br>
 <br>
@@ -133,7 +133,6 @@ Honourable Mention<br>
 
 <td>Bronze<br>
 • Ho Ke Ying (4R4)<br>
-<br>
 <br>
 Merit<br>
 • Chia Wan Ting (4R4)<br>
