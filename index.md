@@ -25,11 +25,15 @@ sections:
       subtitle: Save The Date
       id: infobar
       description: On 18th November (AM)
-  - infobar:
-      title: A School Of Possibilities; A Home To Grow In
-      description: Welcome to Ngee Ann Secondary School e-Open House!
-      button: Click HERE
-      url: /ngee-ann-experience/e-openhouse
+  - infopic:
+      title: 🚀Open House 2023🎪
+      subtitle: Save The Date
+      id: infopic
+      description: On 18th November (AM)
+      button: NAS Open Homepage
+      url: google.com
+      image: /images/openhouse 2023 banner v2.png
+      alt: Open House Banner
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
