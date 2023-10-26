@@ -14,8 +14,6 @@ Can’t visit us on this date? Fret not! We will bring NAS to you via our [e-Ope
 
 ### Open House Programmes
 
-![Open house 2023 schedule](/images/openhouse%202023%20schedule.jpg)
-
 ##### Principal's Sharing @ NAS Auditorium
 <style>
 	.bordered, .bordered tr td{
