@@ -12,6 +12,6 @@ This year, our physical Open House falls on 18 November 2023 (Saturday), from 8a
 We look forward to meeting you at our physical Open House!
 Can’t visit us on this date? Fret not! We will bring NAS to you via our [e-Open House](/ngee-ann-experience/e-openhouse/)!)
 
-### Programme Schedule
+### Open House Programmes
 
 ![Open house 2023 schedule](/images/openhouse%202023%20schedule.jpg)
