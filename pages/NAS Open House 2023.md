@@ -10,7 +10,7 @@ description: ""
 This year, our physical Open House falls on 18 November 2023 (Saturday), from 8am to 1pm. We have lined up many exciting programmes for our visitors, including performances by our students and augmented reality tours.
 
 We look forward to meeting you at our physical Open House!
-Can’t visit us on this date? Fret not! We will bring NAS to you via our e-Open House!)
+Can’t visit us on this date? Fret not! We will bring NAS to you via our [e-Open House](/ngee-ann-experience/e-openhouse/)!)
 
 ### Programme Schedule
 
