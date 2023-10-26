@@ -25,8 +25,8 @@ sections:
       subtitle: Save The Date
       id: infopic
       description: Saturday 18th November (8am - 1pm)
-      button: NAS Open Homepage
-      url: google.com
+      button: NAS Open House page
+      url: /nas-open-house
       image: /images/openhouse 2023 banner v2.png
       alt: Open House Banner
   - infobar:
