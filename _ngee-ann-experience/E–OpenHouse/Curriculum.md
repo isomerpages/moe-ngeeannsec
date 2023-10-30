@@ -19,7 +19,7 @@ and our educational philosophy based on our&nbsp;[**Total Curriculum Framework**
 # Future School
 
 
-#### **Ed Tech**&nbsp;to develop&nbsp;**Future Ready Learners. Tech Ed**&nbsp;to develop&nbsp;**Computational Thinkers**
+#### **Ed Tech**&nbsp;to develop&nbsp;**Future Ready Learners. Tech Ed**&nbsp;to develop&nbsp;**Computational Thinkers.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/234UnA5zb7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
