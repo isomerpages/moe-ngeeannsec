@@ -7,7 +7,7 @@ third_nav_title: E–OpenHouse
 # Future Ready Learners
 
 
-#### **Taste New Knowledge.  Gear up as Future Ready Learners**
+#### **Taste New Knowledge.  Gear up as Future Ready Learners.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rCYOb8Vm6Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
