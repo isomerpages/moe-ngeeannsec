@@ -14,6 +14,6 @@ When viewed on a smartphone, play the video on the Youtube app and move your dev
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wy6eCnHWuCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<br>
+More about our school facilities in the video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lghUZFSTaYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
