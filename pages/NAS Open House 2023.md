@@ -68,7 +68,7 @@ Can’t visit us on this date? Fret not! We will bring NAS to you via our [e-Ope
 
 <table class="bordered">
 <tbody><tr>
-<td>8:00am - 1:00pm</td>
+<td>10:30am - 11:00am</td>
 </tr>
 </tbody></table>
 
