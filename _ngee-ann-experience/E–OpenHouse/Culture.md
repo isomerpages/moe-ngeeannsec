@@ -19,7 +19,7 @@ NASians, staff, and our partners in education work together to bring learning op
 
 ### NAS PSG Activities
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?si=2S_Akk_RtXZ4ECv5&amp;v=08Hqcv8gW00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=08Hqcv8gW00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Find out more about our&nbsp;&nbsp;**[Parents' Support Group(PSG)](/links-for-parents/parents-support-group-psg)**&nbsp;&nbsp;and their activities in 2023!
 
