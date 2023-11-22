@@ -4,11 +4,9 @@ permalink: /about-us/organization-chart/
 description: ""
 variant: markdown
 ---
+##### School Management Committee 2024
 <table>
-<tbody><tr>
-<th colspan="2">School Management Committee 2024</th>
-
-</tr>
+<tbody>
 <tr>
 <td>Mr Goh Kim Hock</td>
 <td>Chairman</td>
@@ -43,11 +41,10 @@ variant: markdown
 </tr>
 </tbody></table>
 
-<table>
-<tbody><tr>
-<th colspan="2">School Key Personnel 2024</th>
+##### School Key Personnel 2024
 
-</tr>
+<table>
+<tbody>
 <tr>
 <td>Ms Poh Shi Hui</td>
 <td>Principal</td>
