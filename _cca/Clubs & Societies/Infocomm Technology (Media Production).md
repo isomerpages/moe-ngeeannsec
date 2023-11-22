@@ -41,16 +41,6 @@ The Infocomm Technology CCA aims to&nbsp;
 
 (3) Members of Infocomm Technology CCA are able to develop a passion for learning and leading others.
 
-**SERVE**
-
-(1) Morning Assembly
-
-(2) School Events &amp; Celebrations
-
-(3) Reaching out to the Community
-
-(4) Tech Saturday (by IMDA)
-
 
 
 ### Achievements and Accolades
