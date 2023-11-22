@@ -41,7 +41,15 @@ The Infocomm Technology CCA aims to&nbsp;
 
 (3) Members of Infocomm Technology CCA are able to develop a passion for learning and leading others.
 
+**Service**:
 
+(1) Morning Assembly
+
+(2) School Events &amp; Celebrations
+
+(3) Reaching out to the Community
+
+(4) Tech Saturday (by IMDA)
 
 ### Achievements and Accolades
 
@@ -88,9 +96,6 @@ Finalists
 (&amp; Com Lab 1)</td>
 </tr>
 <tr>
-
-
-
 </tr>
 <tr>
 <td rowspan="2">Wednesday/ Friday<br>
@@ -106,4 +111,5 @@ Finalists
 ### CCA Teachers-in-charge
 
 Mdm Du Meishan Grace  <br>
-Mr Ho Yuan Shun Timothy
+Ms Hon Soo Sien (Sem 1) <br>
+Mr Kelvin Tey (Sem 2)
