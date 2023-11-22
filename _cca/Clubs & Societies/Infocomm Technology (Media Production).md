@@ -3,6 +3,7 @@ title: Infocomm Technology (Media Production)
 permalink: /co-curriculum/cca/infocomm-technology/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1YOzuvRbKSmaRVl--NqZFqu0bYOhA-WwJY-9h1dV8Aw8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -40,14 +41,39 @@ The Infocomm Technology CCA aims to&nbsp;
 
 (3) Members of Infocomm Technology CCA are able to develop a passion for learning and leading others.
 
+**SERVE**
+
+(1) Morning Assembly
+
+(2) School Events &amp; Celebrations
+
+(3) Reaching out to the Community
+
+(4) Tech Saturday (by IMDA)
+
+
 
 ### Achievements and Accolades
 
+**SERVE up Emerging Tech Journaling Contest 2023**<br>
+Winner
+(Category: ‘Unleash your inner designer’, featured in IMDA website)
+					 
+**National Youth Tech Championship 2023 by IMDA**<br>
+Participation
 
-**Straits Times National Youth Media Competition 2019**:  
+**Videography competitions**<br>
+OSOS, DrugsFree SG, NSmen, etc.
 
+**Infocomm Media Club Youth Award by IMDA 2022**<br>
+Tech Category: Commendation Award<br>
+Media Category: Commendation Award
+
+**SERVE Social Media Writeup Contest by IMDA 2022**<br>
+Winner
+
+**Straits Times National Youth Media Competition 2019**<br>
 Merit Award
-
 (https://www.straitstimes.com/singapore/student-journalists-all-nighter-pays-off)
 
 **Straits Times National Youth Media Competition 2018** <br>
@@ -59,41 +85,33 @@ Finalists
 
 ### Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Days</th>
-    <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Venue</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">Tuesday</td>
-    <td class="tg-baqh">3.15 – 5.30 pm</td>
-    <td class="tg-baqh">Computer Lab 1</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Wednesday </td>
-    <td class="tg-baqh">3.15 - 5.30 pm</td>
-    <td class="tg-baqh">Computer Lab 1</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"> Friday</td>
-    <td class="tg-baqh">2.30 - 4.30 pm (Seasonal. For preparation of events, if any.)</td>
-    <td class="tg-baqh">Computer Lab 1</td>
-  </tr>
-</tbody>
-</table>
+<table>
+<tbody><tr>
+<td>Days</td>
+<td>Time</td>
+<td>Venue</td>
+</tr>
+<tr>
+<td rowspan="2">Tuesday</td>
+<td rowspan="2">3.00 – 6.00 pm</td>
+<td rowspan="2">Computer Lab 2<br>
+(&amp; Com Lab 1)</td>
+</tr>
+<tr>
+
+
+
+</tr>
+<tr>
+<td rowspan="2">Wednesday/ Friday<br>
+(if required)</td>
+<td rowspan="2">3.00 – 6.00 pm</td>
+<td rowspan="2">Computer Lab 2<br>
+(&amp; Com Lab 1)</td>
+</tr>
+</tbody></table>
+
+
 
 ### CCA Teachers-in-charge
 
