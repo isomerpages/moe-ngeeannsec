@@ -56,7 +56,7 @@ variant: markdown
 <td>Admin Support Officer</td>
 </tr>
 <tr>
-<td>Ms Sim Swee Tin Jessica</td>
+<td>Hajarah Bibi DO Mirzaman</td>
 <td>Education Support Assistant</td>
 </tr>
 <tr>
@@ -82,6 +82,10 @@ variant: markdown
 <tr>
 <td>Mr Mohd Noor Bin Eusop B</td>
 <td>Operations Support Officer</td>
+</tr>
+<tr>
+<td>Mariam Bte Buang</td>
+<td>Assistant Librarian</td>
 </tr>
 </tbody></table>
 
