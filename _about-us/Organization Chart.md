@@ -7,6 +7,7 @@ variant: markdown
 ##### School Management Committee 2024
 <table>
 <tbody>
+	<tr><th>Name</th><th>Role</th></tr>
 <tr>
 <td>Mr Goh Kim Hock</td>
 <td>Chairman</td>
@@ -44,7 +45,7 @@ variant: markdown
 ##### School Key Personnel 2024
 
 <table>
-<tbody>
+<tbody><tr><th>Name</th><th>Role</th></tr>
 <tr>
 <td>Ms Poh Shi Hui</td>
 <td>Principal</td>
