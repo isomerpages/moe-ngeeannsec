@@ -3,6 +3,7 @@ title: English
 permalink: /curriculum/Academics/english/
 description: ""
 third_nav_title: Academics
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1ljhKXGn0uRHFywFqSHPERBiv-fA0H1MMZIgUB1anlvs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -81,89 +82,23 @@ Students will be:
 
 ### Special Programmes
 
-##### NASEdventure (Broadcast Journalism)
+##### NASEdventure (Digital Content Creation)
 
-This one-day enrichment programme focused on the authentic use of the English Language, where students learnt to be reporters for the day!
+A one-day enrichment programme that focused on the authentic use of the English Language. The session kicked off with a sharing by Ms Annette Lee, a digital content creator, on how to craft social media posts that are impactful yet engaging. Subsequently, students put into practice the tips that were shared by Ms Lee by crafting a social media post of their own.
 
-**Structure of the Programme**
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1pMgYCjBu--zUTmlzZ8VghAvgsUndMWRPZ_AH-Vmfpg8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-Students attended a talk by an industry practitioner – Ms Belinda Lee, a host, actress and inspirational speaker, on how to be a good and authentic public speaker. Following that, students were guided by facilitators to do live reporting in front of a camera crew, advocating different social causes.
+##### Debate
 
-<iframe src="https://docs.google.com/presentation/d/1WwCoqq3rJc_xZ1LJ8LJir4jskO53O9m6Yqqon4r7esY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+As a special interest group, our debaters are trained by a coach in research and information sourcing, debate strategies and styles, and rebuttal techniques. They are given opportunities to come up with debate motions as well as participate in mini debates to hone their skills. The highlight of the year for our debaters is when they represent the school in the Singapore Secondary Schools Debating Championships. 2023, in particular, was an exceptional year as one of our debaters, Jonas Lim, was awarded the best floor speaker in the Championships.
 
-Teachers-in-charge  
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1FrLJ756RalpxhRHxEahgE2ZbCsRkQq15YFz3CvZnHIA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-1. Mdm Muneira Daud
-2. Mdm Nor Hasni Yanti Hamim
+##### Book a Writer: Stella Kon
 
-##### EL Debate
+Book A Writer is SingLit Station’s workshop-for-schools programme, featuring a roster of Singapore’s most important writers at work today. This programme features a talk by local playwright Ms Stella Kon, author of the Literature text Emily of Emerald Hill. This session gave our students an opportunity to interact with Ms Kon, allowing them to gain a deeper understanding of the text as well as gain an insight into the process of creative writing.
 
-The English Department debating group is a special interest group.&nbsp; The number of enthusiastic participants has increased to 22 this year.
-
-**Structure of the Programme**
-
-The debaters are trained by a coach in research and information sourcing, debate strategies and styles, and rebuttal techniques. They are given opportunities to come up with debate motions as well as participate in mini debates to hone their skills.&nbsp;
-
-Yearly, selected students represent the school in the Singapore Secondary Schools Debating Championships. They have also participated in the Singapore Polytechnic Debate Open and the St Margaret’s Ladies League.
-
-<iframe src="https://docs.google.com/presentation/d/1Y0Qz4ikZf4dbq--HnzWqHsuXt7zj5iYwZdkYB_EAhaI/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-Teachers-in-charge  
-
-1. Mrs Lock Wee Lee
-2. Miss Sarinah
-3. Miss Rina Tan Yi Qian
-
-  
-
-##### Book a Writer: Verena Tay @ Ngee Ann Secondary School
-
-Book A Writer is Sing Lit Station's workshop-for-schools programme, featuring a roster of Singapore's most important writers at work today. This programme features a talk by local playwright Verena Tay, author for the Secondary Two Literature text – The Car and Other Plays. This programme was organized for the Secondary Two Express students to give them an opportunity to interact with Verena Tay, and for them to gain a deeper understanding of their text as well as gain an insight into the process of creative writing.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/19xrRjk_96k7vdIaQH7A3TXC7olDrMio_T94k9IjixJE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-**Structure of the Programme**  
-
-The Book A Writer workshop by Verena Tay was scheduled as an after-school programme, which consist of a hour-long presentation by Verena Tay and a Question and Answer segment for the students to interact with Tay. Due to&nbsp; adherence to SMM, the workshop was conducted via Zoom.&nbsp;
-
-Teachers-in-charge&nbsp;
-
-1. Tamilchelvan Shobah&nbsp;
-2. Rina Tan Yi Qian&nbsp;
-
-
-##### Secondary 3 English Language Class Debates
-
-In Term 2 of 2021, Secondary 3 students were part of the level-wide programme to expose them to authentic speaking tasks. This activity was also aligned with their learning on expositions. In teams, students prepared for the motion by conducting collaborative discussions to create various compelling arguments, culminating in an actual class debate which was hosted and adjudicated by their own peers. Students learnt the value of acquiring good communication skills and exercised their ability to think critically when addressing an issue.
-
-<iframe src="https://docs.google.com/presentation/d/1zzdCnWP2O9czoAJ6MOGoyPaLg7FPg7raJP10SYwU-Qc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-Teachers-in-charge  
-
-1. Mdm Muneira
-2. Ms Shobah
-3. Mr Wee Jun Wen  
-
-### WiREAD+
-
-WiREAD+ is a web-based, computer-supported collaborative reading and learning diagnostics environment. WiREAD+ was conceptualised with the objectives of developing critical reading skills, promoting self-directed learning and deepening student engagement with multi-modal texts. WiREAD+ was designed to provide students with the opportunity to engage with texts in a social environment, which would allow greater participation, critical thinking and engagement within a class.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1JMmI1nHbZpmRCY7sypaoJkxiK5ldeh-eouGDPFWStGo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-**Structure of the Programme**
-
-Every fortnight, via the WiREAD+ platform, our Secondary 4 Express students are introduced to different current affairs themes in the form of multi-modal texts. They then engage in discussions to express their views and challenge or support their friends’ opinions.
-
-  
-
-Teachers-in-charge
-
-1. Mdm Muneira Daud
-2. Mdm Nor Hasni Yanti Hamim
-
-  
-
-  
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/17B6-ZoN70hoxYazACAngeyGdK5kgnZojcZnpeV7PFus/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Achievements
 

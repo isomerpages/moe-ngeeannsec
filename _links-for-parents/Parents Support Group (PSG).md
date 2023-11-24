@@ -2,22 +2,23 @@
 title: Parents Support Group (PSG)
 permalink: /links-for-parents/parents-support-group-psg/
 description: ""
+variant: markdown
 ---
 Core Team Members
 -----------------
 <table>
-	<tr><th>Designation</th><th>Name of PSG</th></tr>
+	<tbody><tr><th>Designation</th><th>Name of PSG</th></tr>
 	<tr><td>I-P Chair</td><td>Peggy Sett</td></tr>
 	<tr><td>Chairperson</td><td>Lim Beng Choon</td></tr>
 	<tr><td>Secretary</td><td>Karyn Yeo</td></tr>
-</table>
+</tbody></table>
 
 
 
 Executive Committee Members (EXCO)
 ----------------------------------
 <table>
-	<tr>
+	<tbody><tr>
 		<td>Aisyah Bte Mohd Amir</td>
 		<td>Emily Lee</td>
 		<td>Jesse Chew</td>
@@ -35,9 +36,9 @@ Executive Committee Members (EXCO)
 	<tr>
 		<td>Wong Hong Ling</td>
 	</tr>
-</table>
+</tbody></table>
 
-Please click [here](https://drive.google.com/file/d/1ffPOqqLj18YNNLWvUZ3Us9eMMC7WaLXB/view) for the organisation chart  
+Please click&nbsp;[here](https://drive.google.com/file/d/1ffPOqqLj18YNNLWvUZ3Us9eMMC7WaLXB/view)&nbsp;for the organisation chart  
   
   
 
@@ -46,13 +47,13 @@ Parent Ambassadors ("PA")
 
   
 
-Each class has up to 2 Parent Ambassadors (Main PA & Co PA) assisting the Exco to coordinate PSG matters where applicable.
+Each class has up to 2 Parent Ambassadors (Main PA &amp; Co PA) assisting the Exco to coordinate PSG matters where applicable.
 
   
 
 NAS PSG Video
 -------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXJXwg3MbLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/08Hqcv8gW00?si=30ZunOshaurMARyM" height="315" width="560"></iframe>
 
 Proposed NAS PSG Events/Activities 2023
 -------------------------
@@ -61,7 +62,7 @@ Proposed NAS PSG Events/Activities 2023
 
 #### **Term 1**
 <table>
-	<tr>
+	<tbody><tr>
 		<th>Event/Activity</th><th>Date</th>
 	</tr>
 	<tr>
@@ -73,7 +74,7 @@ Proposed NAS PSG Events/Activities 2023
 		<td>Early Feb 2023</td>
 	</tr>
 	<tr>
-		<td>Heritage Talk, Parents Forum & PSG Group Meeting</td>
+		<td>Heritage Talk, Parents Forum &amp; PSG Group Meeting</td>
 		<td>14 Feb 2023</td>
 	</tr>
 	<tr>
@@ -84,17 +85,17 @@ Proposed NAS PSG Events/Activities 2023
 		<td>Father-child bonding activity (at OTH)</td>
 		<td>March Holiday 2023</td>
 	</tr>
-</table>
+</tbody></table>
 
 
 #### **Term 2**
 <table>
-	<tr>
+	<tbody><tr>
 		<th>Event/Activity</th><th>Date</th>
 	</tr>
 	<tr>
 		<td>International Friendship Day @ School activities</td>
-		<td>3 & 4 April 2023</td>
+		<td>3 &amp; 4 April 2023</td>
 	</tr>
 	<tr>
 		<td>PSG Family Day Outreach Project</td>
@@ -104,12 +105,12 @@ Proposed NAS PSG Events/Activities 2023
 		<td>Healthy Life style (Outdoor)</td>
 		<td>June 2023</td>
 	</tr>
-</table>	
+</tbody></table>	
 
 
 #### **Term 3**
 <table>
-	<tr>
+	<tbody><tr>
 		<th>Event/Activity</th><th>Date</th>
 	</tr>
 	<tr>
@@ -136,11 +137,11 @@ Proposed NAS PSG Events/Activities 2023
 		<td>Father-child bonding activity</td>
 		<td>TBC</td>
 	</tr>
-</table>
+</tbody></table>
 
 #### **Term 4**
 <table>
-	<tr>
+	<tbody><tr>
 		<th>Event/Activity</th><th>Date</th>
 	</tr>
 	<tr>
@@ -151,12 +152,12 @@ Proposed NAS PSG Events/Activities 2023
 		<td>NAS Open House</td>
 		<td>Nov 2023</td>
 	</tr>
-</table>
+</tbody></table>
 
 
 **_NAS PSG will be most happy to have parents joining us at any juncture._**
 
-**Click [here](https://go.gov.sg/naspsg) for the PSG application form.**
+**Click&nbsp;[here](https://go.gov.sg/naspsg)&nbsp;for the PSG application form.**
 
 ##### **HOW TO CONTACT NAS PSG:**
 

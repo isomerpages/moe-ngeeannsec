@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /curriculum/Academics/mathematics/
 description: ""
 third_nav_title: Academics
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1UX4TIogdI8R01r4wY320mQltrVsIr5xavb67ZQyHDjI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -113,27 +114,13 @@ Besides theoretical knowledge, students are also trained in the use of various s
 
 ##### Special Programmes
 
-**• SPARKS Program**&nbsp;
+* Math Olympiad training
+* Math Trail
+* Temasek Poly InfoDay Visit &amp; e-visit
+* Work attachment to companies and polytechnics (Computing)
+* Enrichment programmes and learning journeys eg game design, chatbot creation (Computing)
 
-Programme Structure
-
-The SPARKS programme is a talent-development programme designed to give students a holistic education with a focus on Research and Development in Mathematics and Science. It follows a broad-based curriculum where innovation and interesting teaching methods are used and lessons are held in rich technological settings.
-
-Sessions are designed around the 3 main competencies of critical and inventive thinking, communication and collaboration. The scope of training in Mathematics include training workshops targeted at developing skills in problem solving, improving their numeracy skills through Mathematical Olympiad competitions, developing mathematical modelling skills for analyzing real-life problems and basic computational thinking skills through the use of programming devices to explore mathematical concepts.
-
-  
-
-**• Math Olympiad Training**&nbsp;
-
-**• Singapore Mathematical Modelling Forum and Challenge**&nbsp;
-
-**• Temasek Polytechnic InfoDay Visit &amp; e-Visit**
-
-**• Work attachment to companies and polytechnics (Computing, EBS)**
-
-**• Enrichment programmes eg. game design, chatbot creation (Computing)**
-
-  
+  <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1XC-NHQrV3IyLSiGhx5LLW7cGhhPmYTNNhFDazraz-Co/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### Achievements
 

@@ -3,6 +3,7 @@ title: Culture
 permalink: /ngee-ann-experience/e-openhouse/culture/
 description: ""
 third_nav_title: E–OpenHouse
+variant: markdown
 ---
 # The NAS DNA
 
@@ -18,9 +19,9 @@ NASians, staff, and our partners in education work together to bring learning op
 
 ### NAS PSG Activities
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gP2i8A3Wyrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/08Hqcv8gW00?si=30ZunOshaurMARyM" height="315" width="560"></iframe>
 
-Find out more about our&nbsp;&nbsp;**[Parents' Support Group(PSG)](/links-for-parents/parents-support-group-psg)**&nbsp;&nbsp;and their activities in 2021
+Find out more about our&nbsp;&nbsp;**[Parents' Support Group(PSG)](/links-for-parents/parents-support-group-psg)**&nbsp;&nbsp;and their activities in 2023!
 
   
 <hr>
