@@ -84,7 +84,7 @@ The Malay Language syllabus aims to:&nbsp;
     
 	*   using appropriate social and emotional skills when managing their interrelationships and collaborative work with others.
 
-#### Special Programmes
+### Special Programmes
 
 ##### Mother Tongue Fortnight
 
