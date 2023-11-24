@@ -100,27 +100,6 @@ Book A Writer is SingLit Station’s workshop-for-schools programme, featuring a
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/17B6-ZoN70hoxYazACAngeyGdK5kgnZojcZnpeV7PFus/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-### WiREAD+
-
-WiREAD+ is a web-based, computer-supported collaborative reading and learning diagnostics environment. WiREAD+ was conceptualised with the objectives of developing critical reading skills, promoting self-directed learning and deepening student engagement with multi-modal texts. WiREAD+ was designed to provide students with the opportunity to engage with texts in a social environment, which would allow greater participation, critical thinking and engagement within a class.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1JMmI1nHbZpmRCY7sypaoJkxiK5ldeh-eouGDPFWStGo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-**Structure of the Programme**
-
-Every fortnight, via the WiREAD+ platform, our Secondary 4 Express students are introduced to different current affairs themes in the form of multi-modal texts. They then engage in discussions to express their views and challenge or support their friends’ opinions.
-
-  
-
-Teachers-in-charge
-
-1. Mdm Muneira Daud
-2. Mdm Nor Hasni Yanti Hamim
-
-  
-
-  
-
 ### Achievements
 
 WiREAD+ (MOE Innergy Award 2020 – Bronze)
