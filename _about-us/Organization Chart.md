@@ -13,15 +13,15 @@ variant: markdown
 <td>Chairman</td>
 </tr>
 <tr>
-<td>Mr Lim Kia Hong</td>
+<td>Miss Ku Swee Ngein</td>
 <td>Vice-Chairman</td>
 </tr>
 <tr>
-<td>Mr Lionel Yeo Hung Tong</td>
-<td>Honorary Secretary</td>
+<td>Dr Wu Chiaw Ching</td>
+<td>Committee Member</td>
 </tr>
 <tr>
-<td>Mr Lee Siew Khwang Raymond</td>
+<td>Mr Lie Kee Pong</td>
 <td>Committee Member</td>
 </tr>
 <tr>
@@ -29,15 +29,11 @@ variant: markdown
 <td>Committee Member</td>
 </tr>
 <tr>
-<td>Ms Heng Ai Li Linda</td>
+<td>Mr Phua Chung Ann</td>
 <td>Committee Member</td>
 </tr>
 <tr>
-<td>Ms Ku Swee Ngein</td>
-<td>Committee Member</td>
-</tr>
-<tr>
-<td>Dr Wu Chiaw Ching</td>
+<td>Dr Teo Miang Chneh</td>
 <td>Committee Member</td>
 </tr>
 </tbody></table>
