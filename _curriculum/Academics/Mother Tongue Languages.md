@@ -3,9 +3,9 @@ title: Mother Tongue Languages
 permalink: /curriculum/Academics/mother-tongue-languages/
 description: ""
 third_nav_title: Academics
+variant: markdown
 ---
-<img src="/images/IMG_5664.jpeg" 
-     style="width:75%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1uskv6Ya0mhLWfpKA14NuKoJmQA73t3bWWNL3O34W1xM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 		
 Syllabus Objectives
 -------------------
@@ -18,11 +18,11 @@ Language is the key in all communication and bilingualism is the cornerstone of 
 
 #### Subjects Offered
 
-*   Higher Chinese/ Higher Malay (Express) 
+*   Higher Chinese/ Higher Malay (Express)&nbsp;
 *   Chinese/ Malay (Express / Normal Academic)
-*   Basic Chinese/ Basic Malay (Normal Technical) 
-*   Chinese Language ‘B’ (Sec 4/5 only) 
-*   Conversational Chinese and Malay (Sec 1 & 2)
+*   Basic Chinese/ Basic Malay (Normal Technical)&nbsp;
+*   Chinese Language ‘B’ (Sec 4/5 only)&nbsp;
+*   Conversational Chinese and Malay (Sec 1 &amp; 2)
 
 ### Chinese Language
 
@@ -40,7 +40,7 @@ The Chinese Language syllabus aims to:
     
 	*   the learning and imparting of cultural heritage;  
     
-	*   the emphasis on caring for family, society, country and the world; and   
+	*   the emphasis on caring for family, society, country and the world; and&nbsp;  
     
 	*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
     
@@ -57,7 +57,7 @@ The Chinese Language syllabus aims to:
 
 ### Malay Language
 
-The Malay Language syllabus aims to: 
+The Malay Language syllabus aims to:&nbsp;
 
 * improve students’ language communication skills through the respective (MTL) programmes
 
@@ -69,7 +69,7 @@ The Malay Language syllabus aims to: 
     
 	*   the learning and imparting of cultural heritage;  
     
-	*   the emphasis on caring for family, society, country and the world; and   
+	*   the emphasis on caring for family, society, country and the world; and&nbsp;  
     
 	*   the inculcation of aesthetics appreciation to learn about and understand different cultures.  
     
@@ -86,14 +86,14 @@ The Malay Language syllabus aims to: 
 
 #### Special Programmes
 
-*   Mother Tongue Fortnight Programme 
-*   Reading Education Programme 
-*   “Book Your Holiday” Programme 
-*   Chinese New Year Hamper Design Competition cum Celebration 
-*   Traditional Chinese Medicine Learning Journey (Chinese Unit) 
-*   Author-in-residence Essay Writing Workshop (Chinese Unit) 
-*   Chinese Students’ Essay Publication “義安天地” (Chinese Unit) 
-*   Malay Students’ Essay Publication (Bi-annual, Malay Unit) 
-*   Peraduan Sahibba (Malay Unit) 
-*   Sayembara Ini NASKhah Kita (Malay Unit) 
+*   Mother Tongue Fortnight Programme&nbsp;
+*   Reading Education Programme&nbsp;
+*   “Book Your Holiday” Programme&nbsp;
+*   Chinese New Year Hamper Design Competition cum Celebration&nbsp;
+*   Traditional Chinese Medicine Learning Journey (Chinese Unit)&nbsp;
+*   Author-in-residence Essay Writing Workshop (Chinese Unit)&nbsp;
+*   Chinese Students’ Essay Publication “義安天地” (Chinese Unit)&nbsp;
+*   Malay Students’ Essay Publication (Bi-annual, Malay Unit)&nbsp;
+*   Peraduan Sahibba (Malay Unit)&nbsp;
+*   Sayembara Ini NASKhah Kita (Malay Unit)&nbsp;
 *   BYOD dalam kelas Bahasa Melayu (Malay Unit)
