@@ -4,7 +4,7 @@ title: Ngee Ann Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/small-school-Logo-No-background-2.png
 permalink: /
-notification: ""
+notification: Optional Notification banner
 sections:
   - hero:
       title: Ngee Ann Secondary School
@@ -16,6 +16,7 @@ sections:
         - title: Sec 1 Posting for 2024
           description: Click here for more info
           url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
+      variant: center
   - infopic:
       title: 🚀Open House 2023🎪
       subtitle: Save The Date
