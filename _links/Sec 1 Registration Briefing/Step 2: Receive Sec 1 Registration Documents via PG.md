@@ -3,25 +3,27 @@ title: "Step 2: Receive Sec 1 Registration Documents via PG"
 permalink: /links-for-parents/step-2-receive-sec-1-registration-documents-via-pg/
 description: ""
 third_nav_title: Sec 1 Registration Briefing
+variant: markdown
 ---
-We will use PG to send the items below to parents/guardians of Secondary 1 students on Wednesday 21 December 2022, by 7pm.
+**We will use Parents Gateway (PG) to send the items below to parents/guardians of Secondary 1 students on Wednesday 20 December 2023, by 7pm.**
 
-a)    **For eligible Express students:**  
-Offer Letter for Higher Chinese Language and Higher Malay Language  
-b)    **For eligible Normal (Academic) / Normal (Technical) students:** Offer Letter for Subject-Based Banding (SBB)
+a)&nbsp;&nbsp;**Only for eligible Posting Group 3 students:**<br>
+Letter to Offer Higher Chinese/ Malay / Tamil Language<br>
+b)&nbsp;&nbsp;**For eligible Posting Group 1 / Posting Group 2 students:**<br>
+Offer Letter for Subject-Based Banding (SBB)
 
-**Students who are eligible to offer the following subjects will receive a phone call from our Head of Department for Mother Tongue Languages on Wednesday 21 December 2022:**
+**Students who are eligible to offer the following subjects will receive a phone call from our Head of Department for Mother Tongue Languages on Wednesday 20 December 2023:**
 
-a)    Higher Tamil Language  
-b)    Third Language  
-c)    Chinese Special Programme  
-d)    Malay Special Programme  
+a)&nbsp;&nbsp;&nbsp;Higher Tamil Language<br>
+b)&nbsp;&nbsp;&nbsp;Third Language<br>
+c)&nbsp;&nbsp;&nbsp;Chinese Special Programme<br>
+d)&nbsp;&nbsp;&nbsp;Malay Special Programme
 
-**Parents/guardians who are not registered on Parents Gateway** will receive the documents above via the personal email address that you state in your response to our [online registration form](https://form.gov.sg/6396b9b5a9cafc00118ec5b0), if your child/ward is eligible.
+**Parents/guardians who are <u>not registered</u> on Parents Gateway (PG)** will receive the documents above via the personal email address that you state in your response to our [online registration form](https://form.gov.sg/6554c5d94833110012f97115), if your child/ward is eligible.
 
-**After 7pm on 21 December 2022,** please email the school at [nass@moe.edu.sg](about:blank) if you are:
+**After 7pm on 20 December 2023,** please email the school at [nass@moe.edu.sg](mailto:nass@moe.edu.sg) if you are:
 
-*   **registered** on PG but **did not receive any PG notifications** from the school by 7pm **OR**
-*   **not** **registered** on PG and **did not receive an email** from the school by 7pm.
+- **registered** on PG but **did not receive any PG notifications** from the school by 7pm **OR**
+- **not** **registered** on PG and **did not receive an email** from the school by 7pm.
 
-To assist us in responding to your query in a timely manner, please state ‘Did not receive Sec 1 Registration Documents’ in the **subject** of your email to our school.
+To assist us in responding to your query in a timely manner, please state ‘Did not receive Sec 1 Registration Documents’ in the **subject** of your email to our school.
