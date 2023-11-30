@@ -11,7 +11,7 @@ sections:
       background: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner_V2.png
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: Sec 1 Posting for 2024
+        - title: SEC 1 REGISTRATION EXERCISE (2024)
           description: Click here to register!
           url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
       variant: center
