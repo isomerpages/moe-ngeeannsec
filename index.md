@@ -14,7 +14,7 @@ sections:
       url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
       key_highlights:
         - title: Sec 1 Posting for 2024
-          description: Click here for more info
+          description: Click here to register!
           url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
       variant: center
   - infopic:
