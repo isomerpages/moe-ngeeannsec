@@ -10,12 +10,6 @@ sections:
       title: Ngee Ann Secondary School
       background: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner.png
       subtitle: A School of Possibilities, A Home to Grow In
-      button: Sec 1 Posting for 2024
-      url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
-      key_highlights:
-        - title: Sec 1 Posting for 2024
-          description: 30-letter Desc (Removable)
-          url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
   - infopic:
       title: Sec 1 Posting for 2024 (Removable)
       subtitle: Subtitle (removable)
