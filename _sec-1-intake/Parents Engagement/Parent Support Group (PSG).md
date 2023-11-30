@@ -11,6 +11,6 @@ The school would like to encourage all parents to join the PSG, as it is a platf
 
 As members of the PSG, parents will be kept up-to-date on the latest school developments and activities through emails to the PSG and at PSG meetings. In addition, the PSG works hand-in-hand with the school to provide parents with opportunities to participate in school activities and to bond with their children. 
 
-The PSG has planned a virtual session to warmly welcome parents of Sec 1 students to the PSG family. Click here to download Annex E to learn more about this session.
+The PSG has planned a virtual session to warmly welcome parents of Sec 1 students to the PSG family. [Click here to download Annex E](/files/Sec1%20Intake%20page%20Files/Annex_E_Invitation_Letter_NAS_PSG.pdf) to learn more about this session.
 
-If you wish to register as a member of the PSG, please click here to download Annex F (application form), fill out the details and submit your application through one of the modes stated.
+If you wish to register as a member of the PSG, please [click here to download Annex F](/files/Sec1%20Intake%20page%20Files/Annex_F_Application_Form_NAS_PSG.pdf) (application form), fill out the details and submit your application through one of the modes stated.
