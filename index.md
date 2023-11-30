@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner.png
+      background: /images/hero-banner-no-words-with-line.gif
       subtitle: A School of Possibilities, A Home to Grow In
   - infopic:
       title: Sec 1 Posting for 2024 (Removable)
