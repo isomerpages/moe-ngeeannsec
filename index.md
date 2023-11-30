@@ -8,17 +8,14 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/hero-banner-no-words-with-line.gif
+      background: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner.png
       subtitle: A School of Possibilities, A Home to Grow In
-  - infopic:
-      title: Sec 1 Posting for 2024 (Removable)
-      subtitle: Subtitle (removable)
-      id: infopic
-      description: Infopic description (removable)
-      button: Button Text (Removable)
+      button: Sec 1 Posting for 2024
       url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
-      image: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner.png
-      alt: Image alt text
+      key_highlights:
+        - title: Sec 1 Posting for 2024
+          description: Click here for more info
+          url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
   - infopic:
       title: 🚀Open House 2023🎪
       subtitle: Save The Date
