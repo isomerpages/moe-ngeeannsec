@@ -4,7 +4,7 @@ title: Ngee Ann Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/small-school-Logo-No-background-2.png
 permalink: /
-notification: Optional Notification banner
+notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
