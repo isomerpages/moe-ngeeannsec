@@ -43,8 +43,8 @@ Visitors who are unwell should not enter the school and should reschedule your a
 
 ### When referring to the Sec 1 Booklist 2023, please note the codes below
 
--	**Posting Group 3:** purchase **G3** (Express level) books for all subjects
+-	**Posting Group 3:** purchase **G3** books for all subjects
 
--	**Posting Group 2:** purchase **G2** (Normal Academic level) books for all subjects, **except** those that your child will offer at G3 <br>*(if your child is eligible for subject-based banding and accepts the offer)*
+-	**Posting Group 2:** purchase **G2** books for all subjects, **except** those that your child will offer at G3 <br>*(if your child is eligible for subject-based banding and accepts the offer)*
 
--	**Posting Group 1:** purchase **G1** (Normal Technical level) books for all subjects, **except** those that your child will offer at G2 or G3 <br>*(if your child is eligible for subject-based banding and accepts the offer)*
+-	**Posting Group 1:** purchase **G1** books for all subjects, **except** those that your child will offer at G2 or G3 <br>*(if your child is eligible for subject-based banding and accepts the offer)*
