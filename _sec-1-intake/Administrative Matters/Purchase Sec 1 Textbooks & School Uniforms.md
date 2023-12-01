@@ -41,7 +41,7 @@ We also seek your understanding that those who arrive outside your scheduled app
 Visitors who are unwell should not enter the school and should reschedule your appointments with the textbook and/or school uniform vendors.
 
 
-### When referring to the Sec 1 Booklist 2023, please note the codes below
+### When referring to the Sec 1 Booklist 2024, please note the codes below
 
 -	**Posting Group 3:** purchase **G3** books for all subjects
 
