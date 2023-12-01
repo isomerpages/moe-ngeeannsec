@@ -3,6 +3,7 @@ title: Individual Student Details Report (ISDR)
 permalink: /links-for-parents/administrative-matters/individual-student-details-report-isdr/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
 Your child/ward’s Sec 1 Form Teachers will issue a printed copy of the ISDR to him/her on Tuesday 3 January 2023.  
   
@@ -17,6 +18,6 @@ Parents/guardians are required to **declare** their child/ward’s personal pa
 Updates on your child/ward’s medical conditions / Special Educational Needs (SEN) / Special Precautions must be supported by medical documents from the attending doctor.  
   
 
-The signed copy of the ISDR, and supporting medical documents (if any), must be **submitted to your child/ward’s Form Teacher by Friday 6 January 2023.**
+The signed copy of the ISDR, and supporting medical documents (if any), must be **submitted to your child/ward’s Form Teacher by Friday 5 January 2024.**
 
 * * *
