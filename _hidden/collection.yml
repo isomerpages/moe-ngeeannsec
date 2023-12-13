@@ -2,4 +2,5 @@ collections:
   hidden:
     output: true
     order:
+      - Sec 1 intake 2024/.keep
       - Family Matters @ School Programmes.md
