@@ -12,7 +12,7 @@ sections:
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Release of 2023 GCE N–Level Examination Results
-          description: 18 December 2023
+          description: 18 December 2023, 2 pm
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
       variant: center
   - infobar:
