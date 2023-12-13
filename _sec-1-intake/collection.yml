@@ -1,13 +1,7 @@
 collections:
-  links:
+  sec-1-intake:
     output: true
     order:
-      - Parents Engagement/.keep
-      - Parents Engagement/Sec 1 Total Curriculum Briefing.md
-      - Parents Engagement/Parent Support Group (PSG).md
-      - School Matters/.keep
-      - School Matters/School Operations.md
-      - School Matters/Sec 1 Orientation Programme.md
       - Sec 1 Registration Briefing/.keep
       - "Sec 1 Registration Briefing/Step 1: Enable Push Notifications for
         Parents Gateway (PG).md"
@@ -23,3 +17,9 @@ collections:
         Precautions.md
       - Administrative Matters/School Health & Dental Visits.md
       - Administrative Matters/School Smart Card for Concession Travel (SSC).md
+      - School Matters/.keep
+      - School Matters/School Operations.md
+      - School Matters/Sec 1 Orientation Programme.md
+      - Parents Engagement/.keep
+      - Parents Engagement/Sec 1 Total Curriculum Briefing.md
+      - Parents Engagement/Parent Support Group (PSG).md

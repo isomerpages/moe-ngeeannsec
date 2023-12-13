@@ -10,15 +10,11 @@ sections:
       title: Ngee Ann Secondary School
       background: /images/hero-banner-no-words-with-line.gif
       subtitle: A School of Possibilities, A Home to Grow In
-  - infopic:
-      title: 🚀Open House 2023🎪
-      subtitle: Save The Date
-      id: infopic
-      description: Saturday 18th November (8am - 1pm)
-      button: NAS Open House page
-      url: /nas-open-house-2023/
-      image: /images/openhouse 2023 banner v4.png
-      alt: Open House Banner
+      key_highlights:
+        - title: Release of 2023 GCE N–Level Examination Results
+          description: 18 December 2023, 2 pm
+          url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
+      variant: center
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with

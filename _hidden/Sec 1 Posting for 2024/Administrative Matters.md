@@ -2,7 +2,7 @@
 title: Administrative Matters
 permalink: /links-for-parents/sec-1-posting-for-2023/administrative-matters/
 description: ""
-third_nav_title: Sec 1 Posting for 2023
+third_nav_title: Sec 1 Posting for 2024
 ---
 * [Individual Student Details Report (ISDR)](/links-for-parents/administrative-matters/individual-student-details-report-isdr)
 * [Purchase Sec 1 Textbooks & School Uniforms](/links-for-parents/administrative-matters/purchase-sec-1-textbooks-n-school-uniforms)
