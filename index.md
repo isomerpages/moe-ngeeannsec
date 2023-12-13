@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Release of 2023 GCE N–Level Examination Results
           description: ""
-          url: ""
+          url: links-for-parents/links-for-parents/release-of-2023-gce-n-level-examination-results/
       variant: center
   - infobar:
       title: Instructions for Parents Gateway
