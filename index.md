@@ -19,11 +19,6 @@ sections:
           url: ""
       variant: center
   - infobar:
-      title: Release of 2023 GCE N–Level Examination Results
-      subtitle: Add informational text
-      id: infobar
-      button: Button Text
-  - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
         schools, receive information and perform a range of administrative
