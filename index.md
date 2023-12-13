@@ -14,16 +14,15 @@ sections:
         - title: SEC 1 REGISTRATION EXERCISE (2024)
           description: Click here to register!
           url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
+        - title: Release of 2023 GCE N–Level Examination Results
+          description: ""
+          url: ""
       variant: center
-  - infopic:
-      title: 🚀Open House 2023🎪
-      subtitle: Save The Date
-      id: infopic
-      description: Saturday 18th November (8am - 1pm)
-      button: NAS Open House page
-      url: /nas-open-house-2023/
-      image: /images/openhouse 2023 banner v4.png
-      alt: Open House Banner
+  - infobar:
+      title: Release of 2023 GCE N–Level Examination Results
+      subtitle: Add informational text
+      id: infobar
+      button: Button Text
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
