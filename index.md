@@ -8,12 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/Sec 1 Intake Images/Sec1_2024_Intake_Banner_V2.png
+      background: /images/hero-banner-no-words-with-line.gif
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: SEC 1 REGISTRATION EXERCISE (2024)
-          description: Click here to register!
-          url: links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
         - title: Release of 2023 GCE N–Level Examination Results
           description: ""
           url: ""
