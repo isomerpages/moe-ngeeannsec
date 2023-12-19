@@ -16,7 +16,7 @@ sections:
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
         - title: Sec 1 Registration Exercise (2024)
           description: Click here to Register!
-          url: ""
+          url: /links-for-parents/sec-1-posting-for-2023/sec-1-registration-exercise-2024-intake/
       variant: center
   - infobar:
       title: Instructions for Parents Gateway
