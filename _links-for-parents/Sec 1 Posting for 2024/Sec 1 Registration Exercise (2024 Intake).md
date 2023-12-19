@@ -19,13 +19,13 @@ Thank you for choosing Ngee Ann Secondary (NAS) as your school of choice for you
 
 **After submitting your response, please return to this page to access more information below, under ‘Important Information for Sec 1 Students (2024 Intake)’.**
 
-Do spend some time reading the information on this site, to know the important details and the actions required of all incoming Secondary 1 students and their parents/guardians.
+Do spend some time reading the information on this site to know the important details and the actions required of all incoming Secondary 1 students and their parents/guardians.
 
 If you need further clarification after reading the information, please call the school’s General Office at 67844583. 
 
 Thank you.
 
-### Important Information for Sec 1 Students (2023 Intake)
+### Important Information for Sec 1 Students (2024 Intake)
 
 * [PG Notification &amp; Sec 1 Registration Briefing](/links-for-parents/sec-1-posting-for-2024/pg-notifications-n-sec-1-registration-briefing)
 * [Administrative Matters](/links-for-parents/sec-1-posting-for-2024/administrative-matters)
