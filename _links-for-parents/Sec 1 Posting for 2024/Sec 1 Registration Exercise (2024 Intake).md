@@ -27,10 +27,10 @@ Thank you.
 
 ### Important Information for Sec 1 Students (2023 Intake)
 
-* [PG Notification &amp; Sec 1 Registration Briefing](/links-for-parents/sec-1-posting-for-2023/pg-notifications-n-sec-1-registration-briefing)
-* [Administrative Matters](/links-for-parents/sec-1-posting-for-2023/administrative-matters)
-* [School Matters](/links-for-parents/sec-1-posting-for-2023/school-matters)
-* [Parent Engagement](/links-for-parents/sec-1-posting-for-2023/parent-engagement)
+* [PG Notification &amp; Sec 1 Registration Briefing](/links-for-parents/sec-1-posting-for-2024/pg-notifications-n-sec-1-registration-briefing)
+* [Administrative Matters](/links-for-parents/sec-1-posting-for-2024/administrative-matters)
+* [School Matters](/links-for-parents/sec-1-posting-for-2024/school-matters)
+* [Parent Engagement](/links-for-parents/sec-1-posting-for-2024/parent-engagement)
 
 ### Appeal for Transfer to Ngee Ann Sec
 
