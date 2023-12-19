@@ -2,7 +2,6 @@ collections:
   links-for-parents:
     output: true
     order:
-      - Sec 1 Posting for 2024.md
       - Parents Support Group (PSG).md
       - Parents Gateway.md
       - Support for Home–based Learning.md
