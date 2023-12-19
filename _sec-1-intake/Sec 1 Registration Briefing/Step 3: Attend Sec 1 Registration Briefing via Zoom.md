@@ -1,6 +1,6 @@
 ---
 title: "Step 3: Attend Sec 1 Registration Briefing via Zoom"
-permalink: /links-for-parents/step-3-attend-sec-1-registration-briefing-via-zoom/
+permalink: /links-for-parents/sec-1-posting-for-2024/step-3-attend-sec-1-registration-briefing-via-zoom/
 description: ""
 third_nav_title: Sec 1 Registration Briefing
 variant: markdown

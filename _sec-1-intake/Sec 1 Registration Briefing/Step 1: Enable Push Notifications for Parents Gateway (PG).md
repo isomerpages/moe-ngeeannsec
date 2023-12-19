@@ -1,6 +1,6 @@
 ---
 title: "Step 1: Enable Push Notifications for Parents Gateway (PG)"
-permalink: /links-for-parents/step-1-enable-push-notifications-for-parents-gateway-pg/
+permalink: /links-for-parents/sec-1-posting-for-2024/step-1-enable-push-notifications-for-parents-gateway-pg/
 description: ""
 third_nav_title: Sec 1 Registration Briefing
 variant: markdown
@@ -11,6 +11,6 @@ Ngee Ann Secondary School has been using MOE’s **Parents Gateway (PG)** portal
 
 **If you have not registered for a PG account**, please visit [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) to learn more about the portal and its features. You can also visit [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq) to learn how to download the app to your smartphone. Please note that you will need your **SingPass to register for a PG account**. The PG app only supports the following operating systems – Android 6.0 or later and iOS 11.0 or later.
 
-When you have downloaded the app and registered your account, please <u>**enable the app to push notifications to your smartphone automatically**</u> so you can access new messages in a timely manner.
+When you have downloaded the app and registered your account, please <u><b>enable the app to push notifications to your smartphone automatically<b></b></b></u> so you can access new messages in a timely manner.
 
-Please note that the school will need up to **3 working days to access newly-registered PG accounts**.
+<b><b>Please note that the school will need up to **3 working days to access newly-registered PG accounts**.</b></b>

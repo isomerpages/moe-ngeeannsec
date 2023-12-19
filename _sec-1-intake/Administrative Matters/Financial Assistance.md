@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance
-permalink: /links-for-parents/administrative-matters/financial-assistance/
+permalink: /links-for-parents/sec-1-posting-for-2024/administrative-matters/financial-assistance/
 description: ""
 third_nav_title: Administrative Matters
 variant: markdown

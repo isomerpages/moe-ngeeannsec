@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Orientation Programme
-permalink: /links-for-parents/school-matters/sec-1-orientation-programme/
+permalink: /links-for-parents/sec-1-posting-for-2024/school-matters/sec-1-orientation-programme/
 description: ""
 third_nav_title: School Matters
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: School Operations
-permalink: /links-for-parents/school-matters/school-operations/
+permalink: /links-for-parents/sec-1-posting-for-2024/school-matters/school-operations/
 description: ""
 third_nav_title: School Matters
 variant: markdown
@@ -25,4 +25,4 @@ All Secondary 1 students are required to **report to school by 7.40am daily, exc
 
 Students are considered late if they fail to report to school by the stated times. As heavy traffic is expected in the vicinity of the school in the morning, kindly arrange for your child/ward to report punctually to school every day.
 
-You will receive more detailed information about the schools’ daily morning routines during the Secondary 1 Registration Briefing over Zoom on Thursday 21 December 2023. 
+You will receive more detailed information about the schools’ daily morning routines during the Secondary 1 Registration Briefing over Zoom on Thursday 21 December 2023.
