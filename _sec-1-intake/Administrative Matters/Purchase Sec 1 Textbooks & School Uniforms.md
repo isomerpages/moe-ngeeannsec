@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### If eligible for Subject-Based Banding (SBB):
 
-Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u>**after**</u> attending the **Sec 1 Registration Briefing** on Thursday 21 December 2023. 
+Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u><b>after</b></u> attending the **Sec 1 Registration Briefing** on Thursday 21 December 2023. 
 
 The information shared during the briefing will help you to make a more informed decision about whether to accept or reject the SBB offer. The decision you make will then affect the list of school textbooks that you need to purchase.
 
