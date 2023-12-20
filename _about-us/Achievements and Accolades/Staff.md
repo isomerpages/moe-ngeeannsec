@@ -5,6 +5,47 @@ description: ""
 third_nav_title: Achievements and Accolades
 variant: markdown
 ---
+#### **President’s Award for Teachers 2023** 
+
+Established in 1998, the President's Award for Teachers recognises outstanding educators for their dedication and hard work in nurturing our young.
+
+**Award Recipient: Mdm Ashikin Bte Abdul Ra’uuf, Lead Teacher for Educational Support**
+
+![](/images/achievementaccolades%20ashikin_pat%202023_photo%202.jpeg)
+<figcaption>From left to right: Minister for Education Chan Chun Sing, Mdm Ashikin Bte Abdul Ra’uuf, President Halimah Yacob, Mr Mohamad Imran Bin Abdul Malek, Second Minister for Education Dr Mohd Maliki Bin Osman
+</figcaption>
+
+Read more about Mdm Ashikin's mission, beliefs and her journey thus far! [Link](/files/ashikin_schoolbag%20feature_pat%202023.pdf)
+
+#### **Listening Educator for Advancement and Progress (LEAP) Award 2023 by Singapore Hokkien Huay Kuan** 
+
+The LEAP Award was launched by the late President S R Nathan and awarded by Singapore Hokkien Huay Kuan. It recognises exceptional teachers who nurture students from the heart and use innovative strategies to motivate students.
+
+**Award Recipient: Mdm Koh Meng Geok**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" height="315" width="560"></iframe>
+
+
+#### **2023 MOE Innergy Award – Schools (T&amp;L)**
+
+
+The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
+
+Project Title: Use of Social Network Analysis (SNA) for FSBB Mixed Form Classes
+
+Award Type: Gold
+
+**Award Recipients:**
+*   **Mr Alvin Chen Jingyuan**
+*   **Mr Chua Teoh Guan**
+*   **Ms Teo Yao Lu**
+
+#### **Outstanding Computing Teacher Award 2023**
+
+Established in 2015, the Outstanding Computing Teacher Award (OCTA) recognises Computing / Computer Applications teachers who have made contributions to Computing Education by inspiring others through their teaching and professional development of the fraternity.
+
+**Award Recipient: Mr Neo Guang Xian**
+
 #### **MOE Service Excellence Award 2023**
 
 The MSEA is an MOE-wide award that recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E (Collaborate, Anticipate, Reach out, Empathise) and inspire their colleagues to do likewise.
@@ -46,47 +87,6 @@ The Associate of AST Award is conferred upon nominees in recognition of signific
 
 **Award Recipient: Mdm Noor Azean Khamis**
 ![](/images/Achievements%20and%20Accolades/ast%20award%202023.jpg)
-
-#### **President’s Award for Teachers 2023** 
-
-Established in 1998, the President's Award for Teachers recognises outstanding educators for their dedication and hard work in nurturing our young.
-
-**Award Recipient: Mdm Ashikin Bte Abdul Ra’uuf, Lead Teacher for Educational Support**
-
-![](/images/achievementaccolades%20ashikin_pat%202023_photo%202.jpeg)
-<figcaption>From left to right: Minister for Education Chan Chun Sing, Mdm Ashikin Bte Abdul Ra’uuf, President Halimah Yacob, Mr Mohamad Imran Bin Abdul Malek, Second Minister for Education Dr Mohd Maliki Bin Osman
-</figcaption>
-
-Read more about Mdm Ashikin's mission, beliefs and her journey thus far! [Link](/files/ashikin_schoolbag%20feature_pat%202023.pdf)
-
-#### **Listening Educator for Advancement and Progress (LEAP) Award 2023 by Singapore Hokkien Huay Kuan** 
-
-The LEAP Award was launched by the late President S R Nathan and awarded by Singapore Hokkien Huay Kuan. It recognises exceptional teachers who nurture students from the heart and use innovative strategies to motivate students.
-
-**Award Recipient: Mdm Koh Meng Geok**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/1KegcIIINnM?si=b-kQOdpdZVBTWO2I&amp;start=128" height="315" width="560"></iframe>
-
-
-#### **2023 MOE Innergy Award – Schools (T&amp;L)**
-
-
-The Innergy Award is given to creative and innovative individuals and teams in recognition of their outstanding contributions to the education service. It is also a tribute to those who have spent time and effort to develop and implement creative ideas that address important needs of the Ministry.
-
-Project Title: Use of Social Network Analysis (SNA) for FSBB Mixed Form Classes
-
-Award Type: Gold
-
-**Award Recipients:**
-*   **Mr Alvin Chen Jingyuan**
-*   **Mr Chua Teoh Guan**
-*   **Ms Teo Yao Lu**
-
-#### **Outstanding Computing Teacher Award 2023**
-
-Established in 2015, the Outstanding Computing Teacher Award (OCTA) recognises Computing / Computer Applications teachers who have made contributions to Computing Education by inspiring others through their teaching and professional development of the fraternity.
-
-**Award Recipient: Mr Neo Guang Xian**
 
 #### **The Caring Teacher Award 2022 by National Institute of Education**
 
