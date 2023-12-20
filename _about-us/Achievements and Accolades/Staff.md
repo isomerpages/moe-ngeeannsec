@@ -45,7 +45,7 @@ The MSEA is an MOE-wide award that recognises MOE staff who are passionate in th
 The Associate of AST Award is conferred upon nominees in recognition of significant contributions toward the professional development of MOE staff beyond his/her own school/division.
 
 **Award Recipient: Mdm Noor Azean Khamis**
-
+![](/images/Achievements%20and%20Accolades/ast%20award%202023.jpg)
 
 #### **President’s Award for Teachers 2023** 
 
