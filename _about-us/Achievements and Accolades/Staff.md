@@ -3,6 +3,7 @@ title: Staff
 permalink: /about-us/achievements-and-accolades/staff/
 description: ""
 third_nav_title: Achievements and Accolades
+variant: markdown
 ---
 #### **President’s Award for Teachers 2023** 
 
@@ -44,6 +45,48 @@ Award Type: Gold
 Established in 2015, the Outstanding Computing Teacher Award (OCTA) recognises Computing / Computer Applications teachers who have made contributions to Computing Education by inspiring others through their teaching and professional development of the fraternity.
 
 **Award Recipient: Mr Neo Guang Xian**
+
+#### **MOE Service Excellence Award 2023**
+
+The MSEA is an MOE-wide award that recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E (Collaborate, Anticipate, Reach out, Empathise) and inspire their colleagues to do likewise.
+
+**Gold Award Recipients:**
+
+*   **Mdm Devi d/o Lokanathan**
+    
+*   **Mdm Muneira Daud**
+
+
+**Silver Award Recipients:**
+
+* **Mr Phua Yong Bin**
+
+* **Mr Ahmad Hussein Abdullah**
+
+* **Ms Jamilah Hamzah**
+
+* **Mdm Koh Meng Geok**
+
+* **Mrs Sarene Sim-Loh Kah Lye**
+
+* **Ms Shalini d/o Sukumaran**
+
+* **Ms Nur Syifaa' Hussin**
+
+* **Mr Quek Wee Siong**
+
+* **Mdm Nor Hasni Yanti Hamim**
+
+* **Mr Zainal Buang**
+
+* **Ms Wan Zarifah Wan Noor**
+    
+#### Associate of AST Award 2023 – Innovator [SgLDC/SLS CG]
+
+The Associate of AST Award is conferred upon nominees in recognition of significant contributions toward the professional development of MOE staff beyond his/her own school/division.
+
+**Award Recipient: Mdm Noor Azean Khamis**
+![](/images/Achievements%20and%20Accolades/ast%20award%202023.jpg)
 
 #### **The Caring Teacher Award 2022 by National Institute of Education**
 
