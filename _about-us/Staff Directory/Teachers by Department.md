@@ -3,6 +3,7 @@ title: Teachers by Department
 permalink: /about-us/staff-directory/teachers-by-department/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 <h3>CRAFT &amp; TECHNOLOGY</h3>
 
@@ -30,7 +31,7 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Mohammed Hazmi Bin Hasni</td>
-    <td class="tg-ktyi">Year Head (Upper Sec)<br>Teacher / D&amp;T</td>
+    <td class="tg-ktyi">Year Head (Lower Sec)<br>Teacher / D&amp;T</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mrs Theresa Lai</td>
@@ -44,13 +45,21 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mrs Sim-Loh Kah Lye Sarene</td>
     <td class="tg-ktyi">Senior Teacher / Art</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Mr Tang Chee Wai Vincent</td>
-    <td class="tg-ktyi">Senior Teacher / D&amp;T</td>
-  </tr>
+
   <tr>
     <td class="tg-ktyi">Mr Dominic Chia Kim Seng</td>
-    <td class="tg-ktyi">Sec 2 Assistant Year Head (Internal)<br>Teacher / D&amp;T</td>
+    <td class="tg-ktyi">Sec 2 Assistant Year Head<br>Teacher / D&amp;T</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Ms Jacinta Yeo Soo Hua</td>
+    <td class="tg-ktyi">Teacher / Art</td>
+  </tr>  <tr>
+    <td class="tg-ktyi">Mrs Lock-Lian Wee Lee</td>
+    <td class="tg-ktyi">Teacher / Music &amp; EL</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi">Ms Nur Ummirah Nasser</td>
+    <td class="tg-ktyi">Teacher / FCE</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Mr Phua Yong Bin Eddie</td>
@@ -60,10 +69,7 @@ third_nav_title: Staff Directory
     <td class="tg-ktyi">Mr Tan Wei Zhong</td>
     <td class="tg-ktyi">Teacher / Art &amp; CPA</td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">Ms Wan Zarifah Bte Wan Noor</td>
-    <td class="tg-ktyi">Teacher / FCE</td>
-  </tr>
+
   <tr>
     <td class="tg-ktyi">Ms Yip Wei San Dawn</td>
     <td class="tg-ktyi">Teacher / FCE (FAJT)</td>
@@ -75,6 +81,14 @@ third_nav_title: Staff Directory
 	  <tr>
     <td class="tg-ktyi">Ms Karen Yeh</td>
     <td class="tg-ktyi">Teacher / Art (FAJT)</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Mr Koh Yong Han Derrick</td>
+    <td class="tg-ktyi">Teacher / D&amp;T (FAJT)</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi">Ms Nadirah Bte Mohamed Noor</td>
+    <td class="tg-ktyi">Education Support Assistant</td>
   </tr>
 </tbody>
 </table>
