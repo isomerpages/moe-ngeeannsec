@@ -1,0 +1,16 @@
+logo: /images/School logo with chinese characters.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Ngee Ann Experience
+    collection: ngee-ann-experience
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Links for Parents
+    collection: links-for-parents
+  - title: CCA
+    collection: cca
+  - title: Have A Question?
+    url: https://ask.gov.sg/nass
