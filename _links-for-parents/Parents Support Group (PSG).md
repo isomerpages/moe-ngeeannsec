@@ -46,45 +46,45 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jolyn Chua</strong>
+<p><strong>Mdm Jolyn Chua</strong> 
 <br>(Lunar New Year activities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Wong Hong Ling</strong>
+<p><strong>Mdm Wong Hong Ling</strong> 
 <br>(International Friendship Day / Racial Harmony Day)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Caroline Iek</strong>
+<p><strong>Mdm Caroline Iek</strong> 
 <br>(International Friendship Day / Racial Harmony Day)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jennifer Pang</strong>
+<p><strong>Mdm Jennifer Pang</strong> 
 <br>(Family Day Outreach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sherene Tan</strong>
+<p><strong>Mdm Sherene Tan</strong> 
 <br>(iCARE Project)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Jeok Fuen</strong>
+<p><strong>Mdm Goh Jeok Fuen</strong> 
 <br>(iCARE Project)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jonathan James Wong</strong>
+<p><strong>Mr Jonathan James Wong</strong> 
 <br>(Healthy Lifestyle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chan Yen Tjin</strong>
+<p><strong>Mdm Chan Yen Tjin</strong> 
 <br>(Healthy Lifestyle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lai Ing Err</strong>
+<p><strong>Mdm Lai Ing Err</strong> 
 <br>(Mid Autumn Festival)</p>
 <p>&nbsp;</p>
 </td>
