@@ -4,9 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ps%20message%20image%202.jpeg">
-</div>
 <p>A very warm welcome to Ngee Ann Secondary School.</p>
 <p>As the incoming Principal, I am honoured and excited to continue leading
 our school on this incredible journey we have embarked upon. The school
