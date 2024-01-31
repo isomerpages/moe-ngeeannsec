@@ -11,6 +11,10 @@ variant: tiptap
 Principal and Ms Poh Shi Hui, Principal</p>
 <p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
 Principal and Ms Poh Shi Hui, Principal</p>
+<p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
+Principal and Ms Poh Shi Hui, Principal</p>
+<p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
+Principal and Ms Poh Shi Hui, Principal</p>
 <p></p>
 <p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
 Principal and Ms Poh Shi Hui, Principal</p>
