@@ -5,10 +5,11 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice Principal and Ms Poh Shi Hui, Principal" src="/images/P_message_photo.jpeg">
-</div>
-<p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
+<img style="width: 60%;" height="auto" width="100%" alt="From Left: Mdm Tan Lay Gin, Vice Principal; Mr Goh Chin Wei Chad, Vice Principal; and Ms Poh Shi Hui, Principal" src="/images/P_message_photo.jpeg">
+<p style="font-size:10px; margin-top:0">From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
 Principal and Ms Poh Shi Hui, Principal</p>
+</div>
+
 <p>A very warm welcome to Ngee Ann Secondary School.</p>
 <p>I am honoured and excited to lead our school in continuing the incredible
 journey we have embarked on. The school was established by the Ngee Ann
