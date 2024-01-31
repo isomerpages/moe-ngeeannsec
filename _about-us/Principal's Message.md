@@ -9,6 +9,11 @@ variant: tiptap
 </div>
 <p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
 Principal and Ms Poh Shi Hui, Principal</p>
+<p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
+Principal and Ms Poh Shi Hui, Principal</p>
+<p></p>
+<p>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice
+Principal and Ms Poh Shi Hui, Principal</p>
 <p>A very warm welcome to Ngee Ann Secondary School.</p>
 <p>I am honoured and excited to lead our school in continuing the incredible
 journey we have embarked on. The school was established by the Ngee Ann
