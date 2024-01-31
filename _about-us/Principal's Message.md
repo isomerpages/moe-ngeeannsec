@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_message_photo.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/P_message_photo.jpeg">
 </div>
 <p>A very warm welcome to Ngee Ann Secondary School.</p>
 <p>I am honoured and excited to lead our school in continuing the incredible
