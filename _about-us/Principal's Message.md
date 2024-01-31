@@ -4,10 +4,11 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/P_message_photo.jpeg">
 </div>
+<p><em>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice Principal and Ms Poh Shi Hui, Principal</em>
+</p>
 <p>A very warm welcome to Ngee Ann Secondary School.</p>
 <p>I am honoured and excited to lead our school in continuing the incredible
 journey we have embarked on. The school was established by the Ngee Ann
