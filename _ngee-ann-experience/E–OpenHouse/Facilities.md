@@ -3,6 +3,7 @@ title: Facilities
 permalink: /ngee-ann-experience/e-openhouse/facilities/
 description: ""
 third_nav_title: E–OpenHouse
+variant: markdown
 ---
 # Virtual School Tour
 
@@ -16,4 +17,4 @@ When viewed on a smartphone, play the video on the Youtube app and move your dev
 
 More about our school facilities in the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lghUZFSTaYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3OHMytLNQA?si=CS-Q_Kd47HKenlNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
