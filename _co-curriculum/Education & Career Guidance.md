@@ -19,7 +19,7 @@ and Planning are necessary for all levels of students. However, there are
 different emphases at the different levels to meet varying developmental
 needs.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture1.png">
 </div>
 <p>The emphasis in Secondary School is in the Exploration stage which includes:
 <br>a) Awareness of skills, interests and values.
@@ -50,7 +50,7 @@ learning.</p>
 </ul>
 <h2><strong>ECG @ NAS</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture3.png">
 </div>
 <h2><strong>ECG Counselling @ NAS</strong></h2>
 <p>Equipped with the necessary knowledge and skills , our ECG Counsellor,
