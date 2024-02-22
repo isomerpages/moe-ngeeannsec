@@ -18,15 +18,19 @@ emphases of Awareness, Exploration and Planning. Awareness, Exploration
 and Planning are necessary for all levels of students. However, there are
 different emphases at the different levels to meet varying developmental
 needs.</p>
-<p>[image1]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture1.png">
+</div>
 <p>The emphasis in Secondary School is in the Exploration stage which includes:
 <br>a) Awareness of skills, interests and values.
 <br>b) Awareness of relevant courses of study and educational pathways.
 <br>c) Exploring the world of work.
 <br>
 </p>
-<p>The goals of ECG (see Figure 2) are to support students in:
-<br>[image2]</p>
+<p>The goals of ECG (see Figure 2) are to support students in:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture2.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Discovering purpose</strong>&nbsp;- Who am I?
@@ -45,7 +49,9 @@ learning.</p>
 </li>
 </ul>
 <h2><strong>ECG @ NAS</strong></h2>
-<p>[image3]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Education and Career Guidance/ecg picture3.png">
+</div>
 <h2><strong>ECG Counselling @ NAS</strong></h2>
 <p>Equipped with the necessary knowledge and skills , our ECG Counsellor,
 Ms Chia Yee Teng supports and guides students in making informed plans
