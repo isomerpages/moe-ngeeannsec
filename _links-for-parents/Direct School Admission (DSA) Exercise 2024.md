@@ -12,7 +12,7 @@ description: ""
 One in 2025 is open to interested applicants.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2024, 11am – 3 June 2024, 3pm</strong>.
-For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <h2><strong>Think it Through</strong></h2>
 <p>How do you know if Ngee Ann Secondary’s DSA suits you? The following considerations
 might help:</p>
