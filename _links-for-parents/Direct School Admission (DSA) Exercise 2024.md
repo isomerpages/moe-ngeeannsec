@@ -132,8 +132,8 @@ be required to transfer out to another school.</p>
 </p>
 <h2><strong>Enquiries</strong></h2>
 <p>For more information about our programmes and CCAs, please visit our school
-website.</p>
-<p>For other enquiries, please direct your email to, with subject heading
+website.
+<br>For other enquiries, please direct your email to, with subject heading
 as “DSA matters”:</p>
 <table>
 <tbody>
