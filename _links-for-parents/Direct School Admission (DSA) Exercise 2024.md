@@ -128,7 +128,7 @@ with a CCA, they are also expected to remain in their CCA. If your child
 is not able to fulfil the DSA commitment without valid reasons, they may
 be required to transfer out to another school.</p>
 <h2><strong>DSA-Sec Talent Shortlisting Criteria</strong></h2>
-<p><em>The selection criteria and process for the talent areas will be updated from 6 May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</em>
+<p><em>The selection criteria and process for the talent areas will be updated from 6 May. For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</em>
 </p>
 <h2><strong>Enquiries</strong></h2>
 <p>For more information about our programmes and CCAs, please visit our school
