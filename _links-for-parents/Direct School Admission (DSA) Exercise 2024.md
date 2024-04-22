@@ -159,8 +159,7 @@ as “DSA matters”:</p>
 <p>Mr Tan Hee Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>
-</p>
+<p>nass@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
