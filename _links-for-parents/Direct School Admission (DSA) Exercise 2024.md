@@ -61,10 +61,10 @@ the area of talent.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choice of coding-related CCA (subject
-to qualifying for it)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer to enrol in Technopreneur
-Programme</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer to enrol in O-level Computing
+to qualifying for it)
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer to enrol in Technopreneur
+Programme
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offer to enrol in O-level Computing
 (subject to qualifying for it)</p>
 </td>
 </tr>
@@ -76,9 +76,9 @@ Programme</p>
 <p>CCA: Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation and representing school in</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival (Arts Presentation)</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; school performances and events</p>
+<p>Participation and representing school in
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival (Arts Presentation)
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; school performances and events</p>
 </td>
 </tr>
 <tr>
@@ -89,9 +89,9 @@ Programme</p>
 <p>CCA: Badminton</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Participation and representing school in</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; school events</p>
+<p>Participation and representing school in
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; school events</p>
 </td>
 </tr>
 <tr>
