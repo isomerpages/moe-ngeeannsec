@@ -3,6 +3,7 @@ title: e–OpenHouse
 permalink: /ngee-ann-experience/e-openhouse/
 description: ""
 third_nav_title: E–OpenHouse
+variant: markdown
 ---
 ![](/images/OpenHouse2020_FINAL.png)
 
@@ -10,7 +11,7 @@ third_nav_title: E–OpenHouse
 
 **Dear P6 Students and Parents,**
 
-<img src="/images/SL2.png" style="width:60%">
+<img src="/images/P_message_photo.jpeg" style="width:60%">
 
 Welcome to Ngee Ann Secondary (NAS) School’s e-Open House. We know that the PSLE is a major milestone for you and that the next step of choosing the right secondary school is one of the biggest decisions you have to make.
 
