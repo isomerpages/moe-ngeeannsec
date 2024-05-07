@@ -137,10 +137,8 @@ to transfer out to another school.</p>
 <p><em>In general, all potential students must:</em>
 </p>
 <p><em>• Demonstrate strong passion for, as well as motivation in the respective talent areas;</em>
-</p>
-<p><em>• Demonstrate commitment, perseverance and resilience in their talent area endeavour;</em>
-</p>
-<p><em>• Consistently displays exemplary character traits with minimum conduct grade of “Very Good”.</em>
+<br><em>• Demonstrate commitment, perseverance and resilience in their talent area endeavour;</em>
+<br><em>• Consistently displays exemplary character traits with minimum conduct grade of “Very Good”.</em>
 </p>
 <p><em>In addition, each talent areas will have their own shortlisting criteria:</em>
 </p>
