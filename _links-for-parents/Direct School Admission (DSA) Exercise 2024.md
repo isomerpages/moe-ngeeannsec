@@ -279,4 +279,4 @@ this week)</p>
 website.
 <br>For other enquiries, please direct your email to, with subject heading
 as “DSA matters: General” or “DSA matters: <em>Specific talent area</em>”
-to <a rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>.</p>
+to <a href="mailto:nass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>.</p>
