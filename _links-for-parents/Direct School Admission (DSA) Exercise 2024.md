@@ -130,17 +130,17 @@ they are also expected to remain in their CCA. If your child is not able
 to fulfil the DSA commitment without valid reasons, they may be required
 to transfer out to another school.</p>
 <h2><strong>DSA-Sec Talent Shortlisting Criteria</strong></h2>
-<p><em>These are our school’s shortlisting criteria for each DSA-Sec Talent offered. </em>
+<p><em>These are our school’s shortlisting criteria for each DSA-Sec Talent offered.</em>
 </p>
 <p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>In general, all potential students must:</em>
 </p>
-<p><em>•	Demonstrate strong passion for, as well as motivation in the respective talent areas;</em>
+<p><em>• Demonstrate strong passion for, as well as motivation in the respective talent areas;</em>
 </p>
-<p><em>•	Demonstrate commitment, perseverance and resilience in their talent area endeavour;</em>
+<p><em>• Demonstrate commitment, perseverance and resilience in their talent area endeavour;</em>
 </p>
-<p><em>•	Consistently displays exemplary character traits with minimum conduct grade of “Very Good”.</em>
+<p><em>• Consistently displays exemplary character traits with minimum conduct grade of “Very Good”.</em>
 </p>
 <p><em>In addition, each talent areas will have their own shortlisting criteria:</em>
 </p>
@@ -226,59 +226,14 @@ fit.</p>
 <h2><strong>DSA-Sec Engagement Session</strong></h2>
 <p>At this session, interested students can find out more about our DSA talent
 area offerings, through which we nurture our students in the diverse areas.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Session: NAS-DSA – A School of Possibilities, A Home to Grow In</p>
-</li>
-<li>
-<p>Date: Thursday, 23 May</p>
-</li>
-<li>
-<p>Time: 4-5.15 pm</p>
-</li>
-<li>
-<p>Mode: Zoom meeting (Zoom details will be made available at the end of
+<p>• Session: NAS-DSA – A School of Possibilities, A Home to Grow In
+<br>• Date: Thursday, 23 May
+<br>• Time: 4-5.15 pm
+<br>• Mode: Zoom meeting (Zoom details will be made available at the end of
 this week)</p>
-</li>
-</ul>
 <h2><strong>Enquiries</strong></h2>
 <p>For more information about our programmes and CCAs, please visit our school
 website.
 <br>For other enquiries, please direct your email to, with subject heading
-as “DSA matters”:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Talent Area</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher-in-Charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>General enquiries</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Hee Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+as “DSA matters: General” or “DSA matters: <em>Specific talent area</em>”
+to <a rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>.</p>
