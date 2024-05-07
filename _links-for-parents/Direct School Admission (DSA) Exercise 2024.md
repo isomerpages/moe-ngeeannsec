@@ -173,15 +173,21 @@ to transfer out to another school.</p>
 <p>Coding</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Displays strong computational-thinking
-skills and passion in coding/robotics but no specific requirement to be
-trained in any coding language.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has participated in local
-or international coding-related competitions (e.g. National Junior Robotics
-Competition, First LEGO League, National Robopreneur Carnival).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good to support with, if any,
-(a) portfolio of coding-related projects and or (b) relevant certificates
-and achievements.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Displays strong computational-thinking skills and passion in coding/robotics
+but no specific requirement to be trained in any coding language.</p>
+</li>
+<li>
+<p>Has participated in local or international coding-related competitions
+(e.g. National Junior Robotics Competition, First LEGO League, National
+Robopreneur Carnival).</p>
+</li>
+<li>
+<p>Good to support with, if any, (a) portfolio of coding-related projects
+and or (b) relevant certificates and achievements.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -192,11 +198,16 @@ and achievements.</p>
 <p>CCA: Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate strong performance
-or strong aptitude in Chinese Orchestra or in areas related to it.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good to support with
-documentary proof, if any, of relevant training, experience or exposure,
-to Chinese Orchestra or in areas related to it.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate strong performance or strong aptitude in Chinese Orchestra
+or in areas related to it.</p>
+</li>
+<li>
+<p>Good to support with documentary proof, if any, of relevant training,
+experience or exposure, to Chinese Orchestra or in areas related to it.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -206,23 +217,57 @@ to Chinese Orchestra or in areas related to it.</p>
 <td rowspan="1" colspan="1">
 <p>CCA: Badminton</p>
 </td>
+<td rowspan="4" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate strong performance or aptitude in the respective talent areas.</p>
+</li>
+<li>
+<p>Should preferably have represented their primary school or taken part
+in national/zonal competition(s).</p>
+</li>
+<li>
+<p>Should preferably attained “Team” achievement of Top 4 or “Individual”
+achievement of Top 8 placing in National Inter-Primary School competition.</p>
+</li>
+<li>
+<p>Good to support with documentary proof, if any, in the respective talent
+areas: (a) of relevant training, experience, or exposure; (b) participation
+in competitions; or (c) achievements.</p>
+</li>
+<li>
+<p>Be medically and physically fit.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate strong performance
-or aptitude in the respective talent areas.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should preferably have represented
-their primary school or taken part in national/zonal competition(s).</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should preferably attained
-“Team” achievement of Top 4 or “Individual” achievement of Top 8 placing
-in National Inter-Primary School competition.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good to support with documentary
-proof, if any, in the respective talent areas: (a) of relevant training,
-experience, or exposure; (b) participation in competitions; or (c) achievements.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be medically and physically
-fit.</p>
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA: Basketball (Boys only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA: Volleyball (Girls only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA: Wushu</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <h2><strong>DSA-Sec Engagement Session</strong></h2>
 <p>At this session, interested students can find out more about our DSA talent
 area offerings, through which we nurture our students in the diverse areas.</p>
