@@ -272,8 +272,10 @@ area offerings, through which we nurture our students in the diverse areas.</p>
 <p>• Session: NAS-DSA – A School of Possibilities, A Home to Grow In
 <br>• Date: Thursday, 23 May
 <br>• Time: 4-5.15 pm
-<br>• Mode: Zoom meeting (Zoom details will be made available at the end of
-this week)</p>
+<br>• Mode: Zoom webinar
+<br><a href="https://moe-singapore.zoom.us/j/81033166746" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81033166746</a>
+<br>Passcode: 525607</p>
+<p></p>
 <h2><strong>Enquiries</strong></h2>
 <p>For more information about our programmes and CCAs, please visit our school
 website.
