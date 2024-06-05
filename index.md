@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Direct School Admission (DSA) Exercise 2024
           description: Click here for more info!
-          url: ""
+          url: links-for-parents/direct-school-admission-dsa-exercise-2024/
         - title: Release of 2023 GCE O–Level Examination Results
           description: 11 January 2024, 2 pm
           url: /links-for-parents/release-of-2023-gce-o-level-examination-results/
