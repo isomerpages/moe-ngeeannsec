@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Direct School Admission (DSA) Exercise 2024
           description: Click here for more info!
-          url: links-for-parents/direct-school-admission-dsa-exercise-2024/
+          url: direct-school-admission-dsa-exercise-2024/
         - title: Release of 2023 GCE O–Level Examination Results
           description: 11 January 2024, 2 pm
           url: /links-for-parents/release-of-2023-gce-o-level-examination-results/
@@ -25,7 +25,7 @@ sections:
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
       variant: center
       button: DSA - Sec
-      url: links-for-parents/direct-school-admission-dsa-exercise-2024/
+      url: direct-school-admission-dsa-exercise-2024/
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
