@@ -133,8 +133,7 @@ to fulfil the DSA commitment without valid reasons, they may be required
 to transfer out to another school.</p>
 <h2><strong>DSA-Sec Talent Shortlisting Criteria</strong></h2>
 <p><em>These are our school’s shortlisting criteria for each DSA-Sec Talent offered.</em>
-</p>
-<p><em>Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.</em>
+<br><em>Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.</em>
 </p>
 <p><em>In general, all potential students must:</em>
 </p>
