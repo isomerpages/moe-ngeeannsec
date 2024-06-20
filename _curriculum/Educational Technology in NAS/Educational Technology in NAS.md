@@ -8,8 +8,8 @@ variant: tiptap
 <p><strong><em>"We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."</em></strong>&nbsp;~
 David Warlick</p>
 <hr>
-<p>Ngee Ann Secondary. Through teaching and learning in an ICT&nbsp;enriched
-environment, we aim to:&nbsp;</p>
+<p>Through teaching and learning in an ICT&nbsp;enriched environment, we
+aim to:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Develop&nbsp;<strong>Future Ready NASians</strong>&nbsp;through providing
