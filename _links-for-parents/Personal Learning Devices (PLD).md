@@ -110,7 +110,7 @@ variant: tiptap
 <br>Singapore, 018972
 <br>1800 407 4949</p>
 <h4>Apple Authorized Service Centre (ASC) Location and Contact</h4>
-<p><strong>A.LAB @Changi City Point</strong>
+<p><strong>A.LAB (https://www.alab.sg/)</strong>
 <br>Offers Repair On Wheels (ROW) and Pickup &amp; Delivery (RUD) services
 <br>+65 6784 1318
 <br><a href="mailto:a.lab@alab.sg" rel="noopener noreferrer nofollow" target="_blank">a.lab@alab.sg</a>
@@ -171,7 +171,7 @@ apps)</p>
 </ol>
 <ul>
 <li>
-<p>If everything is working fine, device will returned.</p>
+<p>If everything is working fine, device will be returned.</p>
 </li>
 <li>
 <p>Device may be wiped to restore functionality. (Device data may be lost,
@@ -200,7 +200,7 @@ Servicing*
 <p>Report to police.</p>
 </li>
 <li>
-<p>Inform school regarding lost*.</p>
+<p>Inform school regarding loss*.</p>
 </li>
 </ol>
 <p>* <em>ICT Staff will lock the iPad, provided that the device is on and connected to the wifi.</em>
@@ -256,7 +256,7 @@ charged, change the nib of the pencil with the spare nib that is given
 in the apple box.</p>
 </li>
 <li>
-<p>If the Apple pencil is not able to charge or be detected on iPad the iPad,
+<p>If the Apple pencil is not able to charge or be detected on the iPad,
 use the adapter given in the Apple box and connect it to the pencil and
 the iPad charger for 1-2mins. If it retains the charge, proceed to use
 as usual. However, if it remains undetectable, the device is considered
