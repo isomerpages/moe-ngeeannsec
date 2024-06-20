@@ -33,10 +33,8 @@ accounts, as well as queries about lesson assignments.&nbsp;</p>
 </ol>
 <p>Call School-based Helpline: 6784 4583
 <br>Mondays - Fridays: 8:00 am - 4:00 pm</p>
-<p>Students can contact the&nbsp;&nbsp;<strong>SLS Helpdesk</strong>&nbsp;&nbsp;&nbsp;for
-specific queries pertaining to SLS.</p>
-<p><strong>Email the SLS Helpdesk at helpdesk@sls.ufinity.com</strong>&nbsp;When
-emailing the SLS Helpdesk, they should include their full name, name of
-school and form class.</p>
-<p>Call School-based Helpline: 6784 4583
-<br>Mondays - Fridays: 8:00 am - 4:00 pm</p>
+<p>Students can contact the <strong>SLS Helpdesk</strong> for specific queries
+pertaining to SLS. When emailing the SLS Helpdesk, they should include
+their full name, name of school and form class.</p>
+<p>Please refer to <a href="https://www.learning.moe.edu.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/contact-us/</a> for
+details on contacting SLS Helpdesk.</p>
