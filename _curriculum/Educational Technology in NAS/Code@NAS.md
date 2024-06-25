@@ -35,8 +35,9 @@ solve problems within the community.</p>
 <p>Programmes planned are differentiated to cater to NASians of different
 academic courses and degree of readiness in coding, each with their customised
 objectives.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_Tech_Pathways.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAS_Tech_Paths.jpg">
 </div>
 <p>NASians can expect to gain the following skills and competencies through
 their 4 years in school:</p>
