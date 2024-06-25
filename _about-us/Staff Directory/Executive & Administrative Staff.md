@@ -3,122 +3,240 @@ title: Executive & Administrative Staff
 permalink: /about-us/staff-directory/executive-n-administrative-staff/
 description: ""
 third_nav_title: Staff Directory
-variant: markdown
+variant: tiptap
 ---
 <h3>Executive &amp; Administrative Staff</h3>
-<table>
-<tbody><tr>
-<th>Name</th>
-<th>Role</th>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
 </tr>
 <tr>
-<td>Ms Lily Choo Hwee Nee</td>
-<td>Administration Manager</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lily Choo Hwee Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
 </tr>
 <tr>
-<td>Mr Md Ismail Jakbar</td>
-<td>Operations Manager</td>
+<td rowspan="1" colspan="1">
+<p>Mr Md Ismail Jakbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
 </tr>
 <tr>
-<td>Ms Judy Ng Bee Hwa</td>
-<td>Administrative Executive</td>
+<td rowspan="1" colspan="1">
+<p>Ms Judy Ng Bee Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
 </tr>
 <tr>
-<td>Mr Muhamad Syafiq Bin Muhamad Siraj</td>
-<td>Technical Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamad Syafiq Bin Muhamad Siraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Ms Nur Hafifah Binte Mohshin</td>
-<td>Technical Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hafifah Binte Mohshin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Ahmad Hussein Bin Abdullah</td>
-<td>Technical Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Hussein Bin Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Zainal Bin Buang</td>
-<td>Technical Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zainal Bin Buang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Agnes Chew Mui Suan</td>
-<td>Corporate Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Agnes Chew Mui Suan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Sharon Yeo Lay Wah</td>
-<td>Corporate Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharon Yeo Lay Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Ramni Binti Ismail</td>
-<td>Corporate Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ramni Binti Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Salbiaya Bte Said</td>
-<td>Admin Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Salbiaya Bte Said</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Hajarah Bibi DO Mirzaman</td>
-<td>Education Support Assistant</td>
+<td rowspan="1" colspan="1">
+<p>Hajarah Bibi DO Mirzaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education Support Assistant</p>
+</td>
 </tr>
 <tr>
-<td>Mr Gek Hai San</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gek Hai San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Hamima Binte Ahron</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hamima Binte Ahron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Jarina Binti Kaswan</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jarina Binti Kaswan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Nasirah Binte Mohamed</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nasirah Binte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Zubaidah Binte Mohamed</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zubaidah Binte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Mohd Noor Bin Eusop B</td>
-<td>Operations Support Officer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Noor Bin Eusop B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
 </tr>
 <tr>
-<td>Mariam Bte Buang</td>
-<td>Assistant Librarian</td>
+<td rowspan="1" colspan="1">
+<p>Mariam Bte Buang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Librarian</p>
+</td>
 </tr>
-</tbody></table>
-
-
+</tbody>
+</table>
 <h3>ICT Executive &amp; Administrative Staff</h3>
-
-<table>
-<tbody><tr>
-<th>Name</th>
-<th>Role</th>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
 </tr>
 <tr>
-<td>Ms Chua Piak Eng Connie</td>
-<td>ICT Manager</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Piak Eng Connie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
 </tr>
 <tr>
-<td>Mr Muhammad Nazmi Bin Nasir</td>
-<td>ICT Associate</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Nazmi Bin Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
 </tr>
 <tr>
-<td>Ms Amirah Binte Sadali</td>
-<td>School-based ICT Executive</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Haikal Bin Sukhaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School-based ICT Executive</p>
+</td>
 </tr>
 <tr>
-<td>Mr Jonathan Omega Tan Wen Jie</td>
-<td>School-based ICT Executive</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Omega Tan Wen Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School-based ICT Executive</p>
+</td>
 </tr>
 <tr>
-<td>Mr Soh Chang Teck</td>
-<td>Desktop Engineer (NCS)</td>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Chang Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Muhammad Sidek Fatholrahman Bin Redzwan</td>
-<td>Desktop Engineer (NCS)</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Sidek Fatholrahman Bin Redzwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
+<p></p>
