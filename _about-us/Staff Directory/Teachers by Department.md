@@ -6,7 +6,11 @@ third_nav_title: Staff Directory
 variant: tiptap
 ---
 <h3>CRAFT &amp; TECHNOLOGY</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -150,7 +154,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>ENGLISH LANGUAGE &amp; LITERATURE</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -226,14 +234,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nuurul Khairiyah Binti Salahuddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Rina Tan Yi Qian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,32 +242,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shobah d/o Tamilchelvan</p>
+<p>Ms Toh Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / EL &amp; ELit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vikneswary Thanabalu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / EL (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rohana Mohamed Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / EL (FAJT)</p>
+<p>Teacher / ELit</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>HUMANITIES</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -359,10 +347,22 @@ variant: tiptap
 <p>Teacher / Social Studies &amp; History</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tey Kelvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / Social Studies &amp; EL</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MATHEMATICS</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -522,7 +522,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>MOTHER TONGUE LANGUAGES</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -648,7 +652,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Abdul Rahman</p>
+<p>Ms Julinda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / ML (FAJT)</p>
@@ -657,7 +661,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>PHYSICAL EDUCATION</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -728,7 +736,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SCIENCE</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -881,7 +893,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>STUDENT SUPPORT</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -945,6 +961,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fatimah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Worker</p>
 </td>
 </tr>
 </tbody>
