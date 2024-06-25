@@ -178,6 +178,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Jason Ang Hui Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jonathan Chan Aik Beng</p>
 </td>
 <td rowspan="1" colspan="1">
