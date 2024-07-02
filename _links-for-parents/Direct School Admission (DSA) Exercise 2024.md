@@ -385,7 +385,7 @@ our school’s general office and will be directed to the respective venues.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Jun (Thu)</p>
-<p>28 Jul (Fri)</p>
+<p>28 Jun (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 to 5.30pm</p>
