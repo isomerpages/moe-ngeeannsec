@@ -54,14 +54,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hafifah Binte Mohshin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ahmad Hussein Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
