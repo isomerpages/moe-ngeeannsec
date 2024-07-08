@@ -604,8 +604,7 @@ and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3 (Exp/</p>
-<p>NA(A)/N(T))</p>
+<p>Term 3 Week 3 (Exp/NA(A)/N(T))</p>
 </td>
 </tr>
 <tr>
@@ -651,8 +650,7 @@ relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4 (Exp/</p>
-<p>NA(A)/N(T))</p>
+<p>Term 3 Week 4 (Exp/NA(A)/N(T))</p>
 </td>
 </tr>
 <tr>
