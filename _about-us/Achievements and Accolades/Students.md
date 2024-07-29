@@ -13,10 +13,38 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>English Language &amp; Literature</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Secondary School Debate Championship 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ayra Qorirah binte Mohamad Zahrin (4R1)</p>
+</li>
+<li>
+<p>Vaishnavi Srivastava (4R5)</p>
+</li>
+<li>
+<p>Keith Chen Shengqi (3I1)</p>
+</li>
+<li>
+<p>Bryant Chung Yuan Kai (3I1)</p>
+</li>
+<li>
+<p>Low Zhi Yu Chloe (3R2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>The Queen’s Commonwealth English Essay Competition 2022</strong>
 </p>
@@ -43,10 +71,52 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Humanities</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NUS Geography Challenge 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team achievement: Semi-finalists</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Natalie Chan Kye Lyn (4R4)</p>
+</li>
+<li>
+<p>Emmabelle Chuan Yiqing (4R1)</p>
+</li>
+<li>
+<p>Matthias Ong Si Ming (4R1)</p>
+</li>
+<li>
+<p>Tan Man Rui Meredith (4R4)</p>
+</li>
+</ul>
+<p></p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Natalie Chan Kye Lyn (4R4)</p>
+</li>
+</ul>
+<p></p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emmabelle Chuan Yiqing (4R1)</p>
+</li>
+<li>
+<p>Matthias Ong Si Ming (4R1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MOE Geography Talent Development Programme 2022</strong>
 </p>
@@ -159,18 +229,21 @@ variant: tiptap
 <p>Esguerra Sean Nathan Albus (4R5)</p>
 </li>
 </ul>
+<p></p>
 <p>Silver&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nguyen Quang Dieu (4R4)</p>
 </li>
 </ul>
+<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fan Jia Jun Jayden (4R4)</p>
 </li>
 </ul>
+<p></p>
 <p>Commendation</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -193,6 +266,7 @@ variant: tiptap
 <p>Lansangan Keith Manuelle Martin (4R5)</p>
 </li>
 </ul>
+<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -205,6 +279,7 @@ variant: tiptap
 <p>Prithviraj Madhavan (4R5)</p>
 </li>
 </ul>
+<p></p>
 <p>Honorable Mention&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -464,10 +539,76 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="10" colspan="1">
 <p><strong>Enhanced Art Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>365: Viral Good Vibes National Digital Sticker Design Competition 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aluvee Gracia Sim (3C2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VIART Award 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Sustainable Message, 3<sup>rd</sup> Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Michael Carlos Tan Xuan Ngee (3C1)</p>
+</li>
+<li>
+<p>Adrianna Dania Binte Mohammed Azhari (3C1)</p>
+</li>
+<li>
+<p>Aluvee Garcia Sim (3C2)</p>
+</li>
+<li>
+<p>Tang Si Cheng (3C1)</p>
+</li>
+</ul>
+<p></p>
+<p>The Most Creative, 3<sup>rd</sup> Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kylie Tan Si Qi (3R2)</p>
+</li>
+<li>
+<p>Lee Kai Le Joseph (3C1)</p>
+</li>
+<li>
+<p>Teo Han Ying Alexandria (3C2)</p>
+</li>
+<li>
+<p>Sophie Ella Grace Unson Caseñas (4C3)</p>
+</li>
+<li>
+<p>Muhd Haqil Oh Bin Mohd Yazid (4C2)</p>
+</li>
+<li>
+<p>Yasmin Zahirah Binte Azmi (4C3)</p>
+</li>
+<li>
+<p>Lee Yam Giuliana Antonella Haber (4R1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Live On Festival 2022 (Design Competition)</strong>
 </p>
@@ -565,6 +706,72 @@ variant: tiptap
 <br>• Tepase Alden Marcus Deguangco (3R4)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Technopreneur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Olympiad in Informatics 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ryan Shaw (4R4)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nguyen Quang Dieu (Frank) (4R4)</p>
+</li>
+<li>
+<p>Pham Minh Quang (3R3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CodeQuest (Novice Category)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th Place (Girls)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dam Tran Viet Tu (3R3)</p>
+</li>
+<li>
+<p>Leong Tze Min (3R3)</p>
+</li>
+<li>
+<p>Valerie Chew Yue Ying (3R3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>IDEX 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kota Neil Aryan (4R4)</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Achievements of Clubs &amp; Societies CCA</strong></h4>
@@ -575,10 +782,29 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="12" colspan="1">
 <p><strong>Art Club</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2024 Awesome Art Competition by Singapore Council of Women’s Organisation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Si Qi Sophie (Lin Siqi) (4R1)</p>
+</li>
+<li>
+<p>Phan Anh Thi (3R4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>MTC Design For Good Youth Competition 2022</strong>
 </p>
@@ -643,10 +869,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>International Chess</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>75<sup>th</sup> National Schools Individual Chess Championships</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U14 East Zone: 9<sup>th</sup> Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lucas Loo Jun He (2C2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>63rd National Inter-School Chess Championship 2022<br>U14 (Boys)</strong>
 </p>
@@ -816,10 +1058,39 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="12" colspan="1">
 <p><strong>Robotics</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>IDE Series By Nullspace And VM Education</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IDE Maker: 1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Luke Thevathasan (3R3)</p>
+</li>
+<li>
+<p>Tristan Tan Yu Jun (3R3)</p>
+</li>
+<li>
+<p>Teoh Rui Ean, Ryan (3R4)</p>
+</li>
+</ul>
+<p></p>
+<p>IDE Code Hacker (Sec): 3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kota Neil Aryan (4R4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Code Builder Competition 2022</strong>
 </p>
@@ -896,6 +1167,32 @@ variant: tiptap
 <br>• William Edward Sugiharto (4R4)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Information Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AI Poster Design Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Visuals: 1st place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ta Quang Trung (Harold)</p>
+</li>
+</ul>
+<p>Best Headline: 1st place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matthew Loi Hao Zhe (1C1)</p>
+</li>
+</ul>
+<p>Atlas Ong Zhi Feng (1R2)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Achievements of Performing Arts CCA</strong></h4>
@@ -966,10 +1263,28 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Modern Dance</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Passion Arts Festival: Open Stage Dance Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Open Category: 4-star Award</p>
+</li>
+<li>
+<p>KPOP Category: 5-star Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Youth Festival – Arts Presentation 2023</strong>
 </p>
