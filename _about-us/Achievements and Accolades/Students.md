@@ -1184,13 +1184,16 @@ variant: tiptap
 <p>Ta Quang Trung (Harold)</p>
 </li>
 </ul>
+<p></p>
 <p>Best Headline: 1st place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Matthew Loi Hao Zhe (1C1)</p>
 </li>
-</ul>
+<li>
 <p>Atlas Ong Zhi Feng (1R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -1669,8 +1672,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Broadsword: 3rd Place
-<br>Ryan Lee Xing Zuo (4R1)</p>
+<p>1st International Broadsword: 3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ryan Lee Xing Zuo (4R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
