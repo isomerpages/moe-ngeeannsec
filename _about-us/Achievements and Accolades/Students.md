@@ -1377,10 +1377,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Basketball Championships 2024 (B Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Basketball Championships 2024 (B Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalist</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Basketball Championships 2022 (B Division Girls)</strong>
 </p>
@@ -1466,10 +1488,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>Volleyball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Volleyball Championships 2024 (B Division Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Volleyball Championships 2024 (B Division Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalist</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Volleyball Championships 2022 (B Division Girls)</strong>
 </p>
@@ -1539,10 +1583,85 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="24" colspan="1">
 <p><strong>Wushu</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Wushu Championships 2024 (C Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st International Broadsword: 6<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Chen En Jacob (2C2)</p>
+</li>
+</ul>
+<p></p>
+<p>1st International Cudgel: 7<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Chen En Jacob (2C2)</p>
+</li>
+</ul>
+<p></p>
+<p>1st International Nan Dao: 8<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Jing Xiang Lucas (2R1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Wushu Championships 2024 (B Division Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st International 42-style Taijiquan: 6<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Heidi Lim Rui Han (3C2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Inter-School Wushu Championships 2024 (C Division Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st International 42-style Taijiquan: 5<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yu Han Celeste (2C2)</p>
+</li>
+</ul>
+<p></p>
+<p>Formulated 5-Duan Spear: 7<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yue En Xi Reanne (2R2)</p>
+</li>
+</ul>
+<p></p>
+<p>Formulated 5-Duan Sword: 8<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yue En Xi Reanne (2R2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>NSG 2022 (B Division Boys)</strong>
 </p>
@@ -1690,10 +1809,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="26" colspan="1">
 <p><strong>Others</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Taekwondo Kyorugi Championships 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys: Red Belt Under 52kg: 3<sup>rd</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tun Tayzar Win (4C3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Inter-School Taekwondo Poomsae Championships 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys: Poom Black 2: 5<sup>th</sup> place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Koo Jia Jun Cayden (2C2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>2022 Singapore Olympic Foundation – Peter Lim Scholarship Encouragement Awards</strong>
 </p>
@@ -1860,10 +2011,50 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>Girl Guides</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>World Thinking Day 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Video Making: 2<sup>nd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Baden-Powell Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chay Rui Shan, Sarah (4R5)</p>
+</li>
+<li>
+<p>Maradana amrutha (4R5)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Puan Noor Aisah Award (Unit Award)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Puan Noor Aishah Award 2022</strong>
 </p>
@@ -1912,10 +2103,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>13th Precision Drill Squad Competition (East Zone)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Recognition Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Recognition Banding 2022</strong>
 </p>
@@ -1972,10 +2185,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="12" colspan="1">
 <p><strong>National Police Cadet Corps</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NPCC Unit Overall Proficiency Award 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chan Ming Shuen (4R1)</p>
+</li>
+<li>
+<p>Tan Chee Zhe (4R3)</p>
+</li>
+<li>
+<p>Chaw Pyae Aung (4R5)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Overall Proficiency Award 2022</strong>
 </p>
@@ -2022,10 +2267,36 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>Scouts</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Chief Commissioner’s Well-Done Badge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ethan Almeida Anthony (4R5)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Frank Cooper Sands Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Awarded</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Commissioner’s Award 2022</strong>
 </p>
