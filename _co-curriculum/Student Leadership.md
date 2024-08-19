@@ -31,11 +31,18 @@ Students will receive further leadership training in various platforms, includin
 
 #### Teachers-in-charge
 
-Student Council: Ms Izyan Rozana Bte Mohd Nejib, Mr Koh Chit Boon Amos, Ms Hon Soo Sien, Mr Jason Ang Hui Siang
-Peer Leaders: Ms Mariana Binte Yunus, Mr Khaizar Khuzema Shakir, Mr Kang Guan Wei, Mr Goh Tai Lin Aloysius
-Class Leaders: Ms Teo Yao Lu, Ms Nur Syifaa’ Binti Hussin, Ms Shavonne Tan
-Sports Leaders: Mr Lai Hon Kit Chris, Mr Jason Ang Hui Siang
-CCA Leaders: Ms Shavonne Tan
+**Student Council:** Ms Izyan Rozana Bte Mohd Nejib, Mr Koh Chit Boon Amos, Ms Hon Soo Sien, Mr Jason Ang Hui Siang
+
+**Peer Leaders:** Ms Mariana Binte Yunus, Mr Khaizar Khuzema Shakir, Mr Kang Guan Wei, Mr Goh Tai Lin Aloysius
+
+**Class Leaders:** Ms Teo Yao Lu, Ms Nur Syifaa’ Binti Hussin, Ms Shavonne Tan
+
+**Sports Leaders:** Mr Lai Hon Kit Chris, Mr Jason Ang Hui Siang
+
+**CCA Leaders:** Ms Shavonne Tan
+
+
+
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1CetbJiWXhmMVTiqcv6cAEPIHbF3_4xG5lkxsSlFI4wA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
