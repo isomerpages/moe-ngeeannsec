@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24th%20SC%20President/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/24th%20SC%20President/Picture1.jpg">
 </div>
 <p>Hello, everyone.</p>
 <p>I am Lim Li Na from 3C2, the 25th Student Council President of Ngee Ann
