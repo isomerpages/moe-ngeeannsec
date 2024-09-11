@@ -283,7 +283,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Seok Hoon Karent</p>
+<p>Ms Tan Seok Hoon Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / CCE</p>
