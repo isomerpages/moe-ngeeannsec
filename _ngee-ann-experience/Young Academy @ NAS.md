@@ -98,6 +98,6 @@ aims to create a more engaging, personalized, and practical educational
 experience for students, preparing them for lifelong learning and success
 in their future endeavours.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1RWs0UB6JX7SLamZb8qw1LDT5vAwOnx_gsjAYPtGPZJ0/embed?start=true&amp;amp;loop=true&amp;amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1RWs0UB6JX7SLamZb8qw1LDT5vAwOnx_gsjAYPtGPZJ0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
