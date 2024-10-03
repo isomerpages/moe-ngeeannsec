@@ -1,0 +1,4 @@
+collections:
+  open-house-pages:
+    output: true
+    order: []
