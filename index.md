@@ -4,7 +4,7 @@ title: Ngee Ann Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/small-school-Logo-No-background-2.png
 permalink: /
-notification: Test Notif
+notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
@@ -23,9 +23,10 @@ sections:
         - title: Release of 2023 GCE N–Level Examination Results
           description: 18 December 2023, 2 pm
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
-      variant: floating
-      button: DSA - Sec
-      url: direct-school-admission-dsa-exercise-2024/
+      variant: side
+      button: NAS Open House 2024
+      url: nas-open-house-2024
+      backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
