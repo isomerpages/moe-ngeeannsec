@@ -1,4 +1,5 @@
 collections:
   open-house-pages:
     output: true
-    order: []
+    order:
+      - NAS Open House 2023.md
