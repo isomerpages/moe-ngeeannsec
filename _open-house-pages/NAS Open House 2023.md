@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Welcome to Ngee Ann Secondary (NAS) School’s Open House</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RYXJ72XqBgU?si=n2dVceiE-fw3OiYi"></iframe>
-</div>
 <p>This year, our physical Open House falls on 18 November 2023 (Saturday),
 from 8am to 1pm. We have lined up many exciting programmes for our visitors,
 including performances by our students and augmented reality tours.</p>
