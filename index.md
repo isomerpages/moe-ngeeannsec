@@ -4,7 +4,7 @@ title: Ngee Ann Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/small-school-Logo-No-background-2.png
 permalink: /
-notification: ""
+notification: Test Notif
 sections:
   - hero:
       title: Ngee Ann Secondary School
@@ -23,7 +23,7 @@ sections:
         - title: Release of 2023 GCE N–Level Examination Results
           description: 18 December 2023, 2 pm
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
-      variant: center
+      variant: floating
       button: DSA - Sec
       url: direct-school-admission-dsa-exercise-2024/
   - infobar:
