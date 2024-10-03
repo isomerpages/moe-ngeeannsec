@@ -23,7 +23,7 @@ sections:
         - title: Release of 2023 GCE N–Level Examination Results
           description: 18 December 2023, 2 pm
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
-      variant: side
+      variant: floating
       button: NAS Open House 2024
       url: nas-open-house-2024
       backgroundColor: gray
