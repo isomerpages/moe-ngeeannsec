@@ -113,7 +113,7 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>0900 - 1000</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Talk @ MPH</p>
+<p>Principal’s Sharing @ MPH</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1100 - 1200</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Talk @ MPH</p>
+<p>Principal’s Sharing @ MPH</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,6 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>3. School Tour [8:00am - 1:00pm]</h4>
 <p>Mode 1: Led by Student Ambassadors
 <br>Mode 2: Self-guided Tour</p>
