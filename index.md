@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/hero-banner-no-words-with-line.gif
+      background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Direct School Admission (DSA) Exercise 2024
@@ -24,8 +24,9 @@ sections:
           description: 18 December 2023, 2 pm
           url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
       variant: center
-      button: DSA - Sec
-      url: direct-school-admission-dsa-exercise-2024/
+      button: NAS Open House 2024
+      url: nas-open-house-2024
+      backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
       description: Parents Gateway is a mobile app,which allows parents to engage with
