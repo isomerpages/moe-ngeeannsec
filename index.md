@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ngee Ann Secondary School
-      background: /images/hero-banner-no-words-with-line.gif
+      background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Direct School Admission (DSA) Exercise 2024
