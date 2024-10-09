@@ -2,180 +2,368 @@
 title: Organization Chart
 permalink: /about-us/organization-chart/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### School Management Committee 2024
-<table>
+<h5>School Management Committee 2024</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-	<tr><th>Name</th><th>Role</th></tr>
 <tr>
-<td>Mr Goh Kim Hock</td>
-<td>Chairman</td>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
 </tr>
 <tr>
-<td>Miss Ku Swee Ngein</td>
-<td>Vice-Chairman</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Kim Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
 </tr>
 <tr>
-<td>Dr Wu Chiaw Ching</td>
-<td>Committee Member</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ku Swee Ngein</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
 </tr>
 <tr>
-<td>Mr Lie Kee Pong</td>
-<td>Committee Member</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wu Chiaw Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
 </tr>
 <tr>
-<td>Mr Tan Ter Lun</td>
-<td>Committee Member</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lie Kee Pong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
 </tr>
 <tr>
-<td>Mr Phua Chung Ann</td>
-<td>Committee Member</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Ter Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
 </tr>
 <tr>
-<td>Dr Teo Miang Chneh</td>
-<td>Committee Member</td>
-</tr>
-</tbody></table>
-
-##### School Key Personnel 2024
-
-<table>
-<tbody><tr><th>Name</th><th>Role</th></tr>
-<tr>
-<td>Ms Poh Shi Hui</td>
-<td>Principal</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phua Chung Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Tan Lay Gin</td>
-<td>Vice-Principal</td>
+<td rowspan="1" colspan="1">
+<p>Dr Teo Miang Chneh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>School Key Personnel 2024</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
 </tr>
 <tr>
-<td>Mr Goh Chin Wei Chad</td>
-<td>Vice-Principal</td>
+<td rowspan="1" colspan="1">
+<p>Ms Poh Shi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Devi d/o Lokanathan</td>
-<td>HOD – Humanities</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Lay Gin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
 </tr>
 <tr>
-<td>Ms Karen Tan</td>
-<td>HOD – Character &amp; Citizenship Education (CCE)</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Chin Wei Chad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
 </tr>
 <tr>
-<td>Ms Koh Ruiyin Evelyn</td>
-<td>HOD – Science</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Devi d/o Lokanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Humanities</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Lei Mee</td>
-<td>HOD – Mother Tongue Languages</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Character &amp; Citizenship Education (CCE)</p>
+</td>
 </tr>
 <tr>
-<td>Mrs Lena Siau</td>
-<td>HOD – Special Educational Needs (SEN)</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Ruiyin Evelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Science</p>
+</td>
 </tr>
 <tr>
-<td>Ms Liu Shimin Jasmine</td>
-<td>HOD – Educational Technology</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lei Mee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Mother Tongue Languages</p>
+</td>
 </tr>
 <tr>
-<td>Ms Ming Fong Yee</td>
-<td>HOD – Student Management</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lena Siau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Special Educational Needs (SEN)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Quek Wee Siong</td>
-<td>HOD – Craft &amp; Technology</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Shimin Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Educational Technology</p>
+</td>
 </tr>
 <tr>
-<td>Mr Seah Siang Chye</td>
-<td>HOD – Mathematics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ming Fong Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Student Management</p>
+</td>
 </tr>
 <tr>
-<td>Mr Tan Hee Pheng</td>
-<td>HOD – Physical Education &amp; Co-Curricular Activities</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Wee Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Craft &amp; Technology</p>
+</td>
 </tr>
 <tr>
-<td>Mrs Theresa Lai-Ng Kee Yah</td>
-<td>School Staff Developer</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Siang Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Mathematics</p>
+</td>
 </tr>
 <tr>
-<td>Mr Mohd Hazmi Bin Hasni</td>
-<td>Year Head – Lower Secondary</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hee Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Physical Education &amp; Co-Curricular Activities</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Farhana Mohamad Noor</td>
-<td>Year Head – Upper Secondary</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Theresa Lai-Ng Kee Yah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
 </tr>
 <tr>
-<td>Mr Alex Chiam Baijie</td>
-<td>SH – Data Analytics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Hazmi Bin Hasni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head – Lower Secondary</p>
+</td>
 </tr>
 <tr>
-<td>Ms Lee Chin Li</td>
-<td>SH – Geography</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Farhana Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head – Upper Secondary</p>
+</td>
 </tr>
 <tr>
-<td>Mr Neo Guang Xian</td>
-<td>SH – Mathematics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Chiam Baijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Data Analytics</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Nor Hasni Yanti Bte Hamim</td>
-<td>LH – English Language </td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Chin Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Geography</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Nur Azlyna Binte Mohamed Tahir</td>
-<td>SH – Character &amp; Citizenship Education (CCE)</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Guang Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Mathematics</p>
+</td>
 </tr>
 <tr>
-<td>Mr Tan Rou Ming</td>
-<td>SH – Student Leadership (Internal)</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Hasni Yanti Bte Hamim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH – English Language</p>
+</td>
 </tr>
 <tr>
-<td>Ms Teresa Ong Hui Li</td>
-<td>LH – Science</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Azlyna Binte Mohamed Tahir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Character &amp; Citizenship Education (CCE)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Teo Soon Ann</td>
-<td>SH – Student Well-Being</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Rou Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Student Leadership (Internal)</p>
+</td>
 </tr>
 <tr>
-<td>Ms Toh Hui Ling</td>
-<td>SH – Educational Technology</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teresa Ong Hui Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH – Science</p>
+</td>
 </tr>
 <tr>
-<td>Ms Teo Yao Lu</td>
-<td>Assistant Year Head – Sec 1</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Soon Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Student Well-Being</p>
+</td>
 </tr>
 <tr>
-<td>Mr Dominic Chia Kim Seng</td>
-<td>Assistant Year Head – Sec 2</td>
+<td rowspan="1" colspan="1">
+<p>Ms To Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – Educational Technology</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Nur Syifaa’ Binti Hussin</td>
-<td>Assistant Year Head – Sec 3 (Internal)</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Yao Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head – Sec 1</p>
+</td>
 </tr>
 <tr>
-<td>Ms Tan Xuewen Shavonne</td>
-<td>Assistant Year Head – Sec 4/5</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Chia Kim Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head – Sec 2</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Ashikin Bte Abdul Ra’uuf</td>
-<td>Lead Teacher – Educational Support</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Syifaa’ Binti Hussin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head – Sec 3 (Internal)</p>
+</td>
 </tr>
 <tr>
-<td>Mr Ben Khor Teng Chih</td>
-<td>Lead Teacher – Art</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Xuewen Shavonne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head – Sec 4/5</p>
+</td>
 </tr>
 <tr>
-<td>Mr Alvin Tan Choon Hou</td>
-<td>Senior Teacher – Physics</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ashikin Bte Abdul Ra’uuf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher – Educational Support</p>
+</td>
 </tr>
 <tr>
-<td>Mdm Noor Azean Binte Khamis</td>
-<td>Senior Teacher – Mathematics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ben Khor Teng Chih</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher – Art</p>
+</td>
 </tr>
 <tr>
-<td>Mrs Sim-Loh Kah Lye Sarene</td>
-<td>Senior Teacher – Art</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Tan Choon Hou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher – Physics</p>
+</td>
 </tr>
-</tbody></table>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Azean Binte Khamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher – Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sim-Loh Kah Lye Sarene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher – Art</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
