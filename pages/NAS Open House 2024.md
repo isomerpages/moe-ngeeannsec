@@ -77,35 +77,24 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0815</p>
+<p>0825 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (10 mins)</p>
+<p>Wushu (8 mins)
+<br>Dance (3 mins)
+<br>Choir (5 mins)
+<br>Concert Band (9 mins)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Pop &amp; Jazz</p>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra (10 mins)
+<br>Pop &amp; Jazz (15 mins)
+<br>NCC/NPCC (8 mins)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Common Ground</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>0830</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC (4 mins)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>0845</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance (10 mins)</p>
 </td>
 </tr>
 <tr>
@@ -113,32 +102,28 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>0900 - 1000</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Sharing @ MPH</p>
+<p>Principal’s Talk @ MPH</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1010 - 1030</p>
+<p>1010 - 1040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Concert Band (15 mins)</p>
+<p>Wushu (8 mins)
+<br>Dance (3 mins)
+<br>Choir (5 mins)
+<br>Concert Band (9 mins)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Chinese Orchestra</p>
+<td rowspan="1" colspan="1">
+<p>It’s Showtime! (30 mins)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Common Ground</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1030 - 1050</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choir (15 mins)</p>
 </td>
 </tr>
 <tr>
@@ -146,44 +131,46 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1100 - 1200</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Sharing @ MPH</p>
+<p>Principal’s Talk @ MPH</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1220</p>
+<p>1220-1245</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (10 mins)</p>
+<p>Wushu (8 mins)
+<br>Dance (3 mins)
+<br>Choir (5 mins)
+<br>Concert Band (9 mins)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>It’s Showtime!</p>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra (10 mins)
+<br>Pop &amp; Jazz (15 mins)
+<br>NCC/NPCC (8 mins)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Common Ground</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1240</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC (4 mins)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1250</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance (10 mins)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>LAYOUT OF EXHIBITS AND EXPERIENTIAL ACTIVITIES</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_common_ground.jpg">
+</div>
+<p><strong>LAYOUT OF CCA BOOTHS (MULTI-PURPOSE HALL)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_mph.png">
+</div>
 <h4>3. School Tour [8:00am - 1:00pm]</h4>
 <p>Mode 1: Led by Student Ambassadors
 <br>Mode 2: Self-guided Tour</p>
