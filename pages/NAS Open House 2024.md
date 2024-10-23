@@ -159,18 +159,6 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>LAYOUT OF EXHIBITS AND EXPERIENTIAL ACTIVITIES</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_common_ground.jpg">
-</div>
-<p><strong>LAYOUT OF CCA BOOTHS (MULTI-PURPOSE HALL)</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_mph.png">
-</div>
 <h4>3. School Tour [8:00am - 1:00pm]</h4>
 <p>Mode 1: Led by Student Ambassadors
 <br>Mode 2: Self-guided Tour</p>
