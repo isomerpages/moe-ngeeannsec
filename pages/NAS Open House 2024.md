@@ -80,18 +80,36 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>0825 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wushu</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra (10 mins)
-<br>Pop &amp; Jazz (15 mins)
-<br>NCC/NPCC (8 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop &amp; Jazz</p>
+</li>
+<li>
+<p>NPCC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -111,16 +129,26 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1010 - 1040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NCC</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It’s Showtime! (30 mins)</p>
+<p>It’s Showtime!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -140,18 +168,36 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1220-1245</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wushu</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra (10 mins)
-<br>Pop &amp; Jazz (15 mins)
-<br>NCC/NPCC (8 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop &amp; Jazz</p>
+</li>
+<li>
+<p>NPCC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
