@@ -49,8 +49,8 @@ through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollo
 through this sharing session!</p>
 <h4>2. CCA Showcase @ MPH, Level 3</h4>
 <p>Come and speak to our students to hear how our different CCA experiences
-have grown and help them to shine! Find out more about the CCAs we offer
-<a href="/co-curriculum/cca/cca-nas/" rel="noopener nofollow" target="_blank">here</a>.</p>
+have grown and help them to grow and shine! Find out more about the CCAs
+we offer <a href="/co-curriculum/cca/cca-nas/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>3. Performances @ MPH &amp; Common Ground</h4>
 <p>See and experience our Vibrant Performing Arts culture at NAS! Be part
 of NAS to inspire others through your talents!</p>
