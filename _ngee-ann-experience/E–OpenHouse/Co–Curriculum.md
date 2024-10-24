@@ -3,6 +3,7 @@ title: Co–Curriculum
 permalink: /ngee-ann-experience/e-openhouse/co-curriculum/
 description: ""
 third_nav_title: E–OpenHouse
+variant: markdown
 ---
 # Forward Looking Leader
 
@@ -29,4 +30,4 @@ Check out the range of CCAs we have in&nbsp;**NAS**&nbsp;and listen to the shari
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JT66DX9xP8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Find out more about&nbsp;[**CCAs**](/co-curriculum/cca)&nbsp;available in NAS.
+Find out more about&nbsp;[**CCAs**](/co-curriculum/cca/cca-nas/)&nbsp;available in NAS.

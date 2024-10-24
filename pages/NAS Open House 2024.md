@@ -4,17 +4,21 @@ permalink: /nas-open-house-2024/
 variant: tiptap
 description: ""
 ---
-<h2>Welcome to Ngee Ann Secondary (NAS) School’s Open House</h2>
+<h2>Welcome to Ngee Ann Secondary (NAS) School’s Open House!</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Banner_2024.jpg">
 </div>
 <p>This year, our physical Open House falls on 16 November 2024 (Saturday)
 from 8am to 1pm. We have lined up many exciting programmes for our visitors,
-including performances by our students and augmented reality tours.</p>
-<p>We look forward to meeting you at our physical Open House! Can’t visit
-us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
+including performances by our students and augmented reality tours. You
+also get to meet NASS, a mascot created by NASians for NASians virtually
+and in person!</p>
+<p>Find out more about our school’s exciting opportunities for our students
+through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Instagram</a>pages before coming!</p>
+<p>We can’t wait to meet all of you! See you on 16 November!</p>
 <h3><strong>Open House Programme</strong></h3>
-<h4>1. Principal's Sharing cum Student Dialogue [Multi-Purpose Hall (MPH)]</h4>
+<h4>1. Principal's Sharing @ Multi-Purpose Hall (MPH), Level 3</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,16 +38,22 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>9am to 10am</p>
-<p>(PA announcement at 8.45am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11am to 12pm</p>
-<p>(PA announcement at 10.45am)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>2. Performances [MPH and Common Ground]</h4>
+<p>Find out more about our NAS signature programmes and unique student experiences
+through this sharing session!</p>
+<h4>2. CCA Showcase @ MPH, Level 3</h4>
+<p>Come and speak to our students to hear how our different CCA experiences
+have grown and help them to grow and shine! Find out more about the CCAs
+we offer <a href="/co-curriculum/cca/cca-nas/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<h4>3. Performances @ MPH &amp; Common Ground</h4>
+<p>See and experience our Vibrant Performing Arts culture at NAS! Be part
+of NAS to inspire others through your talents!</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -80,18 +90,37 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>0825 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wushu</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH</p>
+<p>MPH
+<br>@ Level 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra (10 mins)
-<br>Pop &amp; Jazz (15 mins)
-<br>NCC/NPCC (8 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop &amp; Jazz</p>
+</li>
+<li>
+<p>NPCC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -111,16 +140,27 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1010 - 1040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NCC</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH</p>
+<p>MPH
+<br>@ Level 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It’s Showtime! (30 mins)</p>
+<p>It’s Showtime!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -140,18 +180,37 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 <p>1220-1245</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu (8 mins)
-<br>Dance (3 mins)
-<br>Choir (5 mins)
-<br>Concert Band (9 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wushu</p>
+</li>
+<li>
+<p>Dance</p>
+</li>
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH</p>
+<p>MPH
+<br>@ Level 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra (10 mins)
-<br>Pop &amp; Jazz (15 mins)
-<br>NCC/NPCC (8 mins)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop &amp; Jazz</p>
+</li>
+<li>
+<p>NPCC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -159,21 +218,9 @@ us on this date? Fret not! We will bring NAS to you via our e-Open House!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>LAYOUT OF EXHIBITS AND EXPERIENTIAL ACTIVITIES</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_common_ground.jpg">
-</div>
-<p><strong>LAYOUT OF CCA BOOTHS (MULTI-PURPOSE HALL)</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Openhouse_2024_mph.png">
-</div>
-<h4>3. School Tour [8:00am - 1:00pm]</h4>
-<p>Mode 1: Led by Student Ambassadors
-<br>Mode 2: Self-guided Tour</p>
+<h4>4. School Tour [8:00am - 1:00pm]</h4>
+<p>Mode 1: Led by our friendly Student Ambassadors
+<br>Mode 2: Self-guided Tour with our exclusive app!</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RYXJ72XqBgU?si=n2dVceiE-fw3OiYi"></iframe>
