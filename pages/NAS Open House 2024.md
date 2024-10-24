@@ -15,7 +15,7 @@ also get to meet NASS, a mascot created by NASians for NASians virtually
 and in person!</p>
 <p>Find out more about our school’s exciting opportunities for our students
 through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Facebook</a> and
-<a href="https://www.instagram.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Instagram</a>pages before coming!</p>
+<a href="https://www.instagram.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Instagram</a>p pages before coming!</p>
 <p>We can’t wait to meet all of you! See you on 16 November!</p>
 <h3><strong>Open House Programme</strong></h3>
 <h4>1. Principal's Sharing @ Multi-Purpose Hall (MPH), Level 3</h4>
