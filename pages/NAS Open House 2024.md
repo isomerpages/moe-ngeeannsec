@@ -45,6 +45,8 @@ through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollo
 </tr>
 </tbody>
 </table>
+<p>Find out more about our NAS signature programmes and unique student experiences
+through this sharing session!</p>
 <h4>2. CCA Showcase @ MPH, Level 3</h4>
 <p>Come and speak to our students to hear how our different CCA experiences
 have grown and help them to shine! Find our more about the CCAs we offer
