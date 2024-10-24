@@ -32,4 +32,4 @@ Find out more about our&nbsp;&nbsp;**[Parents' Support Group(PSG)](/links-for-pa
 
 <img src="/images/Staff.png" style="width:70%">
 		 
-Find out more about staff achievement at [Achievements and Accolades](/about-us/achievements-and-accolades/students).
+Find out more about staff achievement at [Achievements and Accolades](/about-us/achievements-and-accolades/students/).
