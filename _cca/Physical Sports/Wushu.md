@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Wushu-Banner02%20copy.jpg">
-</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1PTHdnXUIf_pDQ3sKrK7Y-g3mJ1QyHHXWEq6Qz926uao/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
