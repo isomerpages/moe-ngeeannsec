@@ -129,8 +129,6 @@ TAN (Sec 4)</p>
 <br>1st place</p>
 <p><strong>NSG: NATIONALS</strong>
 <br>Quarter-finalist</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
@@ -154,8 +152,6 @@ TAN (Sec 4)</p>
 <br>2nd place</p>
 <p><strong>NSG NATIONALS: LEAGUE 1</strong> 
 <br>6th place</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
