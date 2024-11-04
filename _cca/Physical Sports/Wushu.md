@@ -5,4 +5,291 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:70%" height="auto" width="100%" src="/images/Wushu-Banner02%20copy.jpg"></div><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1PTHdnXUIf_pDQ3sKrK7Y-g3mJ1QyHHXWEq6Qz926uao/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><h3>About Us</h3><p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p><p>Every wushu student a champion (values, area of achievement).</p><p><strong>MISSION</strong>: What does the CCA set out to do?</p><p>Nurture and develop athletes with character.</p><p><strong>LEARNING OUTCOMES</strong>: By the time the students leave the CCA, what characteristics do they exhibit?</p><ol data-tight="true" class="tight"><li><p>Students to achieve results in area of competition.</p></li><li><p>Students show desirable behaviour such as responsible for attendance, cleaning after themselves, and teamwork.</p></li><li><p>Student continue to participate in wushu even after they left the school.</p></li></ol><h3>Achievements and Accolades</h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>2021</strong></p></td><td rowspan="1" colspan="1"><p><strong>2022</strong></p></td><td rowspan="1" colspan="1"><p><strong>2023</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>WUSHU (Boys) B Division</strong></p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong></p><p>-</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong><br><u>1st International Broadsword</u><br>RYAN LEE XING ZUO (3R1): 3rd</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Ryan Lee Xing Zuo (4R1): 4th<br><br><strong>NSG SPORTSMANSHIP AWARD</strong><br>RYAN LEE XING ZUO (4R1)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>WUSHU (Boys) C Division</strong></p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong></p><p>-</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS<br></strong><u>1st International Nanquan</u><br>LOH HAO CHENG (1R2): 5th</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong><br><u>1st International Nan Dao</u><strong><br></strong>Tan Jing Xiang Lucas (1R1): 4th<br><u>1st International Nanquan</u><br>Tan Jing Xiang Lucas (1R1): 4th<br><u>5 Duan Broadsword<br></u>Choo Chen En Jacob (1C2): 4th<br><u>5 Duan Changquan</u><br>Choo Chen En Jacob (1C2): 5th<br><br><strong>NSG SPORTSMANSHIP AWARD</strong><br>TAN JING XIANG LUCAS (1R1)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>WUSHU (Girls) B Division</strong></p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong><br><u>1st International Nan Dao</u><br>DEVNI CHAMODYA KALUARACHCHI (4R2): 1st<br><br><u>1st International Nanquan</u><br>DEVNI CHAMODYA KALUARACHCHI (4R2): 1st<br><br><u>2nd International Changquan</u><br>RACHEL LEE JIA HUI (3C1): 4th<br><br><strong>NSG Sportsmanship Award</strong><br>DEVNI CHAMODYA KALUARACHCHI (4R2)</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong><br><u>1st International Cudgel</u><br>LOH PUI TING, PHOEBE (3R2): 8th<br><br><u>2nd International Changquan</u><br>RACHEL LEE JIA HUI (4C1): 5th<br>CHAI YU XUAN (4R4): 6th<br><br><u>1st International Nandao</u> SHANNON LEE YU EN (4C1): 6th<br><br><strong>NSG SPORTSMANSHIP AWARD</strong><br><strong>-</strong></p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS<br></strong><u>1st International Sword</u><strong><br></strong>Xiao Wenlin (4R3): 6th</p><p><strong>NSG SPORTSMANSHIP AWARD</strong><br>XIAO WENLIN (4R3)</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>WUSHU (Girls) C Division</strong></p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong></p><p>-</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS</strong><br><u>1st International Broadsword</u><br>ONG LING XIN (2R4): 8th<br><br><u>1st International Cudgel</u><br>ONG LING XIN (2R4): 5th<br><br><u>1st International Nan Gun</u><br>LEE PEI YING, JENNA (2C2): 6th</p></td><td rowspan="1" colspan="1"><p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Huang Haoya (1R3): 7th<br><u>32 Style Taijijian</u><strong><br></strong>Heidi Lim Rui Han (2R2): 5th<br><u>42 Style Taijiquan</u><strong><br></strong>Ng Yu Han Celeste (1C2): 5th <br><u>5 Duan Spear</u><strong><br></strong>Yue En Xi, Reanne (1R2): 5th<br><br><strong>NSG SPORTSMANSHIP AWARD</strong><br>YUE EN XI, REANNE (1R2)</p></td></tr></tbody></table><h3>Schedule</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Days</p></th><th rowspan="1" colspan="1"><p>Time</p></th><th rowspan="1" colspan="1"><p>Venue</p></th></tr><tr><td rowspan="1" colspan="1"><p>Tuesday</p></td><td rowspan="1" colspan="1"><p>3:00 pm - 6:00 pm<br></p></td><td rowspan="1" colspan="1"><p>Indoor Sports Hall<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesday<br>(For NSG competition squad)</p></td><td rowspan="1" colspan="1"><p>3:00 pm - 6:00 pm</p></td><td rowspan="1" colspan="1"><p>Multi-Purpose Hall from Mar to Apr</p></td></tr><tr><td rowspan="1" colspan="1"><p>Friday<br></p></td><td rowspan="1" colspan="1"><p>3:00 pm - 6:00 pm</p></td><td rowspan="1" colspan="1"><p>Multi-Purpose Hall</p></td></tr></tbody></table><p><em>* Additional sessions may be scheduled during the holidays.</em></p><h3>CCA Teachers-in-charge</h3><p>Ms Nur Syifaa’ Binti Hussin<br>Mdm Sun Xiuli</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Wushu-Banner02%20copy.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1PTHdnXUIf_pDQ3sKrK7Y-g3mJ1QyHHXWEq6Qz926uao/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>About Us</h3>
+<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p>Every wushu student a champion (values, area of achievement).</p>
+<p><strong>MISSION</strong>: What does the CCA set out to do?</p>
+<p>Nurture and develop athletes with character.</p>
+<p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students to excel in wushu.</p>
+</li>
+<li>
+<p>Students to exhibit strong school values (integrity and resilience).</p>
+</li>
+<li>
+<p>Students will be lifelong learners for wushu.</p>
+</li>
+</ol>
+<p>CCA-specific skills they can perform</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Able to execute basic routines and their chosen styles.</p>
+</li>
+</ol>
+<p>CCA-specific knowledge they will acquire</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Of their chosen routines.</p>
+</li>
+</ol>
+<p>CCA-specific attitudes they will form</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Confidence</p>
+</li>
+<li>
+<p>Integrity</p>
+</li>
+<li>
+<p>Dignity</p>
+</li>
+</ol>
+<h3>PROGRESS AND ACHIEVEMENTS</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys B Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br><u>1st International Broadsword</u>
+<br>RYAN LEE XING ZUO (Sec 3): 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Ryan
+Lee Xing Zuo (Sec 4): 4th
+<br>
+<br><u>Sportsmanship Award</u>
+<br>RYAN LEE XING ZUO (Sec 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br>No top 8 placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys C Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br></strong><u>1st International Nanquan</u>
+<br>LOH HAO CHENG (Sec 1): 5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br><u>1st International Nan Dao</u><strong><br></strong>Tan Jing Xiang Lucas
+(Sec 1): 4th</p>
+<p><u>1st International Nanquan</u>
+<br>Tan Jing Xiang Lucas (Sec 1): 4th</p>
+<p><u>5 Duan Broadsword<br></u>Choo Chen En Jacob (Sec 1): 4th</p>
+<p><u>5 Duan Changquan</u>
+<br>Choo Chen En Jacob (Sec 1): 5th</p>
+<p><u>Sportsmanship Award</u>
+<br>TAN JING XIANG LUCAS (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br>1st International Broadsword</strong>
+<br>CHOO CHEN EN JACOB (Sec 2): 6th</p>
+<p><strong>1st International Cudgel</strong>
+<br>CHOO CHEN EN JACOB (Sec 2): 7th</p>
+<p><strong>1st International Nan Dao</strong>
+<br>TAN JING XIANG LUCAS (Sec 2): 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WUSHU (Girls) B Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br><u>1st International Cudgel</u>
+<br>LOH PUI TING, PHOEBE (Sec 3): 8th</p>
+<p><u>2nd International Changquan</u>
+<br>RACHEL LEE JIA HUI (Sec 4): 5th
+<br>CHAI YU XUAN (Sec 4): 6th</p>
+<p><u>1st International Nandao</u> 
+<br>SHANNON LEE YU EN (Sec 4): 6th</p>
+<p><u>Sportsmanship Award</u>
+<br><strong>-</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br></strong><u>1st International Sword</u><strong><br></strong>Xiao
+Wenlin (Sec 4): 6th</p>
+<p><u>Sportsmanship Award</u>
+<br>XIAO WENLIN (Sec 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br><strong>1st International 42-style Taijiquan</strong>
+<br>HEIDI LIM RUI HAN (Sec 3): 6th</p>
+<p><u>Sportsmanship Award</u>
+<br><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WUSHU (Girls) C Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS</strong>
+<br><u>1st International Broadsword</u>
+<br>ONG LING XIN (Sec 2): 8th</p>
+<p><u>1st International Cudgel</u>
+<br>ONG LING XIN (Sec 2): 5th</p>
+<p><u>1st International Nan Gun</u>
+<br>LEE PEI YING, JENNA (Sec 2): 6th</p>
+<p><u>Sportsmanship Award</u>
+<br>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Huang
+Haoya (Sec 1): 7th</p>
+<p><u>32 Style Taijijian</u><strong><br></strong>Heidi Lim Rui Han (Sec 2):
+5th</p>
+<p><u>42 Style Taijiquan</u><strong><br></strong>Ng Yu Han Celeste (Sec 1):
+5th</p>
+<p><u>5 Duan Spear</u><strong><br></strong>Yue En Xi, Reanne (Sec 1): 5th</p>
+<p><u>Sportsmanship Award</u>
+<br>YUE EN XI, REANNE (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: NATIONALS<br>1st International 42-style Taijiquan</strong>
+<br>NG YU HAN CELESTE (Sec 2): 5th</p>
+<p><strong>Formulated 5-Duan Spear</strong>
+<br>YUE EN XI REANNE (Sec 2): 7th</p>
+<p><u>Sportsmanship Award</u>
+<br>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Schedule</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA DAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>One</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar-Apr for NSG only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>CCA Teachers</h3>
+<p>Mdm. Nur Syifaa' Hussin (CCA Teacher-in-charge)
+<br>Mdm. Sun Xiuli</p>
