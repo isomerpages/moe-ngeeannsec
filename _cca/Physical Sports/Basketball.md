@@ -14,8 +14,8 @@ variant: tiptap
 <p><strong>MISSION</strong>: What does the CCA set out to do?</p>
 <p>Instilling discipline through respect, achieving sporting excellence through
 resilience.</p>
-<p><strong>LEARNING OUTCOMES</strong>: By the time the students leave the
-CCA, what characteristics do they exhibit?</p>
+<p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To show discipline by respecting teachers, coach, teammates, opponents
@@ -29,7 +29,69 @@ and referees.</p>
 technical &amp; tactical).</p>
 </li>
 </ol>
-<h3>Achievements and Accolades</h3>
+<p><strong>LEARNING INDICATORS: How do we know our students have learnt?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students show commitment to training (i.e. attendance &gt; 75%).</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Students show respect for teammates and opponents (i.e. players show good
+sportsmanship and team spirit both on/off court).</p>
+</li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Students who are disciplined and display resilience when faced with challenges
+(i.e. players display perseverance after defeat or are able to turn around
+a game).</p>
+</li>
+</ol>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Students who are motivated to keep up with fitness and proficient in basketball
+tactics.</p>
+</li>
+</ol>
+<p>CCA-specific skills they can perform</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ball handling, dribbling and passing</p>
+</li>
+<li>
+<p>Shooting (Field goal, Free throws and 3-point)</p>
+</li>
+<li>
+<p>Layup</p>
+</li>
+</ol>
+<p>CCA-specific knowledge they will acquire</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Rules of 5v5 and 3v3 gameplay</p>
+</li>
+<li>
+<p>Tactical knowledge in team and individual defence and offence</p>
+</li>
+<li>
+<p>Technical knowledge in team and individual defence and offence</p>
+</li>
+</ol>
+<p>CCA-specific attitudes they will form</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Commitment and Discipline</p>
+</li>
+<li>
+<p>Respect and Teamwork</p>
+</li>
+<li>
+<p>Resilience and Motivation</p>
+</li>
+</ol>
+<h3>PROGRESS AND ACHIEVEMENTS</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -40,12 +102,7 @@ technical &amp; tactical).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2022</strong>
@@ -55,185 +112,153 @@ technical &amp; tactical).</p>
 <p><strong>2023</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>BASKETBALL (Boys) B Division</strong>
+<p><strong>2024</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>There was no NSG in due to Covid-19 pandemic.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em>
-</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br>-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em>
-</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br></strong>TRISTAN CHU ZHEN YU (3R3)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BASKETBALL (Boys) C Division</strong>
+<p><strong>Boys B Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>There was no NSG in due to Covid-19 pandemic.</em>
+<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
+<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em><strong><br><br></strong><u>Sportsmanship Award</u><strong><br>-</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
+<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em><strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>TRISTAN
+CHU ZHEN YU (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: EAST ZONE</strong>
+<br>3rd place</p>
+<p><strong>NSG: NATIONALS</strong>
+<br>Quarter-finalist
+<br><u>Sportsmanship Award</u>
+<br>ANDRADA JACOB KAIDEN ANG (Sec 3)</p>
+<p><strong>ASEAN SCHOOL GAMES: 13th EDITION AT DA NANG, VIETNAM<br></strong>Representing
+Singapore Schools, 3rd team placing:
+<br>SHABBIR AHMAD BIN SHAJAN (Sec 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys C Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Quarter-final</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br></strong>-</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Quarter-final</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br></strong>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BASKETBALL (Girls) B Division</strong>
-</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>There was no NSG in due to Covid-19 pandemic.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>4th</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em>
-</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br>-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Quarter-Finals</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
-<p></p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br></strong>ADVIKA RAMESH (4R1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BASKETBALL (Girls) C Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>There was no NSG in due to Covid-19 pandemic.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em>
-</p>
-<p><strong>NSG SPORTSMANSHIP AWARD<br>-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p><strong>NSG NATIONALS: LEAGUE 2</strong> 
+<br>Preliminary Round</p>
+<p><strong>&nbsp;ST. JOSEPH'S INSTITUTION INVITATIONAL</strong>
+<br>4th place
+<br>Team Sportsmanship Award</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Days</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday
-<br>(<em>Sec 1 Boys)</em>
+<p><strong>CCA DAY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm - 6:00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Basketball Court</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday
-<br>(Sec 2-4 Boys, Only during C Div NSG season)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:00 pm - 6:00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday
-<br>(<em>Sec 1 Boys)</em>
+<p><strong>Day</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:00 pm - 3:30 pm
-<br>
+<p><strong>Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Basketball Court
-<br>
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday
-<br>(Sec 2-4 Boys<em>)</em>
+<p><strong>One</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30 pm - 6.00 pm</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall</p>
+<p>2.45-6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 and 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.45-6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 and 2
+<br>Sec 3 and 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30-6.30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 and 4</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>CCA Teachers-in-charge</h3>
-<p>Mr Dominic Chia Kim Seng
-<br>Mr Jonathan Chan Aik Beng
-<br>Mr Jason Ang</p>
+<p><em>This arrangement is up till end 2025 or when construction of outdoor basketball court is complete, whichever is earlier. Then revert back from Monday to Tuesday as CCA day.</em>
+</p>
+<h3>CCA Teachers</h3>
+<p>Mr. Jonathan Chan Aik Beng (CCA Teacher-in-charge)
+<br>Mr. Dominic Chia Kim Seng
+<br>Mr. Jason Ang</p>
