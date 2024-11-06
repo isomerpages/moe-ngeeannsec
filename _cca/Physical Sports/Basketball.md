@@ -57,7 +57,8 @@ a game).</p>
 tactics.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Ball handling, dribbling and passing</p>
@@ -69,7 +70,8 @@ tactics.</p>
 <p>Layup</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Rules of 5v5 and 3v3 gameplay</p>
@@ -81,7 +83,8 @@ tactics.</p>
 <p>Technical knowledge in team and individual defence and offence</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Commitment and Discipline</p>
