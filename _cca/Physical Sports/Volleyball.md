@@ -9,11 +9,13 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1rA7CNzw502cMxohIqboqdbk4WvhP9e9Y3sLPYeHGv7g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
-<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p><strong>VISION</strong>:<strong> What does the CCA want to achieve?&nbsp;</strong>
+</p>
 <p>To develop students who have a strong passion in sports and are life-long
 learners, driven by a strong sense of purpose &amp; responsibility and
 guided by core values.</p>
-<p><strong>MISSION</strong>: What does the CCA set out to do?</p>
+<p><strong>MISSION</strong>: <strong>What does the CCA set out to do?</strong>
+</p>
 <p>To inculcate a strong passion for the sport and to develop the students
 holistically.</p>
 <p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
