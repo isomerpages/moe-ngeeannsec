@@ -57,7 +57,8 @@ the parts of a digital DSLR camera and be able to operate a digital SLR.</p>
 that tell a story, and to present to members their works.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Understand intellectual property and make proper judgements to use their
@@ -78,7 +79,8 @@ a myriad of different creative pursuits.</p>
 and members of other CCA groups.</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Gain an understanding of their duties in the photography club. Gain personal
