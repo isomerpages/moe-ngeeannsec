@@ -49,7 +49,8 @@ VIA / School Open House etc.</p>
 etc.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Basic technical skills e.g. dig, set, spike.</p>
@@ -58,7 +59,8 @@ etc.</p>
 <p>Ability to play a proper 6 v 6 game (with rotation).</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Technical rules of the game.</p>
@@ -68,7 +70,8 @@ etc.</p>
 safety awareness, looking after their bodies etc.</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Commitment and resilience.</p>
