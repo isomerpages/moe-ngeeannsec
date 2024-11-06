@@ -9,12 +9,14 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1FW0k-MTzIIITn0Gpre2R7T7kJy8AsF-MMhZ8h77JJo4/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
-<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p><strong>VISION</strong>: <strong>What does the CCA want to achieve?&nbsp;</strong>
+</p>
 <p>Badminton players are confident and resilient.</p>
-<p><strong>MISSION</strong>: What does the CCA set out to do?</p>
+<p><strong>MISSION</strong>:<strong> What does the CCA set out to do?</strong>
+</p>
 <p>To instil in individuals the spirit of teamwork and tenacity.</p>
-<p><strong>LEARNING OUTCOMES</strong>: By the time the students leave the
-CCA, what characteristics do they exhibit?</p>
+<p><strong>LEARNING OUTCOMES</strong>:<strong> By the time the students leave the CCA, what characteristics do they exhibit?</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To work as a team.</p>
