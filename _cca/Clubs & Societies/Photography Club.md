@@ -139,7 +139,6 @@ ready to be deployed to take pictures at school events.</p>
 <p>Participated in <strong>STUDENT VISUAL STORYTELLING AWARDS by OBJECTIFS<br></strong>1st
 place, Student Photographer of the Year:<strong><br></strong>KAYLA LIM
 EN YI (Sec 2)</p>
-<p>&nbsp;</p>
 <p>Participated in <strong>OUR SCHOOLS, OUR STORIES by MOE</strong>
 </p>
 </td>
