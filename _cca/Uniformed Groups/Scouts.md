@@ -77,7 +77,8 @@ engage in the planning and execution of various tasks like campsite development
 and pioneering.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Pioneering</p>
@@ -89,7 +90,8 @@ and pioneering.</p>
 <p>Sports</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Understanding the Outdoors</p>
@@ -101,8 +103,13 @@ and pioneering.</p>
 <p>How to be a contributing member of the community</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form
-<br>Uphold Scouts Promise and Law</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Uphold Scouts Promise and Law</p>
+</li>
+</ol>
 <h3>PROGRESS AND ACHIEVEMENTS</h3>
 <table style="minWidth: 75px">
 <colgroup>
