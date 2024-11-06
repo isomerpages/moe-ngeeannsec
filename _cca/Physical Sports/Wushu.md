@@ -12,9 +12,11 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1PTHdnXUIf_pDQ3sKrK7Y-g3mJ1QyHHXWEq6Qz926uao/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
-<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p><strong>VISION</strong>:<strong> What does the CCA want to achieve?&nbsp;</strong>
+</p>
 <p>Every wushu student a champion (values, area of achievement).</p>
-<p><strong>MISSION</strong>: What does the CCA set out to do?</p>
+<p><strong>MISSION</strong>: <strong>What does the CCA set out to do?</strong>
+</p>
 <p>Nurture and develop athletes with character.</p>
 <p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
 </p>
