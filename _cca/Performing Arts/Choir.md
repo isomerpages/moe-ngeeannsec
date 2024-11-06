@@ -52,13 +52,15 @@ that are used to train their voice and develop their singing techniques.</p>
 and learn about the different cultures in which the songs were written.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To be able to sing in tune with other sections in Choir confidently</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>To be able to read music scores and understand the dynamics.</p>
@@ -68,7 +70,8 @@ and learn about the different cultures in which the songs were written.</p>
 Harmony, Timbre, Dynamics, Texture, and Form.</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Teamwork; discipline and commitment to trainings</p>
