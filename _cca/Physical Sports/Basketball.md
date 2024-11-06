@@ -9,9 +9,11 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1krHE4hMK3Vc4RiRR5zNV0_TgrTIZnSN-oGjovruJms8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
-<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p><strong>VISION: What does the CCA want to achieve?&nbsp;</strong>
+</p>
 <p>Discipline through Respect, Excellence through Resilience.</p>
-<p><strong>MISSION</strong>: What does the CCA set out to do?</p>
+<p><strong>MISSION</strong>: <strong>What does the CCA set out to do?</strong>
+</p>
 <p>Instilling discipline through respect, achieving sporting excellence through
 resilience.</p>
 <p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
