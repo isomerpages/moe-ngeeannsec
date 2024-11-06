@@ -66,7 +66,8 @@ sessions and participating in challenging activities and contributing to
 the school/nation.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Leadership: Command and execute drills.</p>
@@ -78,7 +79,8 @@ the school/nation.</p>
 <p>Challenge: Kayaking, Precision drills performance.</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Total Defence concepts</p>
@@ -90,7 +92,8 @@ the school/nation.</p>
 <p>SAF routines and daily roles</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Loyalty to country</p>
