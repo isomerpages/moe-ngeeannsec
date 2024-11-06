@@ -47,7 +47,8 @@ skills.</p>
 or media category per year.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Able to perform PA skills (projection and sound)</p>
@@ -59,7 +60,8 @@ or media category per year.</p>
 <p>Able to control drones</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Videography</p>
@@ -71,7 +73,8 @@ or media category per year.</p>
 <p>Artificial intelligence</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Punctuality</p>
