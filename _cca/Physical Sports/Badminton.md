@@ -21,14 +21,74 @@ variant: tiptap
 <li>
 <p>To work as a team.</p>
 </li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>To strengthen their individual skills to be a versatile player in Badminton.</p>
 </li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>To be able to strategize during competitions.</p>
+<p>To be able to strategise during competitions.</p>
 </li>
 </ol>
-<h3>Achievements and Accolades</h3>
+<p><strong>LEARNING INDICATORS: How do we know our students have learnt?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students show support for their teammates.</p>
+</li>
+<li>
+<p>Students show progress in skill level from Secondary 1 to Secondary 5.</p>
+</li>
+<li>
+<p>Students are able to vary their play depending on the opponents’ skills.</p>
+</li>
+</ol>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
+<p>The seven fundamental skills of badminton:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Grip - Back Hand/Forehand</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Stance - Attacking Stance/Defensive Stance/Net Stance</p>
+</li>
+<li>
+<p>Footwork - Move only 2-3 steps backward./Shuffle only 1 step sidewards./Move
+only 2-3 steps front</p>
+</li>
+<li>
+<p>Serve - High Serve/Low Serve</p>
+</li>
+<li>
+<p>Smash - Fore Hand Smash/Back Hand Smash/Jumping Smash</p>
+</li>
+<li>
+<p>Drop Shot</p>
+</li>
+<li>
+<p>Clear/Lob</p>
+</li>
+</ol>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students are able to vary their play depending on the opponents’ skills.</p>
+</li>
+</ol>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
+<p>Badminton is minimally a two-person sport. Playing against an opponent
+will not only help improve a player's game but also enables the player
+to cultivate good values such as fair play and sportsmanship. In case of
+doubles, a player gets a chance to partner up with another and learn the
+importance of teamwork.</p>
+<h3>PROGRESS AND ACHIEVEMENTS</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -39,12 +99,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2022</strong>
@@ -54,168 +109,192 @@ variant: tiptap
 <p><strong>2023</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BADMINTON (Boys) B Division</strong>
+<p><strong>Boys B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>4th</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>LEE
-JING YUAN (5C1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG:&nbsp; EAST ZONE <br></strong>3rd</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>TAN
-YI XUE (4R1)</p>
+<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br></strong><u>Sportsmanship Award</u><strong><br></strong>TAN
+YI XUE (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG:&nbsp; EAST ZONE <br></strong>4th</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>Preliminary Round<strong><br><br>NSG SPORTSMANSHIP AWARD</strong>
-<br>ONG ZE LIN, ISAAC (3R1)
-<br>EDISON YONG KAH SHENG (5C1)</p>
+<p><strong>NSG: NATIONALS<br></strong>Preliminary Round<strong><br></strong><u>Sportsmanship Award</u>
+<br>ONG ZE LIN, ISAAC (Sec 3)
+<br>EDISON YONG KAH SHENG (Sec 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: EAST ZONE</strong>
+<br>Quarter-finalist</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
+<p><u>Sportsmanship Award</u>
+<br>ONG ZE LIN, ISAAC (Sec 4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BADMINTON (Boys) C Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong><em>There were no NSG (EZ)</em>
-</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br>-</strong>
+<p><strong>Boys C Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>3rd</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br>-</strong>
+<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
+</p>
+<p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Quarter-finals</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>ZETH
-KUIK CHENG KAI (2C2)</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
+<p><u>Sportsmanship Award</u><strong><br></strong>ZETH KUIK CHENG KAI (2C2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG NATIONALS: LEAGUE 2</strong> 
+<br>Preliminary Round</p>
+<p><u>Sportsmanship Award</u>
+</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BADMINTON (Girls) B Division</strong>
+<p><strong>Girls B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>CHU
-JING MIN (4R5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Quarter-final</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>JOELLE
-ONG WEE TENG (4R3)</p>
+<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
+</p>
+<p><u>Sportsmanship Award</u><strong><br></strong>JOELLE ONG WEE TENG (Sec
+4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>4th</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>Preliminary Round<strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>WARDATUS
-SYIFA' BINTE MUHAMMAD RASHIDI (4C3)
-<br>TOH HSIN YIN (4R5)</p>
+<p><strong>NSG: NATIONALS<br></strong>Preliminary Round</p>
+<p><u>Sportsmanship Award</u><strong><br></strong>WARDATUS SYIFA' BINTE MUHAMMAD
+RASHIDI (Sec 4)
+<br>TOH HSIN YIN (Sec 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: EAST ZONE<br></strong>Quarter-finalist</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
+<p><u>Sportsmanship Award</u>
+<br>WUI JING XUAN KASIE (Sec 4)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BADMINTON (Girls) C Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong><em>There were no NSG (EZ)</em>
-</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br>-</strong>
+<p><strong>Girls C Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>-</p>
+<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
+</p>
+<p><u>Sportsmanship Award</u><strong><br></strong>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p></p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br>NSG SPORTSMANSHIP AWARD<br></strong>HEW
-YI XIN (2R3)</p>
+<p><strong>NSG: NATIONALS<br></strong>DNQ</p>
+<p><u>Sportsmanship Award</u><strong><br></strong>HEW YI XIN (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG NATIONALS: LEAGUE 2 <br></strong>Preliminary Round</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Days</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue
-<br>
+<td rowspan="1" colspan="1">
+<p><strong>CCA DAY</strong>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>One</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm - 6:00 pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multi-Purpose Hall</p>
+<p>MPH</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>There may be differentiated training time for different groups depending
+on NSG details.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p><strong>Two</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>3:00 pm - 6:00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Multi-Purpose Hall</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:00 pm - 5:00 pm</p>
+<p>1-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multi-Purpose Hall</p>
+<p>MPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>* There may be differentiated training time for different groups depending on NSG details</em>
-</p>
-<h3>CCA Teachers-in-charge</h3>
-<p>Ms Zhao Tong
-<br>Ms Norhayati Binte Othman
-<br>Ms Jacinta Yeo Soo Hua
-<br>Ms Toh Hui Min</p>
+<h3>CCA Teachers</h3>
+<p>Mdm. Zhao Tong (CCA Teacher-in-charge)
+<br>Mdm. Jacinta Yeo Soo Hua
+<br>Ms. Toh Hui Min</p>
