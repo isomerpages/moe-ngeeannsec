@@ -9,7 +9,8 @@ variant: tiptap
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1M3gN7sUsawcdBiBOTVnvZLmL3bUcwvXpde9RCsx8aYY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
-<p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p>
+<p><strong>VISION</strong>: <strong>What does the CCA want to achieve?&nbsp;</strong>
+</p>
 <p>The Singapore National Cadet Corps (NCC) is a world-class organization
 that nurtures responsible, resilient and resourceful cadets to become successful
 citizens.</p>
