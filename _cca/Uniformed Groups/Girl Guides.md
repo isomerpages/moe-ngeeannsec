@@ -33,7 +33,8 @@ them to make a lasting positive impact by helping others.</p>
 with vital leadership skills and making lifelong friendships.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Knotting and lashing</p>
@@ -46,7 +47,8 @@ with vital leadership skills and making lifelong friendships.</p>
 and the company)</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Body confidence</p>
@@ -58,7 +60,8 @@ and the company)</p>
 <p>Leadership</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Responsibility</p>
