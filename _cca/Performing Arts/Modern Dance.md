@@ -31,7 +31,8 @@ in a friendly, family-oriented atmosphere.</p>
 in many areas, both physically and mentally.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Be able to recognize Modern Dance elements in this form of dance style.</p>
@@ -61,7 +62,8 @@ action, spatial), expressive skills, mental skills (memory, concentration,
 confidence)</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Recognise safe practices during dance sessions.</p>
@@ -74,7 +76,8 @@ confidence)</p>
 performance.</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Collaborate with peers on various group tasks.</p>
