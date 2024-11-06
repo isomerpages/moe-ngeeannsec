@@ -70,7 +70,8 @@ of the band.</p>
 </ol>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>How to play an instrument</p>
@@ -82,7 +83,8 @@ of the band.</p>
 <p>Basic care of instrument</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Able to read music notes and scores</p>
@@ -94,7 +96,8 @@ of the band.</p>
 <p>Understand different levels of difficulty of pieces</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Shared love for music and performance</p>
