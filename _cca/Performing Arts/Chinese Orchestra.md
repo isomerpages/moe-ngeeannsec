@@ -171,10 +171,10 @@ School on 5 Apr 2024</p>
 <p>3.30-6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CD shelter</p>
-<p>Auditorium,</p>
-<p>C01-01 to 02</p>
-<p>C02-01 to 06</p>
+<p>CD shelter
+<br>Auditorium,
+<br>C01-01 to 02
+<br>C02-01 to 06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Full orchestral</p>
@@ -192,10 +192,10 @@ School on 5 Apr 2024</p>
 <p>2-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CD shelter</p>
-<p>Auditorium,</p>
-<p>C01-01 to 02</p>
-<p>C02-01 to 06</p>
+<p>CD shelter
+<br>Auditorium,
+<br>C01-01 to 02
+<br>C02-01 to 06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sectional practice</p>
