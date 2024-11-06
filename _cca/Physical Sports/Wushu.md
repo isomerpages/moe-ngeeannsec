@@ -31,19 +31,22 @@ variant: tiptap
 <p>Students will be lifelong learners for wushu.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Able to execute basic routines and their chosen styles.</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Of their chosen routines.</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Confidence</p>
