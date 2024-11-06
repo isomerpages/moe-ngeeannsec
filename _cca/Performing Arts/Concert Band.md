@@ -49,15 +49,15 @@ of the band.</p>
 </li>
 <li>
 <p>Effectively read music notes/scores.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Play songs of different musical genres and different levels of difficulty.</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Perform as a Band (Experience)</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Acquire experience in stage performance.</p>
 </li>
@@ -67,7 +67,7 @@ of the band.</p>
 <li>
 <p>Expose to a myriad leadership opportunities.</p>
 </li>
-</ol>
+</ul>
 </li>
 </ol>
 <p><strong>CCA-specific skills they can perform</strong>
