@@ -29,7 +29,8 @@ variant: tiptap
 <p>To plan and organise events, lead and mentor others effectively.</p>
 </li>
 </ol>
-<p>CCA-specific skills they can perform</p>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Conceptualise and produce video/live productions for school events.</p>
@@ -41,7 +42,8 @@ variant: tiptap
 <p>Characterisation and blocking related to productions.</p>
 </li>
 </ol>
-<p>CCA-specific knowledge they will acquire</p>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Spatial awareness (How to maximise the space they have with intention
@@ -54,7 +56,8 @@ and meaning).</p>
 <p>Improvisation.</p>
 </li>
 </ol>
-<p>CCA-specific attitudes they will form</p>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Confidence and pride in their work.</p>
