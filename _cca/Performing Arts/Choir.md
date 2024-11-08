@@ -5,4 +5,227 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/17jzuETZNcCFkhqO_FASercU5u1UlO6YpolYOhkxMYtI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><h3>About Us</h3><p><strong>VISION</strong>: What does the CCA want to achieve?&nbsp;</p><p>To promote a community in which choral music is accessible and appreciated by all.</p><p><strong>MISSION</strong>: What does the CCA set out to do?</p><p>To provide all Choir members with the opportunity to be exposed to music of various cultures and languages.</p><p><strong>LEARNING OUTCOMES</strong>: By the time the students leave the CCA, what characteristics do they exhibit?</p><ol data-tight="true" class="tight"><li><p>To provide students with exposure to performance opportunities and concert etiquette.</p></li><li><p>To understand how the vocal cords function.</p></li><li><p>To expose students to different music genres and cultures.</p></li></ol><h3>Achievements and Accolades</h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>2021</strong></p></td><td rowspan="1" colspan="1"><p><strong>2022</strong></p></td><td rowspan="1" colspan="1"><p><strong>2023</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Choir</strong></p></td><td rowspan="1" colspan="1"><p><strong>SYF-AP<br></strong><em>No distinguishing element given for the year</em></p></td><td rowspan="1" colspan="1"><p><em>There was no SYF-AP</em></p></td><td rowspan="1" colspan="1"><p><strong>SYF-AP<br></strong>Accomplishment</p></td></tr></tbody></table><h3>Schedule</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Days</p></th><th rowspan="1" colspan="1"><p>Time</p></th><th rowspan="1" colspan="1"><p>Venue</p></th></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="1"><p>3:30 pm - 5:45 pm</p></td><td rowspan="1" colspan="1"><p>C03-15 to 17 (SR1-3)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Friday<br>(Main session)</p></td><td rowspan="1" colspan="1"><p>2:00 pm - 4:45 pm</p></td><td rowspan="1" colspan="1"><p>C03-15 to 17 (SR1-3)</p></td></tr></tbody></table><h3>CCA Teachers-in-charge</h3><p>Mrs Wee-Ho Gim Hui<br>Ms Cheng Pei Boon Stephanie<br>Mr Timothy Ho Yuan Shun</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/17jzuETZNcCFkhqO_FASercU5u1UlO6YpolYOhkxMYtI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>About Us</h3>
+<p><strong>VISION</strong>: <strong>What does the CCA want to achieve?&nbsp;</strong>
+</p>
+<p>To promote a community in which choral music is accessible and appreciated
+by all.</p>
+<p><strong>MISSION</strong>: <strong>What does the CCA set out to do?</strong>
+</p>
+<p>To provide all Choir members with the opportunity to be exposed to music
+of various cultures and languages.</p>
+<p><strong>LEARNING OUTCOMES: By the time the students leave the CCA, what characteristics do they exhibit?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To exhibit socio0emotional competencies and emerging 21<sup>st</sup> century
+competencies at different phases of their time in Choir.</p>
+</li>
+<li>
+<p>To be passionate and taking pride in singing with confidence.</p>
+</li>
+</ol>
+<p><strong>LEARNING INDICATORS: How do we know our students have learnt?</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students get the opportunity to perform at different platforms such as
+SYF(AP), Tapestry, inter-school competitions, school concerts and external
+performances.</p>
+</li>
+<li>
+<p>Students to attend master class (workshop) to further hone their choral
+vocal techniques.</p>
+</li>
+<li>
+<p>Section Leaders are able to lead sectionals confidently</p>
+</li>
+<li>
+<p>Students are given exposure to the different types of vocal exercises
+that are used to train their voice and develop their singing techniques.</p>
+</li>
+<li>
+<p>Students are given opportunities to learn songs in different languages
+and learn about the different cultures in which the songs were written.</p>
+</li>
+</ol>
+<p><strong>CCA-specific skills they can perform</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To be able to sing in tune with other sections in Choir confidently</p>
+</li>
+</ol>
+<p><strong>CCA-specific knowledge they will acquire</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To be able to read music scores and understand the dynamics.</p>
+</li>
+<li>
+<p>To have the knowledge of the SEVEN elements of music: Rhythm, Melody,
+Harmony, Timbre, Dynamics, Texture, and Form.</p>
+</li>
+</ol>
+<p><strong>CCA-specific attitudes they will form</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Teamwork; discipline and commitment to trainings</p>
+</li>
+<li>
+<p>Responsible to memorise their lines in preparation for each piece of work</p>
+</li>
+<li>
+<p>Be confident and take pride as a Choir member</p>
+</li>
+</ol>
+<h3>PROGRESS AND ACHIEVEMENTS</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>SYF-AP<br></strong>Accomplishment</p>
+<p><strong>SCHOOL PERFORMANCES<br></strong>Chinese New Year Concert
+<br>Founders’ Day Performance
+<br>National Day Concert
+<br>Teachers’ Day Concert
+<br>Open House Performance</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOL PERFORMANCES<br></strong>Chinese New Year Concert
+<br>Founders’ Day Performance
+<br>National Day Concert
+<br>Teachers’ Day Concert
+<br>Open House Performance</p>
+<p><strong>PUBLIC PERFORMANCE</strong>
+<br>365 Cancer Prevention Society: Bloom for Hope at Our Tampines Hub on 02
+Mar 2024</p>
+<p><strong>SPECIAL PERFORMANCE</strong>
+<br>Euphony: A Joint Performance Between Choir and Concert Band at our school
+on 04 Nov 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Schedule</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA DAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>One</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-4.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SR1-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30-5.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SR1-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>CCA Teachers</h3>
+<p>Mrs. Wee-Ho Gim Hui (CCA Teacher-in-charge)
+<br>Mdm. Cheng Pei Boon Stephanie
+<br>Mr. Ho Yuan Shun Timothy</p>

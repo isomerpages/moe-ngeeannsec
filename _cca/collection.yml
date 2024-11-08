@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - CCA@NAS.md
-      - Sports/.keep
-      - Sports/Basketball.md
-      - Sports/Volleyball.md
-      - Sports/Wushu.md
-      - Sports/Badminton.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Volleyball.md
+      - Physical Sports/Wushu.md
+      - Physical Sports/Badminton.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps (Land).md
@@ -26,4 +26,4 @@ collections:
       - Clubs & Societies/International Chess.md
       - Clubs & Societies/Robotics.md
       - Clubs & Societies/Photography Club.md
-      - Clubs & Societies/Infocomm Technology (Media Productions).md
+      - Clubs & Societies/Information Technology (Media Productions).md
