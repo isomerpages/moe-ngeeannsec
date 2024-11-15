@@ -30,7 +30,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Md Ismail Jakbar</p>
+<p>Ms Tan Lee Sun Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenny Chua Bee Kim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -49,7 +57,15 @@ variant: tiptap
 <p>Mr Muhamad Syafiq Bin Muhamad Siraj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Patricia Cruz Ngan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +73,7 @@ variant: tiptap
 <p>Mr Ahmad Hussein Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -86,14 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ramni Binti Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Salbiaya Bte Said</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hajarah Bibi DO Mirzaman</p>
+<p>Mdm Nadirah Bte Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education Support Assistant</p>
@@ -153,7 +161,7 @@ variant: tiptap
 <p>Mr Mohd Noor Bin Eusop B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Contract Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Haikal Bin Sukhaimi</p>
+<p>Mdm Siti Aryanty Bte Jorhari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-based ICT Executive</p>
@@ -207,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Omega Tan Wen Jie</p>
+<p>Ms Nur Nashira Nadeem Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-based ICT Executive</p>
