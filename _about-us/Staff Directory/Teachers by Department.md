@@ -129,14 +129,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Yeh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Art (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Yong Han Derrick</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -511,22 +503,6 @@ variant: tiptap
 <p>Teacher / Maths</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Huiying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Math (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pong Biau Choon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Math (FAJT)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>MOTHER TONGUE LANGUAGES</h3>
@@ -644,26 +620,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoo Liew Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / CL (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lian Bee San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / CL (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Julinda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / ML (FAJT)</p>
 </td>
 </tr>
 </tbody>
@@ -890,14 +850,6 @@ variant: tiptap
 <p>Teacher / Chemistry (FAJT)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Dai Mei Debbie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Science (FAJT)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>STUDENT SUPPORT</h3>
@@ -969,14 +921,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fatimah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Worker</p>
 </td>
 </tr>
 <tr>
