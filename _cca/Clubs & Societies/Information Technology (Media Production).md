@@ -1,5 +1,5 @@
 ---
-title: Information Technology (Media Productions)
+title: Information Technology (Media Production)
 permalink: /co-curriculum/cca/information-technology/
 description: ""
 third_nav_title: Clubs & Societies
@@ -11,60 +11,66 @@ variant: tiptap
 <h3>About Us</h3>
 <p><strong>VISION: What does the CCA want to achieve?&nbsp;</strong>
 </p>
-<p>Media members will have acquired the necessary skills and competencies
-in the tech and media categories.</p>
+<p>To inspire students to harness the power of technology to contribute to
+school and reach out to the communities by transferring their knowledge.</p>
 <p><strong>MISSION: What does the CCA set out to do?</strong>
 </p>
-<p>To provide the opportunity for students to be involved in videography
-and setting up of audio-visual systems to support school-wide events and
-activities.</p>
+<p>The CCA aims to nurture confident, skilled, and ethical digital creators
+and communicators through creating opportunities for the members to explore
+and master the latest in infocomm technology, digital media, and content
+creation.</p>
 <p><strong>LEARNING OUTCOMES</strong>: <strong>By the time the students leave the CCA, what characteristics do they exhibit?</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Able in managing public announcement system in support of internal school
-events with guidance from teachers and technical assistant.</p>
+<p>Having a strong foundation in core digital skills, they will confidently
+navigate and utilise various digital tools and platforms, adapting to new
+technologies with ease.</p>
 </li>
 <li>
-<p>Understand audio-visual systems and videography skills.</p>
+<p>Students will demonstrate creativity in their approach to problem-solving,
+exploring innovative solutions to complex challenges.</p>
 </li>
 <li>
-<p>Able to develop a passion for learning and leading others.</p>
+<p>Students will possess strong teamwork and communication skills, having
+worked with peers in various roles to complete projects and will understand
+the importance of each role in a collaborative environment.</p>
 </li>
 </ol>
 <p><strong>LEARNING INDICATORS How do we know our students have learnt?</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Able to support school and public events with their Public Address (PA)
-skills.</p>
+<p>Students are able to handle audio-visual equipment during morning assembly
+and school events and troubleshoot technical issues.</p>
 </li>
 <li>
-<p>Able to carry out a VIA activity as active contributors to the community.</p>
+<p>Students participate in various video and content creation competitions
+and tech related competitions.</p>
 </li>
 <li>
-<p>Able to participate and complete in at least 1 competition in the tech
-or media category per year.</p>
+<p>Students impart their tech-media related knowledge to communities such
+as seniors and children.</p>
 </li>
 </ol>
 <p><strong>CCA-specific skills they can perform</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Able to perform PA skills (projection and sound)</p>
+<p>Able to handle audio-visual equipment and troubleshoot</p>
 </li>
 <li>
-<p>Able to edit videos</p>
+<p>Able to create and edit videos</p>
 </li>
 <li>
-<p>Able to control drones</p>
+<p>Able to use AI tools and use drones</p>
 </li>
 </ol>
 <p><strong>CCA-specific knowledge they will acquire</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Videography</p>
+<p>Content creation</p>
 </li>
 <li>
 <p>Cybersecurity</p>
@@ -77,13 +83,13 @@ or media category per year.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Punctuality</p>
+<p>Adaptability</p>
 </li>
 <li>
-<p>Responsibility</p>
+<p>Predisposed to collaboration</p>
 </li>
 <li>
-<p>Commitment</p>
+<p>Awareness of the community</p>
 </li>
 </ol>
 <h3>PROGRESS AND ACHIEVEMENTS</h3>
@@ -116,9 +122,12 @@ or media category per year.</p>
 </p>
 <p>Participated in <strong>BETTER INTERNET VIDEO CHALLENGE by YISHUN INNOVA JUNIOR COLLEGE</strong>
 </p>
-<p>Participated in</p>
-<p><strong>DIGITAL FOR LIFE YOUTH AWARDS by INFOCOMM MEDIA DEVELOPMENT AUTHORITY (IMDA)</strong>
+<p>Participated in
+<br><strong>DIGITAL FOR LIFE YOUTH AWARDS by INFOCOMM MEDIA DEVELOPMENT AUTHORITY (IMDA)</strong>
 </p>
+<p>Participated in <strong>INFOCOMM MEDIA CLUB YOUTH AWARD by IMDA</strong>
+<br>Tech Category: Commendation
+<br>Media Category: Commendation</p>
 <p>Participated in <strong>DRUGFREESG VIDEO COMPETITION by CENTRAL NARCOTICS BUREAU (CNB)</strong>
 </p>
 <p>Participated in <strong>SERVICE SOCIAL MEDIA CONTEST by IMDA</strong>
@@ -129,8 +138,8 @@ or media category per year.</p>
 </p>
 <p>Participated in <strong>OUR SCHOOLS, OUR STORIES VIDEO COMPETITION by MOE</strong>
 </p>
-<p>02 presenters at <strong>SERVE UP EMERGING TECH by IMDA</strong>
-</p>
+<p>Winner in <strong>SERVE UP EMERGING TECH by IMDA</strong>
+<br>“Unleash Your Inner Designer” Category</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,6 +160,9 @@ or media category per year.</p>
 <br>
 </p>
 <p>Participated in <strong>INTEL® AI GLOBAL IMPACT FESTIVAL</strong>
+</p>
+<p></p>
+<p>Participated in <strong>AMAZON WEB SERVICES (AWS) DEEPRACER by REPUBLIC POLYTECHNIC</strong>
 </p>
 </td>
 </tr>
@@ -197,7 +209,7 @@ or media category per year.</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-6pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Comp Lab 1 &amp; 2</p>
@@ -215,7 +227,7 @@ or media category per year.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-6pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Comp Lab 1 &amp; 2</p>
@@ -234,7 +246,7 @@ or media category per year.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-6pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Comp Lab 1 &amp; 2</p>
