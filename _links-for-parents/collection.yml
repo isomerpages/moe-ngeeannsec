@@ -2,7 +2,6 @@ collections:
   links-for-parents:
     output: true
     order:
-      - Personal Data Protection Act.md
       - Sec 1 Posting for 2024/.keep
       - Sec 1 Posting for 2024/Sec 1 Registration Exercise (2024 Intake).md
       - Sec 1 Posting for 2024/PG Notifications & Sec 1 Registration Briefing.md
@@ -16,3 +15,4 @@ collections:
       - Release of 2023 GCE O–Level Examination Results.md
       - Release of 2023 GCE N–Level Examination Results.md
       - Personal Learning Devices (PLD).md
+      - Personal Data Protection Act.md
