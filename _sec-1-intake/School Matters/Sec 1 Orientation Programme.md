@@ -60,6 +60,6 @@ skills training.</p>
 <p>You will receive more detailed information about geNASis during the Secondary
 1 Registration Briefing over Zoom on Thursday 19 December 2024.</p>
 <p>To facilitate the planning of the programme, we will extract your child/ward’s
-dietary needs from your response to our <em><u>online registration form (TBD)</u></em>.</p>
+dietary needs from your response to our <em><u>online registration form(TBD)</u></em>.</p>
 <p>Information about your child/ward’s medical history will be extracted
 from his/her Individual Student Details Report on the MOE database.</p>
