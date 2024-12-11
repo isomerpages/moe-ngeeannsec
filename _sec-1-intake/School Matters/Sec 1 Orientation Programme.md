@@ -9,7 +9,7 @@ We have organised a series of orientation activities to ease our Secondary 1 stu
   
 The Secondary 1 Orientation Programme, geNASis, aims to integrate your child/ward with the Ngee Ann family and help him/her to establish new friendships with his/her peers. 
 
-All Secondary 1 students will experience the orientation programme in the form of a 3-day, 1-night camp held from 3-5 January 2024. It will include class bonding activities, a school tour, a Ngee Ann Heritage Tour and leadership skills training. 
+All Secondary 1 students will experience the orientation programme in the form of a 2-day camp held from 2-3 January 2025. It will include class bonding activities, a school tour, a Ngee Ann Heritage Tour and leadership skills training.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
