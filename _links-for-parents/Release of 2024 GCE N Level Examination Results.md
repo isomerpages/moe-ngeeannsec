@@ -41,7 +41,7 @@ your child/ward:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http
 students</p>
 </li>
 <li>
-<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<a href="/files/GCE N Levels Results 2024/4b__DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">Factsheet</a><u> </u>for
+<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<a href="/files/GCE N Levels Results 2024/4b__DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">Factsheet</a> for
 students</p>
 </li>
 <li>
