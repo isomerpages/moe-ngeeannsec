@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Sec 1 Registration Briefing
 variant: markdown
 ---
-We will conduct a **Secondary 1 Registration Briefing** for all Sec 1 students and their parents/guardians on **Thursday** **21 December 2023, from 1pm – 2.30pm**.
+We will conduct a **Secondary 1 Registration Briefing** for all Sec 1 students and their parents/guardians on **Thursday** **19 December 2024, from 1pm – 2.30pm**.
 
-The briefing will take place online, in the form of a Zoom webinar. We will use Parents Gateway (PG) to send the Zoom webinar link and passcode to you **on Wednesday 20 December 2023, by 7pm**.
+The briefing will take place online, in the form of a Zoom webinar. We will use Parents Gateway (PG) to send the Zoom webinar link and passcode to you **on Wednesday 18 December 2024, by 7pm**.
 
-**Parents/guardians who are not registered on Parents Gateway (PG)** will receive the Zoom webinar link and passcode via the personal email address that you state in your response to our [online registration form](https://form.gov.sg/6554c5d94833110012f97115).
+**Parents/guardians who are not registered on Parents Gateway (PG)** will receive the Zoom webinar link and passcode via the personal email address that you state in your response to our online registration form (TBD).
 
 **All Secondary 1 students and their parents/guardians are required to attend the briefing, as part of the registration process.** Please refer to the programme below.
 
