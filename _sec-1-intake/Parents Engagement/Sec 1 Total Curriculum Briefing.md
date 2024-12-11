@@ -7,6 +7,6 @@ variant: markdown
 ---
 In Ngee Ann Secondary School, we believe in providing a holistic education for your child/ward. The school also believes in working closely with parents/guardians to provide support and guidance to our students. 
 
-As such, there will be a session for you to learn more about our school’s **Total Curriculum on Friday 12 January 2024 from 6.30pm – 8.00pm.** 
+As such, there will be a session for you to learn more about our school’s **Total Curriculum (TBD)* 
 
-Details about this session will be sent via Parents Gateway on Friday 5 January 2024.
+Details about this session will be sent via Parents Gateway (TBD).
