@@ -20,9 +20,9 @@ sections:
         - title: Sec 1 Registration Exercise (2024)
           description: Click here to Register!
           url: /links-for-parents/sec-1-posting-for-2024/sec-1-registration-exercise-2024-intake/
-        - title: Release of 2023 GCE N–Level Examination Results
-          description: 18 December 2023, 2 pm
-          url: /links-for-parents/release-of-2023-gce-n-level-examination-results/
+        - title: Release of 2024 GCE N–Level Examination Results
+          description: 16 December 2024, 2 pm
+          url: /links-for-parents/release-of-2024-gce-n-level-examination-results/
       variant: center
       button: NAS Open House 2024
       url: nas-open-house-2024
