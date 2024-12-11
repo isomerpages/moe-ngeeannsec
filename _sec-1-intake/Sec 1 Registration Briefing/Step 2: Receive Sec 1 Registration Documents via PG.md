@@ -21,7 +21,7 @@ d)&nbsp;&nbsp;&nbsp;Malay Special Programme
 
 **Parents/guardians who are <u>not registered</u> on Parents Gateway (PG)** will receive the documents above via the personal email address that you state in your response to our [online registration form](https://form.gov.sg/6554c5d94833110012f97115), if your child/ward is eligible.
 
-**After 7pm on 20 December 2023,** please email the school at [nass@moe.edu.sg](mailto:nass@moe.edu.sg) if you are:
+**After 7pm on 18 December 2024,** please email the school at [nass@moe.edu.sg](mailto:nass@moe.edu.sg) if you are:
 
 - **registered** on PG but **did not receive any PG notifications** from the school by 7pm **OR**
 - **not** **registered** on PG and **did not receive an email** from the school by 7pm.
