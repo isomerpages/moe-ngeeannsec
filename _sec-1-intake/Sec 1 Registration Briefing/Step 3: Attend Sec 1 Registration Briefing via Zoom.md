@@ -3,66 +3,132 @@ title: "Step 3: Attend Sec 1 Registration Briefing via Zoom"
 permalink: /links-for-parents/sec-1-posting-for-2024/step-3-attend-sec-1-registration-briefing-via-zoom/
 description: ""
 third_nav_title: Sec 1 Registration Briefing
-variant: markdown
+variant: tiptap
 ---
-We will conduct a **Secondary 1 Registration Briefing** for all Sec 1 students and their parents/guardians on **Thursday** **21 December 2023, from 1pm – 2.30pm**.
-
-The briefing will take place online, in the form of a Zoom webinar. We will use Parents Gateway (PG) to send the Zoom webinar link and passcode to you **on Wednesday 20 December 2023, by 7pm**.
-
-**Parents/guardians who are not registered on Parents Gateway (PG)** will receive the Zoom webinar link and passcode via the personal email address that you state in your response to our [online registration form](https://form.gov.sg/6554c5d94833110012f97115).
-
-**All Secondary 1 students and their parents/guardians are required to attend the briefing, as part of the registration process.** Please refer to the programme below.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-1niu{background-color:#F1EEFC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-par1{background-color:#473789;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-o395{background-color:#F1EEFC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-par1">Time (hrs)</th>
-    <th class="tg-par1">Programme</th>
-    <th class="tg-par1">Speaker</th>
-  </tr>
-</thead>
+<p>We will conduct a <strong>Secondary 1 Registration Briefing</strong> for
+all Sec 1 students and their parents/guardians on <strong>Thursday</strong>  <strong>19 December 2024, from 1pm – 2.30pm</strong>.</p>
+<p>The briefing will take place online, in the form of a Zoom webinar. We
+will use Parents Gateway (PG) to send the Zoom webinar link and passcode
+to you <strong>on Wednesday 18 December 2024, by 7pm</strong>.</p>
+<p><strong>Parents/guardians who are not registered on Parents Gateway (PG)</strong> will
+receive the Zoom webinar link and passcode via the personal email address
+that you state in your response to our <em><u>online registration form (TBD)</u></em>.</p>
+<p><strong>All Secondary 1 students and their parents/guardians are required to attend the briefing, as part of the registration process.</strong> Please
+refer to the programme below.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-o395">1300 – 1310</td>
-    <td class="tg-o395">Welcome &amp; Introductions<br><span style="color:#000">by Assistant Year Head (Sec 1)</span></td>
-    <td class="tg-1niu"><span style="color:#000">Ms Teo Yao Lu</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf">1310 – 1320</td>
-    <td class="tg-l2bf">Key Message by the Principal</td>
-    <td class="tg-tsok"><span style="color:#000">Ms Poh Shi Hui</span></td>
-  </tr>
-  <tr>
-    <td class="tg-o395">1320 – 1345</td>
-    <td class="tg-o395">School Matters<br><span style="color:#000">by Assistant Year Head (Sec 1)</span></td>
-    <td class="tg-1niu"><span style="color:#000">Ms Teo Yao Lu</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf">1345 – 1355</td>
-    <td class="tg-l2bf">Parent Support Group (PSG)<br><span style="color:#000">by Chairperson, PSG</span></td>
-    <td class="tg-tsok"><span style="color:#000">Mdm Lim Beng Choon</span></td>
-  </tr>
-  <tr>
-    <td class="tg-o395">1355 – 1415</td>
-    <td class="tg-o395">Sec 1 Orientation Programme<br><span style="color:#000">by Assistant Year Head (Sec 1)</span></td>
-    <td class="tg-1niu"><span style="color:#000">Ms Teo Yao Lu</span></td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf">1415 – 1430</td>
-    <td class="tg-l2bf"><span style="color:#000">Briefing on</span> Subject-Based Banding<br><span style="color:#000">(for</span> all <span style="color:#000">Sec 1 Students)</span></td>
-    <td class="tg-tsok"><span style="color:#000">Mdm Teresa Ong</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time (hrs)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Speaker</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1300 – 1310</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Welcome &amp; Introductions</strong>
+<br>by Assistant Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1310 – 1320</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Message by the Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Poh Shi Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1320 – 1355</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Matters &amp; Orientation Programme</strong>
+<br>by Assistant Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1355 – 1405</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Parent Support Group (PSG)</strong>
+<br>by Chairperson, PSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Beng Choon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1405 – 1415</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Purchase of Personal Learning Device (iPad) (10 Mins)</strong>
+<br>by HOD Ed Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Liu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1415 – 1430</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing on <strong>Subject-Based Banding</strong>
+<br>(for <strong>all</strong> Sec 1 Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teresa Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1430 – 1445</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Q&amp;A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA (CCA)
+<br>HOD MTL (3rd lang, MTL)
+<br>HOD Science (PACE)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
