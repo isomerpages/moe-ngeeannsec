@@ -12,7 +12,7 @@ sections:
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Release of 2024 GCE N–Level Examination Results
-          description: 16 December 2025, 2 pm
+          description: 16 December 2024, 2 pm
           url: /links-for-parents/release-of-2024-gce-n-level-examination-results/
         - title: Direct School Admission (DSA) Exercise 2024
           description: Click here for more info!
