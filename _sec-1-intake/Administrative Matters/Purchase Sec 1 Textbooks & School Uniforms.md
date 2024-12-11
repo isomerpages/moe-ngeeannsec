@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### If eligible for Subject-Based Banding (SBB):
 
-Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u><b>after</b></u> attending the **Sec 1 Registration Briefing** on Thursday 21 December 2023. 
+Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u><b>after</b></u> attending the **Sec 1 Registration Briefing** on Thursday 19 December 2024. 
 
 The information shared during the briefing will help you to make a more informed decision about whether to accept or reject the SBB offer. The decision you make will then affect the list of school textbooks that you need to purchase.
 
@@ -15,13 +15,13 @@ The information shared during the briefing will help you to make a more informed
 
 ### Sale of school uniforms and textbooks
 
-**The sale of school uniforms and textbooks for Sec 1 Students will begin on Thursday 21 December 2023.**
+**The sale of school uniforms and textbooks for Sec 1 Students will begin on Thursday 19 December 2024.**
 
 Please **[click here to download Annex A](/files/Sec1%20Intake%20page%20Files/Annex_A_1_Dec_2023.pdf)** for more details on:
 
 -	Options for Purchase of School Uniforms and Textbooks
--	2024 Secondary 1 Booklists
--	2024 School Uniform Sizing Guide
+-	2025 Secondary 1 Booklists
+-	2025 School Uniform Sizing Guide
 -	User Guide for the Online Purchase of School Uniforms
 -	User Guide for the Online Purchase of Textbooks
 
@@ -42,7 +42,7 @@ Visitors who are unwell should not enter the school and should reschedule your a
 
 
 
-### When referring to the Sec 1 Booklist 2024, please note the codes below
+### When referring to the Sec 1 Booklist 2025, please note the codes below
 
 -	**Posting Group 3:** purchase **G3** books for all subjects
 
