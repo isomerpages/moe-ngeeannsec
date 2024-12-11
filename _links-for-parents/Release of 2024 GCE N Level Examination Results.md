@@ -37,14 +37,15 @@ your child/ward:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http
 </p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP)&nbsp;<u>Factsheet</u> for students</p>
-</li>
-<li>
-<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<u>Factsheet&nbsp;</u>for
+<p>Polytechnic Foundation Programme (PFP)&nbsp;<a href="/files/GCE N Levels Results 2024/3b__PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Factsheet</u></a> for
 students</p>
 </li>
 <li>
-<p><a href="https://ngeeannsec.moe.edu.sg/qql/slot/u510/2021%20N%20level%20results/Letter%20of%20Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>&nbsp;(Appointment
+<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<a href="/files/GCE N Levels Results 2024/4b__DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">Factsheet</a><u> </u>for
+students</p>
+</li>
+<li>
+<p><a href="/files/GCE N Levels Results 2024/Proxy_Letter.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation</a>&nbsp;(Appointment
 of proxy for school candidates who are unable to collect their results
 in person)</p>
 </li>
