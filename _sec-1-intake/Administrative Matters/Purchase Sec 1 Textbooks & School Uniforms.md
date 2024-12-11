@@ -17,7 +17,7 @@ The information shared during the briefing will help you to make a more informed
 
 **The sale of school uniforms and textbooks for Sec 1 Students will begin on Thursday 19 December 2024.**
 
-Please **[click here to download Annex A](/files/Sec1%20Intake%20page%20Files/Annex_A_1_Dec_2023.pdf)** for more details on:
+Please ***click here to download Annex A*** for more details on:
 
 -	Options for Purchase of School Uniforms and Textbooks
 -	2025 Secondary 1 Booklists
