@@ -25,15 +25,15 @@ do so before 16 Dec.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Social and Emotional Learning Resources for Parents/Guardians to support
-your child/ward:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+your child/ward:&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
 </li>
 <li>
-<p>What’s Next Pamphlet:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+<p>What’s Next Pamphlet:&nbsp;<a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
 </li>
 <li>
-<p>My Skills Future Student Portal:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+<p>My Skills Future Student Portal:&nbsp;<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 </li>
 <li>
