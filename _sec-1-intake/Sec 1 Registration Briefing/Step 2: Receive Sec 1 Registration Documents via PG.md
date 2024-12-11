@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Sec 1 Registration Briefing
 variant: markdown
 ---
-**We will use Parents Gateway (PG) to send the items below to parents/guardians of Secondary 1 students on Wednesday 20 December 2023, by 7pm.**
+**We will use Parents Gateway (PG) to send the items below to parents/guardians of Secondary 1 students on Wednesday 18 December 2024, by 7pm.**
 
 a)&nbsp;&nbsp;**Only for eligible Posting Group 3 students:**<br>
 Letter to Offer Higher Chinese/ Malay / Tamil Language<br>
 b)&nbsp;&nbsp;**For eligible Posting Group 1 / Posting Group 2 students:**<br>
 Offer Letter for Subject-Based Banding (SBB)
 
-**Students who are eligible to offer the following subjects will receive a phone call from our Head of Department for Mother Tongue Languages on Wednesday 20 December 2023:**
+**Students who are eligible to offer the following subjects will receive a phone call from our Head of Department for Mother Tongue Languages on Wednesday 18 December 2024:**
 
 a)&nbsp;&nbsp;&nbsp;Higher Tamil Language<br>
 b)&nbsp;&nbsp;&nbsp;Third Language<br>
