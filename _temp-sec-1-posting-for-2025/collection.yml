@@ -2,6 +2,7 @@ collections:
   temp-sec-1-posting-for-2025:
     output: true
     order:
+      - School Matters.md
       - Administrative Matters.md
       - PG Notifications & Sec 1 Registration Briefing.md
       - Sec 1 Registration Exercise (2025 Intake).md
