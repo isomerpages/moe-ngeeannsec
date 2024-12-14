@@ -2,7 +2,6 @@
 title: Administrative Matters
 permalink: /links-for-parents/sec-1-posting-for-2024/administrative-matters/
 description: ""
-third_nav_title: Sec 1 Posting for 2025
 variant: markdown
 ---
 * [Purchase Sec 1 Textbooks & School Uniforms](/links-for-parents/sec-1-posting-for-2024/administrative-matters/purchase-textbooks-n-uniforms/)

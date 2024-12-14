@@ -2,7 +2,6 @@
 title: Sec 1 Registration Exercise (2025 Intake)
 permalink: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
 description: ""
-third_nav_title: Sec 1 Posting for 2025
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

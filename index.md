@@ -14,9 +14,6 @@ sections:
         - title: Release of 2024 GCE N–Level Examination Results
           description: 16 December 2024, 2 pm
           url: /release-of-2024-gce-n-level-examination-results/
-        - title: Sec 1 Registration Exercise (2025)
-          description: Click here to Register!
-          url: /links-for-parents/sec-1-posting-for-2024/sec-1-registration-exercise-2025-intake/
         - title: Direct School Admission (DSA) Exercise 2024
           description: Click here for more info!
           url: direct-school-admission-dsa-exercise-2024/
