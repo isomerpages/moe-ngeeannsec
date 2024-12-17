@@ -6,7 +6,7 @@ third_nav_title: Sec 1 Registration Briefing
 variant: tiptap
 ---
 <p>We will conduct a <strong>Secondary 1 Registration Briefing</strong> for
-all Sec 1 students and their parents/guardians on <strong>Thursday</strong>  <strong>19 December 2024, from 1pm – 2.30pm</strong>.</p>
+all Sec 1 students and their parents/guardians on <strong>Thursday</strong>  <strong>19 December 2024, from 1300 – 1445 hrs</strong>.</p>
 <p>The briefing will take place online, in the form of a Zoom webinar. We
 will use Parents Gateway (PG) to send the Zoom webinar link and passcode
 to you <strong>on Thursday 19 December 2024, by 8am</strong>.</p>
