@@ -15,7 +15,7 @@ sections:
           description: Click here for more info!
           url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
         - title: Appeal for Transfer
-          description: Click here for more info!
+          description: Only for 2025 Sec 1 Intake
           url: /appeal-for-transfer-to-ngee-ann-sec/
         - title: Release of 2024 GCE N–Level Examination Results
           description: 16 December 2024, 2 pm
