@@ -124,9 +124,7 @@ refer to the programme below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE/CCA (CCA)
-<br>HOD MTL (3rd lang, MTL)
-<br>HOD Science (PACE)</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
