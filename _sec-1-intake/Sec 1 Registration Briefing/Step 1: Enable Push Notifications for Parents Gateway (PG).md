@@ -1,6 +1,6 @@
 ---
 title: "Step 1: Enable Push Notifications for Parents Gateway (PG)"
-permalink: /links-for-parents/sec-1-posting-for-2024/step-1-enable-push-notifications-for-parents-gateway-pg/
+permalink: /sec-1-intake/sec-1-registration/step-1-enable-push-notifications-for-parents-gateway-pg/
 description: ""
 third_nav_title: Sec 1 Registration Briefing
 variant: markdown

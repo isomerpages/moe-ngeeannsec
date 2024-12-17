@@ -11,15 +11,15 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
+        - title: Sec 1 Posting For 2025
+          description: Click here for more info!
+          url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
+        - title: Appeal for Transfer
+          description: Only for 2025 Sec 1 Intake
+          url: /appeal-for-transfer-to-ngee-ann-sec/
         - title: Release of 2024 GCE N–Level Examination Results
           description: 16 December 2024, 2 pm
           url: /release-of-2024-gce-n-level-examination-results/
-        - title: Direct School Admission (DSA) Exercise 2024
-          description: Click here for more info!
-          url: direct-school-admission-dsa-exercise-2024/
-        - title: Release of 2023 GCE O–Level Examination Results
-          description: 11 January 2024, 2 pm
-          url: /links-for-parents/release-of-2023-gce-o-level-examination-results/
       variant: center
       button: NAS Open House 2024
       url: nas-open-house-2024

@@ -1,13 +1,13 @@
 ---
 title: Purchase Sec 1 Textbooks & School Uniforms
-permalink: /links-for-parents/sec-1-posting-for-2024/administrative-matters/purchase-textbooks-n-uniforms/
+permalink: /sec-1-intake/administrative-matters/purchase-textbooks-n-uniforms/
 description: ""
 third_nav_title: Administrative Matters
 variant: markdown
 ---
 ### If eligible for Subject-Based Banding (SBB):
 
-Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u><b>after</b></u> attending the **Sec 1 Registration Briefing** on Thursday 19 December 2024. 
+Parents/guardians of **Sec 1 Posting Group 1 / Posting Group 2 students who are eligible for SBB** should purchase your child/ward’s school textbooks <u><b>after</b></u> attending the **Sec 1 Registration Briefing** on Thursday 19 December 2024. Sec 1 students will only need their textbooks from 6 Jan 2025 onwards.
 
 The information shared during the briefing will help you to make a more informed decision about whether to accept or reject the SBB offer. The decision you make will then affect the list of school textbooks that you need to purchase.
 
@@ -15,9 +15,9 @@ The information shared during the briefing will help you to make a more informed
 
 ### Sale of school uniforms and textbooks
 
-**The sale of school uniforms and textbooks for Sec 1 Students will begin on Thursday 19 December 2024.**
+**The sale of school uniforms and textbooks for Sec 1 Students will begin on Thursday 19 December 2024 after the briefing. Please refer to Annex A for the opening dates and hours for the sale of textbooks and uniform.**
 
-Please ***click here to download Annex A*** for more details on:
+Please ***[click here to download Annex A](/files/Sec%201%20Intake%202025/Annex_A_for_2025_Sec_1.pdf)*** for more details on:
 
 -	Options for Purchase of School Uniforms and Textbooks
 -	2025 Secondary 1 Booklists

@@ -1,6 +1,6 @@
 ---
 title: School Operations
-permalink: /links-for-parents/sec-1-posting-for-2024/school-matters/school-operations/
+permalink: /sec-1-intake/school-matters/school-operations/
 description: ""
 third_nav_title: School Matters
 variant: markdown
