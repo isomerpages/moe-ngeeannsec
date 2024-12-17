@@ -9,7 +9,7 @@ variant: markdown
 
 **1. Successful MOE-FAS Applicants**
 
-- The School Admin Team will contact the successful MOE FAS applicants by **Friday 20 December 2024** to schedule an appointment for them to collect the MOE FAS approval letter, textbooks and school uniforms. **Successful applicants therefore must not make any purchases on their own.**
+- The School Admin Team will contact the successful MOE FAS applicants within 3-5 working days of submission of the full set of required documents to schedule an appointment for them to collect the MOE FAS approval letter, textbooks and school uniforms. **Successful applicants therefore must not make any purchases on their own.**
 
 **2. New Applications for MOE FAS 2025**
 
