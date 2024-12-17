@@ -15,7 +15,7 @@ variant: markdown
 
 **2. New Applications for MOE FAS 2025**
 
-* Students who are Singapore Citizens may apply for MOE FAS to meet basic schooling expenses. Please *click here to download Annex B* for more information.
-* To apply for MOE FAS, please *click here to download Annex C*. Please print the form after downloading it and fill out the details required. Thereafter, you need to
+* Students who are Singapore Citizens may apply for MOE FAS to meet basic schooling expenses. Please *[click here to download Annex B](/files/Sec%201%20Intake%202025/Annex_B_MOE_FAS_pamphlet.pdf)* for more information.
+* To apply for MOE FAS, please *[click here to download Annex C](/files/Sec%201%20Intake%202025/Annex_C_MOE_FAS_Application_Form_2025.pdf)*. Please print the form after downloading it and fill out the details required. Thereafter, you need to
 	* email the completed application form and supporting documents to [nass@schools.gov.sg](mailto:nass@schools.gov.sg); **OR** 
 	* call the School Admin Team at 67844583 to make an appointment to submit the completed application form and supporting documents to the General Office.
