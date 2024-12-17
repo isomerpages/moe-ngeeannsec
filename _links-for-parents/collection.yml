@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - Sec 1 Posting For 2025/Administrative Matters.md
       - Sec 1 Posting For 2025/School Matters.md
       - Sec 1 Posting For 2025/Parent Engagement.md
       - Sec 1 Posting For 2025/.keep
