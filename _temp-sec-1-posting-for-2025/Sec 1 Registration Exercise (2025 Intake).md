@@ -44,9 +44,4 @@ call the school’s General Office at 67844583.</p>
 </p>
 </li>
 </ul>
-<h3>Appeal for Transfer to Ngee Ann Sec</h3>
-<p>Parents/Guardians of students who wish to appeal for a transfer to Ngee
-Ann Secondary School for the Secondary 1 (2025 Intake) should <a href="https://go.gov.sg/appealtonas2025" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-fill out an online form.</p>
-<p>Your appeal should be submitted via this online form by Wednesday 27 December
-2023 (5pm).</p>
+<p></p>
