@@ -14,7 +14,8 @@ third_nav_title: Sec 1 Posting For 2025
 <p>Thank you for choosing Ngee Ann Secondary (NAS) as your school of choice
 for your secondary education. It is our pleasure to welcome you to our
 school.</p>
-<p><strong>Please complete your registration by completing an online form </strong><em><u>Link to be provided later</u></em><strong>.</strong>
+<p><strong>Please complete your registration by completing an online form </strong>
+<a href="https://go.gov.sg/sec1registration2025nas" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p><strong>Please submit your response to this online form by 3pm on Wednesday 18 December 2024.</strong>
 </p>
