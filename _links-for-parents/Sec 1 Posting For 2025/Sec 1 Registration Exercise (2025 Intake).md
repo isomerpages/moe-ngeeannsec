@@ -30,19 +30,19 @@ call the school’s General Office at 67844583.</p>
 <h3>Important Information for Sec 1 Students (2025 Intake)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/links-for-parents/sec-1-posting-for-2024/pg-notifications-n-sec-1-registration-briefing" rel="noopener noreferrer nofollow" target="_blank">PG Notification &amp; Sec 1 Registration Briefing</a>
+<p><a href="/sec-1-intake/sec-1-registration/step-1-enable-push-notifications-for-parents-gateway-pg/" rel="noopener noreferrer nofollow" target="_blank">PG Notification &amp; Sec 1 Registration Briefing</a>
 </p>
 </li>
 <li>
-<p><a href="/links-for-parents/sec-1-posting-for-2024/administrative-matters" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
+<p><a href="/sec-1-intake/administrative-matters/student-details-form-sdf/" rel="noopener noreferrer nofollow" target="_blank">Administrative Matters</a>
 </p>
 </li>
 <li>
-<p><a href="/links-for-parents/sec-1-posting-for-2024/school-matters" rel="noopener noreferrer nofollow" target="_blank">School Matters</a>
+<p><a href="/sec-1-intake/school-matters/school-operations/" rel="noopener noreferrer nofollow" target="_blank">School Matters</a>
 </p>
 </li>
 <li>
-<p><a href="/links-for-parents/sec-1-posting-for-2024/parent-engagement" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement</a>
+<p><a href="/sec-1-intake/parents-engagement/pdlp-briefing/" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement</a>
 </p>
 </li>
 </ul>
