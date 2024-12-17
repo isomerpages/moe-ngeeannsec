@@ -11,4 +11,4 @@ school's identified Personal Learning Device) productively.</p>
 <p>As such, there will be a session for you to learn more about how you can
 manage your child/ward’s usage of the iPad, and details of the purchase
 and collection of the device.</p>
-<p>Details about this session will be shared via Parents Gateway (TBD).</p>
+<p>Details about this session will be shared via Parents Gateway.</p>
