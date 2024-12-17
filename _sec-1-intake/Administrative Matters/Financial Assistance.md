@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Administrative Matters
 variant: markdown
 ---
-### MOE Financial Assistance Scheme (FAS) and School-Based Financial Assistance
+### MOE Financial Assistance Scheme (FAS)
 
-**1. Successful MOE-FAS Applicants**
+**1. Successful MOE FAS Applicants**
 
 - The School Admin Team will contact the successful MOE FAS applicants within 5-7 working days of submission of the full set of required documents, to schedule an appointment for them to collect the MOE FAS approval letter, textbooks and school uniforms. **Successful applicants therefore must not make any purchases on their own.**
 
