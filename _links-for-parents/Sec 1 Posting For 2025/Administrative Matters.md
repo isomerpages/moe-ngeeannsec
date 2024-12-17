@@ -2,16 +2,29 @@
 title: Administrative Matters
 permalink: /links-for-parents/sec-1-posting-for-2024/administrative-matters/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Sec 1 Posting For 2025
 ---
-* [Student Details Form (SDF)](/lstudent-details-form-sdf/)
-* [Purchase Sec 1 Textbooks & School Uniforms](/links-for-parents/sec-1-posting-for-2024/administrative-matters/purchase-textbooks-n-uniforms/)
-* [Financial Assistance](/links-for-parents/sec-1-posting-for-2024/administrative-matters/financial-assistance/)
-* [Special Educational Needs (SEN) or Special Precautions](/links-for-parents/sec-1-posting-for-2024/administrative-matters/sen-or-special-precautions/)
-
-### Clarifications about Administrative Matters
-
-Please contact the School Admin Team at **67844583** if you need clarification about administrative matters.
-
-For those with scheduled appointments, the General Office is open from **Mondays to Fridays, 8.30am – 5.30pm, except public holidays.**
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/sec-1-intake/administrative-matters/student-details-form-sdf/" rel="noopener noreferrer nofollow" target="_blank">Student Details Form (SDF)</a>
+</p>
+</li>
+<li>
+<p><a href="/sec-1-intake/administrative-matters/purchase-textbooks-n-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Purchase Sec 1 Textbooks &amp; School Uniforms</a>
+</p>
+</li>
+<li>
+<p><a href="/sec-1-intake/administrative-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
+</p>
+</li>
+<li>
+<p><a href="/sec-1-intake/administrative-matters/sen-or-special-precautions/" rel="noopener noreferrer nofollow" target="_blank">Special Educational Needs (SEN) or Special Precautions</a>
+</p>
+</li>
+</ul>
+<h3>Clarifications about Administrative Matters</h3>
+<p>Please contact the School Admin Team at&nbsp;<strong>67844583</strong>&nbsp;if
+you need clarification about administrative matters.</p>
+<p>For those with scheduled appointments, the General Office is open from&nbsp;<strong>Mondays to Fridays, 8.30am – 5.30pm, except public holidays.</strong>
+</p>
