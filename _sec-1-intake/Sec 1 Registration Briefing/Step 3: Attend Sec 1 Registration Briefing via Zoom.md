@@ -9,10 +9,10 @@ variant: tiptap
 all Sec 1 students and their parents/guardians on <strong>Thursday</strong>  <strong>19 December 2024, from 1pm – 2.30pm</strong>.</p>
 <p>The briefing will take place online, in the form of a Zoom webinar. We
 will use Parents Gateway (PG) to send the Zoom webinar link and passcode
-to you <strong>on Wednesday 18 December 2024, by 7pm</strong>.</p>
+to you <strong>on Thursday 19 December 2024, by 8am</strong>.</p>
 <p><strong>Parents/guardians who are not registered on Parents Gateway (PG)</strong> will
 receive the Zoom webinar link and passcode via the personal email address
-that you state in your response to our <em><u>online registration form (TBD)</u></em>.</p>
+that you state in your response to our <a href="https://go.gov.sg/sec1registration2025nas" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
 <p><strong>All Secondary 1 students and their parents/guardians are required to attend the briefing, as part of the registration process.</strong> Please
 refer to the programme below.</p>
 <table style="minWidth: 75px">
@@ -94,7 +94,7 @@ refer to the programme below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Purchase of Personal Learning Device (iPad) (10 Mins)</strong>
+<p><strong>Purchase of Personal Learning Device (iPad)</strong>
 <br>by HOD Ed Tech</p>
 </td>
 <td rowspan="1" colspan="1">
