@@ -252,5 +252,5 @@ on 04 Nov 2024</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mrs. Lock-Lian Wee Lee (CCA Teacher-in-charge)
-<br>Ms. Teo Yao Lu
+<br>Ms Law Wan Yi Georgina
 <br>Ms. Izyan Rozana Binte Mohd Nejib</p>
