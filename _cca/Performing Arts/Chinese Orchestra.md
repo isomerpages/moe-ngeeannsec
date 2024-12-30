@@ -226,6 +226,6 @@ School on 5 Apr 2024</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Ms. Teo Siew Lian Rachel (CCA Teacher-in-charge)
-<br>Mdm. Lee Chai Noi
+<br>Ms Yeo Meow Ling Doreen
 <br>Ms. Pearly Siah Bee Shian
 <br>Ms. Hon Soo Sien</p>
