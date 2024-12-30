@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>School Key Personnel 2024</h5>
+<h5>School Key Personnel 2025</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -138,14 +138,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lei Mee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
@@ -238,6 +230,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Zhan Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH – English Language and Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Neo Guang Xian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +294,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Yao Lu</p>
+<p>Mr Dominic Chia Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 1</p>
@@ -302,7 +302,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Chia Kim Seng</p>
+<p>Mdm Izzalina Binte Mohamad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 2</p>
@@ -310,15 +310,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syifaa’ Binti Hussin</p>
+<p>Ms Tan Xuewen Shavonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head – Sec 3 (Internal)</p>
+<p>Assistant Year Head – Sec 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xuewen Shavonne</p>
+<p>Mdm Nur Syifaa’ Binti Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 4/5</p>
@@ -330,14 +330,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher – Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ben Khor Teng Chih</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher – Art</p>
 </td>
 </tr>
 <tr>
