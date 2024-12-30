@@ -541,8 +541,8 @@ variant: tiptap
 <p>Ms Izzalina Binte Mohamad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
-<p>Teacher / ML</p>
+<p>Assistant Year Head (Sec 2)
+<br>Teacher / ML</p>
 </td>
 </tr>
 <tr>
