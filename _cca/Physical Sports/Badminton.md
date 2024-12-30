@@ -296,5 +296,6 @@ on NSG details.</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mdm. Zhao Tong (CCA Teacher-in-charge)
-<br>Mdm. Jacinta Yeo Soo Hua
+<br>Ms Ang Hwee Chieh
+<br>Ms Liong Yen Lee
 <br>Ms. Toh Hui Min</p>
