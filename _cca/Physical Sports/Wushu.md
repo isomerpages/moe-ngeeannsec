@@ -297,4 +297,5 @@ Haoya (Sec 1): 7th</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mdm. Nur Syifaa' Hussin (CCA Teacher-in-charge)
-<br>Mdm. Sun Xiuli</p>
+<br>Mdm. Sun Xiuli
+<br>Mr Wong Tong Aun James</p>

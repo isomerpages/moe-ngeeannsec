@@ -262,6 +262,7 @@ NOOR (Sec 4)
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Ms Ananurmelati Bte Abdul Rahman
+<p>Mr Amos Koh Chit Boon (CCA Teacher-in-charge)
+<br>Ms Ananurmelati Bte Abdul Rahman
 <br>Mr Goh Tai Lin Aloysius
-<br>Mr Amos Koh Chit Boon</p>
+<br>Ms Law Jue Yu</p>

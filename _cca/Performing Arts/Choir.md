@@ -226,6 +226,6 @@ on 04 Nov 2024</p>
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Mrs. Wee-Ho Gim Hui (CCA Teacher-in-charge)
+<p>Ms Jacinta Yeo Soo Hua
 <br>Mdm. Cheng Pei Boon Stephanie
 <br>Mr. Ho Yuan Shun Timothy</p>

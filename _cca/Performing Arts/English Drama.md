@@ -203,4 +203,5 @@ and meaning).</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Ms. Rina Tan Yi Qian (CCA Teacher-in-charge)
-<br>Ms. Nashrah Alwi</p>
+<br>Ms. Nashrah Alwi
+<br>Ms Izzalina Binte Mohamad Ali</p>
