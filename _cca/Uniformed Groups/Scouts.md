@@ -213,7 +213,7 @@ NOOR (Sec 4)
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-5.45pm</p>
+<p>3.30-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fire Access (Outside Art Studios)
