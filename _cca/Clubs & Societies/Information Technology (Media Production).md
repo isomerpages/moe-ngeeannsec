@@ -227,7 +227,7 @@ as seniors and children.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6pm</p>
+<p>2-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Comp Lab 1 &amp; 2</p>
