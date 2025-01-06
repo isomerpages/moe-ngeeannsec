@@ -204,7 +204,7 @@ TAN (Sec 4)</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-6.15pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -240,17 +240,23 @@ TAN (Sec 4)</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6.15pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition squad only</p>
+<p>For Competition squad only</p>
 </td>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Competition dates will affect CCA days.</em>
+</p>
+</li>
+</ul>
 <h3>CCA Teachers</h3>
 <p>Mr. Lai Hon Kit Chris (CCA Teacher-in-charge)
 <br>Mdm. Lyu Jun Chao
