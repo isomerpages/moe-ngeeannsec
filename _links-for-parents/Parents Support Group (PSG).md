@@ -5,30 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h2>Core Team Members</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name of PSG</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>I-P Chair</p>
+<p><strong><u>Designation</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peggy Sett</p>
+<p><strong><u>Name of PSG</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Chairperson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Beng Choon</p>
+<p><strong>Lim Beng Choon</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,57 +35,52 @@ variant: tiptap
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karyn Yeo</p>
+<p><strong>Karyn Yeo</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Executive Committee (Event Heads) 2024</h2>
-<table>
+<h2>Executive Committee (Event Heads):</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Jolyn Chua</strong> 
-<br>(Lunar New Year activities)</p>
+<p><strong>Core Team</strong>
+</p>
+<p>(Lunar New Year activities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Wong Hong Ling</strong> 
-<br>(International Friendship Day / Racial Harmony Day)</p>
+<p><strong>Erny Ng &amp; Lai Ing Err</strong>
+</p>
+<p>(International Friendship Day / Racial Harmony Day)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Caroline Iek</strong> 
-<br>(International Friendship Day / Racial Harmony Day)</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Jennifer Pang</strong> 
-<br>(Family Day Outreach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Sherene Tan</strong> 
-<br>(iCARE Project)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Jeok Fuen</strong> 
-<br>(iCARE Project)</p>
-<p>&nbsp;</p>
+<p><strong>Eleanor Ngan &amp; Jennifer Pang</strong>
+</p>
+<p>(Family Day Outreach)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jonathan James Wong</strong> 
-<br>(Healthy Lifestyle)</p>
+<p><strong>Paramjit Kaur &amp; Inriani Putri Bte Zamzuri</strong>
+</p>
+<p>(iCARE Project</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chan Yen Tjin</strong> 
-<br>(Healthy Lifestyle)</p>
+<p><strong>Atul Kaslikar</strong>
+</p>
+<p>(Healthy Lifestyle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lai Ing Err</strong> 
-<br>(Mid Autumn Festival)</p>
-<p>&nbsp;</p>
+<p><strong>Shirley Khoo</strong>
+</p>
+<p>(Mid Autumn Festival)</p>
 </td>
 </tr>
 </tbody>
@@ -100,22 +94,64 @@ the Exco to coordinate PSG matters, where applicable.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/08Hqcv8gW00?si=30ZunOshaurMARyM"></iframe>
 </div>
-<h2>Proposed PSG Events/Activities 2024</h2>
+<h2>Proposed PSG Events/Activities 2025</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please note the proposed events/activities are pending confirmation from
-the school.&nbsp; The dates shall be updated as soon as they are available.</p>
+the school. The dates shall be updated as soon as they are available.</p>
 </li>
 </ul>
-<h4><strong>Term 1</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
+<td rowspan="5" colspan="1">
+<p><strong>Term 1</strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Learning Journey (PSG Support)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 &amp; 4 Jan 2024</p>
+<p>1<sup>st</sup> week of Jan 2025 (TBC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebrating Lunar New Year @ School</p>
+<p>(Red Packet Craft)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Jan 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celebrating Lunar New Year @ School</p>
+<p>(PSG Performance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunar New Year Activities (Canteen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Feb 2025</p>
 </td>
 </tr>
 <tr>
@@ -123,44 +159,25 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>Heritage Talk, Parents Forum &amp; PSG Group Meeting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Jan 2024</p>
+<p>18 Feb 2025</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Celebrating Lunar New Year – Assembly programme</p>
+<td rowspan="4" colspan="1">
+<p><strong>Term 2</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>9 Feb 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Total Defence Day - Black Market Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid Feb 2024 (TBC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Celebrating Lunar New Year – Canteen Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 Feb 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Term 2</strong></h4>
-<table>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Career Awareness Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mar / April 2024</p>
+<p>Mar / April 2025</p>
 </td>
 </tr>
 <tr>
@@ -168,15 +185,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>International Friendship Day @ School activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parents Forum (Upper Sec level)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(TBC)</p>
+<p>April 2025</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +193,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>PSG Family Day Outreach Project</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 May 2024</p>
+<p>31 May 2025</p>
 </td>
 </tr>
 <tr>
@@ -192,20 +201,27 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>Healthy Life style (Outdoor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June / Sep 2024</p>
+<p>June 2025</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4><strong>Term 3</strong></h4>
-<table>
-<tbody>
 <tr>
+<td rowspan="5" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>i-CARE Project</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>July 2024</p>
+<p>July 2025</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +229,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>Racial Harmony Day @ School activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>July 2024</p>
+<p>July 2025</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +237,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>PSG Hobbycraft bonding activity (Indoor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aug 2024</p>
+<p>Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +245,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>Focus Group Discussion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep 2024</p>
+<p>Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -237,20 +253,21 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>Mid – Autumn Festival @ School Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep 2024</p>
+<p>Sep 2025</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4><strong>Term 4</strong></h4>
-<table>
-<tbody>
 <tr>
+<td rowspan="2" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>PSG Year End Appreciation Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Oct 2024</p>
+<p>Oct 2025</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +275,7 @@ the school.&nbsp; The dates shall be updated as soon as they are available.</p>
 <p>NAS Open House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nov 2024</p>
+<p>Nov 2025</p>
 </td>
 </tr>
 </tbody>
