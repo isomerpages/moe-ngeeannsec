@@ -153,7 +153,7 @@ and meaning).</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-6pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drama Room</p>
@@ -171,7 +171,7 @@ and meaning).</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30-5.30pm</p>
+<p>2.15-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drama Room</p>
