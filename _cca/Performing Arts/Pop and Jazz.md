@@ -173,7 +173,7 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.3.30-6pm</p>
+<p>3-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pop &amp; Jazz Room
@@ -200,6 +200,7 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Rotation basis</em>
+<br><em>(Fri timing will be adjusted if there are Muslim boys.)</em>
 </p>
 </td>
 </tr>

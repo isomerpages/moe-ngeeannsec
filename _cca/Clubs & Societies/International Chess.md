@@ -132,46 +132,89 @@ EZ 3rd</p>
 </tbody>
 </table>
 <h3>Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Days</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>CCA DAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>One</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:30 pm - 5:30 pm</p>
+<p>4 - 5.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math Modelling Room
-<br>SR6 &amp; SR7</p>
+<p>SR1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main session</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p><strong>Two</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00 pm - 5:00 pm</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math Modelling Room
-<br>SR6 &amp; SR7 (By Invite Only)</p>
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>

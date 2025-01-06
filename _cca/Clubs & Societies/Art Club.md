@@ -189,7 +189,7 @@ Mention:<strong><br></strong>LIM SI QI SOPHIE (LIN SIQI) (Sec 4)
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30-4.30pm</p>
+<p>1-4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Studio 1</p>

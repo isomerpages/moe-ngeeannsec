@@ -166,10 +166,10 @@ and the company)</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30-6pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle, C03-04 to 06</p>
+<p>Red wall at Quadrangle, C03-04 to 06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

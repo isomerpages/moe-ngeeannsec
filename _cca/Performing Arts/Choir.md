@@ -181,7 +181,7 @@ on 04 Nov 2024</p>
 <p>2-4.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SR1-3</p>
+<p>C03-15 to 17 (SR1-3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main session</p>
@@ -199,7 +199,7 @@ on 04 Nov 2024</p>
 <p>3.30-5.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SR1-3</p>
+<p>C03-15 to 17 (SR1-3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
