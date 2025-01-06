@@ -203,10 +203,11 @@ on 04 Nov 2024</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30-6.30pm</p>
+<p>3-6pm (Sec 1s)
+<br>4-6pm (Sec 2-5s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room</p>
+<p>Band Room, Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main session</p>
@@ -221,7 +222,7 @@ on 04 Nov 2024</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30-5.30pm</p>
+<p>2.30-5.30pm (All)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band Room</p>
