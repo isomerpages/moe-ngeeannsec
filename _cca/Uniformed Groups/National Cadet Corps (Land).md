@@ -204,10 +204,10 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6.30pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle, C01-03</p>
+<p>Flagpoles at Quadrangle, C01-03</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -219,16 +219,16 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Flagpoles at Quadrangle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>If needed</p>
 </td>
 </tr>
 <tr>
