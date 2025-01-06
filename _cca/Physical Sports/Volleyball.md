@@ -246,7 +246,7 @@ TAN (Sec 4)</p>
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Competition squad only</p>
+<p>For competition squad only</p>
 </td>
 </tr>
 </tbody>
