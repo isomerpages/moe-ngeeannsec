@@ -186,11 +186,11 @@ EN YI (Sec 2)</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15-5.30pm</p>
+<p>3-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Photo Room
-<br>A04-04</p>
+<br>A04-04 (level abv MPH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main session</p>
