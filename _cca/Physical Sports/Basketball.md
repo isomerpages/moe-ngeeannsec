@@ -250,7 +250,7 @@ Singapore Schools, 3rd team placing:
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30-6.30</p>
+<p>2.30-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -261,8 +261,16 @@ Singapore Schools, 3rd team placing:
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Competition dates will affect CCA days.</em>
+</p>
+</li>
+<li>
 <p><em>This arrangement is up till end 2025 or when construction of outdoor basketball court is complete, whichever is earlier. Then revert back from Monday to Tuesday as CCA day.</em>
 </p>
+</li>
+</ul>
 <h3>CCA Teachers</h3>
 <p>Mr. Jonathan Chan Aik Beng (CCA Teacher-in-charge)
 <br>Mr. Dominic Chia Kim Seng
