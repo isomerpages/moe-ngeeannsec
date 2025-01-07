@@ -398,13 +398,11 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
-</p>
-<p>At the end of the lesson, students will be able to:</p>
+<br>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
+<br><strong>(e.g.Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -845,7 +843,7 @@ healthy way.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>\Learn to negotiate their way out of a risky situation by applying skills
+<p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
 </li>
 </ul>
