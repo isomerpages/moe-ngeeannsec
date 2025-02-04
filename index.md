@@ -11,6 +11,9 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
+        - title: ADVERTISEMENT FOR VACANT CANTEEN STALL
+          description: "Closing date: 17 February 2025"
+          url: ""
         - title: Release of 2024 GCE O-Level Examination Results
           description: 10 January 2025, 2.30 pm
           url: /release-of-2024-gce-o-level-examination-results/
@@ -20,9 +23,6 @@ sections:
         - title: Appeal for Transfer
           description: Only for 2025 Sec 1 Intake
           url: /appeal-for-transfer-to-ngee-ann-sec/
-        - title: Release of 2024 GCE N–Level Examination Results
-          description: 16 December 2024, 2 pm
-          url: /release-of-2024-gce-n-level-examination-results/
       variant: center
       button: NAS Open House 2024
       url: nas-open-house-2024
