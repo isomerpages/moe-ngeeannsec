@@ -13,34 +13,34 @@ description: ""
 <p>The applicant</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a. must be a Singapore Citizen or Singapore Permanent Resident.</p>
+<p>must be a Singapore Citizen or Singapore Permanent Resident.</p>
 </li>
 <li>
-<p>b. must have the Basic Food Hygiene Certificate.</p>
+<p>must have the Basic Food Hygiene Certificate.</p>
 </li>
 <li>
-<p>c. is to provide food that meet the health / nutritional standards set
-by the Health Promotion Board (HPB) and comply to the Healthy Meals in
-School Programme.</p>
+<p>is to provide food that meet the health / nutritional standards set by
+the Health Promotion Board (HPB) and comply to the Healthy Meals in School
+Programme.</p>
 </li>
 <li>
-<p>d. is to provide good service and a wide variety of quality food at reasonable
+<p>is to provide good service and a wide variety of quality food at reasonable
 prices.</p>
 </li>
 <li>
-<p>e. is to observe a high standard of food and personal hygiene that meet
-Singapore Food Agency (SFA) requirements.</p>
+<p>is to observe a high standard of food and personal hygiene that meet Singapore
+Food Agency (SFA) requirements.</p>
 </li>
 <li>
-<p>f. should be responsible, positive, highly committed and be in person
-at the stall during operating hours.</p>
+<p>should be responsible, positive, highly committed and be in person at
+the stall during operating hours.</p>
 </li>
 <li>
-<p>g. is to be physically fit with reasonable health status.&nbsp;&nbsp;</p>
+<p>is to be physically fit with reasonable health status.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>h. is preferably with experience in food catering / operating a canteen
-stall in school.</p>
+<p>is preferably with experience in food catering / operating a canteen stall
+in school.</p>
 </li>
 </ul>
 <p>Interested applicants may collect the Application Form from the school’s
