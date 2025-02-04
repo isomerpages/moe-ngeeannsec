@@ -13,10 +13,102 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>English Language &amp; Literature</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>National Public Speaking Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bryant Chung Yuan Kai (3I1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Queen’s Commonwealth Essay Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emilie Yoong Jing Wen (1R1)</p>
+</li>
+<li>
+<p>Daniel Ong Zhong Xuan (4R1)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fadiah Nabilah Binte Yusoff (2C3)</p>
+</li>
+<li>
+<p>Lum Yi Wei (2C3)</p>
+</li>
+<li>
+<p>Kunal Dasari (2C3)</p>
+</li>
+<li>
+<p>Ayra Qorirah Binte Mohamad Zahrin (4R1)</p>
+</li>
+<li>
+<p>Ong Rui En (4R1)</p>
+</li>
+<li>
+<p>Lim Yae-Na (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tina Susan Santhosh (1C1)</p>
+</li>
+<li>
+<p>Rudvik Rao Padidela (1C1)</p>
+</li>
+<li>
+<p>Om Mahto (1R1)</p>
+</li>
+<li>
+<p>Vivash Pandiri (2C3)</p>
+</li>
+<li>
+<p>Tara Javaeira Binte Mohammad Azri (2C3)</p>
+</li>
+<li>
+<p>Dhanya Venkataramana (2R3)</p>
+</li>
+<li>
+<p>Anushka Vellore Ashwin Kumar (3R4)</p>
+</li>
+<li>
+<p>Emily Ivana Pangemanan (3R4)</p>
+</li>
+<li>
+<p>Yap Ying Xuan Renee (4C3)</p>
+</li>
+<li>
+<p>Aiko Huan Ying En (4C3)</p>
+</li>
+<li>
+<p>Chan Ming Shuen (4R1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Secondary School Debate Championship 2024</strong>
 </p>
@@ -68,6 +160,32 @@ variant: tiptap
 <br>• Brosnan Teo (4R4), Bronze
 <br>• Charlotte Poh (3C3), Bronze
 <br>• Ong Rui En (2R3), Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Create Your Own Newspaper Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gwenaella Lee Yik Yenn (2C3)</p>
+</li>
+<li>
+<p>Lezanne Koh Luck Suan (2R2)</p>
+</li>
+<li>
+<p>Ng Xin Yi (2R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -708,7 +826,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Technopreneur</p>
+<p><strong>Technopreneur</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Olympiad in Informatics 2024</strong>
@@ -1058,10 +1177,38 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>Robotics</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>RCAP Cospace Rescue, U19, Superteam Challenge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place And Best Team Description Paper</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>William Teh Kai-Shen (2C1)</p>
+</li>
+<li>
+<p>How Yu Ren (2C3)</p>
+</li>
+<li>
+<p>Arianne Lim Xin Ying (1R2)</p>
+</li>
+<li>
+<p>Ong Lay Kee Victoria (1R3)</p>
+</li>
+<li>
+<p>Jain Arnav (2C1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>IDE Series By Nullspace And VM Education</strong>
 </p>
@@ -1169,7 +1316,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Information Technology</p>
+<p><strong>Information Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>AI Poster Design Competition</strong>
@@ -1380,10 +1528,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="10" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Junyuan Cup</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Basketball Championships 2024 (B Division Boys)</strong>
 </p>
@@ -1391,7 +1550,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> Place</p>
+<p>3rd Place</p>
 </td>
 </tr>
 <tr>
