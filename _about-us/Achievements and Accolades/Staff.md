@@ -30,15 +30,15 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Mdm Choo Hwee Nee </strong>
+<p><strong>Mdm Choo Hwee Nee</strong>
 </p>
 </li>
 <li>
-<p><strong>Mdm Noor Azean Bte Khamis </strong>
+<p><strong>Mdm Noor Azean Bte Khamis</strong>
 </p>
 </li>
 <li>
-<p><strong>Mdm Nor Hasni Yanti Binte Hamim </strong>
+<p><strong>Mdm Nor Hasni Yanti Binte Hamim</strong>
 </p>
 </li>
 <li>
@@ -75,7 +75,7 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Mrs Lena Siau </strong>
+<p><strong>Mrs Lena Siau</strong>
 </p>
 </li>
 <li>
@@ -107,7 +107,7 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Mr Md Ismail Jakbar </strong>
+<p><strong>Mr Md Ismail Jakbar</strong>
 </p>
 </li>
 <li>
@@ -115,7 +115,7 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Mdm Hazimah Bt Aslam Khan </strong>
+<p><strong>Mdm Hazimah Bt Aslam Khan</strong>
 </p>
 </li>
 <li>
@@ -123,7 +123,7 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Ms Juan Ying Li Pearlyn </strong>
+<p><strong>Ms Juan Ying Li Pearlyn</strong>
 </p>
 </li>
 <li>
@@ -143,7 +143,7 @@ their colleagues to do likewise.</p>
 </p>
 </li>
 <li>
-<p><strong>Mr Muhamad Syafiq Bin Muhamad Siraj </strong>
+<p><strong>Mr Muhamad Syafiq Bin Muhamad Siraj</strong>
 </p>
 </li>
 <li>
@@ -184,13 +184,16 @@ independent learners.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Farhana Bte Mohamad Noor</p>
+<p><strong>Mdm Farhana Bte Mohamad Noor</strong>
+</p>
 </li>
 <li>
-<p>Mr Alvin Chen</p>
+<p><strong>Mr Alvin Chen</strong>
+</p>
 </li>
 <li>
-<p>Mr Tan Rou Ming</p>
+<p><strong>Mr Tan Rou Ming</strong>
+</p>
 </li>
 </ul>
 <h4><strong>2024 MOE Innergy Award – Schools (T&amp;L)</strong></h4>
@@ -199,8 +202,7 @@ teams in recognition of their outstanding contributions to the education
 service. It is also a tribute to those who have spent time and effort to
 develop and implement creative ideas that address important needs of the
 Ministry.</p>
-<p><strong>Award Type: Commendation</strong>
-</p>
+<p>Award Type: Commendation</p>
 <p><strong>Award Recipients:</strong>
 </p>
 <ul data-tight="true" class="tight">
