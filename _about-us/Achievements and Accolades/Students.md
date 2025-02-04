@@ -144,22 +144,48 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold
-<br>• Nathaniel Manguera (3R4)
-<br>• Nurul Sarafyna Binti Nordin (4R3)
-<br>• Tan Ming Liang (3R4)
-<br>
-<br>Silver
-<br>• Austin Biasbias Doctor (2R2)
-<br>• Lea Lim (2C3)
-<br>• Sean Nathan Albas Esguerra (2R2)
-<br>• Shanika Perera (2R1)
-<br>• Srujan Gangisetti (3R5)
-<br>
-<br>Bronze
-<br>• Brosnan Teo (4R4), Bronze
-<br>• Charlotte Poh (3C3), Bronze
-<br>• Ong Rui En (2R3), Bronze</p>
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nathaniel Manguera (3R4)</p>
+</li>
+<li>
+<p>Nurul Sarafyna Binti Nordin (4R3)</p>
+</li>
+<li>
+<p>Tan Ming Liang (3R4)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Austin Biasbias Doctor (2R2)</p>
+</li>
+<li>
+<p>Lea Lim (2C3)</p>
+</li>
+<li>
+<p>Sean Nathan Albas Esguerra (2R2)</p>
+</li>
+<li>
+<p>Shanika Perera (2R1)</p>
+</li>
+<li>
+<p>Srujan Gangisetti (3R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Brosnan Teo (4R4), Bronze</p>
+</li>
+<li>
+<p>Charlotte Poh (3C3), Bronze</p>
+</li>
+<li>
+<p>Ong Rui En (2R3), Bronze</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -242,7 +268,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Dolot Shine Mikaela Maminta (4R5)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dolot Shine Mikaela Maminta (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -282,16 +312,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Category
-<br>• 4 Bronzes
-<br>• 7 Honourable Mention
-<br>
-<br>Senior Category
-<br>• 5 Bronzes
-<br>• 1 Honourable Mention
-<br>
-<br>Open Category
-<br>• 1 Honourable Mention</p>
+<p>Junior Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 Bronzes</p>
+</li>
+<li>
+<p>7 Honourable Mention</p>
+</li>
+</ul>
+<p>Senior Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 Bronzes</p>
+</li>
+<li>
+<p>1 Honourable Mention</p>
+</li>
+</ul>
+<p>Open Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Honourable Mention</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -302,12 +346,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2nd Position
-<br>• Enzo Yap Qi Xuan (3R4)
-<br>• Sopheap Chanoudam (3R4)
-<br>• Harikesh Vinod Dialani (3R4)
-<br>• Koh Jun Kai (3R4)
-<br>• Xande (3R4)</p>
+<p>2nd Position</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enzo Yap Qi Xuan (3R4)</p>
+</li>
+<li>
+<p>Sopheap Chanoudam (3R4)</p>
+</li>
+<li>
+<p>Harikesh Vinod Dialani (3R4)</p>
+</li>
+<li>
+<p>Koh Jun Kai (3R4)</p>
+</li>
+<li>
+<p>Xande (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -442,20 +498,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Axel Wong Yin Hoy (Huang Yankai) (2R2)
-<br>• Sakhamuri Meheer Karthikeya Pavan (2R2)
-<br>
-<br>Bronze
-<br>• Chaw Pyae Aung (2R2)
-<br>• Seah Kiat Jiun (Xie Jiejun) (2R2)
-<br>• Sunthoncharu Kantarit (2R4)
-<br>
-<br>Merit
-<br>• Fan Jia Jun, Jayden (2R4)
-<br>• Kota Neil Aryan (2R3)
-<br>• Tristan Chu Zhen Yu (Zhu Zhenyu) (2R2)
-<br>• Vaishnavi Srivastava (2R4)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Axel Wong Yin Hoy (Huang Yankai) (2R2)</p>
+</li>
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (2R2)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chaw Pyae Aung (2R2)</p>
+</li>
+<li>
+<p>Seah Kiat Jiun (Xie Jiejun) (2R2)</p>
+</li>
+<li>
+<p>Sunthoncharu Kantarit (2R4)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fan Jia Jun, Jayden (2R4)</p>
+</li>
+<li>
+<p>Kota Neil Aryan (2R3)</p>
+</li>
+<li>
+<p>Tristan Chu Zhen Yu (Zhu Zhenyu) (2R2)</p>
+</li>
+<li>
+<p>Vaishnavi Srivastava (2R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -466,19 +544,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Muhammad Adiputra Bin Abdul Halim (4R5)
-<br>• Ong Huai Xu (4R5)
-<br>
-<br>Bronze
-<br>• Miranda Lee Xin Yi (4R5)
-<br>• Taseefa Shasmeen Bye Mainuddin Ahmed (4R5)
-<br>
-<br>Merit
-<br>• Kelis Ting Shi Xuan (4R3
-<br>• Lim Egan (4R5)
-<br>• Nurul Sarafyna Binti Nordin (4R3)
-<br>• Rudhima Chauhan (4R5)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Adiputra Bin Abdul Halim (4R5)</p>
+</li>
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Miranda Lee Xin Yi (4R5)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Bye Mainuddin Ahmed (4R5)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kelis Ting Shi Xuan (4R3</p>
+</li>
+<li>
+<p>Lim Egan (4R5)</p>
+</li>
+<li>
+<p>Nurul Sarafyna Binti Nordin (4R3)</p>
+</li>
+<li>
+<p>Rudhima Chauhan (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -489,19 +587,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold
-<br>• Ong Huai Xu (4R5)
-<br>
-<br>Silver
-<br>• Magbitang Callista Ysabelle Acuna (4R5)
-<br>• Miranda Lee Xin Yi (4R5)
-<br>• Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)
-<br>
-<br>Bronze
-<br>• Muhammad Adiputra Bin Abdul Halim (4R5)
-<br>
-<br>Honourable Mention
-<br>• Maithili Vikram Soman (3R5)</p>
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Magbitang Callista Ysabelle Acuna (4R5)</p>
+</li>
+<li>
+<p>Miranda Lee Xin Yi (4R5)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Adiputra Bin Abdul Halim (4R5)</p>
+</li>
+</ul>
+<p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maithili Vikram Soman (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -512,12 +627,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze
-<br>• Ho Ke Ying (4R4)
-<br>
-<br>Merit
-<br>• Chia Wan Ting (4R4)
-<br>• Khairul Izzat (4R4)</p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ho Ke Ying (4R4)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chia Wan Ting (4R4)</p>
+</li>
+<li>
+<p>Khairul Izzat (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -528,31 +652,71 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Poh Yan Rui (4R5)
-<br>
-<br>Bronze
-<br>• Adrian Liaw De Yang (3R5)
-<br>• Ong Huai Xu (4R5)
-<br>• Sopheap Chanoudam (3R4)
-<br>• Thanadol Kaewwichien (4R5)
-<br>
-<br>Honourable Mention
-<br>• Aadvik Mohta (3R5)
-<br>• Ashton Neo Jin Hwee (3R4)
-<br>• Koh Jun Kai Xande (3R4)
-<br>• Loh Xuan Ying Clarisse (4R5)
-<br>• Mohammad Tuha Hossain (3R3)
-<br>• Noor Adani Binte Abdul Rahim (4R5)
-<br>• Ridhima Chauhan (4R5)
-<br>• Shaan Yogesh Gawle (3R4)
-<br>• Tan Khuan Hui (4R4)
-<br>• Tan Yong Han (4R2)
-<br>• Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)
-<br>• Tith Bunnath (3R4)
-<br>• Toh Kit Min Joelle (3R4)
-<br>• Ulrich Van Khalel Colapo Ubana (4R2)
-<br>• William Edward Sugiharto (3R4)</p>
+<p>Silver</p>
+<p>Poh Yan Rui (4R5)</p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adrian Liaw De Yang (3R5)</p>
+</li>
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+<li>
+<p>Sopheap Chanoudam (3R4)</p>
+</li>
+<li>
+<p>Thanadol Kaewwichien (4R5)</p>
+</li>
+</ul>
+<p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aadvik Mohta (3R5)</p>
+</li>
+<li>
+<p>Ashton Neo Jin Hwee (3R4)</p>
+</li>
+<li>
+<p>Koh Jun Kai Xande (3R4)</p>
+</li>
+<li>
+<p>Loh Xuan Ying Clarisse (4R5)</p>
+</li>
+<li>
+<p>Mohammad Tuha Hossain (3R3)</p>
+</li>
+<li>
+<p>Noor Adani Binte Abdul Rahim (4R5)</p>
+</li>
+<li>
+<p>Ridhima Chauhan (4R5)</p>
+</li>
+<li>
+<p>Shaan Yogesh Gawle (3R4)</p>
+</li>
+<li>
+<p>Tan Khuan Hui (4R4)</p>
+</li>
+<li>
+<p>Tan Yong Han (4R2)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)</p>
+</li>
+<li>
+<p>Tith Bunnath (3R4)</p>
+</li>
+<li>
+<p>Toh Kit Min Joelle (3R4)</p>
+</li>
+<li>
+<p>Ulrich Van Khalel Colapo Ubana (4R2)</p>
+</li>
+<li>
+<p>William Edward Sugiharto (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -563,8 +727,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Sim Wee En (4R5)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sim Wee En (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -579,8 +747,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>High Distinction
-<br>• Sevilleja Gabrielle Lexia Dumaraos (2R2)</p>
+<p>High Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sevilleja Gabrielle Lexia Dumaraos (2R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -595,8 +767,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Kalanke Ved, Sim Yi Sian (4R4)
-<br>• Trivedi Prakhar Nilesh (4R4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kalanke Ved, Sim Yi Sian (4R4)</p>
+</li>
+<li>
+<p>Trivedi Prakhar Nilesh (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
