@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: ADVERTISEMENT FOR VACANT CANTEEN STALL
           description: "Closing date: 17 February 2025"
-          url: ""
+          url: /vacant-canteen-stall/
         - title: Release of 2024 GCE O-Level Examination Results
           description: 10 January 2025, 2.30 pm
           url: /release-of-2024-gce-o-level-examination-results/
