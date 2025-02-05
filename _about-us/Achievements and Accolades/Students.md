@@ -13,10 +13,102 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>English Language &amp; Literature</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>National Public Speaking Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bryant Chung Yuan Kai (3I1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Queen’s Commonwealth Essay Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emilie Yoong Jing Wen (1R1)</p>
+</li>
+<li>
+<p>Daniel Ong Zhong Xuan (4R1)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fadiah Nabilah Binte Yusoff (2C3)</p>
+</li>
+<li>
+<p>Lum Yi Wei (2C3)</p>
+</li>
+<li>
+<p>Kunal Dasari (2C3)</p>
+</li>
+<li>
+<p>Ayra Qorirah Binte Mohamad Zahrin (4R1)</p>
+</li>
+<li>
+<p>Ong Rui En (4R1)</p>
+</li>
+<li>
+<p>Lim Yae-Na (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tina Susan Santhosh (1C1)</p>
+</li>
+<li>
+<p>Rudvik Rao Padidela (1C1)</p>
+</li>
+<li>
+<p>Om Mahto (1R1)</p>
+</li>
+<li>
+<p>Vivash Pandiri (2C3)</p>
+</li>
+<li>
+<p>Tara Javaeira Binte Mohammad Azri (2C3)</p>
+</li>
+<li>
+<p>Dhanya Venkataramana (2R3)</p>
+</li>
+<li>
+<p>Anushka Vellore Ashwin Kumar (3R4)</p>
+</li>
+<li>
+<p>Emily Ivana Pangemanan (3R4)</p>
+</li>
+<li>
+<p>Yap Ying Xuan Renee (4C3)</p>
+</li>
+<li>
+<p>Aiko Huan Ying En (4C3)</p>
+</li>
+<li>
+<p>Chan Ming Shuen (4R1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Secondary School Debate Championship 2024</strong>
 </p>
@@ -52,22 +144,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold
-<br>• Nathaniel Manguera (3R4)
-<br>• Nurul Sarafyna Binti Nordin (4R3)
-<br>• Tan Ming Liang (3R4)
-<br>
-<br>Silver
-<br>• Austin Biasbias Doctor (2R2)
-<br>• Lea Lim (2C3)
-<br>• Sean Nathan Albas Esguerra (2R2)
-<br>• Shanika Perera (2R1)
-<br>• Srujan Gangisetti (3R5)
-<br>
-<br>Bronze
-<br>• Brosnan Teo (4R4), Bronze
-<br>• Charlotte Poh (3C3), Bronze
-<br>• Ong Rui En (2R3), Bronze</p>
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nathaniel Manguera (3R4)</p>
+</li>
+<li>
+<p>Nurul Sarafyna Binti Nordin (4R3)</p>
+</li>
+<li>
+<p>Tan Ming Liang (3R4)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Austin Biasbias Doctor (2R2)</p>
+</li>
+<li>
+<p>Lea Lim (2C3)</p>
+</li>
+<li>
+<p>Sean Nathan Albas Esguerra (2R2)</p>
+</li>
+<li>
+<p>Shanika Perera (2R1)</p>
+</li>
+<li>
+<p>Srujan Gangisetti (3R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Brosnan Teo (4R4), Bronze</p>
+</li>
+<li>
+<p>Charlotte Poh (3C3), Bronze</p>
+</li>
+<li>
+<p>Ong Rui En (2R3), Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Create Your Own Newspaper Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gwenaella Lee Yik Yenn (2C3)</p>
+</li>
+<li>
+<p>Lezanne Koh Luck Suan (2R2)</p>
+</li>
+<li>
+<p>Ng Xin Yi (2R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -124,7 +268,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Dolot Shine Mikaela Maminta (4R5)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dolot Shine Mikaela Maminta (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -164,16 +312,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Category
-<br>• 4 Bronzes
-<br>• 7 Honourable Mention
-<br>
-<br>Senior Category
-<br>• 5 Bronzes
-<br>• 1 Honourable Mention
-<br>
-<br>Open Category
-<br>• 1 Honourable Mention</p>
+<p>Junior Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 Bronzes</p>
+</li>
+<li>
+<p>7 Honourable Mention</p>
+</li>
+</ul>
+<p>Senior Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 Bronzes</p>
+</li>
+<li>
+<p>1 Honourable Mention</p>
+</li>
+</ul>
+<p>Open Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Honourable Mention</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -184,12 +346,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2nd Position
-<br>• Enzo Yap Qi Xuan (3R4)
-<br>• Sopheap Chanoudam (3R4)
-<br>• Harikesh Vinod Dialani (3R4)
-<br>• Koh Jun Kai (3R4)
-<br>• Xande (3R4)</p>
+<p>2nd Position</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enzo Yap Qi Xuan (3R4)</p>
+</li>
+<li>
+<p>Sopheap Chanoudam (3R4)</p>
+</li>
+<li>
+<p>Harikesh Vinod Dialani (3R4)</p>
+</li>
+<li>
+<p>Koh Jun Kai (3R4)</p>
+</li>
+<li>
+<p>Xande (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -324,20 +498,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Axel Wong Yin Hoy (Huang Yankai) (2R2)
-<br>• Sakhamuri Meheer Karthikeya Pavan (2R2)
-<br>
-<br>Bronze
-<br>• Chaw Pyae Aung (2R2)
-<br>• Seah Kiat Jiun (Xie Jiejun) (2R2)
-<br>• Sunthoncharu Kantarit (2R4)
-<br>
-<br>Merit
-<br>• Fan Jia Jun, Jayden (2R4)
-<br>• Kota Neil Aryan (2R3)
-<br>• Tristan Chu Zhen Yu (Zhu Zhenyu) (2R2)
-<br>• Vaishnavi Srivastava (2R4)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Axel Wong Yin Hoy (Huang Yankai) (2R2)</p>
+</li>
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (2R2)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chaw Pyae Aung (2R2)</p>
+</li>
+<li>
+<p>Seah Kiat Jiun (Xie Jiejun) (2R2)</p>
+</li>
+<li>
+<p>Sunthoncharu Kantarit (2R4)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fan Jia Jun, Jayden (2R4)</p>
+</li>
+<li>
+<p>Kota Neil Aryan (2R3)</p>
+</li>
+<li>
+<p>Tristan Chu Zhen Yu (Zhu Zhenyu) (2R2)</p>
+</li>
+<li>
+<p>Vaishnavi Srivastava (2R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -348,19 +544,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Muhammad Adiputra Bin Abdul Halim (4R5)
-<br>• Ong Huai Xu (4R5)
-<br>
-<br>Bronze
-<br>• Miranda Lee Xin Yi (4R5)
-<br>• Taseefa Shasmeen Bye Mainuddin Ahmed (4R5)
-<br>
-<br>Merit
-<br>• Kelis Ting Shi Xuan (4R3
-<br>• Lim Egan (4R5)
-<br>• Nurul Sarafyna Binti Nordin (4R3)
-<br>• Rudhima Chauhan (4R5)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Adiputra Bin Abdul Halim (4R5)</p>
+</li>
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Miranda Lee Xin Yi (4R5)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Bye Mainuddin Ahmed (4R5)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kelis Ting Shi Xuan (4R3</p>
+</li>
+<li>
+<p>Lim Egan (4R5)</p>
+</li>
+<li>
+<p>Nurul Sarafyna Binti Nordin (4R3)</p>
+</li>
+<li>
+<p>Rudhima Chauhan (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -371,19 +587,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold
-<br>• Ong Huai Xu (4R5)
-<br>
-<br>Silver
-<br>• Magbitang Callista Ysabelle Acuna (4R5)
-<br>• Miranda Lee Xin Yi (4R5)
-<br>• Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)
-<br>
-<br>Bronze
-<br>• Muhammad Adiputra Bin Abdul Halim (4R5)
-<br>
-<br>Honourable Mention
-<br>• Maithili Vikram Soman (3R5)</p>
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Magbitang Callista Ysabelle Acuna (4R5)</p>
+</li>
+<li>
+<p>Miranda Lee Xin Yi (4R5)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Adiputra Bin Abdul Halim (4R5)</p>
+</li>
+</ul>
+<p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maithili Vikram Soman (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -394,12 +627,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze
-<br>• Ho Ke Ying (4R4)
-<br>
-<br>Merit
-<br>• Chia Wan Ting (4R4)
-<br>• Khairul Izzat (4R4)</p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ho Ke Ying (4R4)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chia Wan Ting (4R4)</p>
+</li>
+<li>
+<p>Khairul Izzat (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -410,31 +652,71 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Poh Yan Rui (4R5)
-<br>
-<br>Bronze
-<br>• Adrian Liaw De Yang (3R5)
-<br>• Ong Huai Xu (4R5)
-<br>• Sopheap Chanoudam (3R4)
-<br>• Thanadol Kaewwichien (4R5)
-<br>
-<br>Honourable Mention
-<br>• Aadvik Mohta (3R5)
-<br>• Ashton Neo Jin Hwee (3R4)
-<br>• Koh Jun Kai Xande (3R4)
-<br>• Loh Xuan Ying Clarisse (4R5)
-<br>• Mohammad Tuha Hossain (3R3)
-<br>• Noor Adani Binte Abdul Rahim (4R5)
-<br>• Ridhima Chauhan (4R5)
-<br>• Shaan Yogesh Gawle (3R4)
-<br>• Tan Khuan Hui (4R4)
-<br>• Tan Yong Han (4R2)
-<br>• Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)
-<br>• Tith Bunnath (3R4)
-<br>• Toh Kit Min Joelle (3R4)
-<br>• Ulrich Van Khalel Colapo Ubana (4R2)
-<br>• William Edward Sugiharto (3R4)</p>
+<p>Silver</p>
+<p>Poh Yan Rui (4R5)</p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adrian Liaw De Yang (3R5)</p>
+</li>
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+<li>
+<p>Sopheap Chanoudam (3R4)</p>
+</li>
+<li>
+<p>Thanadol Kaewwichien (4R5)</p>
+</li>
+</ul>
+<p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aadvik Mohta (3R5)</p>
+</li>
+<li>
+<p>Ashton Neo Jin Hwee (3R4)</p>
+</li>
+<li>
+<p>Koh Jun Kai Xande (3R4)</p>
+</li>
+<li>
+<p>Loh Xuan Ying Clarisse (4R5)</p>
+</li>
+<li>
+<p>Mohammad Tuha Hossain (3R3)</p>
+</li>
+<li>
+<p>Noor Adani Binte Abdul Rahim (4R5)</p>
+</li>
+<li>
+<p>Ridhima Chauhan (4R5)</p>
+</li>
+<li>
+<p>Shaan Yogesh Gawle (3R4)</p>
+</li>
+<li>
+<p>Tan Khuan Hui (4R4)</p>
+</li>
+<li>
+<p>Tan Yong Han (4R2)</p>
+</li>
+<li>
+<p>Taseefa Shasmeen Binte Mainuddin Ahmed (4R5)</p>
+</li>
+<li>
+<p>Tith Bunnath (3R4)</p>
+</li>
+<li>
+<p>Toh Kit Min Joelle (3R4)</p>
+</li>
+<li>
+<p>Ulrich Van Khalel Colapo Ubana (4R2)</p>
+</li>
+<li>
+<p>William Edward Sugiharto (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -445,8 +727,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Sim Wee En (4R5)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sim Wee En (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -461,8 +747,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>High Distinction
-<br>• Sevilleja Gabrielle Lexia Dumaraos (2R2)</p>
+<p>High Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sevilleja Gabrielle Lexia Dumaraos (2R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -477,8 +767,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Kalanke Ved, Sim Yi Sian (4R4)
-<br>• Trivedi Prakhar Nilesh (4R4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kalanke Ved, Sim Yi Sian (4R4)</p>
+</li>
+<li>
+<p>Trivedi Prakhar Nilesh (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -489,12 +785,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Runner-up
-<br>• Ng Yong Teck (3R4),
-<br>• Tan Yu Xian (4R4)
-<br>• Eugene Poh Guan Lin (4R4)
-<br>• Advait Krishna (4R4)
-<br>• Justin Ng Jun Yi (4R4)</p>
+<p>Runner-up</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yong Teck (3R4),</p>
+</li>
+<li>
+<p>Tan Yu Xian (4R4)</p>
+</li>
+<li>
+<p>Eugene Poh Guan Lin (4R4)</p>
+</li>
+<li>
+<p>Advait Krishna (4R4)</p>
+</li>
+<li>
+<p>Justin Ng Jun Yi (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -505,10 +813,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Semi-finalist
-<br>• Eleanor Kuek Xuan Yu (1C3)
-<br>• Declan Gabriel Tan Jiale (1C3)
-<br>• Kuppa Venkata Manish Gupta (1C3)</p>
+<p>Semi-finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eleanor Kuek Xuan Yu (1C3)</p>
+</li>
+<li>
+<p>Declan Gabriel Tan Jiale (1C3)</p>
+</li>
+<li>
+<p>Kuppa Venkata Manish Gupta (1C3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -519,9 +835,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Neo Jin Hwee Ashton (3R4)
-<br>• Ng Yong Teck (3R4)
-<br>• Ang Yi Heng Xaviour (2C2)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Neo Jin Hwee Ashton (3R4)</p>
+</li>
+<li>
+<p>Ng Yong Teck (3R4)</p>
+</li>
+<li>
+<p>Ang Yi Heng Xaviour (2C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -532,10 +856,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2nd Runner-Up
-<br>• Enzo Yap Qi Xuan (3R4)
-<br>• Lye Hong Ann (3R4)
-<br>• Chew Ji Yu Kyan (3R4)</p>
+<p>2nd Runner-Up</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enzo Yap Qi Xuan (3R4)</p>
+</li>
+<li>
+<p>Lye Hong Ann (3R4)</p>
+</li>
+<li>
+<p>Chew Ji Yu Kyan (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -616,12 +948,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Distinction
-<br>• Loh Ying Shan, Sharlene (3C2)
-<br>
-<br>Merit
-<br>• Huang Yi Dan (3R1)
-<br>• Yeo Jun Wei, Keane (3C2)</p>
+<p>Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Loh Ying Shan, Sharlene (3C2)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Huang Yi Dan (3R1)</p>
+</li>
+<li>
+<p>Yeo Jun Wei, Keane (3C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -632,8 +973,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Open Category Winner
-<br>• Loh Ying Shan, Sharlene (3C2)</p>
+<p>Open Category Winner</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Loh Ying Shan, Sharlene (3C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -644,8 +989,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Place
-<br>• Lim Si Qi Sophie (3R1)</p>
+<p>1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Si Qi Sophie (3R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -660,14 +1009,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Chua Ling Ying (3R5)
-<br>• Tan Lok Suan (3R3)
-<br>
-<br>Merit
-<br>• Kwok Zheng Xian Matthew (3R3
-<br>• Ruiz Shaina Nero (3R5)
-<br>• Tepase Alden Marcus Deguangco (3R4)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chua Ling Ying (3R5)</p>
+</li>
+<li>
+<p>Tan Lok Suan (3R3)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kwok Zheng Xian Matthew (3R3</p>
+</li>
+<li>
+<p>Ruiz Shaina Nero (3R5)</p>
+</li>
+<li>
+<p>Tepase Alden Marcus Deguangco (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -678,14 +1040,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3rd Prize
-<br>• Chua Ling Ying (3R5), Good Presenter Award
-<br>• Tan Lok Suan (3R3)
-<br>
-<br>Merit&nbsp;
-<br>• Kwok Zheng Xian Matthew (3R3)
-<br>• Ruiz Shaina Nero (3R5)
-<br>• Tepase Alden Marcus Deguangco (3R4)</p>
+<p>3rd Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chua Ling Ying (3R5), Good Presenter Award</p>
+</li>
+<li>
+<p>Tan Lok Suan (3R3)</p>
+</li>
+</ul>
+<p>Merit&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kwok Zheng Xian Matthew (3R3)</p>
+</li>
+<li>
+<p>Ruiz Shaina Nero (3R5)</p>
+</li>
+<li>
+<p>Tepase Alden Marcus Deguangco (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -696,19 +1071,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Silver
-<br>• Chua Ling Ying (3R5)
-<br>• Tan Lok Suan (3R3)
-<br>
-<br>Merit
-<br>• Kwok Zheng Xian Matthew (3R3)
-<br>• Ruiz Shaina Nero (3R5)
-<br>• Tepase Alden Marcus Deguangco (3R4)</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chua Ling Ying (3R5)</p>
+</li>
+<li>
+<p>Tan Lok Suan (3R3)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kwok Zheng Xian Matthew (3R3)</p>
+</li>
+<li>
+<p>Ruiz Shaina Nero (3R5)</p>
+</li>
+<li>
+<p>Tepase Alden Marcus Deguangco (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Technopreneur</p>
+<p><strong>Technopreneur</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>National Olympiad in Informatics 2024</strong>
@@ -812,8 +1201,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Commendation
-<br>• Khoo Ying Ru Charisse&nbsp;(3C2)</p>
+<p>Commendation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Khoo Ying Ru Charisse&nbsp;(3C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -824,12 +1217,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition
-<br>• Loh Ying Shan, Sharlene (3C2)
-<br>• Low Ying Thong, Yitro (3C2)
-<br>• Mohamed Akif Bin Mohamed Redzuan (3C2)
-<br>• Nayli Auni Binte Muhammad Khairul (3C2)
-<br>• Yeo Jun Wei, Keane (3C2)</p>
+<p>Certificate of Recognition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Loh Ying Shan, Sharlene (3C2)</p>
+</li>
+<li>
+<p>Low Ying Thong, Yitro (3C2)</p>
+</li>
+<li>
+<p>Mohamed Akif Bin Mohamed Redzuan (3C2)</p>
+</li>
+<li>
+<p>Nayli Auni Binte Muhammad Khairul (3C2)</p>
+</li>
+<li>
+<p>Yeo Jun Wei, Keane (3C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -840,8 +1245,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Category B Winner
-<br>• Lim Si Qi Sophie&nbsp;(2R1)</p>
+<p>Category B Winner</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Si Qi Sophie&nbsp;(2R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -852,8 +1261,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Place
-<br>• Lim Si Qi Sophie (3R1)</p>
+<p>1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Si Qi Sophie (3R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -864,8 +1277,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Place
-<br>• Lim Si Qi Sophie (3R1)</p>
+<p>1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Si Qi Sophie (3R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -896,11 +1313,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 1st
-<br>• Guo Yuxuan (2R1)
-<br>• Lim Qi Xun (2R3)
-<br>• Muhammad Irfan Bin Sufian (1R2)
-<br>• Torres Wu Lok Hung (2R1)</p>
+<p>East Zone 1st</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guo Yuxuan (2R1)</p>
+</li>
+<li>
+<p>Lim Qi Xun (2R3)</p>
+</li>
+<li>
+<p>Muhammad Irfan Bin Sufian (1R2)</p>
+</li>
+<li>
+<p>Torres Wu Lok Hung (2R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -912,13 +1339,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>East Zone 2nd, National 12th
-<br>• Esguerra Sean Nathan Albus Policarpio (2R2)
 <br>
-<br>East Zone 7th (Merit)
-<br>• Sakhamuri Meheer Karthikeya Pavan (2R2)
-<br>
-<br>East Zone 9th (Merit)
-<br>• Ryan Lee Kun Long (2R1)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Esguerra Sean Nathan Albus Policarpio (2R2)</p>
+</li>
+</ul>
+<p>East Zone 7th (Merit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (2R2)</p>
+</li>
+</ul>
+<p>East Zone 9th (Merit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ryan Lee Kun Long (2R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -929,8 +1368,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 3rd
-<br>• Katherine Sophie Sugiharto (1C2)</p>
+<p>East Zone 3rd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Katherine Sophie Sugiharto (1C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -941,8 +1384,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 9th (Merit)
-<br>• Aadvik Mohta (3R5)</p>
+<p>East Zone 9th (Merit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aadvik Mohta (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -953,8 +1400,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 4th (Merit)
-<br>• Koh Keira (4R4)</p>
+<p>East Zone 4th (Merit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Koh Keira (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -965,11 +1416,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 3rd
-<br>• Aadvik Mohta (3R5)
-<br>• Gupta Dhairya (3R5)
-<br>• Ng Yong Tee (3R4)
-<br>• Yap Dong Xu, Bryan (3R5)</p>
+<p>East Zone 3rd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aadvik Mohta (3R5)</p>
+</li>
+<li>
+<p>Gupta Dhairya (3R5)</p>
+</li>
+<li>
+<p>Ng Yong Tee (3R4)</p>
+</li>
+<li>
+<p>Yap Dong Xu, Bryan (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -980,30 +1441,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team 2nd Place
-<br>• Chen Hock Yu (2R1)
-<br>• Esguerra Sean Nathan Albus Policarpio (3R5)
-<br>• Goh Sze Le Timothy (3R4)
-<br>• Huang Dongchen (1C1)
-<br>• Lim Qixun (3R3)
-<br>• Muhammad Irfan Bin Sufian (2R2)
-<br>
-<br>Team 3rd Place
-<br>• Andrew Tan (3R1)
-<br>• Lucas Phoa (2R3)
-<br>• Nicholas Tan (2R3)
-<br>• Ong Si Ming Matthias (3R1)
-<br>• Ryan Ho (3R3)
-<br>• Sakhamuri Meheer Karthikeya Pavan (3R5)
-<br>
-<br>Individual 2nd Place
-<br>• Nicholas Tan (2R3)
-<br>
-<br>Individual 3rd Place
-<br>• Esguerra Sean Nathan Albus Policarpio (3R5)
-<br>
-<br>Individual 4th Place
-<br>• Chen Hock Yu (2R1)</p>
+<p>Team 2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Hock Yu (2R1)</p>
+</li>
+<li>
+<p>Esguerra Sean Nathan Albus Policarpio (3R5)</p>
+</li>
+<li>
+<p>Goh Sze Le Timothy (3R4)</p>
+</li>
+<li>
+<p>Huang Dongchen (1C1)</p>
+</li>
+<li>
+<p>Lim Qixun (3R3)</p>
+</li>
+<li>
+<p>Muhammad Irfan Bin Sufian (2R2)</p>
+</li>
+</ul>
+<p>Team 3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Andrew Tan (3R1)</p>
+</li>
+<li>
+<p>Lucas Phoa (2R3)</p>
+</li>
+<li>
+<p>Nicholas Tan (2R3)</p>
+</li>
+<li>
+<p>Ong Si Ming Matthias (3R1)</p>
+</li>
+<li>
+<p>Ryan Ho (3R3)</p>
+</li>
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (3R5)</p>
+</li>
+</ul>
+<p>Individual 2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nicholas Tan (2R3)</p>
+</li>
+</ul>
+<p>Individual 3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Esguerra Sean Nathan Albus Policarpio (3R5)</p>
+</li>
+</ul>
+<p>Individual 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Hock Yu (2R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1014,11 +1511,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 3rd
-<br>• Chen Hock Yu (2R1)
-<br>• Lucas Loo Jun He (1C2)
-<br>• Muhammad Irfan Bin Sufian (2R2)
-<br>• Nicholas Tan En Kai (2R3)</p>
+<p>East Zone 3rd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chen Hock Yu (2R1)</p>
+</li>
+<li>
+<p>Lucas Loo Jun He (1C2)</p>
+</li>
+<li>
+<p>Muhammad Irfan Bin Sufian (2R2)</p>
+</li>
+<li>
+<p>Nicholas Tan En Kai (2R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1029,11 +1536,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Zone 3rd
-<br>• Esguerra Sean Nathan Albus Policarpio (3R5)
-<br>• Lim Qi Xun (3R3)
-<br>• Sakhamuri Meheer Karthikeya Pavan (3R5)
-<br>• Wong Yu Zhe, Zachary (3R5)</p>
+<p>East Zone 3rd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Esguerra Sean Nathan Albus Policarpio (3R5)</p>
+</li>
+<li>
+<p>Lim Qi Xun (3R3)</p>
+</li>
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (3R5)</p>
+</li>
+<li>
+<p>Wong Yu Zhe, Zachary (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1044,24 +1561,71 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team 2nd Place
-<br>• Esguerra Sean Nathan Albus Policarpio (3R5)
-<br>• Gupta Dhairya (4R5)
-<br>• Muhammad Irfan Bin Sufian (2R2)
-<br>• Ng Yong Tee (4R4)
-<br>
-<br>Team 3rd Place
-<br>• Kowithsaengthong Tathata (4R5)
-<br>• Lim Qixun (3R3)
-<br>• Luke Yang Chi-En (4R1)
-<br>• Sakhamuri Meheer Karthikeya Pavan (3R5)</p>
+<p>Team 2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Esguerra Sean Nathan Albus Policarpio (3R5)</p>
+</li>
+<li>
+<p>Gupta Dhairya (4R5)</p>
+</li>
+<li>
+<p>Muhammad Irfan Bin Sufian (2R2)</p>
+</li>
+<li>
+<p>Ng Yong Tee (4R4)</p>
+</li>
+</ul>
+<p>Team 3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kowithsaengthong Tathata (4R5)</p>
+</li>
+<li>
+<p>Lim Qixun (3R3)</p>
+</li>
+<li>
+<p>Luke Yang Chi-En (4R1)</p>
+</li>
+<li>
+<p>Sakhamuri Meheer Karthikeya Pavan (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>Robotics</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>RCAP Cospace Rescue, U19, Superteam Challenge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place And Best Team Description Paper</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>William Teh Kai-Shen (2C1)</p>
+</li>
+<li>
+<p>How Yu Ren (2C3)</p>
+</li>
+<li>
+<p>Arianne Lim Xin Ying (1R2)</p>
+</li>
+<li>
+<p>Ong Lay Kee Victoria (1R3)</p>
+</li>
+<li>
+<p>Jain Arnav (2C1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>IDE Series By Nullspace And VM Education</strong>
 </p>
@@ -1098,8 +1662,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2nd Place
-<br>• Bryan Yong Jing Heng (2R4)</p>
+<p>2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bryan Yong Jing Heng (2R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1110,10 +1678,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Place
-<br>• Enzo Yap Qi Xuan (3R4)
-<br>• Lye Hong Ann (3R4)
-<br>• Sopheap Chanoudam (3R4)</p>
+<p>1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enzo Yap Qi Xuan (3R4)</p>
+</li>
+<li>
+<p>Lye Hong Ann (3R4)</p>
+</li>
+<li>
+<p>Sopheap Chanoudam (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1124,10 +1700,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3rd Place
-<br>• Ang Yi Heng Xaviour (3C3)
-<br>• Bryan Yong Jing Heng (3R4)
-<br>• Ryan Shaw (3R4)</p>
+<p>3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ang Yi Heng Xaviour (3C3)</p>
+</li>
+<li>
+<p>Bryan Yong Jing Heng (3R4)</p>
+</li>
+<li>
+<p>Ryan Shaw (3R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1138,19 +1722,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st Place
-<br>• Tristan Luke Thevathasan (2R1)
-<br>• Tristan Tan Yu Jun (2R1)
-<br>
-<br>2nd Place
-<br>• Jain Arnav (1C1)
-<br>• William Teh Kai-Shen (1C1)
-<br>
-<br>Merit
-<br>• Cheah Di Ysen (2I1)
-<br>• Heng Song Yu Shawn (2C2)
-<br>• Lee Bojun Jay (2R1)
-<br>• Leong Tze Min (2R2)</p>
+<p>1st Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Luke Thevathasan (2R1)</p>
+</li>
+<li>
+<p>Tristan Tan Yu Jun (2R1)</p>
+</li>
+</ul>
+<p>2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jain Arnav (1C1)</p>
+</li>
+<li>
+<p>William Teh Kai-Shen (1C1)</p>
+</li>
+</ul>
+<p>Merit</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheah Di Ysen (2I1)</p>
+</li>
+<li>
+<p>Heng Song Yu Shawn (2C2)</p>
+</li>
+<li>
+<p>Lee Bojun Jay (2R1)</p>
+</li>
+<li>
+<p>Leong Tze Min (2R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1161,15 +1765,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bronze
-<br>• Ng Yong Teck (4R4)
-<br>• Tith Bunnath (4R4)
-<br>• William Edward Sugiharto (4R4)</p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yong Teck (4R4)</p>
+</li>
+<li>
+<p>Tith Bunnath (4R4)</p>
+</li>
+<li>
+<p>William Edward Sugiharto (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Information Technology</p>
+<p><strong>Information Technology</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>AI Poster Design Competition</strong>
@@ -1364,26 +1977,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Edison Yong Kai Sheng (5C1)
-<br>• Ong Ze Lin, Isaac (3R1)
-<br>
-<br>C Division Boys
-<br>• Zeth Kuik Cheng Kai (2C2)
-<br>
-<br>B Division Girls
-<br>• Toh Hsin Yin (4R5)
-<br>• Wardatus Syifa' Binte Muhammad Rashidi (4C3)
-<br>
-<br>C Division Girls
-<br>• Hew Yi Xin (2R3)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Edison Yong Kai Sheng (5C1)</p>
+</li>
+<li>
+<p>Ong Ze Lin, Isaac (3R1)</p>
+</li>
+</ul>
+<p>C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zeth Kuik Cheng Kai (2C2)</p>
+</li>
+</ul>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Toh Hsin Yin (4R5)</p>
+</li>
+<li>
+<p>Wardatus Syifa' Binte Muhammad Rashidi (4C3)</p>
+</li>
+</ul>
+<p>C Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hew Yi Xin (2R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="10" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Junyuan Cup</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Basketball Championships 2024 (B Division Boys)</strong>
 </p>
@@ -1391,7 +2032,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> Place</p>
+<p>3rd Place</p>
 </td>
 </tr>
 <tr>
@@ -1424,11 +2065,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Tristan Chu Zhen Yu (3R3)
-<br>
-<br>B Division Girls
-<br>• Advika Ramesh (4R1)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Chu Zhen Yu (3R3)</p>
+</li>
+</ul>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advika Ramesh (4R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1443,12 +2091,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5th Place
-<br>• Amad Zuhairie Bin Salehudin (3C2)
-<br>• Foo Shi Han (3R2)
-<br>• Harikesh Vinod Dialani (3R4)
-<br>• Li Hao Zhen (3R3)
-<br>• Shahirah Binte Roseli (3I1)</p>
+<p>5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amad Zuhairie Bin Salehudin (3C2)</p>
+</li>
+<li>
+<p>Foo Shi Han (3R2)</p>
+</li>
+<li>
+<p>Harikesh Vinod Dialani (3R4)</p>
+</li>
+<li>
+<p>Li Hao Zhen (3R3)</p>
+</li>
+<li>
+<p>Shahirah Binte Roseli (3I1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1459,11 +2119,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5th Place
-<br>• Choo Zhi Yu, Renee (2R3)
-<br>• Sevilleja Gabrielle Lexia Dumaraos (1R2)
-<br>• Sheryl Ong Jing Xin (2C1)
-<br>• Valerie Chew Yue Ying (1I1)</p>
+<p>5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Zhi Yu, Renee (2R3)</p>
+</li>
+<li>
+<p>Sevilleja Gabrielle Lexia Dumaraos (1R2)</p>
+</li>
+<li>
+<p>Sheryl Ong Jing Xin (2C1)</p>
+</li>
+<li>
+<p>Valerie Chew Yue Ying (1I1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1485,9 +2155,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3rd Place
-<br>• Chew Yip Heng (2R2)
-<br>• Chia Rui Heng Bryan (2R1)</p>
+<p>3rd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chew Yip Heng (2R2)</p>
+</li>
+<li>
+<p>Chia Rui Heng Bryan (2R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1546,9 +2222,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Girls
-<br>• Achugbu Rosemary Callista (4I1)
-<br>• Dianah Hanis Binte Zulkarnain, (4C2)</p>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achugbu Rosemary Callista (4I1)</p>
+</li>
+<li>
+<p>Dianah Hanis Binte Zulkarnain, (4C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1581,8 +2263,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Girls
-<br>• Nichole Tan (4I1)</p>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nichole Tan (4I1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1688,8 +2374,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Nan Quan: 5th Place
-<br>• Loh Hao Cheng (1R2)</p>
+<p>1st International Nan Quan: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Loh Hao Cheng (1R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1700,17 +2390,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Cudgel: 8th Place
-<br>• Loh Pui Ting, Phoebe (3R2)
-<br>
-<br>2nd International Chang Quan: 5th Place
-<br>• Rachel Lee Jia Hui (4C1)
-<br>
-<br>2nd International Chang Quan: 6th Place
-<br>• Chai Yu Xuan (4R4)
-<br>
-<br>1st International Nan Dao: 6th Place
-<br>• Shannon Lee Yu En (4C1)</p>
+<p>1st International Cudgel: 8th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Loh Pui Ting, Phoebe (3R2)</p>
+</li>
+</ul>
+<p>2nd International Chang Quan: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rachel Lee Jia Hui (4C1)</p>
+</li>
+</ul>
+<p>2nd International Chang Quan: 6th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chai Yu Xuan (4R4)</p>
+</li>
+</ul>
+<p>1st International Nan Dao: 6th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shannon Lee Yu En (4C1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1721,14 +2424,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Broadsword: 8th Place
-<br>• Ong Ling Xin (2R4)
-<br>
-<br>1st International Cudgel: 5th Place
-<br>• Ong Ling Xin (2R4)
-<br>
-<br>1st International Nan Gun: 6th Place
-<br>• Lee Pei Ying, Jenna (2C2)</p>
+<p>1st International Broadsword: 8th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Ling Xin (2R4)</p>
+</li>
+</ul>
+<p>1st International Cudgel: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Ling Xin (2R4)</p>
+</li>
+</ul>
+<p>1st International Nan Gun: 6th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Pei Ying, Jenna (2C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1739,8 +2452,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Broadsword: 4th Place
-<br>• Ryan Lee Xing Zuo (4R1)</p>
+<p>1st International Broadsword: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ryan Lee Xing Zuo (4R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1751,14 +2468,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Nan Dao: 4th Place
-<br>• Tan Jing Xiang Lucas (1R1)
-<br>
-<br>1st International Nan Quan: 4th Place
-<br>• Tan Jing Xiang Lucas (1R1)
-<br>
-<br>5 Duan Broadsword: 4th Place
-<br>• Choo Chen En Jacob (1C2)</p>
+<p>1st International Nan Dao: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Jing Xiang Lucas (1R1)</p>
+</li>
+</ul>
+<p>1st International Nan Quan: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Jing Xiang Lucas (1R1)</p>
+</li>
+</ul>
+<p>5 Duan Broadsword: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Chen En Jacob (1C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1769,8 +2496,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Sword: 6th Place
-<br>• Xiao Wenlin (4R3)</p>
+<p>1st International Sword: 6th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xiao Wenlin (4R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1781,17 +2512,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Broadsword: 7th Place
-<br>• Huang Haoya (1R3)
-<br>
-<br>32 Style Taijijian: 5th Place
-<br>• Heidi Lim Rui Han (2R2)
-<br>
-<br>42 Style Taijijian: 5th Place
-<br>• Ng Yu Han Celeste (1C2)
-<br>
-<br>5 Duan Spear: 5th Place
-<br>• Yue En Xi, Reanne (1R2)</p>
+<p>1st International Broadsword: 7th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Huang Haoya (1R3)</p>
+</li>
+</ul>
+<p>32 Style Taijijian: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Heidi Lim Rui Han (2R2)</p>
+</li>
+</ul>
+<p>42 Style Taijijian: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Yu Han Celeste (1C2)</p>
+</li>
+</ul>
+<p>5 Duan Spear: 5th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yue En Xi, Reanne (1R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1802,17 +2546,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Ryan Lee Xing Zuo (4R1)
-<br>
-<br>C Division Boys
-<br>• Tan Jing Xiang Lucas (1R1)
-<br>
-<br>B Division Girls
-<br>• Xiao Wenlin (4R3)
-<br>
-<br>C Division Girls
-<br>• Yue En XI, Reanne (1R2)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ryan Lee Xing Zuo (4R1)</p>
+</li>
+</ul>
+<p>C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Jing Xiang Lucas (1R1)</p>
+</li>
+</ul>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xiao Wenlin (4R3)</p>
+</li>
+</ul>
+<p>C Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yue En XI, Reanne (1R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1859,9 +2616,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Hana Syafinah Binte Mohamed Ali (4R1)
-<br>• Muhammad Siddiq Bin Samuwei (5C1)
-<br>• Tan Xin Yi (4R3)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hana Syafinah Binte Mohamed Ali (4R1)</p>
+</li>
+<li>
+<p>Muhammad Siddiq Bin Samuwei (5C1)</p>
+</li>
+<li>
+<p>Tan Xin Yi (4R3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1872,8 +2637,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6th Place
-<br>Lim See Xuan (1R1)</p>
+<p>6th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim See Xuan (1R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1884,11 +2653,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>100M: 4th Place
-<br>• Twila Chan Sze Hwi(4C3)
-<br>
-<br>200M: 4th Place
-<br>• Twila Chan Sze Hwi(4C3)</p>
+<p>100M: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Twila Chan Sze Hwi(4C3)</p>
+</li>
+</ul>
+<p>200M: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Twila Chan Sze Hwi(4C3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1899,14 +2675,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>250M: 4th Place
-<br>• Tristan Tan Yu Jun (1R1)
-<br>
-<br>500M: 4th Place
-<br>• Tristan Tan Yu Jun (1R1)
-<br>
-<br>1000M: 4th Place
-<br>• Tristan Tan Yu Jun (1R1)</p>
+<p>250M: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Tan Yu Jun (1R1)</p>
+</li>
+</ul>
+<p>500M: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Tan Yu Jun (1R1)</p>
+</li>
+</ul>
+<p>1000M: 4th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Tan Yu Jun (1R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1917,8 +2703,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>100M: Semi-finalist
-<br>• Tan Yi Xi Caedmon (2R2)</p>
+<p>100M: Semi-finalist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Xi Caedmon (2R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1929,8 +2719,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Division Boys
-<br>• Tan Yi Xi Caedmon (2R2)</p>
+<p>C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Xi Caedmon (2R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1941,20 +2735,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Dario Cao Hartono (3R2)
-<br>• Gawle Shaan Yogesh (4R4)
-<br>
-<br>C Division Boys
-<br>• Tristan Tan Yu Jun (2R1)
-<br>
-<br>B Division Girls
-<br>• Jodell Lee Jing Wen (4R5)
-<br>• Jodi Chew Yen Tong (4R4)
-<br>• Toh Kit Min, Joelle (4R4)
-<br>
-<br>C Division Girls
-<br>• Zahra Binte Norman (1C2)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dario Cao Hartono (3R2)</p>
+</li>
+<li>
+<p>Gawle Shaan Yogesh (4R4)</p>
+</li>
+</ul>
+<p>C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tristan Tan Yu Jun (2R1)</p>
+</li>
+</ul>
+<p>B Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jodell Lee Jing Wen (4R5)</p>
+</li>
+<li>
+<p>Jodi Chew Yen Tong (4R4)</p>
+</li>
+<li>
+<p>Toh Kit Min, Joelle (4R4)</p>
+</li>
+</ul>
+<p>C Division Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zahra Binte Norman (1C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1965,8 +2778,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>200M Backstroke: 8th Place
-<br>• Twila Chan Sze Hwi (5C1)</p>
+<p>200M Backstroke: 8th Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Twila Chan Sze Hwi (5C1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1977,8 +2794,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Black Poom 2: 2nd Place
-<br>• Koo Jia Jun Cayden (1C2)</p>
+<p>Black Poom 2: 2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Koo Jia Jun Cayden (1C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1989,11 +2810,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Tan Yi Xi Caedmon (3R5)
-<br>
-<br>C Division Boys
-<br>• Koo Jia Jun Cayden (1C2)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Xi Caedmon (3R5)</p>
+</li>
+</ul>
+<p>C Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Koo Jia Jun Cayden (1C2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2004,8 +2832,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Division Boys
-<br>• Tan Yi Xi Caedmon (3R5)</p>
+<p>B Division Boys</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yi Xi Caedmon (3R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -2154,7 +2986,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Jonathan Teng Jia Jun (4C1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jonathan Teng Jia Jun (4C1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2176,8 +3012,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Adam Bin Abdillah (4R3)
-<br>• Syed Syafi Adryan Bin Abdullah (4I1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adam Bin Abdillah (4R3)</p>
+</li>
+<li>
+<p>Syed Syafi Adryan Bin Abdullah (4I1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2246,8 +3088,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Mohamed Izz Danish Bin Mohamed Nasir (4C3)
-<br>• Sumitra Sunil Garse (4R1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mohamed Izz Danish Bin Mohamed Nasir (4C3)</p>
+</li>
+<li>
+<p>Sumitra Sunil Garse (4R1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2269,8 +3117,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Eleonora Maharani Putri Suprihadi (4R3)
-<br>• Nathaniel Mirafuente Manguera (4R4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eleonora Maharani Putri Suprihadi (4R3)</p>
+</li>
+<li>
+<p>Nathaniel Mirafuente Manguera (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2311,8 +3165,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Abdul Hakeem Bin Anwarul Haq (4R4)
-<br>• Ong Huai Xu (4R5)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Abdul Hakeem Bin Anwarul Haq (4R4)</p>
+</li>
+<li>
+<p>Ong Huai Xu (4R5)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2323,7 +3183,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Fong Jing Yuan (3R2)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fong Jing Yuan (3R2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2345,7 +3209,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Imran Hassan Al Mutawalli Bin Abdul Rahman (4R4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Imran Hassan Al Mutawalli Bin Abdul Rahman (4R4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -2356,8 +3224,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Lee Jun Han, Ryan (4R3)
-<br>• Muhammad Sufi Bin Hazlin Noor (3C3)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Jun Han, Ryan (4R3)</p>
+</li>
+<li>
+<p>Muhammad Sufi Bin Hazlin Noor (3C3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
