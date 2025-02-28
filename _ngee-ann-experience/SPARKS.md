@@ -4,6 +4,10 @@ permalink: /ngee-ann-experience/sparks/
 description: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/19EUb41_v7W6zLe9ls9vLc36lZTtDysn8328oQ1C7Y1Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p>SPARKS is Ngee Ann Secondary’s Science, Technology, Engineering, and Mathematics
 (STEM) Talent Development Programme. Through SPARKS, we nurture collaborative
 and resilient innovators who develop impactful solutions for the community.</p>
