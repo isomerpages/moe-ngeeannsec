@@ -2,62 +2,43 @@
 title: SPARKS
 permalink: /ngee-ann-experience/sparks/
 description: ""
+variant: tiptap
 ---
-SPARKS is Ngee Ann Secondary's Science and Mathematics Talent Development Programme. It follows a broad-based curriculum where innovative and interesting teaching methods are used and classes are held in technologically-rich rooms. Emphasis is given towards higher level cognitive and learning skills, such as critical thinking, independent learning, problem-solving, formal writing, and research and development.
-
-  
-
-### Structure of the programme
-
-The SPARKS Programme is a three-year programme.
-
-It comprises Scientific Critical Thinking, Drones and Science Research. Trainings for various competitions, including the Olympiads will also be offered to students. Students will embark on a SPARKS trip to Australia in Year 3 with our partner school.
-
-  
-
-### Eligibility Criteria for SPARKS
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">SPARKS (MA &amp; SCI)</th>
-    <th class="tg-ktyi">At least AL 2 in MA &amp; SCI</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">SPARKS (MA)</td>
-    <td class="tg-ktyi">Score AL 1 in MA*</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">SPARKS (SCI)</td>
-    <td class="tg-ktyi">Score AL 1 in SCI**</td>
-  </tr>
-</tbody>
-</table>
-
-<center>*students who did not score at least an AL 2 in Sci  <br>
-** students who did not score at least an AL 2 in MA</center>
-
-Generally, students who are among the top quartile of the Express cohort by the PSLE subject ranked lists for Mathematics and Science will be eligible for the SPARKS programme.  
-  
-SPARKS students may continue to be eligible for the Sec 2 SPARKS programme based on their math and science results, attendance and degree of participation during the Sec 1 SPARKS programmes. New students may also enrol at the end of Sec 1 for the Sec 2 SPARKS programme, in part or whole, based on their results and/or teachers’ recommendations of their aptitude and passion.  
-  
-
-### Teachers-in-charge
-
-Ms Alice Chua <br>
-Ms Patricia Goh <br>
-Mr Neo Guang Xian
-
-  
-
-If you would like to learn more about this programme, please email your enquiries to nass@moe.edu.sg. Alternatively, you may call the school at 67844583 to speak to the teachers-in-charge.
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/19EUb41_v7W6zLe9ls9vLc36lZTtDysn8328oQ1C7Y1Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p>SPARKS is Ngee Ann Secondary’s Science, Technology, Engineering, and Mathematics
+(STEM) Talent Development Programme. Through SPARKS, we nurture collaborative
+and resilient innovators who develop impactful solutions for the community.</p>
+<h3>Structure of the programme</h3>
+<p>The programme is designed to progressively develop students’ STEM skills:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary One: Students are introduced to Design Thinking and Communication
+Skills. They also embark on learning journeys to broaden their understanding
+of STEM.</p>
+</li>
+<li>
+<p>Secondary Two: Students develop their STEM research skills and have the
+opportunities to start applying their knowledge to real-world projects.</p>
+</li>
+<li>
+<p>Upper Secondary: Students further refine their STEM research and interdisciplinary
+skills by participating in advanced programmes and competitions. One such
+opportunity is STEAMunity, a programme by the Singapore University of Technology
+and Design (SUTD), where students receive mentorship, collaborate with
+community partners, and propose solutions that create real-world impact.</p>
+</li>
+</ul>
+<h3>Eligibility Criteria for SPARKS</h3>
+<p>Secondary One students are invited to join SPARKS if they achieve a combined
+Achievement Level (AL) of 3 or less for PSLE Mathematics and Science.</p>
+<p>Eligibility for the Secondary Two SPARKS programme is based on students'
+Mathematics and Science results, attendance, and level of participation
+in Secondary One. New students may also be considered at the end of Secondary
+One, subject to their results, teacher recommendations, passion for STEM,
+and available vacancies.</p>
+<h3>Teachers-in-charge</h3>
+<p>Mathematics: Mr Seah Siang Chye (HOD), Mr Neo Guang Xian (SH)
+<br>Science: Ms Koh Ruiyin Evelyn (HOD), Ms Teresa Ong Hui Li (LH)</p>
