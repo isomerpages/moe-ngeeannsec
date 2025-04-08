@@ -102,6 +102,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Boey Mei Yoke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Salbiaya Bte Said</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,18 +199,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Piak Eng Connie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Nazmi Bin Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -224,14 +224,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Chang Teck</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer (NCS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Sidek Fatholrahman Bin Redzwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS)</p>
