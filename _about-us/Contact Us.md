@@ -19,7 +19,7 @@ variant: tiptap
 <p>8 am - 5:30 pm&nbsp;
 <br>Closed on Saturdays, Sundays and Public Holidays.</p>
 <h2>How to get here</h2>
-<h4><strong>By MRT:</strong> </h4>
+<h4><strong>By MRT:</strong></h4>
 <p>Down Town Line MRT (Station Name: Tampines East, Exit C)</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/MRT%20Exit%20C.jpg">
@@ -31,7 +31,7 @@ variant: tiptap
 <br>3, 4, 9, 12, 17, 19, 21, 29, 34, 37, 39, 59, 81, 518, NR7</p>
 <p><strong>Along Tampines Street 33</strong> 
 <br>291</p>
-<h4><strong>By Car:</strong> </h4>
+<h4><strong>By Car:</strong></h4>
 <p><a href="https://www.google.com/maps/place/Ngee+Ann+Secondary+School/@1.3540477,103.9558598,18z/data=!4m2!3m1!1s0x0:0xb306dfd8338628a6" rel="noopener noreferrer nofollow" target="_blank">Google Maps</a> 
 <br><a href="http://gothere.sg/maps#q:ngee%20ann%20secondary%20school" rel="noopener noreferrer nofollow" target="_blank">Gothere.sg</a>
 </p>
