@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="From Left: Mdm Tan Lay Gin, Vice Principal; Mr Goh Chin Wei Chad, Vice Principal; and Ms Poh Shi Hui, Principal" src="/images/P_message_photo.jpeg">
 </div>
-<p><s><sub>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice Principal and Ms Poh Shi Hui, Principal</sub></s>
+<p><sub>From Left: Mdm Tan Lay Gin, Vice Principal, Mr Goh Chin Wei Chad, Vice Principal and Ms Poh Shi Hui, Principal</sub>
 </p>
 <h4><strong>Principal’s Message 2025</strong></h4>
 <p>A warm welcome to Ngee Ann Secondary School. Thank you for taking the
