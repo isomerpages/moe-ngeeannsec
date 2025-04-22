@@ -4,7 +4,7 @@ permalink: /about-us/organization-chart/
 description: ""
 variant: tiptap
 ---
-<h5>School Management Committee 2024</h5>
+<h5>School Management Committee 2025</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,16 +12,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Role</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kim Hock</p>
+<p>Mr Chia Mia Chiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -29,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ku Swee Ngein</p>
+<p>Mr Phua Chung Ann (Robert)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairman</p>
@@ -37,7 +39,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Wu Chiaw Ching</p>
+<p>Ms Teo Ooi Ky (Vicki)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMC Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Teo Miang Chneh (Christopher)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
@@ -45,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lie Kee Pong</p>
+<p>Mr Desmond Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
@@ -53,23 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Ter Lun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Phua Chung Ann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Teo Miang Chneh</p>
+<p>Mr Thana Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
