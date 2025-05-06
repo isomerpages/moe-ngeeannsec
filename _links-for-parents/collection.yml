@@ -2,7 +2,6 @@ collections:
   links-for-parents:
     output: true
     order:
-      - Direct School Admission (DSA) Exercise 2025.md
       - Sec 1 Posting For 2025/.keep
       - Sec 1 Posting For 2025/Sec 1 Registration Exercise (2025 Intake).md
       - Sec 1 Posting For 2025/PG Notifications & Sec 1 Registration Briefing.md
@@ -14,6 +13,7 @@ collections:
       - Parents Support Group (PSG).md
       - Parents Gateway.md
       - Support for Home–based Learning.md
+      - Direct School Admission (DSA) Exercise 2025.md
       - Direct School Admission (DSA) Exercise 2024.md
       - Personal Learning Devices (PLD).md
       - Personal Data Protection Act.md
