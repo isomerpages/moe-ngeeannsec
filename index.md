@@ -11,12 +11,9 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: ADVERTISEMENT FOR VACANT CANTEEN STALL
-          description: "Closing date: 17 February 2025"
-          url: /vacant-canteen-stall/
-        - title: Release of 2024 GCE O-Level Examination Results
-          description: 10 January 2025, 2.30 pm
-          url: /release-of-2024-gce-o-level-examination-results/
+        - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2025
+          description: Click here for more info!
+          url: /direct-school-admission-dsa-exercise-2025/
         - title: Sec 1 Posting For 2025
           description: Click here for more info!
           url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
