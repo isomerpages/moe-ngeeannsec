@@ -215,10 +215,39 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Humanities</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 NUS Geography Challenge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pham Phuong Thuy (4 Resilience)</p>
+</li>
+</ul>
+<p></p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hwa Yan Ning (4 Resilience)</p>
+</li>
+<li>
+<p>Neow Jing Yi Nerys (4 Resilience)</p>
+</li>
+<li>
+<p>Muhammad Danial Eu Jun Xiong (4 Righteousness)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>NUS Geography Challenge 2024</strong>
 </p>
@@ -367,10 +396,39 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>Science</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Temasek Engineering Olympiad 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lek Zhen Feng (Lu Zhenfeng) (4 Respect)</p>
+</li>
+<li>
+<p>Ethan Ho Jian Feng (4 Responsibility)</p>
+</li>
+<li>
+<p>Sevilleja Gabrielle Lexia Dumaraos (4 Righteousness)</p>
+</li>
+</ul>
+<p></p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emily Ivana Pangemanan (4 Righteousness)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>2024 Singapore Science and Engineering Fair</strong>
 </p>
@@ -871,10 +929,54 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="12" colspan="1">
 <p><strong>Enhanced Art Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>VIART Award 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parkroyal Collection Marina Bay Best Sustainable Message Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dhani Irfan Bin Mohammad Faizal (4 Care)</p>
+</li>
+<li>
+<p>Kylie Tan Si Qi (4 Respect)</p>
+</li>
+<li>
+<p>Tang Si Cheng (4 Care)</p>
+</li>
+<li>
+<p>Cailey Nur Aqilah Binte Mohammad Ridzuan From Class (4 Care)</p>
+</li>
+</ul>
+<p></p>
+<p>Parkroyal Collection Marina Bay The Most Artistic Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Phan Anh Thi (4 Righteousness)</p>
+</li>
+<li>
+<p>Adrianna Dania Binte Mohammed Azhari (4 Care)</p>
+</li>
+<li>
+<p>Aluvee Garcia Sim (4 Commitment)</p>
+</li>
+<li>
+<p>Lee Kai Le Joseph (4 Care)</p>
+</li>
+<li>
+<p>Michael Carlos Tan Xuan Ngee (4 Care)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>365: Viral Good Vibes National Digital Sticker Design Competition 2024</strong>
 </p>
@@ -998,10 +1100,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>SPARKS</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>STEAMunity Programme Stage 2 (by SUTD)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trailblazing Solution Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Felix Tjia (4 Resilience)</p>
+</li>
+<li>
+<p>Aiden Chan Yen Peng (4 Responsibility)</p>
+</li>
+<li>
+<p>Teoh Rui Ean Ryan (4 Righteousness)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>A*STAR-VJC Science Fair 2022</strong>
 </p>
@@ -2167,10 +2291,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>Volleyball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Volleyball Championships 2025 (B Division)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Volleyball Championships 2024 (B Division Girls)</strong>
 </p>
@@ -2942,10 +3077,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Recognition Banding (For 2024)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Precision Drill Squad Competition: East Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> Place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>13th Precision Drill Squad Competition (East Zone)</strong>
 </p>
@@ -3034,10 +3191,54 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>National Police Cadet Corps</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award (For 2024)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Unit Cadet Badge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Nor Amirul Hakim Bin Baharuddin (4 Commitment)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Dyann Lee Jia Xuan (4 Commitment)</p>
+</li>
+<li>
+<p>Keith Chen Shengqi (4 Integrity)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>NPCC Unit Overall Proficiency Award 2023</strong>
 </p>
@@ -3128,10 +3329,59 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>Scouts</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Voyager Progress Badge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Raiyan Mirza Bin Mohamad Taufik (4 Care)</p>
+</li>
+<li>
+<p>Lim Junyu Jayden (4 Resilience)</p>
+</li>
+<li>
+<p>Ethan Ho Jian Feng (4 Responsibility)</p>
+</li>
+<li>
+<p>Lee Rui Teng Isaiah (4 Righteousness)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Youth Achievement Award (NYAA)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Muhammad Raiyan Mirza Bin Mohamad Taufik (4 Care)</p>
+</li>
+<li>
+<p>Lim Junyu Jayden (4 Resilience)</p>
+</li>
+<li>
+<p>Ethan Ho Jian Feng (4 Responsibility)</p>
+</li>
+<li>
+<p>Lee Rui Teng Isaiah (4 Righteousness)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chief Commissioner’s Well-Done Badge</strong>
 </p>
