@@ -10,10 +10,9 @@ description: ""
 <br>Do you think that Ngee Ann Secondary School will be a good fit for you?</p>
 <p>The Ngee Ann Secondary School Direct School Admission (DSA-Sec) to Secondary
 One in 2026 is open to interested applicants.</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 11am on Wednesday,
-7 May 2025 to 3pm on Tuesday, 3 Jun 2025. For more details, please refer
-to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
+and will be open from 11am on Wednesday, 7 May 2025 to 3pm on Tuesday,
+3 Jun 2025. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>For the most updated information on our school, please visit:</p>
 <ul data-tight="true" class="tight">
 <li>
