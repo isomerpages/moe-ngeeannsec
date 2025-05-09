@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Example Title.md
       - Student Leadership.md
       - Character & Citizenship Education (CCE).md
       - Sexuality Education.md
