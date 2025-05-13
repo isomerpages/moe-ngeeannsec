@@ -13,17 +13,9 @@ One in 2026 is open to interested applicants.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 and will be open from 11am on Wednesday, 7 May 2025 to 3pm on Tuesday,
 3 Jun 2025. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p>For the most updated information on our school, please visit:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Facebook: <a href="https://www.facebook.com/ngeeannsec/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/ngeeannsec/</a>
-</p>
-</li>
-<li>
-<p>Instagram: <a href="https://www.instagram.com/ngeeannsec/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/ngeeannsec/</a>
-</p>
-</li>
-</ul>
+<p>To find out more about what the NAS experience has to offer for you, follow
+us on our social media pages here [<a href="https://www.facebook.com/ngeeannsec/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>] and here [
+<a href="https://www.instagram.com/ngeeannsec/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>]!</p>
 <h2><strong>Think it Through</strong></h2>
 <p>How do you know if Ngee Ann Secondary’s DSA suits you? The following considerations
 might help:</p>
