@@ -253,4 +253,5 @@ on 04 Nov 2024</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mrs. Ms Izyan Rozana Bte Mohd Najib (CCA Teacher-in-charge)
-<br>Ms Law Wan Yi Georgina</p>
+<br>Ms Law Wan Yi Georgina
+<br>Ms Siti Ashirah Bte Othman</p>
