@@ -382,7 +382,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,6 +392,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shalini D/O Sukumaran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gabriel Yap Zheng Bo</p>
 </td>
 </tr>
 <tr>
