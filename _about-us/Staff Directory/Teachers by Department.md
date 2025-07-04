@@ -618,6 +618,14 @@ variant: tiptap
 <p>Untrained Teacher / CL</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syafaah Binte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / ML</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>PHYSICAL EDUCATION</h3>
