@@ -236,4 +236,5 @@ EN YI (Sec 2)</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mdm. Nashita Allaudin (CCA Teacher-in-charge)
-<br>Mdm. Mariana Binte Yunus</p>
+<br>Mdm. Mariana Binte Yunus
+<br>Mr Koh Meng Hong</p>
