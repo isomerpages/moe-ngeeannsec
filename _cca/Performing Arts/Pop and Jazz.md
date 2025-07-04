@@ -227,4 +227,4 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 <h3>CCA Teachers</h3>
 <p>Ms. Sayuri Limarsono (CCA Teacher-in-charge)
 <br>Mr. Ishak Buang
-<br>Mdm. Tengku Nur Athifah binte Tengku Azahar</p>
+<br>Ms Adalia Chong</p>
