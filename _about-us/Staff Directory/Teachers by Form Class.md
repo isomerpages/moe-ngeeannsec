@@ -68,7 +68,7 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tengku Nur Athifah bte Tengku</p>
+<p>Mr Quek Meng Kiang</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,12 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Meng Kiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Chen Ling</p>
+<p>Ms Ananurmelati Bte Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +146,7 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lock-Lian Wee Lee</p>
+<p>Ms Wong Chen Ling</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +159,7 @@ variant: tiptap
 <p>1 Righteousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zarifah</p>
+<p>Mr Teo Soon Ann</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +360,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wee-Ho Gim Hui</p>
+<p>Ms Teo Siew Lian Rachel</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +382,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,6 +392,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shalini D/O Sukumaran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gabriel Yap Zheng Bo</p>
 </td>
 </tr>
 <tr>
@@ -551,16 +551,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Choon Hou Alvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ananurmelati Binte Abdul Rahman</p>
 </td>
 </tr>
 </tbody>

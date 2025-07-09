@@ -252,6 +252,6 @@ on 04 Nov 2024</p>
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Mrs. Lock-Lian Wee Lee (CCA Teacher-in-charge)
+<p>Mrs. Ms Izyan Rozana Bte Mohd Najib (CCA Teacher-in-charge)
 <br>Ms Law Wan Yi Georgina
-<br>Ms. Izyan Rozana Binte Mohd Nejib</p>
+<br>Ms Siti Ashirah Bte Othman</p>

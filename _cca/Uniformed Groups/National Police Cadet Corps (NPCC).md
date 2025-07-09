@@ -215,4 +215,5 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <h3>CCA Teachers</h3>
 <p>Mr. Kang Guan Wei (CCA Teacher-in-charge)
 <br>Mr. Tan Rou Ming
-<br>Mdm. Suhaila Ahmat Samsi</p>
+<br>Mdm. Suhaila Ahmat Samsi
+<br>Ms Wong Chen Ling</p>

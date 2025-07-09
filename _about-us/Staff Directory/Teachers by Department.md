@@ -73,14 +73,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lock-Lian Wee Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Music &amp; EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Ummirah Nasser</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,6 +127,14 @@ variant: tiptap
 <p>Education Support Assistant</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Adalia Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / Art</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>ENGLISH LANGUAGE &amp; LITERATURE</h3>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>Mdm Nor Hasni Yanti Binte Hamim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / EL</p>
+<p>HOD / EL</p>
 </td>
 </tr>
 <tr>
@@ -202,22 +202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Chai Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lock-Lian Wee Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / EL &amp; Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nashita Binte Allaudin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,6 +235,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Meow Ling Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Loo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / EL</p>
@@ -311,7 +303,7 @@ variant: tiptap
 <p>Mr Tan Rou Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Leadership Development (Internal)
+<p>Subject Head / Student Leadership Development
 <br>Teacher / Geography &amp; Social Studies</p>
 </td>
 </tr>
@@ -497,14 +489,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wee-Ho Gim Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / Maths</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wong Tong Aun James</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -604,14 +588,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tengku Nur Athifah bte Tengku</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / ML</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhao Tong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -628,14 +604,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hoo Liew Wah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher / CL (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lian Bee San</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -644,10 +612,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Abdul Rahman</p>
+<p>Ms Wong Chen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / ML (FAJT)</p>
+<p>Untrained Teacher / CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syafaah Binte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / ML</p>
 </td>
 </tr>
 </tbody>
@@ -909,14 +885,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamilah Binte Hamzah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jolen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -937,14 +905,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Counsellor (FAJT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Li Rongzhuang Shernise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gear-Up (FAJT)</p>
 </td>
 </tr>
 <tr>

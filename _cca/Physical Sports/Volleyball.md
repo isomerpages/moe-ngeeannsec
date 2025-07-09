@@ -261,4 +261,5 @@ TAN (Sec 4)</p>
 <p>Mr. Lai Hon Kit Chris (CCA Teacher-in-charge)
 <br>Mdm. Lyu Jun Chao
 <br>Miss Eunice Loo Jia Xin
-<br>Mr. Chiam Baiji Alex</p>
+<br>Ms Nur Syafaah Binte Ismail
+<br>Mr Gabriel Yap Zheng Bo</p>
