@@ -135,6 +135,14 @@ variant: tiptap
 <p>Untrained Teacher / Art</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Nurandi Bin Mohamed Arman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / D&amp;T</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>ENGLISH LANGUAGE &amp; LITERATURE</h3>
@@ -501,6 +509,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Maths</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Nurandi Bin Mohamed Arman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / Computing</p>
 </td>
 </tr>
 </tbody>
