@@ -222,11 +222,6 @@ of NAS to inspire others through your talents!</p>
 </tr>
 </tbody>
 </table>
-<h4>4. School Tour [8am - 1pm]</h4>
+<h4>4. School Tour [8am to 1pm]</h4>
 <p>Mode 1: Led by our friendly Student Ambassadors
 <br>Mode 2: Self-guided tour with our NAS Chatbot!</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RYXJ72XqBgU?si=n2dVceiE-fw3OiYi"></iframe>
-</div>
-<p></p>
