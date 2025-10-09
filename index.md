@@ -21,8 +21,8 @@ sections:
           description: Only for 2025 Sec 1 Intake
           url: /appeal-for-transfer-to-ngee-ann-sec/
       variant: center
-      button: NAS Open House 2024
-      url: nas-open-house-2024
+      button: NAS Open House 2025
+      url: nas-open-house-2025
       backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
