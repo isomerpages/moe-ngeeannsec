@@ -6,17 +6,17 @@ description: ""
 ---
 <h2>Welcome to Ngee Ann Secondary (NAS) School’s Open House!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Banner_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Banner_2025.png">
 </div>
-<p>This year, our physical Open House falls on 16 November 2024 (Saturday)
+<p>This year, our physical Open House falls on 15 November 2025 (Saturday)
 from 8am to 1pm. We have lined up many exciting programmes for our visitors,
-including performances by our students and augmented reality tours. You
-also get to meet NASS, a mascot created by NASians for NASians virtually
-and in person!</p>
+including performances and sharing by our students, school tours and our
+Principal’s Talk. You also get to meet NASS, a mascot created <em>by </em>NASians<em> for </em>NASians
+virtually and in person!</p>
 <p>Find out more about our school’s exciting opportunities for our students
 through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/ngeeannsec/" rel="noopener nofollow" target="_blank">Instagram</a>pages before coming!</p>
-<p>We can’t wait to meet all of you! See you on 16 November!</p>
+<p>We can’t wait to meet all of you! See you on 15 November!</p>
 <h3><strong>Open House Programme</strong></h3>
 <h4>1. Principal's Sharing @ Multi-Purpose Hall (MPH), Level 3</h4>
 <table style="minWidth: 50px">
@@ -37,7 +37,7 @@ through our <a href="https://www.facebook.com/ngeeannsec/" rel="noopener nofollo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9am to 10am</p>
+<p>9am to 9.45am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11am to 12pm</p>
@@ -95,7 +95,7 @@ of NAS to inspire others through your talents!</p>
 <p>Wushu</p>
 </li>
 <li>
-<p>Dance</p>
+<p>Modern Dance</p>
 </li>
 <li>
 <p>Choir</p>
@@ -106,16 +106,12 @@ of NAS to inspire others through your talents!</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH
-<br>@ Level 3</p>
+<p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Orchestra</p>
-</li>
-<li>
-<p>Pop &amp; Jazz</p>
 </li>
 <li>
 <p>NPCC</p>
@@ -128,10 +124,10 @@ of NAS to inspire others through your talents!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1000</p>
+<p>0900 - 0945</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Talk @ MPH</p>
+<p>Principal’s Sharing @ MPH</p>
 <p></p>
 </td>
 </tr>
@@ -142,10 +138,10 @@ of NAS to inspire others through your talents!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>NCC</p>
+<p>Wushu</p>
 </li>
 <li>
-<p>Dance</p>
+<p>Modern Dance</p>
 </li>
 <li>
 <p>Choir</p>
@@ -156,11 +152,23 @@ of NAS to inspire others through your talents!</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH
-<br>@ Level 3</p>
+<p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It’s Showtime!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop &amp; Jazz</p>
+</li>
+<li>
+<p>NPCC</p>
+</li>
+<li>
+<p>NCC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Common Ground</p>
@@ -171,7 +179,7 @@ of NAS to inspire others through your talents!</p>
 <p>1100 - 1200</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Principal’s Talk @ MPH</p>
+<p>Principal’s Sharing @ MPH</p>
 <p></p>
 </td>
 </tr>
@@ -185,7 +193,7 @@ of NAS to inspire others through your talents!</p>
 <p>Wushu</p>
 </li>
 <li>
-<p>Dance</p>
+<p>Modern Dance</p>
 </li>
 <li>
 <p>Choir</p>
@@ -196,14 +204,10 @@ of NAS to inspire others through your talents!</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH
-<br>@ Level 3</p>
+<p>MPH</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Chinese Orchestra</p>
-</li>
 <li>
 <p>Pop &amp; Jazz</p>
 </li>
@@ -218,9 +222,9 @@ of NAS to inspire others through your talents!</p>
 </tr>
 </tbody>
 </table>
-<h4>4. School Tour [8:00am - 1:00pm]</h4>
+<h4>4. School Tour [8am - 1pm]</h4>
 <p>Mode 1: Led by our friendly Student Ambassadors
-<br>Mode 2: Self-guided Tour with our exclusive app!</p>
+<br>Mode 2: Self-guided tour with our NAS Chatbot!</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RYXJ72XqBgU?si=n2dVceiE-fw3OiYi"></iframe>
