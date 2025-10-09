@@ -2,4 +2,5 @@ collections:
   nas-open-house:
     output: true
     order:
+      - NAS Open House 2024.md
       - NAS Open House 2023.md
