@@ -1,5 +1,4 @@
 collections:
   nas-open-house:
     output: true
-    order:
-      - NAS Open House 2024.md
+    order: []
