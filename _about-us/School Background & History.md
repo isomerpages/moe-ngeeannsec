@@ -38,6 +38,6 @@ impacts our NASians and the community around us.</p>
 <a href="https://thengeeannkongsi.com.sg/en/" rel="noopener nofollow" target="_blank">website</a><strong>.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAgQcc2-wEFPH7HUrmKLSKKo3wZWpvvuwfGh4jKZRWs6g_26-CURkr77g7Vhpmf4on670E7PfYAUMy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAgQcc2-wEFPH7HUrmKLSKKo3wZWpvvuwfGh4jKZRWs6g_26-CURkr77g7Vhpmf4on670E7PfYAUMy/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
