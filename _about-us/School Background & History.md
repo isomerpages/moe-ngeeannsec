@@ -4,9 +4,6 @@ permalink: /about-us/school-background-n-history/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Photo%202.jpg">
-</div>
 <p>Ngee Ann Secondary has a rich historical heritage dating back to the 1840s
 through The Ngee Ann Kongsi, the body responsible for her founding as well
 as her growth. Through the advice and the financial support provided by
