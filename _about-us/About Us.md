@@ -27,8 +27,13 @@ Learning open new worlds of learning and inspiration for NASians.</p>
 <p>Join us at NAS – if you are looking for <strong>A School of Possibilities and a Home to Grow In. </strong>We
 welcome you to tour our site and our social media pages to see how you
 can grow, glow and make a difference! 🌱!</p>
-<table style="minWidth: 425px">
+<table style="minWidth: 550px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -53,6 +58,21 @@ can grow, glow and make a difference! 🌱!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/ngeeannsec/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IG_Logo.jpg"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
