@@ -34,5 +34,6 @@ Together with the support of the Ministry of Education, the School Management
 Committee, our dedicated Ngee Ann staff and all well-wishers, the school
 will continue to forge ahead, to provide quality education that positively
 impacts our NASians and the community around us.</p>
-<p><strong>For more information on The Ngee Ann Kongsi, please visit their website.</strong>
+<p><strong>For more information on The Ngee Ann Kongsi, please visit their </strong>
+<a href="https://thengeeannkongsi.com.sg/en/" rel="noopener nofollow" target="_blank">website</a><strong>.</strong>
 </p>
