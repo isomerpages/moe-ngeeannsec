@@ -27,17 +27,77 @@ Learning open new worlds of learning and inspiration for NASians.</p>
 <p>Join us at NAS – if you are looking for <strong>A School of Possibilities and a Home to Grow In. </strong>We
 welcome you to tour our site and our social media pages to see how you
 can grow, glow and make a difference! 🌱!</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 425px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/ngeeannsec/"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/ngeeannsec/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/ngeeannsec/?hl=en"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/IG_Logo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/ngeeannsec/?hl=en"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IG_Logo.jpg"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
