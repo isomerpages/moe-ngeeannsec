@@ -49,10 +49,10 @@ can grow, glow and make a difference! 🌱!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/ngeeannsec/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/ngeeannsec/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Facebook_Logo.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/ngeeannsec/?hl=en"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IG_Logo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/ngeeannsec/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IG_Logo.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
