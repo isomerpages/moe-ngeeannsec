@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Welcome to Ngee Ann Secondary School!</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_Us.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About_Us.png">
 </div>
 <p>Established in 1994 by The Ngee Ann Kongsi, we are a vibrant, exciting
 school that stands as one of the choice secondary schools in the East.</p>
