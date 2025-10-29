@@ -87,7 +87,7 @@ of NAS to inspire others through your talents!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0825 - 0850</p>
+<p>0815 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -112,6 +112,9 @@ of NAS to inspire others through your talents!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Pop and Jazz</p>
 </li>
 <li>
 <p>NPCC</p>
@@ -133,7 +136,7 @@ of NAS to inspire others through your talents!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1010 - 1040</p>
+<p>1010 - 1050</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -149,6 +152,9 @@ of NAS to inspire others through your talents!</p>
 <li>
 <p>Concert Band</p>
 </li>
+<li>
+<p>NCC</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,10 +169,7 @@ of NAS to inspire others through your talents!</p>
 <p>Pop &amp; Jazz</p>
 </li>
 <li>
-<p>NPCC</p>
-</li>
-<li>
-<p>NCC</p>
+<p>Alumni + Pop &amp; Jazz</p>
 </li>
 </ul>
 </td>
@@ -188,23 +191,10 @@ of NAS to inspire others through your talents!</p>
 <p>1220-1245</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Wushu</p>
-</li>
-<li>
-<p>Modern Dance</p>
-</li>
-<li>
-<p>Choir</p>
-</li>
-<li>
-<p>Concert Band</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
