@@ -212,48 +212,10 @@ as seniors and children.</p>
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Comp Lab 1 &amp; 2</p>
+<p>Comp Labs 1+2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Comp Lab 1 &amp; 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Seasonal. For prep of events or learning journeys, if any.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Comp Lab 1 &amp; 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Seasonal. For prep of events or learning journeys, if any.</em>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
