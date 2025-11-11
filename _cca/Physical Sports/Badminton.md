@@ -257,14 +257,31 @@ RASHIDI (Sec 4)
 <td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>There may be differentiated training time for different groups depending
-on NSG details.</p>
+<td rowspan="1" colspan="1">
+<p>All</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MPH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,20 +293,8 @@ on NSG details.</p>
 <td rowspan="1" colspan="1">
 <p>MPH</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MPH</p>
+<p>All</p>
 </td>
 </tr>
 </tbody>
