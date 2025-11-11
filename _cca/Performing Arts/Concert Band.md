@@ -203,14 +203,13 @@ on 04 Nov 2024</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6pm (Sec 1s)
-<br>4-6pm (Sec 2-5s)</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room, Music Room</p>
+<p>Band Room + Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -222,31 +221,13 @@ on 04 Nov 2024</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30-5.30pm (All)</p>
+<p>2.30-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room</p>
+<p>Band Room + Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
