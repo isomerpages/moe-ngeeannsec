@@ -174,47 +174,10 @@ Mention:<strong><br></strong>LIM SI QI SOPHIE (LIN SIQI) (Sec 4)
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Studio 1</p>
+<p>Art Studios</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Studio 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Seasonal. For workshops, competitions, VIA projects and learning journeys, if any.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
