@@ -254,7 +254,7 @@ Haoya (Sec 1): 7th</p>
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -266,31 +266,13 @@ Haoya (Sec 1): 7th</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MPH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH</p>
+<p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mar-Apr for NSG only</p>
+<p></p>
 </td>
 </tr>
 </tbody>
