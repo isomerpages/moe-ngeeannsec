@@ -210,16 +210,16 @@ Singapore Schools, 3rd team placing:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45-6.15pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH</p>
+<p>Outdoor Covered Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 and 2</p>
+<p>Lower Sec</p>
 </td>
 </tr>
 <tr>
@@ -231,14 +231,13 @@ Singapore Schools, 3rd team placing:
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45-6.15pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH</p>
+<p>Outdoor Covered Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 and 2
-<br>Sec 3 and 4</p>
+<p>Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -250,13 +249,13 @@ Singapore Schools, 3rd team placing:
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30-6pm</p>
+<p>2.30-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH</p>
+<p>Outdoor Covered Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 and 4</p>
+<p>All</p>
 </td>
 </tr>
 </tbody>
@@ -264,10 +263,6 @@ Singapore Schools, 3rd team placing:
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Competition dates will affect CCA days.</em>
-</p>
-</li>
-<li>
-<p><em>This arrangement is up till end 2025 or when construction of outdoor basketball court is complete, whichever is earlier. Then revert back from Monday to Tuesday as CCA day.</em>
 </p>
 </li>
 </ul>
