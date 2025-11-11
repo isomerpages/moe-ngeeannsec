@@ -168,10 +168,10 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle outside Art Studios, C01-04</p>
+<p>Quadrangle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -183,31 +183,13 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-5pm</p>
+<p>2-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle outside Art Studios</p>
+<p>Quadrangle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students only</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
