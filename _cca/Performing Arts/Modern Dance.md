@@ -199,10 +199,10 @@ award: 5x</p>
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
+<p>AVA Room + Dance Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -214,31 +214,13 @@ award: 5x</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15-5.15pm</p>
+<p>2-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio</p>
+<p>AVA Room + Dance Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3-6pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sectional practice</p>
+<p></p>
 </td>
 </tr>
 </tbody>
