@@ -204,53 +204,16 @@ place:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SET &amp; Co-Lab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Main session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6 pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SET &amp; Co-Lab</p>
+<p>Co-Lab + SET Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>For events or make up for holiday or Fridays lost, if any.</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
