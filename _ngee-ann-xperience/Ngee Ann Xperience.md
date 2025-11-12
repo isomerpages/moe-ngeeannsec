@@ -4,6 +4,31 @@ permalink: /ngee-ann-xperience/
 description: ""
 variant: tiptap
 ---
-Ngee Ann Secondary is proud to be an Extraordinary School that provides Extraordinary Experiences for our students. We aim to inculcate a love for learning among all our students through unique programmes that give them the opportunity to go beyond the written word in the textbooks and experience learning in authentic environments. By participating in these programmes, every NASian should develop a more positive attitude towards learning and actively construct meaning by drawing links between what is taught in the classrooms to real-world experiences. They should also better understand their roles as individuals in a larger society and actively set out to make positive changes in the community that they are a part of.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/1846r_ymG9hU_mHVuPJS6bRRNn1s0oXcYog-ZSge5BqI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3 points of a Future Ready Nasian. e21CC values. Growth &amp; Abundance Mindset. Digital Competencies" src="/images/Value_Creators_of_Community.png">
+</div>
+<p>At <strong>Ngee Ann Secondary</strong>, we create <strong>Extraordinary Experiences</strong> that
+shape who you become. Here, you don’t just prepare for the future — you
+learn to make a positive impact and be a <strong>Value Creator of the Community</strong>.</p>
+<p>Discover new passions through our <strong>Skills Discovery Electives</strong> and <strong>vibrant CCAs</strong>,
+and connect classroom learning to the real world through <strong>NASEdVentures</strong> and <strong>Applied Learning</strong>.
+Step up to growth challenges in <strong>leadership, competitions, workshops</strong>,
+and <strong>overseas trips</strong> that open your mind to new horizons and
+global perspectives.</p>
+<p>Check out our signature talent development programmes — <strong>SPARKS </strong>(Science
+&amp; Math), <strong>CHAMPS </strong>(Humanities &amp; EL), <strong>Technopreneur </strong>(Technology
+and Entrepreneurship), and <strong>Enhanced Art Programme</strong>. Stretch
+your creativity through deep learning, Design Thinking, and partnerships
+with experts and Institutes of Higher Learning!</p>
+<p>At NAS, guided by our <strong>Technology Education Framework</strong>,
+our NASians grow as <strong>Thinkers, Collaborators, and Communicators</strong>,
+equipped with <strong>digital and AI competencies</strong> to make a meaningful
+difference.</p>
+<p>Our <strong>Culture of Care and Grow</strong> shines through every experience
+— from <strong>Outdoor Learning Experiences (OLE)</strong> to <strong>cohort bonding</strong> and <strong>WOW Wednesdays</strong> that
+spark curiosity, build resilience, and forge lasting friendships. Together,
+we cultivate a <strong>Growth and Abundance Mindset</strong>, where every
+student finds <strong>purpose, passion, and possibility</strong>.</p>
+<p>Be a Part of our<strong> </strong>NAS XPerience today — where every day
+is a chance to <strong>grow, lead, and make a difference!</strong>🌱</p>
