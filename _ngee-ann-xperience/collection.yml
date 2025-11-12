@@ -2,7 +2,7 @@ collections:
   ngee-ann-xperience:
     output: true
     order:
-      - Ngee Ann Experience.md
+      - Ngee Ann Xperience.md
       - CHAMPS.md
       - SPARKS.md
       - Enhanced Art Programme.md
