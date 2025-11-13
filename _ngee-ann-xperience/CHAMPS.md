@@ -12,7 +12,7 @@ students of the Humanities and the English Language.</p>
 <h3>Structure of the programme</h3>
 <p>CHAMPS is a three-year programme that offers students an enriched curriculum
 focused on higher order development in the disciplines.</p>
-<h5>Eligibility Criteria</h5>
+<h3>Eligibility Criteria</h3>
 <p>Secondary One students are invited to join CHAMPS based on their PSLE
 English Language and WA1 results. Students should demonstrate aptitude
 and interest in the Humanities and English Language along with positive
