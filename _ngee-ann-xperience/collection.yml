@@ -2,10 +2,10 @@ collections:
   ngee-ann-xperience:
     output: true
     order:
-      - Technopreneur.md
       - Ngee Ann Xperience.md
       - CHAMPS.md
       - SPARKS.md
+      - Technopreneur.md
       - Enhanced Art Programme.md
       - Young Academy @ NAS.md
       - Interdisciplinary Project Work (IPW).md
