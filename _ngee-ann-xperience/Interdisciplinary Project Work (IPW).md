@@ -33,3 +33,7 @@ content.</p>
 <p>Mr Neo Guang Xian
 <br>Mr Eddie Phua
 <br>Ms To Hui Ling</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1MmDRj9pO1MK2-MVA7vK3a3VxF9brw2Ow_1x6ntxlEdw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
