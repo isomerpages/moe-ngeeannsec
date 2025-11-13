@@ -24,7 +24,7 @@ in coding and cybersecurity, and apply them to their innovative projects.</p>
 to participate in competitions, learning journeys, and interactions with
 industry professionals, allowing them to collaborate with peers and gain
 insights from experts in the field.</p>
-<h3><strong>Eligibility Criteria for Technopreneur</strong></h3>
+<h3>Eligibility Criteria for Technopreneur</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>All interested students will sit for a selection test at the start of
