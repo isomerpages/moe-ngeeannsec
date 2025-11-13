@@ -35,4 +35,6 @@ the term. Shortlisted students will be invited to the programme.</p>
 in Coding will be automatically enrolled in the programme.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://docs.google.com/presentation/d/1G_zGSuyBP8P1HIWKS7SiJ_M1YNWVrcZRAgqLyFd9bsA/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/presentation/d/1G_zGSuyBP8P1HIWKS7SiJ_M1YNWVrcZRAgqLyFd9bsA/edit?usp=sharing</a>
+<br>
+</p>
