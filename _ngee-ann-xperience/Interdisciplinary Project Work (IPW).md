@@ -12,13 +12,21 @@ solving, students develop in collaboration, communication and critical,
 adaptive and inventive thinking skills.</p>
 <h3>Objectives:</h3>
 <p>The IPW curriculum aims to achieve the following objectives;</p>
-<p>• Students will be able to develop their critical and inventive thinking,
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will be able to develop their critical and inventive thinking,
 collaboration and communication skills (3Cs).</p>
-<p>• Students will be able to learn to make connections between ideas and
-concepts across different approaches and disciplinary boundaries (e.g.
-Design Thinking, Coding, Values In Action).</p>
-<p>• Students will be able to develop their personal voice through research
+</li>
+<li>
+<p>Students will be able to learn to make connections between ideas and concepts
+across different approaches and disciplinary boundaries (e.g. Design Thinking,
+Coding, Values In Action).</p>
+</li>
+<li>
+<p>Students will be able to develop their personal voice through research
 and advocacy of social issues they are passionate about.</p>
+</li>
+</ul>
 <h3>Structure:</h3>
 <p>The Secondary 1 curriculum includes the acquisition of basic coding knowledge
 and use of MicroBits for prototyping solutions, and the completion of a
