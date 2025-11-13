@@ -8,7 +8,7 @@ variant: tiptap
 of skills discovery electives (SDEs) and Applied Learning Modules (ApLM)
 in NAS. Through the programme, we seek to inculcate in NASians a love and
 curiosity for learning and connect learning beyond the classroom.</p>
-<h4>YANAS enables students to:</h4>
+<h3>YANAS enables students to:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Exercise Agency</strong>
@@ -75,7 +75,7 @@ syllabus.</p>
 </ul>
 </li>
 </ol>
-<h4>YANAS is implemented through:</h4>
+<h3>YANAS is implemented through:</h3>
 <p><strong>The Skills Discovery Electives (SDE) program</strong>
 </p>
 <p>SDE offers a diverse array of electives for Secondary 1 to 3 students
