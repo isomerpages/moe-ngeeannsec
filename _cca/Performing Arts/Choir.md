@@ -175,16 +175,16 @@ on 04 Nov 2024</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-4.45 pm</p>
+<p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C03-15 to 17 (SR1-3)</p>
+<p>SR1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -193,34 +193,16 @@ on 04 Nov 2024</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30-5.45pm</p>
+<p>2-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C03-15 to 17 (SR1-3)</p>
+<p>SR1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

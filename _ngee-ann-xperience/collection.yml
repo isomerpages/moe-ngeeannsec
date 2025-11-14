@@ -1,12 +1,13 @@
 collections:
-  ngee-ann-experience:
+  ngee-ann-xperience:
     output: true
     order:
-      - Ngee Ann Experience.md
+      - Ngee Ann Xperience.md
       - CHAMPS.md
       - SPARKS.md
+      - Technopreneur.md
       - Enhanced Art Programme.md
-      - Young Academy @ NAS.md
+      - Skills Discovery Electives & Applied Learning.md
       - Interdisciplinary Project Work (IPW).md
       - Aesthetics Appreciation @ NAS.md
       - Outdoor Education.md

@@ -210,7 +210,7 @@ TAN (Sec 4)</p>
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -219,25 +219,7 @@ TAN (Sec 4)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3-6pm</p>
@@ -246,7 +228,25 @@ TAN (Sec 4)</p>
 <p>ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For competition squad only</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

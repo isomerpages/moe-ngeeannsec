@@ -1,12 +1,14 @@
 ---
-title: Young Academy @ NAS
-permalink: /ngee-ann-experience/young-academy-at-nas/
+title: Skills Discovery Electives & Applied Learning
+permalink: /ngee-ann-experience/skills-discovery-elective-and-applied-learning/
 description: ""
 variant: tiptap
 ---
-<p><strong>YouNG</strong> Academy @ NAS (YANAS) emphasizes several key aspects
-aimed at enhancing students' learning experiences and personal development.</p>
-<h4>YANAS enables students to:</h4>
+<p>The <strong>YouNG</strong> Academy @ NAS (YANAS) oversees the implementation
+of skills discovery electives (SDEs) and Applied Learning Modules (ApLM)
+in NAS. Through the programme, we seek to inculcate in NASians a love and
+curiosity for learning and connect learning beyond the classroom.</p>
+<h3>YANAS enables students to:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Exercise Agency</strong>
@@ -73,11 +75,11 @@ syllabus.</p>
 </ul>
 </li>
 </ol>
-<h4>YANAS is implemented through:</h4>
+<h3>YANAS is implemented through:</h3>
 <p><strong>The Skills Discovery Electives (SDE) program</strong>
 </p>
 <p>SDE offers a diverse array of electives for Secondary 1 to 3 students
-to choose from. Each elective consists of seven one-hour sessions designed
+to choose from. Each elective consists of five weekly sessions designed
 to provide students with exposure to various fields, helping them discover
 their strengths and potential. The electives cover a wide range of interests,
 including aesthetics, business &amp; finance, cultural &amp; language,
@@ -93,10 +95,10 @@ The ApLM provide students with hands-on, applied learning opportunities
 and learning for life. ApLM@Poly also provide students with taster experiences
 of learning in a polytechnic and can contribute to helping them make more
 informed decisions for their post-secondary education.</p>
-<p>By integrating these approaches, <strong>YouNG</strong> Academy @ NAS (YANAS)
-aims to create a more engaging, personalized, and practical educational
-experience for students, preparing them for lifelong learning and success
-in their future endeavours.</p>
+<p>By integrating these approaches, YouNG Academy @ NAS (YANAS) aims to create
+a more engaging, personalized, and practical educational experience for
+students, preparing them for lifelong learning and success in their future
+endeavours.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1RWs0UB6JX7SLamZb8qw1LDT5vAwOnx_gsjAYPtGPZJ0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>

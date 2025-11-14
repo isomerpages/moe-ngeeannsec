@@ -1,6 +1,6 @@
 ---
-title: Photography Club
-permalink: /co-curriculum/cca/photography-club/
+title: Photography
+permalink: /co-curriculum/cca/photography/
 description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
@@ -189,47 +189,10 @@ EN YI (Sec 2)</p>
 <p>3-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Photo Room
-<br>A04-04 (level abv MPH)</p>
+<p>Photography Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Main session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Three</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
