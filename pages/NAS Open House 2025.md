@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Welcome to Ngee Ann Secondary (NAS) School’s Open House!</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Banner_2025.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Open_House_Banner_2025.png">
 </div>
 <p>This year, our physical Open House falls on 15 November 2025 (Saturday)
 from 8am to 1pm. We have lined up many exciting programmes for our visitors,
