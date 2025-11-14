@@ -213,7 +213,7 @@ of NAS to inspire others through your talents!</p>
 </tbody>
 </table>
 <h4>4. School Tour [8am to 1pm]</h4>
-<p>Mode 1: Led by our friendly Student Ambassadors
+<p>Join us for a school tour led by our friendly Student Ambassadors!
 <br>
 </p>
 <div class="iframe-wrapper">
