@@ -19,8 +19,7 @@ EAP Students are exposed to various media such as Film and Digital Painting
 during the course. EAP Students get the opportunities to participate in
 collaborative workshops and internships.</p>
 <h3>Teachers-in-charge</h3>
-<p>Mr Khor Teng Chih, Ben&nbsp;
-<br>Mrs Sarene Sim&nbsp;</p>
+<p>Mrs Sarene Sim&nbsp;</p>
 <p>If you would like to learn more about this programme, please email your
 queries to nass@moe.edu.sg. Alternatively, you may call the school at 67844583
 to speak to the teachers-in-charge.</p>
