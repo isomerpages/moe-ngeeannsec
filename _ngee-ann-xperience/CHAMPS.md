@@ -37,3 +37,8 @@ different schools, who attend NASMUN as country delegates putting forth
 their respective positions. Through this process, the students acquire
 leadership, perspective taking skills, empathy, and hone their persuasion
 and communication skills.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1b8METxhyIIOuXVlNritDKPAmBEtiDSYpN_8hQNnZMWw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
