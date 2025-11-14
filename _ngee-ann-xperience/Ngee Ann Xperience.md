@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3 points of a Future Ready Nasian. e21CC values. Growth &amp; Abundance Mindset. Digital Competencies" src="/images/Value_Creators_of_Community.png">
+<img style="width: 60%;" height="auto" width="100%" alt="3 points of a Future Ready Nasian. e21CC values. Growth &amp; Abundance Mindset. Digital Competencies" src="/images/Value_Creators_of_Community.png">
 </div>
 <p>At <strong>Ngee Ann Secondary</strong>, we create <strong>Extraordinary Experiences</strong> that
 shape who you become. Here, you don’t just prepare for the future — you
