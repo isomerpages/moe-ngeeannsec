@@ -31,7 +31,7 @@ catering / operating a canteen stall in school.</p>
 <p>Interested applicants may collect the Application Form from the school’s
 General Office on Mondays to Fridays, from 9.00 am to 5.00 pm.</p>
 <p></p>
-<p>Please submit the following with the Application Form:
+<p>Please submit the following with the <a href="/files/Canteen_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>:
 <br>o&nbsp;&nbsp;&nbsp; List of proposed food items and their prices.
 <br>o&nbsp;&nbsp;&nbsp; Photocopy of applicant’s NRIC (front and back)
 <br>o&nbsp;&nbsp;&nbsp; One recent passport-sized photograph of applicant
