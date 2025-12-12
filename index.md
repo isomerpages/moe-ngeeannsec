@@ -11,9 +11,6 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: Sec 1 Posting For 2026
-          description: Click here for more info!
-          url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
         - title: Release of 2025 GCE N Level Examination Results
           description: Click here for more info!
           url: /release-of-2025-gce-n-level-examination-results
