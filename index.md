@@ -12,7 +12,7 @@ sections:
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Vacant Canteen Stall
-          description: Apply
+          description: Click here for more info!
           url: /vacant-canteen-stall
         - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2025
           description: Click here for more info!
