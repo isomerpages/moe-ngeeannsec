@@ -9,11 +9,9 @@ description: ""
 <p>Dear NASians and Parents/Guardians of the 2025 Graduating Cohort,</p>
 <p>MOE and SEAB have recently announced that the GCE N-Level Examination
 results will be released on&nbsp;<strong>Thursday, 18 December 2025 at 2 pm</strong>.</p>
-<p></p>
 <p>School candidates are reminded to be properly groomed and dressed in their
 school attire. School candidates can report to the Auditorium from 1.30
 pm onwards and parents/guardians are welcome to accompany their child/ward.</p>
-<p></p>
 <p>School candidates who are unable to collect their results in person should
 inform the school before 18 Dec through your Form Teacher and can appoint
 a proxy to collect a physical copy of their results on their behalf. Proxies
@@ -28,32 +26,28 @@ do so before 18 Dec.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Social and Emotional Learning Resources for Parents/Guardians to support
-your child/ward:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+your child/ward:&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
 </li>
 <li>
-<p>What’s Next Pamphlet:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
+<p>What’s Next Pamphlet:&nbsp;<a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
 </li>
 <li>
-<p>My Skills Future Student Portal:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+<p>My Skills Future Student Portal:&nbsp;<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP)&nbsp;<u>Factsheet&nbsp;</u>for
+<p>Polytechnic Foundation Programme (PFP)&nbsp;<a href="/files/2025_PFP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">Factsheet</a> for students</p>
+</li>
+<li>
+<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<a href="/files/2025_DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">Factsheet</a>&nbsp;for
 students</p>
 </li>
 <li>
-<p>Direct-Entry Scheme to Polytechnic Programme (DPP)&nbsp;<u>Factsheet&nbsp;</u>for
-students</p>
-</li>
-<li>
-<p><a href="https://ngeeannsec.moe.edu.sg/qql/slot/u510/2021%20N%20level%20results/Letter%20of%20Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>&nbsp;(Appointment
+<p><a href="/files/Letter of Authorisation.pdf" rel="noopener nofollow" target="_blank">Letter of Authorisation </a>(Appointment
 of proxy for school candidates who are unable to collect their results
 in person)</p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <p><strong>All the Best to You NASians! See You on 18 Dec!</strong>
