@@ -11,18 +11,15 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
+        - title: Sec 1 Posting For 2026
+          description: Click here for more info!
+          url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
+        - title: Release of 2025 GCE N Level Examination Results
+          description: Click here for more info!
+          url: /release-of-2025-gce-n-level-examination-results
         - title: Vacant Canteen Stall
           description: Click here for more info!
           url: /vacant-canteen-stall
-        - title: DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2025
-          description: Click here for more info!
-          url: /direct-school-admission-dsa-exercise-2025/
-        - title: Sec 1 Posting For 2025
-          description: Click here for more info!
-          url: /links-for-parents/sec-1-posting-for-2025/sec-1-registration-exercise-2025-intake/
-        - title: Appeal for Transfer
-          description: Only for 2025 Sec 1 Intake
-          url: /appeal-for-transfer-to-ngee-ann-sec/
       variant: center
       button: NAS Open House 2025
       url: nas-open-house-2025
