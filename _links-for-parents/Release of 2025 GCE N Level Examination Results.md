@@ -10,17 +10,17 @@ description: ""
 <p>MOE and SEAB have recently announced that the GCE N-Level Examination
 results will be released on&nbsp;<strong>Thursday, 18 December 2025 at 2 pm</strong>.</p>
 <p>School candidates are reminded to be properly groomed and dressed in their
-school attire. School candidates can report to the Auditorium from 1.30
-pm onwards and parents/guardians are welcome to accompany their child/ward.</p>
+school attire. School candidates can report to the MPH from 1.30 pm onwards
+and parents/guardians are welcome to accompany their child/ward.</p>
 <p>School candidates who are unable to collect their results in person should
-inform the school before 18 Dec through your Form Teacher and can appoint
-a proxy to collect a physical copy of their results on their behalf. Proxies
-can proceed to the General Office to collect the results.&nbsp; Proxies
-are required to produce the relevant documents (Photo ID for identification
+inform the school before 18 December through their Form Teacher and can
+appoint a proxy to collect a physical copy of their results on their behalf.
+Proxies can proceed to the General Office to collect the results.&nbsp;
+Proxies are required to produce the relevant documents (Photo ID for identification
 &amp; Letter of Authorisation) for the school’s verification when collecting
 the results. School candidates may contact the school through your Form
 Teacher for assistance if candidates are unable to appoint a proxy. Please
-do so before 18 Dec.</p>
+do so before 18 December.</p>
 <p><strong>You may find the following links useful:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -50,5 +50,5 @@ of proxy for school candidates who are unable to collect their results
 in person)</p>
 </li>
 </ul>
-<p><strong>All the Best to You NASians! See You on 18 Dec!</strong>
+<p><strong>All the Best to You NASians! See You on 18 December!</strong>
 </p>
