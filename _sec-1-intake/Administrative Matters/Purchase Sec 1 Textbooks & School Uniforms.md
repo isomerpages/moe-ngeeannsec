@@ -17,7 +17,8 @@ need to purchase.</p>
 <h3>Sale of school uniforms and textbooks</h3>
 <p><strong>The sale of school uniforms and textbooks for Sec 1 Students will begin on Monday, 22 December 2025 after the briefing. Please refer to Annex A for the opening dates and hours for the sale of textbooks and uniform.</strong>
 </p>
-<p>Please click here to download Annex A for more details on:</p>
+<p>Please <a href="/files/Annex_A_Sale_of_Uniform_and_Textbook_Sec_1__2026_Intake_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here to download Annex A</a> for
+more details on:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Options for Purchase of School Uniforms and Textbooks</p>
