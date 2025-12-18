@@ -48,7 +48,4 @@ call the school’s General Office at 67844583.</p>
 </ul>
 <h3>Appeal for admission to Ngee Ann Sec</h3>
 <p>Please use this <a href="https://go.gov.sg/appealforadmissiontonas2026" rel="noopener nofollow" target="_blank">link</a> to
-submit your appeals by 26 December 2025.
-<br>
-</p>
-<p></p>
+submit your appeals by 26 December 2025.</p>
