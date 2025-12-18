@@ -9,7 +9,7 @@ variant: tiptap
 all Sec 1 students and their parents/guardians on <strong>Monday, 22 December 2025, from 1300 – 1430 hrs</strong>.</p>
 <p>The briefing will take place online, in the form of a Zoom webinar. We
 will use Parents Gateway (PG) to send the Zoom webinar link and passcode
-to you by <strong>Monday, 22 December 2025, by 9am.</strong>
+to you by <strong>Monday, 22 December 2025, 9am.</strong>
 </p>
 <p><strong>Parents/guardians who are not registered on Parents Gateway (PG)</strong> will
 receive the Zoom webinar link and passcode via the personal email address
