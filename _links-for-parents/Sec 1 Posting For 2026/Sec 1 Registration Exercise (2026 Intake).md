@@ -51,7 +51,4 @@ call the school’s General Office at 67844583.</p>
 submit your appeals by 26 December 2025.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec 1 Intake Images/https___go_gov_sg_nas2026intake__002_.png">
-</div>
 <p></p>
