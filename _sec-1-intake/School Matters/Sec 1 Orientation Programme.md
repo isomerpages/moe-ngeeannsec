@@ -94,3 +94,4 @@ Briefing over Zoom on <strong>Monday, 22 December 2025</strong>.</p>
 dietary needs from your response to our <a href="https://go.gov.sg/nas2026intake" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
 <p>Information about your child/ward’s medical history will be extracted
 from his/her Individual Student Details Report on the MOE database.</p>
+<p></p>
