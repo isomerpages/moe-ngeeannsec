@@ -6,13 +6,14 @@ third_nav_title: Sec 1 Registration Briefing
 variant: tiptap
 ---
 <p>We will conduct a <strong>Secondary 1 Registration Briefing</strong> for
-all Sec 1 students and their parents/guardians on <strong>Thursday</strong>  <strong>19 December 2024, from 1300 – 1445 hrs</strong>.</p>
+all Sec 1 students and their parents/guardians on <strong>Monday, 22 December 2025, from 1300 – 1430 hrs</strong>.</p>
 <p>The briefing will take place online, in the form of a Zoom webinar. We
 will use Parents Gateway (PG) to send the Zoom webinar link and passcode
-to you <strong>on Thursday 19 December 2024, by 8am</strong>.</p>
+to you by <strong>Monday, 22 December 2025, 9am.</strong>
+</p>
 <p><strong>Parents/guardians who are not registered on Parents Gateway (PG)</strong> will
 receive the Zoom webinar link and passcode via the personal email address
-that you state in your response to our <a href="https://go.gov.sg/sec1registration2025nas" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
+that you state in your response to our <a href="https://go.gov.sg/nas2026intake" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
 <p><strong>All Secondary 1 students and their parents/guardians are required to attend the briefing, as part of the registration process.</strong> Please
 refer to the programme below.</p>
 <table style="minWidth: 75px">
@@ -46,7 +47,7 @@ refer to the programme below.</p>
 <br>by Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Chia</p>
+<p>Ms Izzalina</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +73,7 @@ refer to the programme below.</p>
 <br>by Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Chia</p>
+<p>Ms Izzalina</p>
 </td>
 </tr>
 <tr>
@@ -82,10 +83,10 @@ refer to the programme below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Parent Support Group (PSG)</strong>
-<br>by Chairperson, PSG</p>
+<br>by Secretary, PSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Beng Choon</p>
+<p>Mdm Karyn Yeo</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +108,8 @@ refer to the programme below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Briefing on <strong>Subject-Based Banding</strong>
-<br>(for <strong>all</strong> Sec 1 Students)</p>
+<p>Briefing on&nbsp;<strong>Subject-Based Banding</strong>
+<br>(for&nbsp;<strong>all</strong>&nbsp;Sec 1 Students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teresa Ong</p>

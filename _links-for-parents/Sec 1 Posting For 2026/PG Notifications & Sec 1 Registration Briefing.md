@@ -3,7 +3,7 @@ title: PG Notifications & Sec 1 Registration Briefing
 permalink: /links-for-parents/sec-1-posting-for-2024/pg-notifications-n-sec-1-registration-briefing/
 description: ""
 variant: tiptap
-third_nav_title: Sec 1 Posting For 2025
+third_nav_title: Sec 1 Posting For 2026
 ---
 <p>Click on the links below to follow the guides</p>
 <ul data-tight="true" class="tight">

@@ -11,9 +11,10 @@ secondary school life.</p>
 <p>The Secondary 1 Orientation Programme aims to integrate your child/ward
 with the Ngee Ann family and help him/her to establish new friendships
 with his/her peers.</p>
-<p>All Secondary 1 students will experience a 2-day orientation programme
-held from 2-3 January 2025. It will include class bonding activities, a
-school tour, a Ngee Ann Heritage Tour and leadership skills training.</p>
+<p>All Secondary 1 students will experience a 4-day orientation programme
+held on 2 January and 5-7 January 2026. The programme will include class
+bonding activities, a school tour, a Ngee Ann Heritage Tour and leadership
+skills training.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -22,43 +23,75 @@ school tour, a Ngee Ann Heritage Tour and leadership skills training.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Reporting Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Dismissal Time</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time [By class]</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thurs 2 Jan 2025</p>
+<p>Friday, 2 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.40am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00pm</p>
+<p>ALL: 12.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 3 Jan 2025</p>
+<p>Monday, 5 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.40am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.00pm</p>
+<p>1 Care, 1 Commitment: 4.30pm</p>
+<p>The rest: 12.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 6 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Commitment: 12.30pm</p>
+<p>1 Care, 1 Respect &amp; 1 Responsibility: 1.30pm</p>
+<p>1 Courtesy, 1 Integrity &amp; 1 Resilience: 4.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 7 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am
+<br>(no late reporting for Sec 1s)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Care: 12.30pm</p>
+<p>1 Commitment, 1 Courtesy, 1 Integrity &amp; 1 Resilience: 1.30pm</p>
+<p>1 Respect &amp; 1 Responsibility: 4.30pm</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>You will receive more detailed information during the Secondary 1 Registration
-Briefing over Zoom on Thursday 19 December 2024.</p>
+Briefing over Zoom on <strong>Monday, 22 December 2025</strong>.</p>
 <p>To facilitate the planning of the programme, we will extract your child/ward’s
-dietary needs from your response to our <a href="https://go.gov.sg/sec1registration2025nas" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
+dietary needs from your response to our <a href="https://go.gov.sg/nas2026intake" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
 <p>Information about your child/ward’s medical history will be extracted
 from his/her Individual Student Details Report on the MOE database.</p>
+<p></p>

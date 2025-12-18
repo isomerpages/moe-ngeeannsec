@@ -18,8 +18,8 @@ sections:
           description: Click here for more info!
           url: /vacant-canteen-stall
       variant: center
-      button: NAS Open House 2025
-      url: nas-open-house-2025
+      button: Secondary 1 Posting for 2026
+      url: links-for-parents/sec-1-posting-for-2026/sec-1-registration-exercise-2026-intake/
       backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
