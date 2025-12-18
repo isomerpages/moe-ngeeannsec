@@ -20,7 +20,7 @@ school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sec 1 Intake Images/https___go_gov_sg_nas2026intake__002_.png">
 </div>
-<p><strong>Please submit your response to this online form by 5pm on Friday, 19 December 2025.</strong>
+<p><strong>Please submit your response to this online form by <u>5pm</u> on Friday, 19 December 2025.</strong>
 </p>
 <p><strong>After submitting your response, please return to this page to access more information below, under ‘Important Information for Sec 1 Students (2026 Intake)’.</strong>
 </p>
@@ -28,7 +28,8 @@ school.</p>
 details and the actions required of all incoming Secondary 1 students and
 their parents/guardians.</p>
 <p>If you need further clarification after reading the information, please
-call the school’s General Office at 67844583.</p>
+email the school at <a href="mailto:sec1_reg@nass.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sec1_reg@nass.moe.edu.sg</a> or call
+the school’s General Office at 67844583.</p>
 <p>Thank you.</p>
 <h3>Important Information for Sec 1 Students (2026 Intake)</h3>
 <ul data-tight="true" class="tight">
