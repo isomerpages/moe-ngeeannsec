@@ -9,4 +9,4 @@ third_nav_title: Administrative Matters
 your information and your child’s/ward’s information via the Student Details
 Form (SDF) for the purpose of providing educational services to your child/ward
 in MOE schools. More information will be provided via Parents Gateway on
-2 Jan 2025 (Thursday).</p>
+2 Jan 2026 (Friday).</p>
