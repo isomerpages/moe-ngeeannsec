@@ -68,7 +68,7 @@ skills training.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Commitment: 12.30pm</p>
-<p>1 Care, 1 Respect &amp; 1Responsibility: 1.30pm</p>
+<p>1 Care, 1 Respect &amp; 1 Responsibility: 1.30pm</p>
 <p>1 Courtesy, 1 Integrity &amp; 1 Resilience: 4.30pm</p>
 </td>
 </tr>
@@ -82,8 +82,7 @@ skills training.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Care: 12.30pm</p>
-<p>1 Commitment, 1 Courtesy, 1 Integrity &amp;</p>
-<p>1 Resilience: 1.30pm</p>
+<p>1 Commitment, 1 Courtesy, 1 Integrity &amp; 1 Resilience: 1.30pm</p>
 <p>1 Respect &amp; 1 Responsibility: 4.30pm</p>
 </td>
 </tr>
