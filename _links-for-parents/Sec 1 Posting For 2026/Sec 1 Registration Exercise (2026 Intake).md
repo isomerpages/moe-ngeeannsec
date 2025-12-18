@@ -17,6 +17,9 @@ school.</p>
 <p><strong>Please complete your registration by completing an online form </strong>
 <a href="https://go.gov.sg/nas2026intake" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sec 1 Intake Images/https___go_gov_sg_nas2026intake__002_.png">
+</div>
 <p><strong>Please submit your response to this online form by 5pm on Friday, 19 December 2025.</strong>
 </p>
 <p><strong>After submitting your response, please return to this page to access more information below, under ‘Important Information for Sec 1 Students (2026 Intake)’.</strong>
@@ -49,3 +52,7 @@ call the school’s General Office at 67844583.</p>
 <h3>Appeal for admission to Ngee Ann Sec</h3>
 <p>Please use this <a href="https://go.gov.sg/appealforadmissiontonas2026" rel="noopener nofollow" target="_blank">link</a> to
 submit your appeals by 26 December 2025.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sec 1 Intake Images/https___go_gov_sg_appealforadmissiontonas2026.png">
+</div>
+<p></p>
