@@ -18,5 +18,5 @@ students)</p>
 receive the documents above via the personal email address that you state
 in your response to our&nbsp;<a href="https://go.gov.sg/nas2026intake" rel="noopener noreferrer nofollow" target="_blank">online registration form,</a> if
 your child/ward is eligible.</p>
-<p>Please email the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">nass@moe.edu.sg</a>&nbsp;if
+<p>Please email the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sec1_reg@nass.moe.edu.sg</a>&nbsp;if
 you have any further queries.</p>
