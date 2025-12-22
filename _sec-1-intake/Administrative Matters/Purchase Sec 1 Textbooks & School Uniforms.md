@@ -24,7 +24,8 @@ more details on:</p>
 <p>Options for Purchase of School Uniforms and Textbooks</p>
 </li>
 <li>
-<p>2026 Secondary 1 Booklists</p>
+<p>2026 Secondary 1 Booklists (Click <a href="/files/Sec1 Intake page Files/S1_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+download booklist for Secondary 1 students)</p>
 </li>
 <li>
 <p>2026 School Uniform Sizing Guide</p>
