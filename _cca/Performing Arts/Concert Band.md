@@ -220,12 +220,30 @@ Outdoor Theatre on 01 Aug 2025
 <p>Band Room + Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1s</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room + Music Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2-5s</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Three</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
