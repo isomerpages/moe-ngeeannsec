@@ -79,10 +79,6 @@ and meaning).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -90,12 +86,12 @@ and meaning).</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>SYF-AP<br></strong>Accomplishment</p>
 <p><strong>VIDEO PERFORMANCES<br></strong>Chinese New Year Concert
@@ -108,6 +104,14 @@ and meaning).</p>
 <br>Teachers’ Day Concert</p>
 <p><strong>SPECIAL PERFORMANCE</strong>
 <br>Tapestry 2024: “Don’t Know, Don’t Care” at our school on 21 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+<br>Accomplishment
+<br>
+<br>Participated in <strong>THESPIAN HORROR FESTIVAL by THESPIAN LAB PTE LTD</strong>
+<br><u>Best Production</u>
+<br>Winner, with production title, “Icarus”</p>
 </td>
 </tr>
 </tbody>
@@ -171,7 +175,7 @@ and meaning).</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-6pm</p>
+<p>2-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drama Room</p>
