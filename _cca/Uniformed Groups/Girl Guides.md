@@ -83,10 +83,6 @@ and the company)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -94,14 +90,12 @@ and the company)</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>PUAN NOOR AISAH AWARD </strong><em>(for previous year)</em><strong><br></strong>Bronze&nbsp;</p>
-<p><strong>EAST DIVISION DAY</strong>
-<br><u>SKIT/SINGING</u>
-<br>Gold</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>PUAN NOOR AISAH AWARD </strong><em>(for previous year)</em><strong><br></strong>Gold</p>
 <p><strong>EAST DIVISION DAY</strong>
@@ -121,6 +115,18 @@ and the company)</p>
 <br>MARADANA AMRUTHA (Sec 4)</p>
 <p><strong>WORLD THINKING DAY COMPETITION <br></strong><u>Video Making</u>
 <br>2nd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WORLD THINKING DAY COMPETITION</strong> 
+<br><u>Guides Got Talent</u>
+<br>Merit
+<br>
+<br><strong>EAST DIVISION FEST</strong>
+<br>Recycled Fashion
+<br>Merit
+<br>
+<br><strong>PUAN NOOR AISHAH AWARD</strong> (<em>for previous year</em>)
+<br>Gold</p>
 </td>
 </tr>
 </tbody>
@@ -169,7 +175,8 @@ and the company)</p>
 <p>3.30-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle</p>
+<p>Quadrangle
+<br>C03-04 to C03-06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,4 +187,5 @@ and the company)</p>
 <h3>CCA Teachers</h3>
 <p>Ms. Shalini d/o Sukumaran (CCA Teacher-in-charge)
 <br>Mdm. Juan Ying Li, Pearlyn
-<br>Mdm. Nur Ummirah Nasser</p>
+<br>Mdm. Nur Ummirah Nasser
+<br>Ms Leong Sok Yee</p>
