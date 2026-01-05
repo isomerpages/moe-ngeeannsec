@@ -177,7 +177,7 @@ variant: tiptap
 <p>Mariam Bte Buang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Librarian</p>
+<p>Librarian</p>
 </td>
 </tr>
 </tbody>
@@ -200,6 +200,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Nazmi Bin Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Cheng San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
