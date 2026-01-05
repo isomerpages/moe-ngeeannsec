@@ -245,5 +245,5 @@ Outdoor Theatre on 01 Aug 2025
 </table>
 <h3>CCA Teachers</h3>
 <p>Mrs. Ms Izyan Rozana Bte Mohd Najib (CCA Teacher-in-charge)
-<br>Ms Law Wan Yi Georgina
+<br>Mdm Mariana Binte Yunus
 <br>Ms Siti Ashirah Bte Othman</p>
