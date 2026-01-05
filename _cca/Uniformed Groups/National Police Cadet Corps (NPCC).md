@@ -180,25 +180,8 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle</p>
+<p>Outside Art Studios
+<br>C01-04</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
