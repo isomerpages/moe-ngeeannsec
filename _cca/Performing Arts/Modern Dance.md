@@ -225,4 +225,5 @@ award: 5x</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Ms. Hazimah Aslam Khan (CCA Teacher-in-charge)
-<br>Mdm Sarimah Ahmad</p>
+<br>Mdm Sarimah Ahmad
+<br>Ms Pearly Siah Bee Shian</p>
