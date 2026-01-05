@@ -86,10 +86,6 @@ through open Communication with one another.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -97,12 +93,12 @@ through open Communication with one another.</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>SCHOOL PERFORMANCES<br></strong>Chinese New Year Concert
 <br>Founders’ Day Performance
@@ -128,6 +124,19 @@ at NUS Shaw Foundation Alumni House on 20 Apr 2024</p>
 <p><strong>PUBLIC PERFORMANCE</strong>
 <br>National Day Celebrations &amp; PassionArts Festival at event organized
 by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SYF CELEBRATIONS: PUBLIC PERFORMANCE</strong>
+<br>The Youth Station Project – Youth Station Live at *SCAPE The Ground Theatre
+on 4 Jul 2025
+<br>
+<br><strong>PUBLIC PERFORMANCE</strong>
+<br>ArtsEverywhere@Our Tampines Hub by National Arts Council, People's Association,
+and the five Community Development Councils, on 18 Jul 2025
+<br>
+<br><strong>PUBLIC PERFORMANCE</strong>
+<br>Tampines Changkat National Day Carnival by Tampines Changkat Community
+Club 2 Aug 2025</p>
 </td>
 </tr>
 </tbody>
@@ -173,7 +182,7 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-5pm</p>
+<p>3.30-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pop &amp; Jazz Room</p>
@@ -191,10 +200,27 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-2.30pm</p>
+<p>1-3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pop &amp; Jazz Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -205,5 +231,4 @@ by Bedok Reservoir-Punggol Grassroots Organisation on 20 Apr 2024</p>
 <h3>CCA Teachers</h3>
 <p>Ms. Sayuri Limarsono (CCA Teacher-in-charge)
 <br>Mr. Ishak Buang
-<br>Ms Adalia Chong
-<br>Mr Mohamed Nurandi Bin Mohamed Arman</p>
+<br>Ms Adalia Chong</p>
