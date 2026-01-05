@@ -64,10 +64,6 @@ skills and activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -75,29 +71,12 @@ skills and activities.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Participated in <strong>LIVE ON FESTIVAL by MINISTRY OF HEALTH- (MOH)</strong>
-<br>Merit:
-<br>YEO JUN WEI, KEANE (Sec 3)
-<br>HUANG YI DAN (Sec 3)&nbsp;</p>
-<p>Participated in&nbsp; <strong>SINGAPORE YOUTH FESTIVAL ART EXHIBITION</strong>
-<br>Certificate of Recognition:
-<br>LOH YING SHAN, SHARLENE (Sec 3)
-<br>LOW YING THONG, YITRO (Sec 3)
-<br>NAYLI AUNI BINTE MUHAMMAD KHAIRUL (Sec 3)
-<br>MOHAMED AKIF BIN MOHAMED REDZUAN (Sec 3)
-<br>YEO JUN WEI, KEANE (Sec 3)</p>
-<p>Participated in <strong>‘THIS LITTLE RED DOT…’ ILLUSTRATION COMPETITION by SINGAPORE ART MUSEUM</strong>
-</p>
-<p>Participated in <strong>TAMPINES 365 FESTIVAL EXHIBITION by PEOPLE’S ASSOCIATION &amp; HOUSING &amp; DEVELOPMENT BOARD</strong>
-</p>
-<p>Participated in <strong>VIART AWARD by VIANT COMMODITIES</strong> &amp; <strong>NATIONAL ENVIRONMENT AGENCY (NEA) </strong>attaining
-<br>7th place</p>
-<p>Participated in <strong>VIART RECYCLING ART AWARD by VIANT COMMODITIES &amp; NEA </strong>attaining
-<br>3rd place</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Participated in <strong>LIVE ON FESTIVAL by MOH</strong>
 <br>1<sup>st</sup> place:
@@ -125,6 +104,16 @@ Mention:<strong><br></strong>LIM SI QI SOPHIE (LIN SIQI) (Sec 4)
 <p>Participated in <strong>16th NATIONAL JUNIOR WATERCOLOUR COMPETITION by THE SINGAPORE WATERCOLOUR SOCIETY</strong>
 <br>Consolation Award: PHAN ANH THI (Sec 3)</p>
 <p>Participated in <strong>MAKE THE CHANGE: YOUTH COMPETITION by DESIGN FOR GOOD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation in <strong>STICK WITH SAM DESIGN CONTEST by SINGAPORE ART MUSEUM</strong>
+</p>
+<p>Participation in <strong>LIVE ON FESTIVAL by NATIONAL ORGAN TRANSPLANT UNIT, MINISTRY OF HEALTH</strong>
+</p>
+<p>Participation in <strong>YELLOW RIBBON ART COMPETITION by THE YELLOW RIBBON PROJECT</strong>
+</p>
+<p>Participation in <strong>DESIGN FOR GOOD YOUTH COMPETITION by MAKE THE CHANGE social initiative</strong>
 </p>
 </td>
 </tr>
