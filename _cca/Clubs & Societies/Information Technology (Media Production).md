@@ -102,10 +102,6 @@ as seniors and children.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>2022</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -113,26 +109,12 @@ as seniors and children.</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><em>Participated in </em><strong><em>LIONS HOME SCHOOL VIDEO COMPETITION by LIONS HOME FOR THE ELDERS</em></strong>
-</p>
-<p>Participated in <strong>APPRECIATING NSMEN VIDEO COMPETITION by SAFRA</strong>
-</p>
-<p>Participated in <strong>BETTER INTERNET VIDEO CHALLENGE by YISHUN INNOVA JUNIOR COLLEGE</strong>
-</p>
-<p>Participated in
-<br><strong>DIGITAL FOR LIFE YOUTH AWARDS by INFOCOMM MEDIA DEVELOPMENT AUTHORITY (IMDA)</strong>
-</p>
-<p>Participated in <strong>INFOCOMM MEDIA CLUB YOUTH AWARD by IMDA</strong>
-<br>Tech Category: Commendation
-<br>Media Category: Commendation</p>
-<p>Participated in <strong>DRUGFREESG VIDEO COMPETITION by CENTRAL NARCOTICS BUREAU (CNB)</strong>
-</p>
-<p>Participated in <strong>SERVICE SOCIAL MEDIA CONTEST by IMDA</strong>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Participated in<strong> NATIONAL YOUTH TECH CHAMPIONSHIP by IMDA &amp; GOOGLE</strong>
 </p>
@@ -164,6 +146,16 @@ as seniors and children.</p>
 <p></p>
 <p>Participated in <strong>AMAZON WEB SERVICES (AWS) DEEPRACER by REPUBLIC POLYTECHNIC</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>YELLOW RIBBON ARTS COMPETITION by YELLOW RIBBON SINGAPORE</strong>
+<br><u>Top Winner</u>
+<br>ATHAALAA ALTAF HAFIDZ (Sec 3)
+<br><u>Merit Winner</u>
+<br>CHEW WEN SYUEN (Sec 3)&nbsp;</p>
+<p>Participated in <strong>NATIONAL YOUTH TECH CHAMPIONSHIP</strong>
+<br><u>1st team placing</u>
+<br>ATHAALAA ALTAF HAFIDZ (Sec 3)</p>
 </td>
 </tr>
 </tbody>
