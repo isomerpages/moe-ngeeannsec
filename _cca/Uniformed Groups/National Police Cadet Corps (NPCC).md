@@ -131,7 +131,10 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <br>KEITH CHEN SHENGQI (Sec 4)
 <br>
 <br><strong>NATIONAL DAY PARADE</strong>
-<br>ONG LIANNE (Sec 2)</p>
+<br>ONG LIANNE (Sec 2)
+<br>
+<br><strong>OVERSEAS EDUCATIONAL VISIT to HONG KONG</strong>
+<br>MOHAMED AL BAIHAQI BIN MOHAMED BASHIR (Sec 3)</p>
 </td>
 </tr>
 </tbody>
