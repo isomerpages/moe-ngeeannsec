@@ -203,4 +203,4 @@ EN YI (Sec 2)</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mr Mohamed Imran Khan Bin Mohamed Arshad Khan (CCA Teacher-in-charge)
-<br>Mdm Nur Syifaa' Binti Hussin</p>
+<br>Ms Nur Syifaa' Binti Hussin</p>
