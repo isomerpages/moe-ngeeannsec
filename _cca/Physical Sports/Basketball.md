@@ -271,5 +271,5 @@ Singapore Schools, 3rd team placing:
 <h3>CCA Teachers</h3>
 <p>Mr. Jonathan Chan Aik Beng (CCA Teacher-in-charge)
 <br>Mr. Dominic Chia Kim Seng
-<br>Mr Kang Guan Wei
+<br>Mr. Kang Guan Wei
 <br>Mr. Jason Ang</p>
