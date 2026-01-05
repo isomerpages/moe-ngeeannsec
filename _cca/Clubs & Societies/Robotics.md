@@ -97,10 +97,6 @@ learning journey reflections</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -108,22 +104,12 @@ learning journey reflections</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Participated in <strong>FIRST LEGO LEAGUE by DUCK LEARNING</strong>
-</p>
-<p>Participated in <strong>AMAZON CODERZ CODING CHALLENGE by SINGAPORE SCIENCE CENTRE</strong>
-</p>
-<p>Participated in <strong>INNOVATION, DESIGN &amp; ENGINEERING (IDE) SERIES: IDE CODE BUILDER by NULLSPACE<br></strong>2nd
-place:
-<br>BRYAN YONG JING HENG (Sec 2)</p>
-<p>Participated in <strong>MINT MASTERS COMPETITION by ANNETTE-GYMNASIUM MUNSTER MINT-EC SCHOOL</strong>
-<br>1st place
-<br>
-<br>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Participated in <strong>FIRST LEGO LEAGUE by DUCK LEARNING</strong>
 </p>
@@ -162,6 +148,42 @@ place:
 <br>LEE YU HENG XAVIER (Sec 2)
 <br>HOW YU REN (Sec 2)
 <br>PANDIRI VIVASH (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>ROBOROARZ SINGAPORE 2025 by SINGAPORE UNIVERSITY OF TECHNOLOGY &amp; DESIGN (SUTD)</strong>
+<br><u>4th team placing</u>
+<br>HENG TECK HAO (Sec 4)
+<br>CHEAH DI YSEN (Sec 4)
+<br>HENG SONG YU SHAWN (Sec 4)
+<br>WONG KHAI YEAN (Sec 4)
+<br>
+</p>
+<p>Participated in <strong>ROBOCUP SINGAPORE OPEN 2025 by SINGAPORE SCIENCE CENTRE</strong>
+<br><u>RCAP Rescue Line Entry, U19, 1st team place</u>
+<br>ANDREA TAN ZHI HUI (Sec 2)
+<br>KYO TRAN (Sec 2)
+<br>MARAMREDDY AKSHAR REDDY (Sec 2)
+<br>PADIDELA RUDVIK RAO (Sec 2)</p>
+<p><u>RCAP CoSpace Autonomous Driving, U19, 1st team place</u>
+<br>ARIANNE LIM XIN YING (Sec 2)
+<br>ONG LAY KEE VICTORIA (Sec 2)
+<br>
+</p>
+<p><strong>YOUNG ENGINEERS' ACHIEVEMENT AWARD by SINGAPORE POLYTECHNIC &amp; SINGAPORE SCIENCE CENTRE</strong>
+<br>
+<br>Participated in <strong>NATIONAL YOUTH TECH CHAMPIONSHIP by INFORMATION MEDIA DEVELOPMENT AUTHORITY (IMDA)</strong>
+<br><u>1st team placing</u>
+<br>KAREN AURELIA HO (Sec 3)
+<br>LEE JIA QI (Sec 3)
+<br>WILSON TEDJA HERRYANTO (Sec 3)
+<br>
+<br>Participated in <strong>EAST ZONE DSTA-DSO ROBOTICS CHALLENGE by VJC, DSTA and DSO</strong>
+<br>
+<br>Participated in <strong>NATIONAL ROBOTICS COMPETITION by SINGAPORE SCIENCE CENTRE</strong>
+<br><u>Cospace Rescue, 1st team place</u>
+<br>HOW YU REN (Sec 3)
+<br>JAIN ARNAV (Sec 3)
+<br>WILLIAM TEH KAI-SHEN (Sec 3)</p>
 </td>
 </tr>
 </tbody>
@@ -208,6 +230,24 @@ place:
 </td>
 <td rowspan="1" colspan="1">
 <p>3-6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Co-Lab + SET Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Two</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Co-Lab + SET Room</p>
