@@ -72,10 +72,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -83,16 +79,15 @@ variant: tiptap
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: NATIONALS</strong>
-<br><u>1st International Broadsword</u>
-<br>RYAN LEE XING ZUO (Sec 3): 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Ryan
@@ -105,15 +100,16 @@ Lee Xing Zuo (Sec 4): 4th
 <p><strong>NSG: NATIONALS</strong>
 <br>No top 8 placing</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: Nationals</strong>
+<br>4<sup>th</sup> Place
+<br>5<sup>th</sup> Place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys C Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: NATIONALS<br></strong><u>1st International Nanquan</u>
-<br>LOH HAO CHENG (Sec 1): 5th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: NATIONALS</strong>
@@ -135,23 +131,14 @@ Lee Xing Zuo (Sec 4): 4th
 <p><strong>1st International Nan Dao</strong>
 <br>TAN JING XIANG LUCAS (Sec 2): 8th</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: Nationals</strong>
+<br>5<sup>th</sup> Place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>WUSHU (Girls) B Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: NATIONALS</strong>
-<br><u>1st International Cudgel</u>
-<br>LOH PUI TING, PHOEBE (Sec 3): 8th</p>
-<p><u>2nd International Changquan</u>
-<br>RACHEL LEE JIA HUI (Sec 4): 5th
-<br>CHAI YU XUAN (Sec 4): 6th</p>
-<p><u>1st International Nandao</u> 
-<br>SHANNON LEE YU EN (Sec 4): 6th</p>
-<p><u>Sportsmanship Award</u>
-<br><strong>-</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,22 +155,16 @@ Wenlin (Sec 4): 6th</p>
 <br><strong>-</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: Nationals</strong>
+<br>5<sup>th</sup> Place
+<br>7<sup>th</sup> Place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>WUSHU (Girls) C Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: NATIONALS</strong>
-<br><u>1st International Broadsword</u>
-<br>ONG LING XIN (Sec 2): 8th</p>
-<p><u>1st International Cudgel</u>
-<br>ONG LING XIN (Sec 2): 5th</p>
-<p><u>1st International Nan Gun</u>
-<br>LEE PEI YING, JENNA (Sec 2): 6th</p>
-<p><u>Sportsmanship Award</u>
-<br>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: NATIONALS<br></strong><u>1st International Broadsword</u><strong><br></strong>Huang
@@ -203,6 +184,11 @@ Haoya (Sec 1): 7th</p>
 <br>YUE EN XI REANNE (Sec 2): 7th</p>
 <p><u>Sportsmanship Award</u>
 <br>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: Nationals</strong>
+<br>6<sup>th</sup> Place
+<br>8<sup>th</sup> Place</p>
 </td>
 </tr>
 </tbody>
@@ -279,5 +265,7 @@ Haoya (Sec 1): 7th</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Mr Wong Tong Aun James (CCA Teacher-in-charge)
-<br>Mdm. Nur Syifaa' Hussin
-<br>Mdm. Sun Xiuli</p>
+<br>Ms Law Jue Yu
+<br>Ms Ng Li Ya
+<br>Mdm Julinda Bte Hassan
+<br>Ms Chen Yanyan</p>
