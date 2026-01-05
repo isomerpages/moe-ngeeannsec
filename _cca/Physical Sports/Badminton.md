@@ -134,8 +134,7 @@ importance of teamwork.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: East Zone</strong>
-</p>
-<p>Preliminary Round</p>
+<br>Preliminary Round</p>
 </td>
 </tr>
 <tr>
@@ -157,8 +156,7 @@ importance of teamwork.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: League 2</strong>
-</p>
-<p>Preliminary Round</p>
+<br>Preliminary Round</p>
 </td>
 </tr>
 <tr>
@@ -181,8 +179,7 @@ RASHIDI (Sec 4)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: East Zone</strong>
-</p>
-<p>Preliminary Round</p>
+<br>Preliminary Round</p>
 </td>
 </tr>
 <tr>
@@ -200,8 +197,7 @@ RASHIDI (Sec 4)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: League 1</strong>
-</p>
-<p>Preliminary Round</p>
+<br>Preliminary Round</p>
 </td>
 </tr>
 </tbody>
