@@ -86,10 +86,6 @@ venues clean and tidy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -97,14 +93,12 @@ venues clean and tidy.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
-</p>
-<p><strong>INTER-SCHOOL EVENT<br></strong>Music exchange with Chung Cheng
-High (Main) and Nan Hua High School on 8 Nov 2022</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>SYF-AP</strong>
 <br>Distinction</p>
@@ -126,6 +120,11 @@ High (Main) and Nan Hua High School on 8 Nov 2022</p>
 School on 5 Apr 2024</p>
 <p><strong>PUBLIC PERFORMANCE</strong>
 <br>Harmony in Spring at Our Tampines Hub on 11 Apr 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PUBLIC PERFORMANCE</strong>
+<br>Tampines Changkat Chinese New Year Luncheon 2025 at Tampines-Changkat
+Community Centre on 08 Feb 2025</p>
 </td>
 </tr>
 </tbody>
@@ -177,7 +176,7 @@ School on 5 Apr 2024</p>
 <p>CD Shelter + Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Full orchestral</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +194,7 @@ School on 5 Apr 2024</p>
 <p>CD Shelter + Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sectional practice</p>
 </td>
 </tr>
 </tbody>
@@ -203,5 +202,4 @@ School on 5 Apr 2024</p>
 <h3>CCA Teachers</h3>
 <p>Ms. Teo Siew Lian Rachel (CCA Teacher-in-charge)
 <br>Ms Yeo Meow Ling Doreen
-<br>Ms. Pearly Siah Bee Shian
 <br>Ms. Hon Soo Sien</p>

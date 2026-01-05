@@ -110,10 +110,6 @@ tactics.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -121,15 +117,14 @@ tactics.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys B Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p><strong>NSG: NATIONALS<br></strong><em>DNQ</em><strong><br><br></strong><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,6 +143,13 @@ CHU ZHEN YU (Sec 3)</p>
 Singapore Schools, 3rd team placing:
 <br>SHABBIR AHMAD BIN SHAJAN (Sec 4)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: East Zone</strong>
+<br>Quarterfinal
+<br>
+<br>Participation in <strong>ASEAN SCHOOL GAMES: 14th EDITION AT BANDAR SERI BEGAWAN, BRUNEI</strong>
+<br>SHABBIR AHMAD BIN SHAJAN (Sec 5)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,15 +161,15 @@ Singapore Schools, 3rd team placing:
 <p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Quarter-final</p>
-<p><strong>NSG: NATIONALS<br></strong>DNQ<strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>NSG NATIONALS: LEAGUE 2</strong> 
 <br>Preliminary Round</p>
 <p><strong>&nbsp;ST. JOSEPH'S INSTITUTION INVITATIONAL</strong>
 <br>4th place
 <br>Team Sportsmanship Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: League 1</strong>
+<br>Preliminary Round</p>
 </td>
 </tr>
 </tbody>
@@ -216,10 +218,10 @@ Singapore Schools, 3rd team placing:
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Covered Court</p>
+<p>Outdoor Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Sec</p>
+<p>Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -234,10 +236,10 @@ Singapore Schools, 3rd team placing:
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Covered Court</p>
+<p>Outdoor Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upper Sec</p>
+<p>Lower Sec</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +254,7 @@ Singapore Schools, 3rd team placing:
 <p>2.30-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outdoor Covered Court</p>
+<p>Outdoor Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -269,4 +271,5 @@ Singapore Schools, 3rd team placing:
 <h3>CCA Teachers</h3>
 <p>Mr. Jonathan Chan Aik Beng (CCA Teacher-in-charge)
 <br>Mr. Dominic Chia Kim Seng
+<br>Mr. Kang Guan Wei
 <br>Mr. Jason Ang</p>

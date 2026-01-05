@@ -115,10 +115,6 @@ the school/nation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -126,16 +122,12 @@ the school/nation.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>UNIT RECOGNITION BANDING </strong><em>(for previous year)</em><strong><br></strong>Distinction
-<br><strong><br>OUTSTANDING CADET AWARD (HQ NCC)<br></strong>JONATHAN TENG
-JIA JUN (Sec 4)</p>
-<p></p>
-<p><strong>INTER-UNIT SHOOTING COMPETITION</strong>
-<br>Participation</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>UNIT RECOGNITION BANDING </strong><em>(for previous year)</em><strong><br></strong>Distinction
 <br><strong><br>OUTSTANDING CADET AWARD (HQ NCC)<br></strong>ADAM BIN ABDILLAH
@@ -159,6 +151,27 @@ JIA JUN (Sec 4)</p>
 <p><strong>PUBLIC PERFORMANCE</strong>
 <br>NCC-NPCC precision drill showcase for Tampines-Changkat RC National Day
 Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PRECISION DRILL SQUAD COMPETITION<br>East Zone</strong>
+<br>4<sup>th</sup> Place
+<br>
+<br><strong>UNIT RECOGNITION BANDING</strong> (<em>for previous year</em>)
+<br>Distinction
+<br>
+<br><strong>OUTSTANDING CADET AWARD</strong>
+<br>DHANI IRFAN BIN MOHAMMAD FAIZAL (Sec 4)
+<br>CHIA ZONG RUI JAYRON (Sec 4)
+<br>
+<br><strong>NCC SPORTS CHAMPIONSHIPS by HQ-NCC</strong>
+<br>Participation
+<br>
+<br><strong>NATIONAL DAY PARADE</strong>
+<br>PHOON LE WEI, AADEN (Sec 3)
+<br>ABDUL RAHMAN BIN MOHAMED FAHIZE (Sec 3)
+<br>SHAFIQ BRENDAN BIN MOHAMED AFFANDI (Sec 3)
+<br>FAYZAN NAIF BIN AHMAD JUMAIN (Sec 3)
+<br>THAM KHEE HO (Sec 3)</p>
 </td>
 </tr>
 </tbody>
@@ -207,25 +220,8 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>3-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quadrangle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Two</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle</p>
+<p>Quadrangle
+<br>C01-03</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

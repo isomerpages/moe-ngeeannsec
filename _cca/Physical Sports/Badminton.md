@@ -102,10 +102,6 @@ importance of teamwork.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -113,16 +109,15 @@ importance of teamwork.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG:&nbsp; EAST ZONE <br></strong>3rd</p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br></strong><u>Sportsmanship Award</u><strong><br></strong>TAN
-YI XUE (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG:&nbsp; EAST ZONE <br></strong>4th</p>
@@ -137,17 +132,14 @@ YI XUE (Sec 4)</p>
 <p><u>Sportsmanship Award</u>
 <br>ONG ZE LIN, ISAAC (Sec 4)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: East Zone</strong>
+<br>Preliminary Round</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys C Division</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>3rd</p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
-</p>
-<p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,18 +154,15 @@ YI XUE (Sec 4)</p>
 </p>
 <p>-</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: League 2</strong>
+<br>Preliminary Round</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Girls B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Quarter-final</p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
-</p>
-<p><u>Sportsmanship Award</u><strong><br></strong>JOELLE ONG WEE TENG (Sec
-4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>4th</p>
@@ -188,6 +177,10 @@ RASHIDI (Sec 4)
 <p><u>Sportsmanship Award</u>
 <br>WUI JING XUAN KASIE (Sec 4)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: East Zone</strong>
+<br>Preliminary Round</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,17 +189,15 @@ RASHIDI (Sec 4)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em>
-</p>
-<p><u>Sportsmanship Award</u><strong><br></strong>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>Preliminary Round</p>
 <p><strong>NSG: NATIONALS<br></strong>DNQ</p>
 <p><u>Sportsmanship Award</u><strong><br></strong>HEW YI XIN (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG NATIONALS: LEAGUE 2 <br></strong>Preliminary Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: League 1</strong>
+<br>Preliminary Round</p>
 </td>
 </tr>
 </tbody>
@@ -302,5 +293,5 @@ RASHIDI (Sec 4)
 <h3>CCA Teachers</h3>
 <p>Mdm. Zhao Tong (CCA Teacher-in-charge)
 <br>Ms Ang Hwee Chieh
-<br>Ms Liong Yen Lee
+<br>Mdm Nashita Bte Allaudin
 <br>Ms. Toh Hui Min</p>

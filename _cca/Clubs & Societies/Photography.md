@@ -108,10 +108,6 @@ ready to be deployed to take pictures at school events.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -119,14 +115,12 @@ ready to be deployed to take pictures at school events.</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Participated in<strong> OUR SCHOOLS, OUR STORIES by MINISTRY OF EDUCATION (MOE)</strong>
-</p>
-<p>Participated in <strong>SINGAPORE YOUTH FESTIVAL CELEBRATIONS: SYFGOESONLINE! PIXEL PERFECT</strong>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Participated in<strong> NGEE ANN PHOTOGRAPHIC EXHIBITION by NGEE ANN CULTURAL CENTRE</strong>
 </p>
@@ -140,6 +134,16 @@ ready to be deployed to take pictures at school events.</p>
 place, Student Photographer of the Year:<strong><br></strong>KAYLA LIM
 EN YI (Sec 2)</p>
 <p>Participated in <strong>OUR SCHOOLS, OUR STORIES by MOE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>NGEE ANN KONGSI PHOTOGRAPHIC EXHIBITIION by NGEE ANN KONGSI</strong>
+<br>
+<br>Participated in <strong>STUDENT VISUAL STORYTELLING AWARDS by OBJECTIFS</strong>
+<br><u>Student Photographer of the Year Special Mention</u>
+<br>JOSH LOW YU ZHE (Sec 2)
+<br>
+<br>Participated in <strong>OUR SCHOOLS, OUR STORIES by MINISTRY OF EDUCATION</strong>
 </p>
 </td>
 </tr>
@@ -198,6 +202,5 @@ EN YI (Sec 2)</p>
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Mdm. Nashita Allaudin (CCA Teacher-in-charge)
-<br>Mdm. Mariana Binte Yunus
-<br>Mr Koh Meng Hong</p>
+<p>Mr Mohamed Imran Khan Bin Mohamed Arshad Khan (CCA Teacher-in-charge)
+<br>Mdm Nur Syifaa' Binti Hussin</p>

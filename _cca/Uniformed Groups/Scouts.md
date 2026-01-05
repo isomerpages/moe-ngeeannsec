@@ -53,30 +53,6 @@ effective teamwork, inter-personal skills, leadership, as well as building
 a sense of responsibility and belonging.</p>
 </li>
 </ol>
-<p><strong>LEARNING INDICATORS: How do we know our students have learnt?</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>At various junctures of the Scout Progress Scheme, the Scouts should be
-able to each demonstrate their learning to the unit leaders, in alignment
-to the stages of the Progress Scheme.</p>
-</li>
-<li>
-<p>Scouts will keep track of their personal progression; a progressive learning
-journey focused on motivating and challenging an individual to continually
-develop, through a wide variety of learning opportunities. e.g. Scouts
-will keep a personal file which documents their attendance, achievements,
-community involvement programmes, reflections, and to store documents such
-as training schedules, and documents indicating the ways in which to attain
-proficiency and progress badges.</p>
-</li>
-<li>
-<p>Within the patrol system, the students should demonstrate a good sense
-of belonging to the functions of the patrol. These patrols should actively
-engage in the planning and execution of various tasks like campsite development
-and pioneering.</p>
-</li>
-</ol>
 <p><strong>CCA-specific skills they can perform</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -120,10 +96,6 @@ and pioneering.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -131,17 +103,12 @@ and pioneering.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>FRANK COOPER SANDS AWARD </strong>(for previous year)<strong><br></strong><em>There was no assessment for the year</em>
-</p>
-<p><strong>CHIEF COMMISSIONER’S AWARD&nbsp; <br></strong>ABDUL HAKEEM BIN
-ANWARUL HAQ (Sec 4)
-<br>ONG HUAI XU (Sec 4)</p>
-<p><strong>CHIEF COMMISSIONER’S WELL-DONE BADGE</strong>
-<br>FONG JING YUAN (Sec 3)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>FRANK COOPER SANDS AWARD </strong>(for previous year)<strong><br></strong>Gold</p>
 <p><strong>CHIEF COMMISSIONER’S AWARD&nbsp; <br></strong>IMRAN HASSAN AL
@@ -168,6 +135,30 @@ NOOR (Sec 4)
 <p><strong>EAST AREA CARNIVAL</strong>
 <br><u>Floorball</u>
 <br>3rd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MILESTONE ATTAINMENT: VOYAGER BADGE</strong>
+<br>MUHAMMAD RAIYAN MIRZA BIN MOHAMAD TAUFIK (Sec 4)
+<br>ETHAN HOW SHIN YIH (Sec 4)
+<br>LIM JUNYU JAYDEN (Sec 4)
+<br>ETHAN HO JIAN FENG (Sec 4)
+<br>LEE RUI TENG ISAIAH (Sec 4)
+<br>
+<br><strong>MILESTONE ATTAINMENT: NATIONAL YOUTH ACHIEVEMENT AWARD (SILVER)</strong>
+<br>MUHAMMAD RAIYAN MIRZA BIN MOHAMAD TAUFIK (Sec 4)
+<br>LIM JUNYU JAYDEN (Sec 4)
+<br>ETHAN HO JIAN FENG (Sec 4)
+<br>LEE RUI TENG ISAIAH (Sec 4)
+<br>
+<br><strong>FRANK COOPER SANDS AWARD</strong>
+<br>Awarded
+<br>
+<br><strong>CHIEF SCOUTS AWARD</strong>
+<br>MUHAMMAD RAIYAN MIRZA BIN MOHAMAD TAUFIK (Sec 4)
+<br>ETHAN HOW SHIN YIH (Sec 4)
+<br>LIM JUNYU JAYDEN (Sec 4)
+<br>ETHAN HO JIAN FENG (Sec 4)
+<br>LEE RUI TENG ISAIAH (Sec 4)</p>
 </td>
 </tr>
 </tbody>
@@ -213,11 +204,12 @@ NOOR (Sec 4)
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6pm</p>
+<p>3.30-6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fire Access (Outside Art Studios)
-<br>Scout shed</p>
+<br>Scout shed
+<br>C01-05</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -228,5 +220,4 @@ NOOR (Sec 4)
 <h3>CCA Teachers</h3>
 <p>Ms Ananurmelati Bte Abdul Rahman (CCA Teacher-in-charge)
 <br>Mr Amos Koh Chit Boon
-<br>Mr Goh Tai Lin Aloysius
-<br>Ms Law Jue Yu</p>
+<br>Mr Goh Tai Lin Aloysius</p>
