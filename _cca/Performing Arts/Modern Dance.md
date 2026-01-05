@@ -103,10 +103,6 @@ sessions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -114,14 +110,12 @@ sessions.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
-</p>
-<p><strong>SUPERDANCE 24 DANCE COMPETITION</strong>
-<br>Represent under special provision</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>SYF-AP</strong>
 <br>Distinction</p>
@@ -151,6 +145,10 @@ award: 5x</p>
 <p><strong>PUBLIC COMPETITION</strong>
 <br>World Supremacy Battlegrounds Singapore (Vol. 4): Final</p>
 <p><strong>Varsity Category<br></strong>3rd place: 20x</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+<br>Distinction</p>
 </td>
 </tr>
 </tbody>
