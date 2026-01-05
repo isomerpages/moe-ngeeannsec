@@ -17,6 +17,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:
@@ -791,7 +792,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Ngee Ann Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Ngee Ann Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -824,16 +825,19 @@ Abstinence and upholding family values are the key messages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:
-<br>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).
-<br>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<br>a)&nbsp;&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and
+HIV): what it is, how it spreads, how to prevent infection mainly through
+ABC (abstinence, being faithful, correct, and consistent condom use), consequences
+and impact
+<br>b)&nbsp;&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>c)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way, including avenues for help-seeking.</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -850,7 +854,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -858,23 +862,20 @@ of assertiveness and responsible decision-making</p>
 <h3>INFORMATION FOR PARENTS</h3>
 <ol start="10" data-tight="true" class="tight">
 <li>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
 </li>
-</ol>
-<ol start="11">
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/nass-sed-opt-out" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 24/01/2025.</p>
+at the start of the year and is also available <a href="https://go.gov.sg/nass-sed-opt-out" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 30 January 2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="https://go.gov.sg/nass-eteens-opt-out" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 24/01/2025.</p>
+is to be submitted by 30 January 2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at nass@moe.edu.sg or 67844583 for discussion
