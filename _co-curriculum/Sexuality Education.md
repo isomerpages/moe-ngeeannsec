@@ -882,7 +882,7 @@ is to be submitted by 30 January 2026.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/nass-eteens-opt-out" rel="noopener nofollow" target="_blank">here</a>. The completed form
+at the start of the year and is also available <a href="https://go.gov.sg/nass-eteens-opt-out" rel="noopener nofollow" target="_blank">here</a>. The completed form
 is to be submitted by 30 January 2026.</p>
 </li>
 <li>
