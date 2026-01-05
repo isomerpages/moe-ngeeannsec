@@ -138,11 +138,11 @@ EN YI (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in <strong>NGEE ANN KONGSI PHOTOGRAPHIC EXHIBITIION by NGEE ANN KONGSI</strong>
+<br>
 <br>Participated in <strong>STUDENT VISUAL STORYTELLING AWARDS by OBJECTIFS</strong>
-</p>
-<p><u>Student Photographer of the Year Special Mention</u>
-</p>
-<p>JOSH LOW YU ZHE (Sec 2)
+<br><u>Student Photographer of the Year Special Mention</u>
+<br>JOSH LOW YU ZHE (Sec 2)
+<br>
 <br>Participated in <strong>OUR SCHOOLS, OUR STORIES by MINISTRY OF EDUCATION</strong>
 </p>
 </td>
@@ -202,4 +202,5 @@ EN YI (Sec 2)</p>
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Mr Mohamed Imran Khan Bin Mohamed Arshad Khan (CCA Teacher-in-charge)</p>
+<p>Mr Mohamed Imran Khan Bin Mohamed Arshad Khan (CCA Teacher-in-charge)
+<br>Mdm Nur Syifaa Binti Hussin</p>
