@@ -86,10 +86,6 @@ community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -97,14 +93,12 @@ community.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>UNIT OVERALL PROFICEINCY AWARD </strong><em>(for previous year)</em><strong> <br></strong>Gold</p>
-<p><strong>SPF-NPCC BADGE</strong>
-<br>MOHAMED IZZ DANISH BIN MOHAMED NASIR (Sec 4)
-<br>SUMITRA SUNIL GARSE (Sec 4)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>UNIT OVERALL PROFICEINCY AWARD </strong><em>(for previous year)</em><strong> <br></strong>Distinction</p>
 <p><strong>SPF-NPCC BADGE</strong>
@@ -120,6 +114,24 @@ community.</p>
 <p><strong>PUBLIC PERFORMANCE</strong>
 <br>NCC-NPCC precision drill showcase for Tampines-Changkat RC National Day
 Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>UNIT OVERALL PROFICEINCY AWARD</strong> (<em>for previous year</em>)
+<br>Distinction
+<br>
+<br><strong>LEVEL FOUR LEADERSHIP ATTAINMENT: STAFF SERGEANT</strong> 
+<br>QISTINA AISHA BINTE MOHAMED ASHIQ (Sec 4)
+<br>
+<br><strong>BEST UNIT CADET BADGE BY NPCC HQ</strong>
+<br>QISTINA AISHA BINTE MOHAMED ASHIQ (Sec 4)
+<br>NOR AMIRUL HAKIM BIN BAHARUDDIN (Sec 4)
+<br>
+<br><strong>SPF-NPCC BADGE</strong>
+<br>DYANN LEE JIA XUAN (Sec 4)
+<br>KEITH CHEN SHENGQI (Sec 4)
+<br>
+<br><strong>NATIONAL DAY PARADE</strong>
+<br>ONG LIANNE (Sec 2)</p>
 </td>
 </tr>
 </tbody>
@@ -195,7 +207,7 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 </tbody>
 </table>
 <h3>CCA Teachers</h3>
-<p>Mr. Kang Guan Wei (CCA Teacher-in-charge)
+<p>Mr. Mr Koh Meng Hong (CCA Teacher-in-charge)
 <br>Mr. Tan Rou Ming
 <br>Mdm. Suhaila Ahmat Samsi
-<br>Ms Wong Chen Ling</p>
+<br>Mr Marcus Low Xue Kai</p>
