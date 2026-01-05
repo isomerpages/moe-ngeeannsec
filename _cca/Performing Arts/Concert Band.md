@@ -119,10 +119,6 @@ of the band.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -130,12 +126,12 @@ of the band.</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>SYF-AP<br></strong>Accomplishment</p>
 <p><strong>SCHOOL PERFORMANCES<br></strong>Chinese New Year Concert
@@ -158,6 +154,21 @@ Aug 2023</p>
 <p><strong>SPECIAL PERFORMANCE</strong>
 <br>Euphony: A Joint Performance Between Choir and Concert Band at our school
 on 04 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Band Exchange Programme with other schools</strong> (Bendemeer
+Secondary, Maris Stell High and Peirce Secondary) on 21 Mar 2025
+<br>
+<br>Participated in <strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+<br>Accomplishment
+<br>
+<br><strong>PUBLIC PERFORMANCE</strong>
+<br>Red Dot August by Novo Winds and seven other secondary schools, a heartfelt
+celebration of Singaporean identity through wind band music at Esplanade
+Outdoor Theatre on 01 Aug 2025
+<br>
+<br><strong>PUBLIC PERFORMANCE</strong>
+<br>Garden Escapades II by Gardens by the Bay on 16 Nov 2025</p>
 </td>
 </tr>
 </tbody>
