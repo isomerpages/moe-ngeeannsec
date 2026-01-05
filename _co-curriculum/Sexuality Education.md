@@ -20,8 +20,8 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are to:
-<br>(a) Support students in managing their physiological, social and emotional
+<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
+<p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
@@ -45,7 +45,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<h3>Overview of NGEE ANN Secondary School’s Sexuality Education Programme for 2025</h3>
+<h3>Overview of NGEE ANN Secondary School’s Sexuality Education Programme for 2026</h3>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -86,7 +86,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3>At Ngee Ann Secondary School, the following Sexuality Education lessons will be taught in 2025:</h3>
+<h3>At Ngee Ann Secondary School, the following Sexuality Education lessons will be taught in 2026:</h3>
 <h4>Secondary 1</h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -160,7 +160,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -304,7 +304,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -367,7 +367,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -444,7 +444,7 @@ is important when entering into a dating relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -591,7 +591,7 @@ and should be avoided</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@ relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +675,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -705,7 +705,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -772,7 +772,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -781,8 +781,16 @@ alignment with our beliefs</p>
 </p>
 <ol start="8">
 <li>
-<p><em>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</em>
-</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
