@@ -126,7 +126,10 @@ and the company)</p>
 <br>Merit
 <br>
 <br><strong>PUAN NOOR AISHAH AWARD</strong> (<em>for previous year</em>)
-<br>Gold</p>
+<br>Gold
+<br>
+<br><strong>BADEN-POWELL AWARD</strong>
+<br>LYLA AURORA BINTE MUHAMMAD YUSOF (Sec 4)</p>
 </td>
 </tr>
 </tbody>
