@@ -211,7 +211,7 @@ TAN (Sec 4)</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6pm</p>
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -229,7 +229,7 @@ TAN (Sec 4)</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6pm</p>
+<p>3.15-6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -247,7 +247,7 @@ TAN (Sec 4)</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-6pm</p>
+<p>1.15-4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH</p>
@@ -268,5 +268,4 @@ TAN (Sec 4)</p>
 <p>Mr. Lai Hon Kit Chris (CCA Teacher-in-charge)
 <br>Mdm. Lyu Jun Chao
 <br>Miss Eunice Loo Jia Xin
-<br>Ms Nur Syafaah Binte Ismail
-<br>Mr Gabriel Yap Zheng Bo</p>
+<br>Ms Nur Syafaah Binte Ismail</p>
