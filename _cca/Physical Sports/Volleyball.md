@@ -101,10 +101,6 @@ safety awareness, looking after their bodies etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -112,17 +108,15 @@ safety awareness, looking after their bodies etc.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>VOLLEYBALL (Girls) B Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>4th place</p>
-<p><strong>NSG: NATIONALS<br></strong><em>There were no NSG (Nat)</em><strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>ACHUGBU
-ROSEMARY CALLISTA (Sec 4)
-<br>DIANAH HANIS BINTE ZULKARNAIN (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>4th place</p>
@@ -137,15 +131,21 @@ TAN (Sec 4)</p>
 <p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: East Zone</strong>
+<br>1<sup>st</sup> Place
+<br>
+<br><strong>NSG: Nationals</strong>
+<br>Quarterfinal
+<br>
+<br>Participated in <strong>VOLLEYBALL ACE CUP by VOLLEYBALL ASSOCIATION SINGAPORE (U15)</strong>
+<br>2nd place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>VOLLEYBALL (Girls) C Division</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NSG: EAST ZONE <br></strong>1st place</p>
-<p><strong>NSG: NATIONALS<br></strong>Quarter-final<strong><br><br></strong><u>Sportsmanship Award</u><strong><br></strong>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG: EAST ZONE <br></strong>1st place</p>
@@ -159,6 +159,13 @@ TAN (Sec 4)</p>
 <br>6th place</p>
 <p><u>Sportsmanship Award</u><strong><br>-</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG: League 1</strong>
+<br>Quarterfinal
+<br>
+<br>Participated in <strong>ACTIVESG CUP (JUN EDITION) (U14)</strong>
+<br>3rd place</p>
 </td>
 </tr>
 </tbody>
