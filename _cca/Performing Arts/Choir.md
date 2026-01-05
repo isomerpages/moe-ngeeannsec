@@ -84,9 +84,8 @@ Harmony, Timbre, Dynamics, Texture, and Form.</p>
 </li>
 </ol>
 <h3>PROGRESS AND ACHIEVEMENTS</h3>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -95,10 +94,6 @@ Harmony, Timbre, Dynamics, Texture, and Form.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -106,12 +101,12 @@ Harmony, Timbre, Dynamics, Texture, and Form.</p>
 <p><strong>2024</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><em>There was no Singapore Youth Festival (Arts Presentation) (SYF-AP)</em>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>SYF-AP<br></strong>Accomplishment</p>
 <p><strong>SCHOOL PERFORMANCES<br></strong>Chinese New Year Concert
@@ -133,6 +128,16 @@ Mar 2024</p>
 <p><strong>SPECIAL PERFORMANCE</strong>
 <br>Euphony: A Joint Performance Between Choir and Concert Band at our school
 on 04 Nov 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in <strong>Master class on choir-related topics by Mr Toh Ban Sheng on 21 Mar 2025</strong>
+<br>
+<br>Participated in <strong>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</strong>
+<br>Accomplishment
+<br>
+<br><strong>PUBLIC PERFORMANCE</strong>
+<br>National Day Celebration by Tampines East Community Centre at Tampines
+East Community Centre on 03 Aug 2025</p>
 </td>
 </tr>
 </tbody>
@@ -209,5 +214,5 @@ on 04 Nov 2024</p>
 </table>
 <h3>CCA Teachers</h3>
 <p>Ms Jacinta Yeo Soo Hua
-<br>Mdm. Cheng Pei Boon Stephanie
+<br>Ms Liong Yen Lee
 <br>Mr. Ho Yuan Shun Timothy</p>
