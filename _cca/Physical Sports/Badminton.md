@@ -302,5 +302,5 @@ RASHIDI (Sec 4)
 <h3>CCA Teachers</h3>
 <p>Mdm. Zhao Tong (CCA Teacher-in-charge)
 <br>Ms Ang Hwee Chieh
-<br>Ms Liong Yen Lee
+<br>Mdm Nashita Bte Allaudin
 <br>Ms. Toh Hui Min</p>
