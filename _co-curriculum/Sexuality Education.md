@@ -845,7 +845,7 @@ healthy way, including avenues for help-seeking.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -862,7 +862,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
