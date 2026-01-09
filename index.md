@@ -11,6 +11,9 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
+        - title: Release of 2025 GCE O Level Examination Results
+          description: Click here for more info!
+          url: /release-of-2025-gce-o-level-examination-results/
         - title: Release of 2025 GCE N Level Examination Results
           description: Click here for more info!
           url: /release-of-2025-gce-n-level-examination-results

@@ -2,6 +2,7 @@ collections:
   links-for-parents:
     output: true
     order:
+      - Release of 2025 GCE O Level Examination Results.md
       - Sec 1 Posting For 2026/.keep
       - Sec 1 Posting For 2026/Sec 1 Registration Exercise (2026 Intake).md
       - Sec 1 Posting For 2026/PG Notifications & Sec 1 Registration Briefing.md
@@ -9,7 +10,6 @@ collections:
       - Sec 1 Posting For 2026/School Matters.md
       - Sec 1 Posting For 2026/Parent Engagement.md
       - Release of 2025 GCE N Level Examination Results.md
-      - Release of 2024 GCE O Level Examination Results.md
       - Parents Support Group (PSG).md
       - Parents Gateway.md
       - Support for Home–based Learning.md
