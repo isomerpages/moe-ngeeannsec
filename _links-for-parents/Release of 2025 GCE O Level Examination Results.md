@@ -33,8 +33,7 @@ your child/ward:&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener
 </p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP)&nbsp;<u>Factsheet&nbsp;</u>for
-students</p>
+<p>Polytechnic Foundation Programme (PFP)&nbsp;<a href="/files/2025_PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Factsheet</a> for students</p>
 </li>
 <li>
 <p><a href="/files/Proxy_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a> (Appointment
