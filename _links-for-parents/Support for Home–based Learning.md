@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>e-NAS</h3>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/e-NAS%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eNas_Mascots.jpg">
 </div>
 <p>In the event of school closure, Ngee Ann Secondary School (NAS) will operate
 digitally as e-NAS.&nbsp;</p>
