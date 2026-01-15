@@ -264,7 +264,7 @@ the school. The dates shall be updated as soon as they are available.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mid 2Autumn Festival @ School Activities</p>
+<p>Mid Autumn Festival @ School Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sep 2026</p>
