@@ -134,12 +134,6 @@ the Exco to coordinate PSG matters, where applicable.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/08Hqcv8gW00?si=30ZunOshaurMARyM"></iframe>
 </div>
 <h2>Proposed PSG Events/Activities 2026</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please note the proposed events/activities are pending confirmation from
-the school. The dates shall be updated as soon as they are available.</p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
