@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Please click <a href="/files/PSG_Organisation_chart_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/PSG_Organisation_Chart_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the organisation chart</p>
 <h2>Parent Ambassadors ("PA")</h2>
 <p>Each class has up to 2 Parent Ambassadors (Main PA &amp; Co PA) assisting
