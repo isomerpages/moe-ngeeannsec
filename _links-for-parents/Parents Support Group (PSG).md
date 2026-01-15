@@ -290,7 +290,7 @@ the Exco to coordinate PSG matters, where applicable.</p>
 </table>
 <p><strong><em>NAS PSG welcomes parents to join the group at any juncture.</em></strong>
 </p>
-<p><strong>Click&nbsp;<a href="https://go.gov.sg/naspsg" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the PSG application form.</strong>
+<p><strong>Click&nbsp;<a href="https://go.gov.sg/naspsgreg" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for the PSG application form.</strong>
 </p>
 <h5><strong>HOW TO CONTACT NAS PSG:</strong></h5>
 <p>All official communication will be via email through the Secretary.
