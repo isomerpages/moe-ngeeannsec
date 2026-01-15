@@ -142,18 +142,10 @@ the Exco to coordinate PSG matters, where applicable.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Term 1</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Learning Journey (PSG Support)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st</sup> week of Feb 2026 (TBC)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Celebrating Lunar New Year @ School
 <br>(PSG – mini treats distribution)</p>
