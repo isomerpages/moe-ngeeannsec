@@ -131,7 +131,7 @@ the organisation chart</p>
 the Exco to coordinate PSG matters, where applicable.</p>
 <h2>NAS PSG Video</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/08Hqcv8gW00?si=30ZunOshaurMARyM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=62C-BaDgSo4"></iframe>
 </div>
 <h2>Proposed PSG Events/Activities 2026</h2>
 <table style="minWidth: 75px">
