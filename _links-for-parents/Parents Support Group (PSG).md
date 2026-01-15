@@ -147,8 +147,7 @@ the Exco to coordinate PSG matters, where applicable.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Celebrating Lunar New Year @ School
+<p>Celebrating Lunar New Year @ School
 <br>(PSG – mini treats distribution)</p>
 </td>
 <td rowspan="1" colspan="1">
