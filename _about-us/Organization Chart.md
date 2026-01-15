@@ -4,7 +4,7 @@ permalink: /about-us/organization-chart/
 description: ""
 variant: tiptap
 ---
-<h5>School Management Committee 2025</h5>
+<h5>School Management Committee 2026</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>School Key Personnel 2025</h5>
+<h5>School Key Personnel 2026</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,14 +112,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Devi d/o Lokanathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Karen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,14 +124,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lena Siau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Special Educational Needs (SEN)</p>
 </td>
 </tr>
 <tr>
@@ -160,10 +144,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Wee Siong</p>
+<p>Mr Ng Boon Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Craft &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Hasni Yanti Binte Hamim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – English &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -180,6 +172,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Physical Education &amp; Co-Curricular Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Woon Min Samuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Special Projects</p>
 </td>
 </tr>
 <tr>
