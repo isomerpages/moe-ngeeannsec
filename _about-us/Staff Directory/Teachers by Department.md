@@ -652,18 +652,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Yanyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Untrained Teacher / CL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Goh Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / CL (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Yanyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / CL</p>
 </td>
 </tr>
 </tbody>
