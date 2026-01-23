@@ -248,6 +248,14 @@ variant: tiptap
 <p>Teacher / EL</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / EL (FAJT)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>HUMANITIES</h3>
@@ -511,6 +519,14 @@ variant: tiptap
 <p>Teacher / Maths</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharimah Mohd Shariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / Math (FAJT)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MOTHER TONGUE LANGUAGES</h3>
@@ -632,6 +648,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / CL (CAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher / CL (FAJT)</p>
 </td>
 </tr>
 <tr>
