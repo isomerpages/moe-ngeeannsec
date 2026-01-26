@@ -2,6 +2,7 @@
 title: Direct School Admission (DSA) Exercise 2023
 permalink: /links-for-parents/direct-school-admission-dsa-exercise-2023/
 description: ""
+variant: markdown
 ---
 *(This document is correct as of 26 Jun 2023)*
 
@@ -11,7 +12,7 @@ Do you think that Ngee Ann Secondary School will be a good fit for you?
 The Ngee Ann Secondary School Direct School Admission (DSA-Sec) to Secondary One in 2024 is open to interested applicants. 
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **4 May 2023, 11am - 31 May 2023, 3pm**. For more details, please refer to MOE website –
-[MOE website](http://www.moe.gov.sg/dsa-sec.)
+[MOE website](https://www.moe.gov.sg/dsa-sec)
 
 ### Think it Through
 
