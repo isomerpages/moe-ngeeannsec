@@ -174,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mariam Bte Buang</p>
+<p>Ms Quraisyah Bte Mohd Nawawi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
