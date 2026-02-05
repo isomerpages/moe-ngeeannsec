@@ -925,6 +925,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Anne Lee Boon Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (Trainee)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yeoh Geok Faye</p>
 </td>
 <td rowspan="1" colspan="1">
