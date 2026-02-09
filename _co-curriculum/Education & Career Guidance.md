@@ -86,12 +86,13 @@ child's decision-making process at their key education stages.
 </p>
 </li>
 <li>
-<p>Hand in Hand - Journey Together
-<br><strong><a href="https://go.gov.sg/pathwaynavigator" rel="noopener noreferrer nofollow" target="_blank">Pathway Navigator (MySkillsFuture Student Portal)</a></strong>
+<p><strong><a href="https://go.gov.sg/pathwaynavigator" rel="noopener noreferrer nofollow" target="_blank">Pathway Navigator (MySkillsFuture Student Portal)</a></strong>
 <br>The interactive tool is a student’s guide in exploring their education
 pathways from primary school to post-secondary education institutions.
-Find out how to use the interactive tool <a href="https://file.go.gov.sg/ecgbuzz-pathwaynavigator.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br><strong><a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank">ECG Instagram @explore.ecg</a></strong>
+Find out how to use the interactive tool <a href="https://file.go.gov.sg/ecgbuzz-pathwaynavigator.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
+<p><strong><a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank">ECG Instagram @explore.ecg</a></strong>
 <br>An Instagram account on ECG for parents to <strong>encourage ongoing parent-child ECG conversations </strong>about
 discovering purpose, exploring opportunities and staying relevant for the
 future.</p>
