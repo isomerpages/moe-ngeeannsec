@@ -69,8 +69,7 @@ email her at <a rel="noopener noreferrer nofollow" target="_blank">chia_yee_teng
 <h3>My SkillsFuture portal</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a></strong>&nbsp;–
-Learn about the key features in the <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a> Student
+<p>Learn about the key features in the <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a> Student
 Portals across the different levels and how your child can use the various
 portals for education and career planning.</p>
 </li>
@@ -81,27 +80,22 @@ stages to guide your child.</p>
 </li>
 <li>
 <p><strong>What's Next</strong>&nbsp;– Use this resource to support your
-child's decision-making process at their key education stages.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">For N-Level students</a>
+child's decision-making process at their key education stages.
+<br><a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">For N-Level students</a>
+<br><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">For O-Level students</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">For O-Level students</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf" rel="noopener noreferrer nofollow" target="_blank">The Next Step Forward</a></strong>&nbsp;–
-See how 54 individuals go through diverse education and career pathways.
-The inspirational narratives highlight the many options that cater to the
-students' needs and can help them discover their selected pathways.</p>
+<p><strong><a href="https://go.gov.sg/pathwaynavigator" rel="noopener noreferrer nofollow" target="_blank">Pathway Navigator (MySkillsFuture Student Portal)</a></strong>
+<br>The interactive tool is a student’s guide in exploring their education
+pathways from primary school to post-secondary education institutions.
+Find out how to use the interactive tool <a href="https://file.go.gov.sg/ecgbuzz-pathwaynavigator.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/hand-in-hand_2017.pdf" rel="noopener noreferrer nofollow" target="_blank">Hand in Hand - Journeying Together</a><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>–
-See how different stakeholders come together to support students’ ECG journeys.</p>
+<p><strong><a href="https://go.gov.sg/ecg-instagram" rel="noopener noreferrer nofollow" target="_blank">ECG Instagram @explore.ecg</a></strong>
+<br>An Instagram account on ECG for parents to <strong>encourage ongoing parent-child ECG conversations </strong>about
+discovering purpose, exploring opportunities and staying relevant for the
+future.</p>
 </li>
 </ul>
 <p></p>
