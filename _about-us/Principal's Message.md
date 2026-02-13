@@ -65,7 +65,7 @@ This is your school, your community and always, <em>your Home to Grow In</em>.
 <br>Ms Poh Shi Hui
 <br>Principal, Ngee Ann Secondary School</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_Rainbow.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NASS_Rainbow.png">
 </div>
 <h2><br><br><br></h2>
 <p></p>
