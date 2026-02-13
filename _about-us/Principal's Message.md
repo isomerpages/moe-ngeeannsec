@@ -14,7 +14,7 @@ variant: tiptap
 NASians who care deeply and make a positive difference to themselves and
 others. More importantly, we want every student who joins us to feel that
 they belong, are valued, and have the confidence to grow.</p>
-<p>Our school was founded by the Ngee Ann Kongsi in 1994 with a mission to
+<p>Our school was founded by The Ngee Ann Kongsi in 1994 with a mission to
 give back to the community through education. This spirit continues to
 shape who we are today. We intentionally develop NASians to be <strong>Thinkers, Collaborators and Communicators</strong>  <strong>with a Growth and Abundance Mindset</strong>.
 Our students are also <strong>digitally confident and AI-literate</strong>,
@@ -59,8 +59,9 @@ and to others.</p>
 This is your school, your community and always, <em>your Home to Grow In</em>.
 <br>
 <br><strong>Go chase your rainbow, NASians!</strong>
-</p>
-<p></p>
+<br>
+<br>Ms Poh Shi Hui
+<br>Principal, Ngee Ann Secondary School</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_Rainbow.jpg">
 </div>
