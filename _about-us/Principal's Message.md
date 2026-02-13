@@ -4,12 +4,13 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
+<h4><strong>We are NAS: A School of Possibilities and A Home to Grow In</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_CNY_2026.jpg">
 </div>
-<p><em><sub>From Left: Vice Principal, Mr Chad Goh, Principal, Ms Poh Shi Hui, Vice Principal, Mdm Tan Lay Gin</sub></em>
+<p><em>From Left: Vice Principal, Mr Chad Goh, Principal, Ms Poh Shi Hui, Vice Principal, Mdm Tan Lay Gin</em>
+<br>
 </p>
-<h4><strong>Principal’s Message 2026</strong></h4>
 <p>At Ngee Ann Secondary School, or NAS, we nurture <strong>Value Creators of the Community</strong> —
 NASians who care deeply and make a positive difference to themselves and
 others. More importantly, we want every student who joins us to feel that
