@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="From Left: Mdm Tan Lay Gin, Vice Principal; Mr Goh Chin Wei Chad, Vice Principal; and Ms Poh Shi Hui, Principal" src="/images/P_message_photo.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_CNY_2026.jpg">
 </div>
 <p><sub>From Left: Vice Principal, Mr Chad Goh, Principal, Ms Poh Shi Hui, Vice Principal, Mdm Tan Lay Gin</sub>
 </p>
@@ -59,5 +59,13 @@ and to others.</p>
 This is your school, your community and always, <em>your Home to Grow In</em>.
 <br>
 <br><strong>Go chase your rainbow, NASians!</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_Rainbow.jpg">
+</div>
+<p>
+<br>
+<br>
 <br>
 </p>
