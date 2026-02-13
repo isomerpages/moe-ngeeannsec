@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_CNY_2026.jpg">
 </div>
-<p><em>From Left: Vice Principal, Mr Chad Goh, Principal, Ms Poh Shi Hui, Vice Principal, Mdm Tan Lay Gin </em>
+<p><em><sup>From Left: Vice Principal, Mr Chad Goh, Principal, Ms Poh Shi Hui, Vice Principal, Mdm Tan Lay Gin </sup></em>
 <br>
 </p>
 <p>At Ngee Ann Secondary School, or NAS, we nurture <strong>Value Creators of the Community</strong> —
