@@ -4,7 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h4><strong>We are NAS: A School of Possibilities and A Home to Grow In</strong></h4>
+<p><strong>We are NAS: A School of Possibilities and A Home to Grow In</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nass_CNY_2026.jpg">
 </div>
