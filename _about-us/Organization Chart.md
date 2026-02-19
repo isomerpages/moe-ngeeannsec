@@ -288,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Chia Kim Seng</p>
+<p>Mdm Izzalina Binte Mohamad Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 1</p>
@@ -296,7 +296,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Izzalina Binte Mohamad Ali</p>
+<p>Mr Dominic Chia Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 2</p>
@@ -304,7 +304,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xuewen Shavonne</p>
+<p>Mdm Nur Syifaa’ Binti Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 3</p>
@@ -312,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Syifaa’ Binti Hussin</p>
+<p>Ms Tan Xuewen Shavonne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head – Sec 4/5</p>
