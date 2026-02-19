@@ -60,8 +60,8 @@ too.</p>
 parents, alumni and partners. Your trust, encouragement and support form
 the strong foundation that has enabled NAS to grow from strength to strength
 over the years.</p>
-<p>To our NASians — and to our new students and your families — my hope for
-you is simple and heartfelt.</p>
+<p>To our NASians — and to our new students and your families — our hope
+for you is simple and heartfelt.</p>
 <p>May you grow into confident young people who are willing to try, willing
 to learn and willing to persevere when challenges come your way. May you
 discover your strengths and have the courage to keep growing, even when
