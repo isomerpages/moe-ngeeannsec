@@ -26,8 +26,8 @@ sections:
       backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
-      description: Parents Gateway is a mobile app,which allows parents to engage with
-        schools, receive information and perform a range of administrative
+      description: Parents Gateway is a mobile app, which allows parents to engage
+        with schools, receive information and perform a range of administrative
         functions
       button: Click here
       url: /links-for-parents/parents-gateway
