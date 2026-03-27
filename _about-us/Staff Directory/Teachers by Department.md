@@ -941,6 +941,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Wei Wei Calin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jovial Teo Huiru</p>
 </td>
 <td rowspan="1" colspan="1">
