@@ -11,7 +11,7 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: SGC Ready for collection
+        - title: School Graduation Certificate Collection
           description: For 4 Courtesy class of 2025
           url: ""
         - title: Release of 2025 GCE O Level Examination Results
