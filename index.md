@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: School Graduation Certificate Collection
           description: For 4 Courtesy class of 2025
-          url: ""
+          url: /sgc-collection/
         - title: Release of 2025 GCE O Level Examination Results
           description: Click here for more info!
           url: /release-of-2025-gce-o-level-examination-results/
