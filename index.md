@@ -11,7 +11,7 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
-        - title: Vacant Canteen Stall
+        - title: Vacant Muslim Stall
           description: Click here for more info!
           url: /vacant-canteen-stall/
         - title: School Graduation Certificate Collection
