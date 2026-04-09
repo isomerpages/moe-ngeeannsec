@@ -11,15 +11,15 @@ sections:
       background: /images/Open_House_Banner_2024.jpg
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
+        - title: Vacant Canteen Stall
+          description: Click here for more info!
+          url: /vacant-canteen-stall/
         - title: School Graduation Certificate Collection
           description: For 4 Courtesy class of 2025
           url: /sgc-collection/
         - title: Release of 2025 GCE O Level Examination Results
           description: Click here for more info!
           url: /release-of-2025-gce-o-level-examination-results/
-        - title: Release of 2025 GCE N Level Examination Results
-          description: Click here for more info!
-          url: /release-of-2025-gce-n-level-examination-results
       variant: center
       button: Secondary 1 Posting for 2026
       url: links-for-parents/sec-1-posting-for-2026/sec-1-registration-exercise-2026-intake/
