@@ -7,9 +7,8 @@ description: ""
 <p>Ngee Ann Secondary School is a government-aided school with more than
 1,000 students.
 <br>We have a vacant stall in the canteen to sell Muslim Cooked Rice &amp;
-Noodles from 2nd February 2026.
-<br>The criteria for application are as follow:</p>
-<p></p>
+Noodles from <strong>4 May 2026</strong>.</p>
+<p>The criteria for application are as follow</p>
 <p>The applicant
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must be a Singapore Citizen or
 Singapore Permanent Resident.
@@ -29,7 +28,7 @@ health status.&nbsp;&nbsp;
 catering / operating a canteen stall in school.</p>
 <p></p>
 <p>Interested applicants may collect the Application Form from the school’s
-General Office on Mondays to Fridays, from 9.00 am to 5.00 pm.</p>
+General Office on Monday to Friday, from 9.00 am to 5.00 pm.</p>
 <p></p>
 <p>Please submit the following with the <a href="/files/Canteen_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>:
 <br>o&nbsp;&nbsp;&nbsp; List of proposed food items and their prices.
@@ -38,12 +37,12 @@ General Office on Mondays to Fridays, from 9.00 am to 5.00 pm.</p>
 <br>o&nbsp;&nbsp;&nbsp; Photocopy of certificates of relevant courses attended,
 such as Basic Food Hygiene Course and previous SFA licenses, etc.</p>
 <p>Closing date for submission of the application form and all the supporting
-documents is <strong>16 January 2026 (Friday)</strong>.</p>
+documents is <strong>22 April 2026 (Wednesday)</strong>.</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and food tasting test conducted by the School Canteen Committee.
 <br>
 <br>The successful applicant should preferably commence operation of the stall
-from 2<sup>nd</sup> February 2026.</p>
+from 4 May 2026.</p>
 <p>Should you have any queries, please contact Mdm Judy Ng (Administrative
 Executive) at email: <a rel="noopener noreferrer nofollow" target="_blank">judy_ng_bee_hwa@schools.gov.sg</a> or
 tel: 6784 4583.</p>
