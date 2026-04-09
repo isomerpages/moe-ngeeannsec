@@ -7,7 +7,7 @@ description: ""
 <p>Ngee Ann Secondary School is a government-aided school with more than
 1,000 students.
 <br>We have a vacant stall in the canteen to sell Muslim Cooked Rice &amp;
-Noodles from 4 May 2026.</p>
+Noodles from <strong>4 May 2026</strong>.</p>
 <p>The criteria for application are as follow</p>
 <p>The applicant
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must be a Singapore Citizen or
