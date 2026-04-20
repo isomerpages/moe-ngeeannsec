@@ -6,10 +6,10 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/logo_r1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_5_12_41_PM.jpg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1fevVvebPppgv0KzGbwuTJF3gP7fkvFnb3s3iJXQmxTs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1fevVvebPppgv0KzGbwuTJF3gP7fkvFnb3s3iJXQmxTs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
 <p><strong>VISION: What does the CCA want to achieve?&nbsp;</strong>
