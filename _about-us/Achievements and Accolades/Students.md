@@ -215,10 +215,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>Humanities</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2026 NUS Geography Challenge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Charisse Wong Yen Zhi (4 Integrity)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>2025 NUS Geography Challenge</strong>
 </p>
@@ -396,10 +412,66 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="26" colspan="1">
 <p><strong>Science</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Temasek Engineering Olympiad 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sae Lee Panachai (4 Respect)</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Athaalaa Altaf Hafidz (4 Respect)</p>
+</li>
+<li>
+<p>Neo Yi Xi (4 Responsibility)&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Yah Wei Shahn (4 Integrity)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wong Hao Yang&nbsp;(4 Integrity)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Temasek Polytechnic STEM-X Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advanced Level Certification</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yah Wei Shahn (4 Integrity)</p>
+</li>
+</ul>
+<p>Participation Level Certification</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Karen Aurelia Ho (4 Responsibility)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Temasek Engineering Olympiad 2025</strong>
 </p>
@@ -794,10 +866,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>CHAMPS</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>RVMUN</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Delegate Pair for OHCHR (Office of the United Nations High Commissioner
+for Human Rights)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ezra Chan Kye Ern (3 Resilience)</p>
+</li>
+<li>
+<p>Aidan Chan Kye Shen (3 Resilience)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Live On Festival 2023 (Essay (Junior) Competition)</strong>
 </p>
@@ -929,10 +1021,131 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>Enhanced Art Programme</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>VIART Award 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Best Sustainable Message Award – First Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Xaan Mariachi Tan Xuan (4 Care)</p>
+</li>
+<li>
+<p>Teo Shane Ning Nicole (4 Respect)</p>
+</li>
+<li>
+<p>Lim Hui Na (4 Care)</p>
+</li>
+<li>
+<p>Lezanne Koh Luck Suan (4 Integrity)</p>
+</li>
+</ul>
+<p></p>
+<p>The Best Sustainable Message Award – Second Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dilys Lai Wen Tong (4 Care)</p>
+</li>
+<li>
+<p>Lim Hwee Wun (Fion) (4 Integrity)</p>
+</li>
+<li>
+<p>·Tan Kai En Shannon (4 Integrity)</p>
+</li>
+<li>
+<p>Nyla Umaiza Binte Abdul Wahid (4Care)</p>
+</li>
+<li>
+<p>Ho En Yi (4 Care)</p>
+</li>
+</ul>
+<p></p>
+<p>The Most Artistic Award – First Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ruth Ho Lin (3 Respect)</p>
+</li>
+<li>
+<p>Ong Lay Kee Victoria (3 Respect)</p>
+</li>
+<li>
+<p>Kamelia Teoh Yi Ting (3 Integrity)</p>
+</li>
+<li>
+<p>Bella Salsabila (3 Care)</p>
+</li>
+<li>
+<p>Lai Zhi En (3 Respect)</p>
+</li>
+</ul>
+<p></p>
+<p>The Most Artistic Award – Second Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sophie Tan Suen En (3 Respect)</p>
+</li>
+<li>
+<p>Tay Shi Xuan Joyce (3 Courtesy)</p>
+</li>
+<li>
+<p>Andrea Tan Zhi Hui (3 Integrity)</p>
+</li>
+</ul>
+<p></p>
+<p>The Most Artistic Award – Third Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kimberly Teo Soo Ching (3 Responsibility)</p>
+</li>
+<li>
+<p>Clarisse Mar Hui Na (3 Respect)</p>
+</li>
+</ul>
+<p></p>
+<p>The Most Creative Award – Third Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Zi Ling (3 Respect)</p>
+</li>
+<li>
+<p>Lee Jiah Yeon (3 Resilience)</p>
+</li>
+<li>
+<p>Liao Shih-Yun (3 Respect)</p>
+</li>
+<li>
+<p>Rania Raudzah Binti Mohamed Rafie (3 Care)</p>
+</li>
+</ul>
+<p></p>
+<p>Third Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rauhah Almira Binte Rasul (3 Integrity)</p>
+</li>
+<li>
+<p>Ingrid Tan Zhuo Ling (3 Respect)</p>
+</li>
+<li>
+<p>Qua Li Lin Sharmaine (3 Care)</p>
+</li>
+<li>
+<p>Auny Aisyah Binte Mohamed Azmy (3 Care)</p>
+</li>
+<li>
+<p>Na’ima Ashiblie Binte Hassan (3 Commitment)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>VIART Award 2024</strong>
 </p>
@@ -1100,10 +1313,29 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="10" colspan="1">
 <p><strong>SPARKS</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>STEAMunity Programme 1.0 Finale (by SUTD)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Real-World Impact Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Shi Tong Kamie (4 Respect)</p>
+</li>
+<li>
+<p>William Teh Kai-Shen (4 Respect)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>STEAMunity Programme Stage 2 (by SUTD)</strong>
 </p>
@@ -1718,10 +1950,35 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>Robotics</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Roboroarz Singapore 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Matteo Tang Wei-Er (4 Care)</p>
+</li>
+<li>
+<p>Lee Yu Heng Xavier (4 Courtesy)</p>
+</li>
+<li>
+<p>Marcus Mok Jun Xi (4 Courtesy)</p>
+</li>
+<li>
+<p>Lucius Quick Rui Ern (4 Integrity)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>RCAP Cospace Rescue, U19, Superteam Challenge</strong>
 </p>
@@ -1958,10 +2215,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Choir</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines East Chinese New Year Celebration by Tampines East Community
+Centre at Singapore Expo</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore Youth Festival – Arts Presentation 2023</strong>
 </p>
@@ -2045,10 +2314,32 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="15" colspan="1">
 <p><strong>Badminton</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Badminton Championships 2026 (B Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preliminary Rounds</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Badminton Championships 2026 (B Division Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalist</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>East Zone Inter-School Badminton Championships 2022 (B Division Boys)</strong>
 </p>
@@ -2134,10 +2425,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="12" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Basketball Championships 2026 (B Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalist</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Junyuan Cup</strong>
 </p>
@@ -2291,10 +2593,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>Volleyball</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>East Zone Inter-School Volleyball Championships 2026 (B Division Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd </sup>Place</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>East Zone Inter-School Volleyball Championships 2025 (B Division)</strong>
 </p>
@@ -2985,10 +3298,37 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="16" colspan="1">
 <p><strong>Girl Guides</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>The Silver Badge 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Hui Na (4CA)</p>
+</li>
+<li>
+<p>Sharifah Ysabelle Binte Syed Argel (4 Commitment)</p>
+</li>
+<li>
+<p>Ng Shi Yan (4 Integrity)</p>
+</li>
+<li>
+<p>Leia Lee (4 Respect)</p>
+</li>
+<li>
+<p>Madison Tan Leng (4 Resilience)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>World Thinking Day 2024</strong>
 </p>
@@ -3077,12 +3417,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Unit Recognition Banding (For 2024)</strong>
+<p><strong>Unit Recognition Banding 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Recognition Banding 2024</strong>
 </p>
 </td>
 </tr>
@@ -3191,12 +3542,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>National Police Cadet Corps</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Unit Overall Proficiency Award (For 2024)</strong>
+<p><strong>SPF-NPCC Badge 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ang Yu-Cen Dylan (4 Commitment)</p>
+</li>
+<li>
+<p>Tara Javaeira Binte Mohammad Azri (4 Resilience)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award 2024</strong>
 </p>
 </td>
 </tr>
