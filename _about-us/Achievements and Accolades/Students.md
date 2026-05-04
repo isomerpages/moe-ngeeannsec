@@ -248,7 +248,6 @@ variant: tiptap
 <p>Pham Phuong Thuy (4 Resilience)</p>
 </li>
 </ul>
-<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -286,14 +285,12 @@ variant: tiptap
 <p>Tan Man Rui Meredith (4R4)</p>
 </li>
 </ul>
-<p></p>
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Natalie Chan Kye Lyn (4R4)</p>
 </li>
 </ul>
-<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -491,7 +488,6 @@ variant: tiptap
 <p>Sevilleja Gabrielle Lexia Dumaraos (4 Righteousness)</p>
 </li>
 </ul>
-<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -533,21 +529,18 @@ variant: tiptap
 <p>Esguerra Sean Nathan Albus (4R5)</p>
 </li>
 </ul>
-<p></p>
 <p>Silver&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nguyen Quang Dieu (4R4)</p>
 </li>
 </ul>
-<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fan Jia Jun Jayden (4R4)</p>
 </li>
 </ul>
-<p></p>
 <p>Commendation</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -570,7 +563,6 @@ variant: tiptap
 <p>Lansangan Keith Manuelle Martin (4R5)</p>
 </li>
 </ul>
-<p></p>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -583,7 +575,6 @@ variant: tiptap
 <p>Prithviraj Madhavan (4R5)</p>
 </li>
 </ul>
-<p></p>
 <p>Honorable Mention&nbsp;&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1047,7 +1038,6 @@ for Human Rights)</p>
 <p>Lezanne Koh Luck Suan (4 Integrity)</p>
 </li>
 </ul>
-<p></p>
 <p>The Best Sustainable Message Award – Second Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1066,7 +1056,6 @@ for Human Rights)</p>
 <p>Ho En Yi (4 Care)</p>
 </li>
 </ul>
-<p></p>
 <p>The Most Artistic Award – First Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1085,7 +1074,6 @@ for Human Rights)</p>
 <p>Lai Zhi En (3 Respect)</p>
 </li>
 </ul>
-<p></p>
 <p>The Most Artistic Award – Second Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1098,7 +1086,6 @@ for Human Rights)</p>
 <p>Andrea Tan Zhi Hui (3 Integrity)</p>
 </li>
 </ul>
-<p></p>
 <p>The Most Artistic Award – Third Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1108,7 +1095,6 @@ for Human Rights)</p>
 <p>Clarisse Mar Hui Na (3 Respect)</p>
 </li>
 </ul>
-<p></p>
 <p>The Most Creative Award – Third Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1168,7 +1154,6 @@ for Human Rights)</p>
 <p>Cailey Nur Aqilah Binte Mohammad Ridzuan From Class (4 Care)</p>
 </li>
 </ul>
-<p></p>
 <p>Parkroyal Collection Marina Bay The Most Artistic Award</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1228,7 +1213,6 @@ for Human Rights)</p>
 <p>Tang Si Cheng (3C1)</p>
 </li>
 </ul>
-<p></p>
 <p>The Most Creative, 3<sup>rd</sup> Prize</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1466,7 +1450,6 @@ for Human Rights)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Yu Yang (4 Respect)</p>
-<p></p>
 </li>
 </ul>
 <p>Bronze</p>
@@ -1829,7 +1812,7 @@ for Human Rights)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>U14 East Zone: 9<sup>th</sup> Place</p>
+<p>U14 East Zone: 9th Place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lucas Loo Jun He (2C2)</p>
@@ -2791,7 +2774,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Place</p>
+<p>1st Place</p>
 </td>
 </tr>
 <tr>
@@ -2802,7 +2785,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Place</p>
+<p>1st Place</p>
 </td>
 </tr>
 <tr>
@@ -2907,21 +2890,21 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International Broadsword: 6<sup>th</sup> place</p>
+<p>1st International Broadsword: 6th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choo Chen En Jacob (2C2)</p>
 </li>
 </ul>
 <p></p>
-<p>1st International Cudgel: 7<sup>th</sup> place</p>
+<p>1st International Cudgel: 7th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choo Chen En Jacob (2C2)</p>
 </li>
 </ul>
 <p></p>
-<p>1st International Nan Dao: 8<sup>th</sup> place</p>
+<p>1st International Nan Dao: 8th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tan Jing Xiang Lucas (2R1)</p>
@@ -2952,21 +2935,21 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International 42-style Taijiquan: 5<sup>th</sup> place</p>
+<p>1st International 42-style Taijiquan: 5th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ng Yu Han Celeste (2C2)</p>
 </li>
 </ul>
 <p></p>
-<p>Formulated 5-Duan Spear: 7<sup>th</sup> place</p>
+<p>Formulated 5-Duan Spear: 7th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yue En Xi Reanne (2R2)</p>
 </li>
 </ul>
 <p></p>
-<p>Formulated 5-Duan Sword: 8<sup>th</sup> place</p>
+<p>Formulated 5-Duan Sword: 8th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yue En Xi Reanne (2R2)</p>
@@ -3208,9 +3191,8 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5<sup>th</sup> team placing</p>
-<p></p>
-<p>5<sup>th</sup> individual placing</p>
+<p>5th team placing</p>
+<p>5th individual placing</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Jayden Chung Yuan An (4 Commitment)</p>
@@ -3226,7 +3208,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Boys: Red Belt Under 52kg: 3<sup>rd</sup> place</p>
+<p>B Boys: Red Belt Under 52kg: 3rd place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tun Tayzar Win (4C3)</p>
@@ -3242,7 +3224,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Boys: Poom Black 2: 5<sup>th</sup> place</p>
+<p>C Boys: Poom Black 2: 5th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Koo Jia Jun Cayden (2C2)</p>
@@ -3530,7 +3512,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Video Making: 2<sup>nd</sup> Place</p>
+<p>Video Making: 2nd Place</p>
 </td>
 </tr>
 <tr>
@@ -3644,7 +3626,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup> Place</p>
+<p>4th Place</p>
 </td>
 </tr>
 <tr>
@@ -3655,7 +3637,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Place</p>
+<p>1st Place</p>
 </td>
 </tr>
 <tr>
