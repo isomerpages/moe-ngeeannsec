@@ -1057,7 +1057,7 @@ for Human Rights)</p>
 <p>Lim Hwee Wun (Fion) (4 Integrity)</p>
 </li>
 <li>
-<p>·Tan Kai En Shannon (4 Integrity)</p>
+<p>Tan Kai En Shannon (4 Integrity)</p>
 </li>
 <li>
 <p>Nyla Umaiza Binte Abdul Wahid (4Care)</p>
@@ -1451,10 +1451,186 @@ for Human Rights)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
-<p><strong>Technopreneur</strong>
+<td rowspan="14" colspan="1">
+<p><strong>Computing</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>National Olympiad in Informatics 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yu Yang (4 Respect)</p>
+<p></p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Athaalaa Altaf Hafidz (4 Respect)</p>
+</li>
+<li>
+<p>Jain Arnav (4 Respect)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Olympiad in Artificial Intelligence NOAI 2026 Final Assessment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Athaalaa Altaf Hafidz (4 Respect)</p>
+</li>
+</ul>
+<p></p>
+<p>Top 150 Participation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Naomi Lakeisha Gale (4 Respect)</p>
+</li>
+<li>
+<p>Karen Aurelia Ho (4 Responsibility)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VJC X TP Data Science Hackathon 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second Prize</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Naomi Lakeisha Gale (4 Respect)</p>
+</li>
+<li>
+<p>Maasma Akhter (4 Respect)</p>
+</li>
+<li>
+<p>Crystal Angelina Su (4 Respect)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bebras</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Caleb Chia (3 Respect)</p>
+</li>
+<li>
+<p>Arianne Lim Xin Ying (3 Respect)</p>
+</li>
+<li>
+<p>Crystal Angelina Su (4 Respect)</p>
+</li>
+<li>
+<p>Luth Mikhail Mohamad Shahril (4 Integrity)</p>
+</li>
+<li>
+<p>Schuyler Loh Yixuan (4 Care)</p>
+</li>
+</ul>
+<p></p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Timofey Satikov (3 Care)</p>
+</li>
+<li>
+<p>Teo Mou Yi Noel (3 Respect)</p>
+</li>
+<li>
+<p>Oliver Goana (3 Respect)</p>
+</li>
+<li>
+<p>Om Mahto (3 Respect)</p>
+</li>
+<li>
+<p>Athaalaa Altaf Hafidz (4 Respect)</p>
+</li>
+<li>
+<p>Faun Zheng Xuan (4 Respect)</p>
+</li>
+<li>
+<p>Kyaw Zin Thant (4 Respect)</p>
+</li>
+<li>
+<p>Sae Lee Panachai (4 Respect)</p>
+</li>
+<li>
+<p>Vanit Anunchai Vivid (4 Respect)</p>
+</li>
+<li>
+<p>Wilson Tedja Herryanto (4 Respect)</p>
+</li>
+<li>
+<p>Yeo Zhen Ze Jaron (4 Respect)</p>
+</li>
+</ul>
+<p></p>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jaysen Lee Chen Xu (3 Respect)</p>
+</li>
+<li>
+<p>Kyo Tran (3 Respect)</p>
+</li>
+<li>
+<p>Lee Choon Wei Alson (3 Respect)</p>
+</li>
+<li>
+<p>Ryan Teo Cong Han (3 Respect)</p>
+</li>
+<li>
+<p>Tan Yi Juin (3 Respect)</p>
+</li>
+<li>
+<p>Ye Hpone Khant (3 Respect)</p>
+</li>
+<li>
+<p>Chin Xuan Qi Jizelle (3 Respect)</p>
+</li>
+<li>
+<p>Isaac Ching Yu Hang (4 Respect)</p>
+</li>
+<li>
+<p>Khoo Xuan Chun Andres (4 Respect)</p>
+</li>
+<li>
+<p>William Teh Kaishen (4 Respect)</p>
+</li>
+<li>
+<p>Maramreddy Akshar Reddy (3 Respect)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>National Olympiad in Informatics 2024</strong>
 </p>
@@ -3021,10 +3197,28 @@ Centre at Singapore Expo</p>
 </td>
 </tr>
 <tr>
-<td rowspan="26" colspan="1">
+<td rowspan="28" colspan="1">
 <p><strong>Others</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Inter-Schools Bouldering Championships by Xinmin Secondary School (B Division Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> team placing</p>
+<p></p>
+<p>5<sup>th</sup> individual placing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jayden Chung Yuan An (4 Commitment)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>National Inter-School Taekwondo Kyorugi Championships 2024</strong>
 </p>
