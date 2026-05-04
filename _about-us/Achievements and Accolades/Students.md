@@ -774,7 +774,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Poh Yan Rui (4R5)</p>
+</li>
+</ul>
 <p>Bronze</p>
 <ul data-tight="true" class="tight">
 <li>
