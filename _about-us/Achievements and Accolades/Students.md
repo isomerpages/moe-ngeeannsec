@@ -1202,7 +1202,7 @@ for Human Rights)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Best Sustainable Message, 3<sup>rd</sup> Prize</p>
+<p>Best Sustainable Message, 3rd Prize</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Michael Carlos Tan Xuan Ngee (3C1)</p>
@@ -1217,7 +1217,7 @@ for Human Rights)</p>
 <p>Tang Si Cheng (3C1)</p>
 </li>
 </ul>
-<p>The Most Creative, 3<sup>rd</sup> Prize</p>
+<p>The Most Creative, 3rd Prize</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kylie Tan Si Qi (3R2)</p>
