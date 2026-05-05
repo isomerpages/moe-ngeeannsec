@@ -475,10 +475,10 @@ audition date.</p>
 <p>Successful applicants from the Round One selection process will be notified
 to attend an interview session.</p>
 <p>Dates:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-From July till entire of August (exact date to be confirmed)</p>
-<p>Venue: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ngee Ann
-Secondary School</p>
-<p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+From July till entire of August (exact date to be confirmed)
+<br>Venue: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ngee Ann
+Secondary School
+<br>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 From 3 pm onwards</p>
 <h2><strong>Enquiries</strong></h2>
 <p>For more information about our programmes and CCAs, please visit our school
