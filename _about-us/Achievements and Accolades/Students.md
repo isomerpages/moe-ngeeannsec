@@ -1054,7 +1054,7 @@ for Human Rights)</p>
 <p>Tan Kai En Shannon (4 Integrity)</p>
 </li>
 <li>
-<p>Nyla Umaiza Binte Abdul Wahid (4Care)</p>
+<p>Nyla Umaiza Binte Abdul Wahid (4 Care)</p>
 </li>
 <li>
 <p>Ho En Yi (4 Care)</p>
@@ -2924,7 +2924,7 @@ Centre at Singapore Expo</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1st International 42-style Taijiquan: 6<sup>th</sup> place</p>
+<p>1st International 42-style Taijiquan: 6th place</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Heidi Lim Rui Han (3C2)</p>
