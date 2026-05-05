@@ -21,7 +21,7 @@ sections:
           description: Click here for more info!
           url: /release-of-2025-gce-o-level-examination-results/
       variant: center
-      button: Secondary 1 Posting for 2026
+      button: Direct School Admissions Exercise 2026
       url: links-for-parents/sec-1-posting-for-2026/sec-1-registration-exercise-2026-intake/
       backgroundColor: gray
   - infobar:
