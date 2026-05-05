@@ -2149,7 +2149,7 @@ for Human Rights)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> Place And Best Team Description Paper</p>
+<p>1st Place And Best Team Description Paper</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>William Teh Kai-Shen (2C1)</p>
