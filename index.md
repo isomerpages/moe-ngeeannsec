@@ -22,7 +22,7 @@ sections:
           url: /release-of-2025-gce-o-level-examination-results/
       variant: center
       button: Direct School Admissions Exercise 2026
-      url: links-for-parents/sec-1-posting-for-2026/sec-1-registration-exercise-2026-intake/
+      url: /direct-school-admission-dsa-exercise-2026/
       backgroundColor: gray
   - infobar:
       title: Instructions for Parents Gateway
