@@ -152,7 +152,7 @@ variant: tiptap
 </li>
 </ul>
 <h5>Self-Help Resources:</h5>
-<p>NASS DMA Guide: <a href="https://go.gov.sg/nass-dmaguide" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nass-dmaguide</a>
+<p>NASS DMA Guide: <a href="https://go.gov.sg/nass-dma-jamf-guide" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nass-dma-jamf-guide</a>
 <br>NASS iPad troubleshooting Guide: <a href="https://go.gov.sg/nass-troubleshoot-guide" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nass-troubleshoot-guide</a>
 </p>
 <h3><strong>How to get help (SOP)</strong></h3>
