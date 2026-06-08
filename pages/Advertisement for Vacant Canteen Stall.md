@@ -37,7 +37,7 @@ General Office on Monday to Friday, from 9.00 am to 5.00 pm.</p>
 <br>o&nbsp;&nbsp;&nbsp; Photocopy of certificates of relevant courses attended,
 such as Basic Food Hygiene Course and previous SFA licenses, etc.</p>
 <p>Closing date for submission of the application form and all the supporting
-documents is <strong>8 June 2026 (Monday)</strong>.</p>
+documents is <strong>15 June 2026 (Monday)</strong>.</p>
 <p>Please note that only shortlisted applicants will be invited for an interview
 and food tasting test conducted by the School Canteen Committee.
 <br>
