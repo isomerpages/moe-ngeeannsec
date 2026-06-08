@@ -12,7 +12,7 @@ sections:
       subtitle: A School of Possibilities, A Home to Grow In
       key_highlights:
         - title: Vacant Muslim Stall
-          description: Closing date 8 June 2026
+          description: Closing date 15 June 2026
           url: /vacant-canteen-stall/
         - title: School Graduation Certificate Collection
           description: For 4 Courtesy class of 2025
