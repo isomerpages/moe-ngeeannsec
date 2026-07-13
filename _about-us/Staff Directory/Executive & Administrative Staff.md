@@ -62,14 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Patricia Cruz Ngan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ahmad Hussein Bin Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +73,7 @@ variant: tiptap
 <p>Mr Zainal Bin Buang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -232,6 +224,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Chang Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer (NCS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Uthayan Thirunaukkarasu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS)</p>
