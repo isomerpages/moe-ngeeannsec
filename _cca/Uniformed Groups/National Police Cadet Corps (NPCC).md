@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15Wc3ymfwE1P7bwDbIPct0xWjLeSjF5GV_5xgfMKkBfw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15Wc3ymfwE1P7bwDbIPct0xWjLeSjF5GV_5xgfMKkBfw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About Us</h3>
 <p><strong>VISION</strong>: <strong>What does the CCA want to achieve?</strong>
@@ -196,4 +196,5 @@ Celebrations at Changkat Changi Community Club on 04 Aug 2024</p>
 <p>Mr. Mr Koh Meng Hong (CCA Teacher-in-charge)
 <br>Mr. Tan Rou Ming
 <br>Mdm. Suhaila Ahmat Samsi
-<br>Mr Marcus Low Xue Kai</p>
+<br>Mr Marcus Low Xue Kai
+<br>Mr Ahmad Naeem Bin Mohamed Taufek</p>
