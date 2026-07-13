@@ -165,7 +165,7 @@ variant: tiptap
 <p>Mr Lim Zhan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head /EL &amp; ELit</p>
+<p>Subject Head / EL &amp; ELit</p>
 </td>
 </tr>
 <tr>
