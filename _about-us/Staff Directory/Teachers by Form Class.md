@@ -77,16 +77,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khaizar Khuzema Shakir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Law Jue Yu</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +210,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Courtesy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,6 +220,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sayuri Limarsono</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Law Jue Yu</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -353,6 +353,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Sok Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Naeem Bin Mohamed Taufek</p>
 </td>
 </tr>
 <tr>
