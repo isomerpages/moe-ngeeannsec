@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mr Dominic Chia Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Assistant Year Head
+<p>Assistant Year Head - Sec 2
 <br>Teacher / D&amp;T</p>
 </td>
 </tr>
