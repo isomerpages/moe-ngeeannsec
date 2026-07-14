@@ -59,7 +59,7 @@ variant: tiptap
 <p>Mr Dominic Chia Kim Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Assistant Year Head
+<p>Assistant Year Head - Sec 2
 <br>Teacher / D&amp;T</p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Mr Phua Yong Bin Eddie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / D&amp;T</p>
+<p>Teacher / D&amp;T &amp; Computing</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ variant: tiptap
 <p>Mr Lim Zhan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head – EL &amp; ELit</p>
+<p>Subject Head / EL &amp; ELit</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>Mdm Nashita Binte Allaudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / EL</p>
+<p>Teacher / EL &amp; ELit</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ variant: tiptap
 <p>Ms Nashrah Binte Alwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / EL</p>
+<p>Teacher / EL &amp; ELit</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Ms Toh Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / ELit</p>
+<p>Teacher / EL &amp; ELit</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ variant: tiptap
 <p>Ms Yeo Meow Ling Doreen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / EL</p>
+<p>Teacher / EL &amp; EBS</p>
 </td>
 </tr>
 <tr>
@@ -272,6 +272,14 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Zhi Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Humanities</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -527,6 +535,14 @@ variant: tiptap
 <p>Teacher / Math (FAJT)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Naeem Bin Mohamed Taufek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Untrained Teacher / POA &amp; EBS</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>MOTHER TONGUE LANGUAGES</h3>
@@ -639,7 +655,7 @@ variant: tiptap
 <p>Mdm Teo Ah Tiok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / CL (CAJT)</p>
+<p>Teacher / CL (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -647,7 +663,7 @@ variant: tiptap
 <p>Ms Julinda Binte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher / CL (CAJT)</p>
+<p>Teacher / ML (CAJT)</p>
 </td>
 </tr>
 <tr>
@@ -884,7 +900,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Kwai Wah</p>
+<p>Ms Gan Bee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher / Science (FAJT)</p>
@@ -913,14 +929,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Emelia Binte Mohd Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -957,7 +965,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Yee Teng</p>
+<p>Ms Chew Mei-Lin Stacy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
