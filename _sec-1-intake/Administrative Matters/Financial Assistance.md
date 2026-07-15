@@ -9,7 +9,7 @@ variant: tiptap
 <p>The MOE Financial Assistance Scheme (FAS) is available to support Singapore
 Citizen students who require financial assistance to meet their schooling
 expenses. For details on eligibility criteria and the benefits provided
-under the scheme, please <a href="https://share.google/RReqz3yOc55meOO7A" rel="noopener nofollow" target="_blank">click here</a> .</p>
+under the scheme, please <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">click here</a> .</p>
 <p>Parents/guardians who wish to apply for MOE FAS may do so by completing
 the <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">online application form</a>.</p>
 <p>For further enquiries or assistance, please email the school at <a rel="noopener noreferrer nofollow" target="_blank">sec1_reg@nass.moe.edu.sg</a> or contact
