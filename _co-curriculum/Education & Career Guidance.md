@@ -60,8 +60,7 @@ counselling or coaching sessions and workshops.</p>
 <p>Students who would like to explore their subject choices, ask about post-secondary
 education options, or find out more about their career interests, strengths
 and passions can make an appointment to meet our ECG Counsellor. &nbsp;</p>
-<p>An appointment can be made with the ECG Counsellor&nbsp;<a href="https://go.gov.sg/nassecgappt" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-email her at <a rel="noopener noreferrer nofollow" target="_blank">chia_yee_teng@moe.edu.sg</a>
+<p>An appointment can be made with the ECG Counsellor via email at <a rel="noopener noreferrer nofollow" target="_blank">chia_yee_teng@moe.edu.sg</a>
 </p>
 <p>Please note that the ECG Counsellor is at NASS <strong>every Monday and Thursdays</strong> from
 8 am to 5 pm.</p>
